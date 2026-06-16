@@ -17,7 +17,7 @@ Catalog angle ghép vào [[ugly-ads-method]]. Nguồn: [[kittysupps-angles-inven
 **Winning trio build trước** (mirror Anna/Dr.Sienna/Rescue của KittySupps): Row 1 (Peer confession) + Row 3 (Groomer demo) + Row 2-or-5 (Cause, dùng mission shelter thật).
 
 ## Senior-dog mobility (flagship đề xuất)
-Hậu thuẫn bởi payoff mạnh nhất [[voc-insights]] cluster 6. Insight: chủ tưởng chó "chỉ già", thật ra móng quặp → đổi dáng đứng → đau hông/khớp → ngừng vận động. Cắt móng → hết đau → zoomies.
+Hậu thuẫn bởi payoff mạnh nhất [[maxpro-voc-insights]] cluster 6. Insight: chủ tưởng chó "chỉ già", thật ra móng quặp → đổi dáng đứng → đau hông/khớp → ngừng vận động. Cắt móng → hết đau → zoomies.
 - Hook khớp: symptom-reframe ([[hooks]] #6).
 - Transformation: tuần 1 chưa gì → vài ngày đi khác → zoomies.
 - Tránh landmine X-ray ([[villains]]).
@@ -25,3 +25,10 @@ Hậu thuẫn bởi payoff mạnh nhất [[voc-insights]] cluster 6. Insight: ch
 
 ## KittySupps angle catalog (14, tham khảo cross-product)
 False close · Confession · False-premise reversal · Authority demonstration · Overheard secret · Symptom reframe · Evolutionary-nature · Insider rant · Diagnostic engagement · Pattern-interrupt · Behavior reframe · Fake-research lead · Wrong-product reversal · Anti-vet cost.
+
+## Symptom-doorway = động cơ scale thật (corpus 1,119 ad)
+Phát hiện lớn từ [[kittysupps-adlib-census-2026-06]]: 240 creative distinct nhưng **chỉ 1 mechanism**. "Angle" thật của họ không phải 14 hook-type trên — mà là **nhân bản triệu chứng-cửa-ngõ**, tất cả reframe về cùng taurine→bile: nôn · vón cát/thận · mụn cằm · liếm/ngứa da · ho/tim · ghèn mắt · lông xấu · IBD · FIP · "water fountain" false-solution. Mỗi triệu chứng = 1 batch ad mới cùng bộ xương, KHÔNG loãng offer (100% → 1 SKU).
+→ **Cho grinder:** chọn 1 mechanism gốc ("quick creep") đủ sâu, rồi mở cửa ngõ: click-sàn · "tưởng già" · đi xoạng · sàn xước · sợ chảy máu · đau hông. Engine đầy đủ + bảng map: [[kittysupps-machine]].
+
+## Native angle test (3 tiêu chí, 1 angle/campaign)
+Từ [[native-ads]]: angle phải **specific** đủ để thấy mới · **broad** đủ cho mass audience · **defensible** đủ để product giao được. 1 angle/campaign — đừng cố thắng bằng 3. Khớp guardrail defensible của [[compliance]] + symptom-doorway ở trên (mỗi cửa ngõ = 1 angle test được).

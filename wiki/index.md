@@ -1,26 +1,46 @@
 # Wiki Index
 
-Bản đồ mọi trang tổng hợp. Claude cập nhật mỗi `/ingest`.
+Bản đồ vault. **2 trục:** `method/` = cách làm (reusable, mọi sản phẩm) · `products/` = sự thật từng sản phẩm (cross-domain). Claude cập nhật mỗi `/ingest`.
 
-## marketing
+---
 
-### Method & cấu trúc
-- [[ugly-ads-method]] — playbook long-form native, skeleton 15 beat, voice register, beat-length
-- [[personas]] — persona-network, 4 archetype (Peer/Expert/Editorial/Cause), matching rule, authority-character
-- [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + test rule
-- [[villains]] — framework 3 lớp + 5 villain grinder + 2 landmine
-- [[offer-and-cta]] — deny-the-sale, inoculation lock, footer captions, risk reversal, price anchor
-- [[funnel-and-landing]] — ad bán/PDP chốt, proof-evaporation leak, bridge-page fix
-- [[creative-brief]] — native/ugly image brief, 7 format, seed prompt
-- [[compliance]] — defensible vs fabricated, FTC line, 2 landmine
+## 🧠 method/ — cách làm (source of truth)
 
-### Sản phẩm & insight
-- [[product-truth-maxpro]] — spec / offer / proof / mission / moat
-- [[voc-insights]] — 15 VOC cluster theo avatar, payoff, techniques
-- [[angles]] — matrix angle x avatar x persona, winners, spend logic, flagship senior-mobility
+Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / sourcing mở sau.
 
-## finance
-_(mở sau)_
+### Strategies (playbook đầy đủ)
+- [[ugly-ads-method]] — playbook long-form native, skeleton 15 beat, voice register
+- [[kittysupps-machine]] — case study $500k/mo: engine symptom-doorway → 1 mechanism, map sang sản phẩm
+- [[native-ads]] — true-native open web (Taboola): math CTR-first, funnel 3 mảnh, advertorial 6-piece editorial, readiness gate $50-100k/mo
+- [[quiz-funnels]] — interactive pre-sell: congruency #1, drop-off diagnosis, 4 nguyên lý tâm lý, Web2App email capture
+- [[funnel-and-landing]] — 5-stage funnel (creative→advertorial→presell→checkout→upsell) + pre-sell layer, proof-evaporation
 
-## fulfillment
-_(mở sau)_
+### Building blocks (lắp vào mọi strategy)
+- [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + swipe vet-whistleblower
+- [[angles]] — matrix angle x avatar x persona, winning trio, flagship senior-mobility, native angle test
+- [[personas]] — persona-network, 4 archetype, matching rule, authority-character
+- [[villains]] — framework 3 lớp + 5 villain + 2 landmine
+- [[offer-and-cta]] — offer = perceived value (4 levers), tiered bundle, deny-the-sale, upsell = vũ khí CPA
+- [[market-awareness]] — Schwartz awareness + sophistication ladder (⚠️ nail = stage 2-3?), UMP/UMS, pre-sell theo awareness
+- [[creative-brief]] — native/ugly image brief, 7 format
+
+### Channels & guardrails
+- [[media-buying]] — Meta 2026: broad, 1 ad set, flood AI ads, decision matrix ngày 1
+- [[compliance]] — defensible vs fabricated, 2 landmine, guarantee trap
+
+---
+
+## 🔋 products/ — sự thật từng sản phẩm
+
+### maxpro — nail grinder (sản phẩm #1)
+- [[maxpro-product-truth]] — spec / offer / proof / ⚠️ giới hạn power
+- [[maxpro-avatars]] — 5 avatar (lead 1+2, qualify out 5)
+- [[maxpro-competitors]] — Heusom (cùng OEM, wedge), Casfuy, LuckyTail, Naigrins
+- [[maxpro-voc-insights]] — 15 VOC cluster theo avatar
+
+_Sản phẩm mới: tạo `products/<slug>/`, prefix mỗi trang bằng `<slug>-`._
+
+---
+
+## Domain mở sau (kepano: tạo khi có note)
+- **finance/** · **fulfillment/** · **sourcing/** — chưa mở.

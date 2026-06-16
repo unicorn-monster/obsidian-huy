@@ -4,7 +4,7 @@ Beat villain của [[ugly-ads-method]]. Nguồn: [[maxpro-operating-system]], [[
 
 ## Framework 3 lớp (transferable, mọi sản phẩm)
 1. **Big X** (ngành lớn) — làm "mức tối thiểu luật yêu cầu", quy trình huỷ hoại chất lượng. KS: Big Pet Food (high-heat "destroys 50% taurine", grain-free block absorption).
-2. **Chuyên gia im lặng / trục lợi** — vet/groomer kiếm tiền từ vấn đề kéo dài. KS: "sick cats are more profitable than healthy ones." Trả lời được "sao bác sĩ không nói tôi".
+2. **Chuyên gia im lặng / trục lợi** — vet/groomer kiếm tiền từ vấn đề kéo dài. KS: "sick cats are more profitable than healthy ones." Trả lời được "sao bác sĩ không nói tôi". Swipe mạnh: vet bỏ nghề *"now I have permission to tell you what I couldn't say while they were paying me"* ([[ecomtable-dental-hooks-swipe]] → template ở [[hooks]]).
 3. **Hàng rẻ / fake** mà reader sắp mua — vừa villain vừa **inoculation** (lock click về nguồn). KS: Amazon "counterfeit", Chewy "28% bioavailability".
 
 Tác dụng: externalize blame -> "bạn không ngu, bạn bị lừa".
@@ -18,4 +18,4 @@ Tác dụng: externalize blame -> "bạn không ngu, bạn bị lừa".
 
 ## 2 landmine HARD-AVOID
 1. **"Microfracture / X-ray bone damage"** -> vet debunk là bịa. Ở lại keratin-splinter / pinched-quick / pressure-pain (defensible).
-2. **Over-promise power chó lớn = #1 refund + 1-star driver.** Chỉ match claim MaxPro, ghép kỹ thuật grind-and-release ([[voc-insights]]). Chi tiết compliance: [[compliance]].
+2. **Over-promise power chó lớn = #1 refund + 1-star driver.** Chỉ match claim MaxPro, ghép kỹ thuật grind-and-release ([[maxpro-voc-insights]]). Chi tiết compliance: [[compliance]].

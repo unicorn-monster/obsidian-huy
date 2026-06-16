@@ -17,12 +17,15 @@ Next milestone:
 ## Vault hoạt động sao
 - `inbox/` = capture thô, chưa xử lý. Rỗng sau /ingest.
 - `sources/` = raw BẤT BIẾN (đọc, không sửa nội dung). property: `type` (domain hoãn tới khi mở mảng 2).
-- `wiki/` = BẠN (Claude) sở hữu + bảo trì. `index.md` là bản đồ.
+- `wiki/` = BẠN (Claude) sở hữu + bảo trì. `index.md` là bản đồ. **2 trục:**
+  - `wiki/method/<domain>/` = cách làm, **SOURCE OF TRUTH**, dùng cho mọi sản phẩm (rút từ post X chuyên gia). Domain đang mở: `marketing`.
+  - `wiki/products/<slug>/` = sự thật từng sản phẩm (cross-domain), mỗi trang prefix `<slug>-`. Sản phẩm #1: `maxpro` (nail grinder).
+  - **Routing khi /ingest:** cách-làm-lại-được → `method/`; fact 1 sản phẩm cụ thể → `products/<slug>/`. Sản phẩm mới = tạo folder + prefix page bằng slug. Domain mới (finance…) = `method/<domain>/`.
 - `briefs/` = output của bạn (brief + synthesis), có ngày. KHÔNG ingest.
 - `projects/` = việc đang chạy, mỗi campaign/client 1 folder.
 
 ## Quy ước (chốt 1 lần)
-- `domain`: HOÃN — chỉ 1 mảng (marketing) nên không tag. Thêm khi mở finance/fulfillment.
+- `domain`: encode bằng FOLDER (`method/<domain>/`), KHÔNG tag frontmatter. Đang mở: marketing.
 - `type`: clip (article/thread/sale page) | swipe (ad/hook đối thủ) | learning (kết quả test của tôi) | idea (suy nghĩ của tôi)
 - `/ingest` : inbox -> sources + cập nhật wiki + index
 - `/brief`  : đọc wiki -> 3 mục sáng, lưu briefs/
