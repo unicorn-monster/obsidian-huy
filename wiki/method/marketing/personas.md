@@ -26,3 +26,6 @@ Persona names = identity advertiser kiểm soát, không phải người thật.
 
 ## Corpus 06/2026 (1,119 ad) xác nhận tỉ lệ
 [[kittysupps-adlib-census-2026-06]]: **Peer 581 ad** (Anna Rodriguez workhorse 335) · **Expert/Vet 244** (bùng nổ; title "Veterinarian Speaks The Truth" 170 ad) · **Institution 207** · **Cause 87**. Persona mới so 13/06: Vet Talks, Vet Advice, Susan Davis, The Cattery Network, nhiều clinic. Cùng script chạy verbatim đa persona + re-upload đa ID. Engine: [[kittysupps-machine]].
+
+## Resilia: persona-network ở quy mô công nghiệp
+[[fotw-resilia-12-pages-advertorial]]: **12 page** = doctor (Dr. Anna Reyes 634 ad) · nutritionist (Allison Langford PhD 495) · brand (Nutravive, TryResilia) — *"same desire, entered through different doors"* (Schwartz). 3 payoff: (1) **risk-split** (health claim bị restrict liên tục; mất 1 page, 11 page chạy tiếp), (2) **creative flexibility** (doctor=authority, nutritionist=personal protocol), (3) **anti-saturation** (5,900 ad / 12 page → mỗi audience thấy ít ad/source). Đa số brand chạy 50-500 ad TỔNG; Resilia 2 bậc cao hơn nhờ persona infra.

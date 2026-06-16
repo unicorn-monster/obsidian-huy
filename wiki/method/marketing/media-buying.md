@@ -29,5 +29,9 @@ Conversion trong **24h đầu** HOẶC **8.5%+ ATC** = winner. Tác giả chưa 
 ## Nối với creative
 "Double down angle thắng → up 20+ ads cùng angle" = nơi [[angles]] + [[hooks]] + [[creative-brief]] feed vào. Static ad volume để **test hook/angle rẻ + nhanh**; angle thắng rồi build long-form native ([[ugly-ads-method]]) + bridge page ([[funnel-and-landing]]) để scale. Disguise (persona/page) → [[personas]].
 
+## Spy + persona-gap (chọn cái để clone) — [[alexgoughcooper-static-ads-8-rules]]
+- **Meta ad library SORT BY IMPRESSIONS** = proxy mạnh cho ad đang ăn spend của đối thủ (mạnh hơn nhiều "longest running"). Top 6 impression ≈ top 10 account. Clone từ cái THẮNG, ko phải cái cũ.
+- **Persona-gap:** soi review+comment+survey tìm persona bị bỏ quên (có demand, ít/0 ad target) → static đơn giản cho họ thường crush (1 case: 3/5 top ad). Volume AI bổ trợ, ko thay strategy. → [[personas]], [[maxpro-avatars]].
+
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].

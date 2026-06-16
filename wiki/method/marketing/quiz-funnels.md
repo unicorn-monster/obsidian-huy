@@ -29,6 +29,11 @@ Thesis bổ sung cho [[media-buying]] ("creative is the new targeting"): khi ai 
 > [!note] Sequencing nuance vs guilt-lead
 > #2 mở bằng *desire/hope* để hạ friction lúc chưa đầu tư; còn [[hooks]] / [[ugly-ads-method]] mở bằng *guilt/confession*. Không mâu thuẫn: quiz cần stick-rate ở câu 1 nên mở nhẹ, rồi #3 intensify problem sau. Long-form ad đã có người đọc tự chọn (length=qualifier) nên twist-knife được ngay.
 
+## Solution-aware = quiz NGẮN + 2 trick AOV (Javvy)
+[[dtcquizbuilder-javvy-quiz-solution-aware]]: audience solution-aware → quiz ngắn (**9-step**, ko cần educate nhiều). Step 1-5 micro-commitment low-threat → step 6 full-screen agitation (*"what's REALLY in your coffee?"*) → step 7-9 close. 2 trick:
+- **Shameful-no:** đáp án "No" = identity nhục ai cũng né (*"No, I love overpaying for coffee"*) → forcing function, fence-sitter convert vì inaction tệ hơn action.
+- **Self-prescribed quantity anchoring:** hỏi "mấy ly/ngày? mấy scoop?" TRƯỚC khi show offer → bundle price trên result page = *"khách tự kê đơn"*, không phải pitch. Để quiz tự upsell.
+
 ## Drop-off diagnosis — tối ưu completion
 Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tới khi về bình thường. Case: Q4 "What solutions tried?" options quá dài + nhiều → rút còn **4 options + "None of the above"** → drop 22% → 9%, completion 19% → 25%.
 
@@ -42,6 +47,9 @@ Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / s
 
 ## Web2App — dùng quiz thay pop-up để bắt email
 [[dtcquizbuilder-web2app-email-capture]]: tắt pop-up → CVR **+51%**. Pop-up chồng discount lên discount, spike CPA Meta, che PDP đúng lúc họ định mua. Thay bằng: export email KÈM mọi biến quiz (`{{age}}` `{{main_problem}}` `{{desire}}` `{{failed_solutions}}`) về Klaviyo → flow/campaign hyper-targeted. **Trick 0 drop-off (Pawchamp):** đóng khung email như "bên thứ 3 để NHẬN quà" (free K9 program) chứ không phải "bạn cho tôi data" → ask nhẹ, vẫn chốt sale front-end. Ví dụ thị trường: MadMuscles, Pawchamp, Liven.
+
+## Build nhanh (tool)
+Shopify: **Octane AI** (native, sync answer → Klaviyo), RevenueHunt, hoặc Typeform/custom Liquid+JS. **Progress bar +20-30% completion.** Image-based answer > text-only. Quiz = 1 trong 4 format presell → so sánh & benchmark ở [[presell-pages]].
 
 ## Cho MaxPro? (đánh giá thật)
 Quiz mạnh nhất cho supplement/health (diagnostic triệu chứng). Grinder = tool vật lý → quiz yếu hơn nhưng làm được: *"Tình trạng móng chó bạn?"* → breed/size (cơ hội **qualify out large-breed sớm**, [[maxpro-product-truth]]) → đã thử clipper/groomer? → sợ gì nhất → data feed retarget + email. **Nhưng:** listicle pre-sell ([[funnel-and-landing]]) khả thi & rẻ hơn nhiều cho v0 — cân nhắc cái đó TRƯỚC quiz.

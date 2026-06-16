@@ -18,3 +18,10 @@ Heusom: "60-day no-questions" nhưng khách trả phí ship return quốc tế (
 
 ## Bài học né (từ KittySupps + Heusom)
 Ad claim disease cứng + page mềm -> FTC/Meta xét ad+page cùng nhau. Gọi listing đối thủ "counterfeit" với số bịa = defamation. Social proof mâu thuẫn chéo trang = substantiation target. Giữ brand page + PDP sạch; creative hung hãn chỉ từ persona ([[personas]]).
+
+## Presell / LP policy (disapproval nền tảng) — [[vysta-presell-build-guide]]
+Khác mảng FTC/evidence trên; đây là policy ad-platform cho presell ([[presell-pages]]):
+- **Bắt buộc:** advertorial disclosure mọi presell · giá khớp PDP 1:1 · "results may vary" · shipping timeline thật · link return/refund sống.
+- **Cấm (disapproval/ban):** fake news logo / publication không sở hữu · before/after health-weight (Google) · "cures/treats/heals" · fake scarcity ("only 3 left") · mạo danh journalist/bác sĩ/celeb · countdown giả reset · copy mô tả/ảnh AliExpress/đối thủ.
+- ⚠️ **Ảnh AI (ChatGPT/DALL-E/Sora) đang bị Google flag.** Context = **Google** (Demand Gen/native); **Meta vẫn flood AI static OK** ([[media-buying]]) — đừng hoảng với chiến lược AI image bên FB ([[creative-brief]]).
+- ⚠️ **Sweepstakes / spin-to-win** ([[maxwellcopy-sweepstakes-offer-legal]]): "prints" nhưng hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng hoặc né. → [[offer-and-cta]].

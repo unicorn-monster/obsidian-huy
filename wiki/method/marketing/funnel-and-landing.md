@@ -21,6 +21,8 @@ Nguồn: [[advertising-jan-5-stage-funnel]]. Khung gộp toàn bộ buying-side:
 ## Carry gì (message match)
 Headline page khớp frame ad (KS: "Stop the Silent Deficiency Before You See the Signs" ↔ "silent, too late"). Mechanism + villain-lite giữ ở FAQ.
 
+Chad Janis ($1.2B exit, [[kasperdolk-pdp-per-angle-congruence]]): *"match creative ↔ LP/funnel = #1 cách scale."* Beginner version (ko cần funnel phức tạp): **duplicate PDP cho mỗi avatar/angle** — đổi title, imagery slider, **review theo ICP** (ko generic), copy theo ICP. VD orthopedic slipper: 30 PDP template (diabetic / elder / mom đi nhẹ trong nhà...). Mỗi winning angle = 1 thế giới riêng quanh nó.
+
 ## Lỗ rò lớn nhất: proof bốc hơi
 Clicker tới với niềm tin RẤT cụ thể (independent lab, 503mg, named expert, "Amazon là fake"). Page substantiate gần như zero (không COA, không bioavailability number, không named expert). -> skeptic LTV cao (đúng người ad lab-number nhắm tới) rò ra. Cộng social proof tự mâu thuẫn chéo trang ([[kittysupps-brand-offer]]).
 
@@ -51,6 +53,8 @@ Schwartz: cold/less-aware KHÔNG đi thẳng PDP được ([[market-awareness]])
 | Quiz funnel | interactive diagnostic | health/symptom, cần data → [[quiz-funnels]] |
 | Bridge page | proof-recapture per-angle | khi proof bốc hơi (trên) |
 
+→ **Build chi tiết 4 format** (wireframe section-by-section, CTA placement system, speed, cadence, benchmark CTR 8-18%): [[presell-pages]].
+
 ## Listicle pre-sell (7 reasons) — cấu trúc Carl
 Nguồn: [[carlweische-presell-listicle-7reasons]].
 1. **Headline:** *"7 reasons over [X] [audience] choose [product] [to achieve result]"* = social proof + promise gộp.
@@ -59,6 +63,8 @@ Nguồn: [[carlweische-presell-listicle-7reasons]].
 4. **CTA:** bridge headline (*"the smarter way to [promise]"*) → nhắc lại unique mechanism lần cuối → nút sang offer page.
 
 Adapt theo awareness: problem-aware ≠ product-aware ([[market-awareness]]).
+
+**Cấu trúc thay thế (liam, [[liamecom-listicle-structure]]) — viết listicle như VIDEO AD:** hook open-loop (cho lý do đọc tiếp) → reason 1-3 đào problem (call out, cảm xúc, hệ luỵ lớn hơn) → reason 4-6 educate problem+product, dựng authority → reason 7-9 product = easiest/smartest/fastest + de-position alternative → de-risk (guarantee) + urgency. Áp cho MỌI LP, ko chỉ listicle.
 
 > [!tip] MaxPro map sẵn — gần như viết được ngay (build bằng skill /listical)
 > Headline *"7 reasons 18,000+ dog owners switched to MaxPro"* ([[maxpro-product-truth]] 18,587 review) · table MaxPro vs clipper / Dremel / Casfuy ([[maxpro-competitors]]) · (1) groomer $45/lần dồn năm ([[villains]], [[offer-and-cta]]) · (2) 3-port cap + "see-the-dot" · (3) cats + small-medium dogs — **KHÔNG** large-breed ([[maxpro-product-truth]]) · (4) fear-free identity + diamond drum quality · (5) quiet → chó ngủ gật, xong trong vài phút · (6) 18,587 review 5★ + charity · (7) 99-day company-paid return. Mechanism nhắc lại ở CTA = "quick creep" ([[angles]]).

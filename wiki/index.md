@@ -14,6 +14,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[native-ads]] — true-native open web (Taboola): math CTR-first, funnel 3 mảnh, advertorial 6-piece editorial, readiness gate $50-100k/mo
 - [[quiz-funnels]] — interactive pre-sell: congruency #1, drop-off diagnosis, 4 nguyên lý tâm lý, Web2App email capture
 - [[funnel-and-landing]] — 5-stage funnel (creative→advertorial→presell→checkout→upsell) + pre-sell layer, proof-evaporation
+- [[presell-pages]] — build guide 4 format (advertorial/listicle/quiz/comparison): wireframe, CTA system, congruence, speed, cadence, tracking
 
 ### Building blocks (lắp vào mọi strategy)
 - [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + swipe vet-whistleblower
@@ -22,10 +23,11 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[villains]] — framework 3 lớp + 5 villain + 2 landmine
 - [[offer-and-cta]] — offer = perceived value (4 levers), tiered bundle, deny-the-sale, upsell = vũ khí CPA
 - [[market-awareness]] — Schwartz awareness + sophistication ladder (⚠️ nail = stage 2-3?), UMP/UMS, pre-sell theo awareness
-- [[creative-brief]] — native/ugly image brief, 7 format
+- [[creative-brief]] — static ad creative: 8 rule DR (Alex GC) + 4 category + 7 format ugly-native + seed prompt
 
 ### Channels & guardrails
 - [[media-buying]] — Meta 2026: broad, 1 ad set, flood AI ads, decision matrix ngày 1
+- [[google-ads]] — kênh search-intent: market arbitrage, problem-aware angle, GMC feed 70%, 7-campaign, 9 funnel-type (pet store!)
 - [[compliance]] — defensible vs fabricated, 2 landmine, guarantee trap
 
 ---

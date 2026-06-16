@@ -13,6 +13,9 @@ vón cát/mắt/lông...   taurine↓ -> bile↓        + Amazon counterfeit    
 ```
 100% ad đổ về `/products/taurine`. Đây KHÔNG phải account creative thường — là **persona-network advertorial machine**.
 
+> [!note] Xác nhận độc lập #2: Resilia (oil of oregano, 4M visit/mo)
+> [[fotw-resilia-12-pages-advertorial]] = engine y hệt ở niche khác: 12 persona FB page (doctor/nutritionist/brand) → 1 advertorial ("60M Americans infected with parasites") hút 30-50% traffic, 5,900 ad, script 6-bước (symptom → hidden cause → why-others-failed → mechanism 85% carvacrol → only-qualifying → CTA urgency), OTO $30→$83. **2 insight MỚI:** (a) **AI creative production** — AI avatar/voice/B-roll → 544 ad/30 ngày (+176%), gỡ bottleneck UGC ([[creative-brief]]); (b) **platform-specific angle** — Meta chạy parasite/gut, YouTube chạy "double chin"/weight-loss CÙNG product, khác pain theo awareness từng platform.
+
 ## 4 nguyên lý SÂU (mới/rõ hơn bản 13/06)
 
 ### 1. Angle-multiplication quanh MỘT mechanism = động cơ scale

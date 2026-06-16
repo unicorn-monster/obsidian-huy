@@ -20,6 +20,11 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 ## Upsells = vũ khí CPA (stage 5)
 [[advertising-jan-5-stage-funnel]]: job DUY NHẤT của upsell = **tăng AOV**. AOV cao hơn → outspend đối thủ ở CPA → scale dễ hơn (đối thủ không dám bid cao bằng). Tiered bundle (trên) + post-purchase upsell phục vụ chính cái này, không phải "nhồi thêm SKU cho vui". Đây là stage cuối của 5-stage funnel → [[funnel-and-landing]].
 
+**OTO sequencing (Resilia $30→$83, [[fotw-resilia-12-pages-advertorial]]):** OTO phải **hoàn tất kết quả vừa mua**, không nhồi catalog. OTO1 mạnh nhất = bổ sung logic (*"softgels là đòn tấn công, drops là quét dọn"* — không phải quyết định mới, là tiếp nối). OTO yếu = trùng promise front-end (đã mua oregano softgel, sao mua oregano drops nữa). Hỏi: *"khách cần GÌ TIẾP để hoàn tất result vừa trả tiền?"*
+
+## ⚠️ Gamified offer (spin-to-win / sweepstakes)
+[[maxwellcopy-sweepstakes-offer-legal]]: spin-wheel/sweepstakes "prints" nhưng **rủi ro pháp lý** — hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng luật hoặc né → [[compliance]].
+
 ## CTA framework
 - **Rescue + warning**, không "buy now".
 - **Deny the sale:** "I'm not affiliated", "forgot the link". Denying IS selling.
