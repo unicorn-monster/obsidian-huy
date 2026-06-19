@@ -33,11 +33,23 @@ Chi tiết hơn 6-piece của [[native-ads]] / 15-beat của [[ugly-ads-method]]
 9. **FAQ** — top 3-5 objection THẬT (CS ticket, ad comment, 3-star review, Reddit). FAQ cuối = objection mua → guarantee.
 10. **Compliance footer** — advertorial disclosure + policy links.
 
+> [!note] 2 lớp advertorial: layout (trên) vs emotional arc
+> Wireframe trên = bố cục. Story-advertorial native ([[advertising-jan-derila-ergo-native-funnel]] · [[advertising-jan-hearing-aid-advertorial-evergreen]]) thêm **arc cảm xúc**: Hook (nhân vật siêu cụ thể "Arthur, 72, kiến trúc sư") → Emotional breaking point → Failed solutions → **Mechanism / belief-shift** (ear→brain, pillow→neck) → Payoff → Emotional bookend (mở-đóng cùng 1 vết thương) → CTA "fork in the road" (quyết định đời, không bán). Sales page sau = **confirm, không re-sell** + trust-stack media→clinical→peer→video → [[offer-and-cta]].
+
 ## Comparison page (intent cao nhất) — MaxPro ăn liền
 Người search "[brand] vs [competitor]" = sẵn sàng mua, chỉ cần cú đẩy cuối. Cấu trúc: headline *"[product] vs [competitor]: honest breakdown after testing both"* · TL;DR verdict 1 câu · spec table side-by-side · **3 pros MỖI bên** (khen điểm mạnh đối thủ = build trust mạnh) · "who should choose which" theo use-case · 3 citation ngoài · CTA. URL `/compare/x-vs-y`.
 
 > [!tip] MaxPro có sẵn đạn
-> [[maxpro-competitors]] đã có bảng **MaxPro vs Heusom / Casfuy / LuckyTail**. *"MaxPro vs Heusom"* (cùng OEM, wedge = ship Denver + 99-day company-paid return) = comparison page gần như viết được ngay, ăn warm/search traffic. Khen thẳng power của Casfuy (3 pros mỗi bên) = trust, rồi segment "ai nên mua cái nào" → đẩy large-breed sang Casfuy (đúng qualify-out [[maxpro-avatars]]).
+> [[maxpro-competitors]] đã có bảng **MaxPro vs Heusom / Casfuy / LuckyTail**. *"MaxPro vs Heusom"* (cùng OEM, wedge = ship Denver + 99-day company-paid return) = comparison page gần như viết được ngay, ăn warm/search traffic. Khen thẳng power của Casfuy (3 pros mỗi bên) = trust, rồi segment "ai nên mua cái nào": MaxPro **giữ** large-breed (xử ~150lb, [[maxpro-product-truth]]) bằng quiet + grind-and-release; chỉ nhường Casfuy ca cực-nặng / ai đòi 6-speed + lifetime-warranty. (❌ KHÔNG còn blanket qualify-out large-breed như note cũ.)
+
+## Listicle — vì sao convert + build mechanics
+**Vì sao convert** ([[fotw-listicle-reason-why-1904]] + [[fotw-bencivenga-listicle-collagen]]): listicle = "Reason-Why advertising" (Kennedy 1904 → Reeves USP → Schwartz mechanism), mỗi reason = `name reason → explain mechanism → prove → lặp tới hết objection`. Nền persuasion = **Bencivenga**: `Urgent Problem + Unique Promise + Unquestionable Proof + User-Friendly Proposition`, đóng **5 Exit of Escape** (no time/interest/difference/belief/decision) trước khi reader dùng được. **CrackerJack Secret:** ad phải đáng đọc như content ("7 Reasons Everyone Over 50 Should Be Taking This Protein", KHÔNG "Buy our collagen"). Stat: bài dạng article pull **+81% response** vs cùng copy dạng ad (Ogilvy +500% readership) → format editorial > polished. Headline template: `[N] Reasons Everyone Over [age] Should [X]`.
+**Build mechanics** ([[dtcquizbuilder-primalvikings-listicle-10reasons]], 10-reasons supplement):
+- **Comparison table = anchor đầu trang:** không bán "X tốt" (đã tin sẵn), chỉ redirect belief sang mechanism mới — *"bạn chọn sai loại"* (concentration: frame trước khi argue).
+- **10-reasons pattern:** mỗi reason = "thứ bạn tưởng [đối thủ] làm tốt → [mình] làm tốt hơn, đây là vì sao."
+- **Awareness progression trên 1 trang:** Problem-aware → Mechanism-aware → Solution-aware → Product-aware (product page chỉ CHỐT, không educate lại).
+- **Launch sequence:** 1 broad page → ads nhiều angle → angle hứa hẹn nhất → build 1 page tailored riêng (= "new angle = new page").
+- **Segmented variants, same USP:** Jones Road 4 biến thể (general/mature/minimalist/busy-mom) · HollowSocks gendered — cùng USP, đổi reason nào nhấn theo persona → [[angles]], [[market-awareness]].
 
 ## CTA system (gấp đôi CTR)
 Đừng để 1 CTA ở đáy (đa số không cuộn tới). Placement: **~40%** (sau mechanism) · **~65%** (sau proof) · **~85%** (sau offer) · **sticky mobile** (sau 30% scroll).

@@ -11,12 +11,16 @@ Sự thật sản phẩm, KHÔNG mâu thuẫn (beat 10 [[ugly-ads-method]]). Ngu
 ## Proof / mission (moat thật)
 18,587+ review 5-sao · 50% lợi nhuận cho no-kill shelter ($40k+, 1,000 chó) · "every 90 seconds a dog dies in a U.S. shelter" · chỉ bán direct.
 
-## ⚠️ GIỚI HẠN POWER (xác nhận, không được lờ)
-Cùng OEM với Heusom Silent Groom -> [[heusom-silent-groom-research]] chứng minh con này **LOW-TORQUE**: tốt cho mèo + chó nhỏ-vừa, **thua large breed / móng đen dày**, cap quá nhỏ cho móng to, dễ overheat nếu mài lâu.
+## POWER — handle thick / large (CHỦ SẢN PHẨM XÁC NHẬN 17/06)
+MaxPro **xử được móng dày, móng đen, large breed (tới ~150lb)** — đúng claim page + creative so sánh ("powerful enough for thick nails"). 3 port cap S/M/L cho mọi cỡ, 2 tốc độ + diamond drum.
 
-**Hệ quả:**
-- Claim "Chihuahua đến 150lb Mastiff" = OVER-PROMISE = #1 refund driver ([[compliance]], [[maxpro-avatars]] Avatar 5). **SỬA:** định vị "cats + small-to-medium dogs"; large-breed thì qualify out.
-- Bắt buộc dạy **grind-and-release** (mài 1-2 giây rồi nhả) chống burn nail bed -> chống refund + 1-star.
+> [!warning] Đính chính niềm tin cũ (17/06)
+> Note cũ "LOW-TORQUE, chỉ small-medium, qualify out large breed" = **suy luận từ [[heusom-silent-groom-research]]** (giả định MaxPro = Heusom vì cùng OEM), KHÔNG phải số đo trên MaxPro. Chủ sản phẩm (ground truth) bác bỏ. Heusom research vẫn đúng cho Heusom — KHÔNG áp cho MaxPro. → power là **điểm mạnh**, không phải giới hạn.
+
+**Hệ quả mới:**
+- "Đủ mạnh cho móng dày đen mà grinder rẻ bó tay" = **differentiator + doorway** (vs villain cheap-grinder bog down).
+- Avatar 5 (large-breed / black-nail) = **khách thật**, không qualify out ([[maxpro-avatars]]).
+- Vẫn dạy **grind-and-release** (mài 1-2 giây rồi nhả) — usage tip chống nóng, KHÔNG phải dấu hiệu yếu power.
 
 ## Vì sao quan trọng
-Moat = trust verify được (Denver, 99-day company-paid, 18k review, charity) — đúng chỗ Heusom yếu ([[maxpro-competitors]]). Đừng phá moat bằng claim power không giữ được.
+Moat = trust verify được (Denver, 99-day, 18k review, charity) + **power thật**. Power giờ là vũ khí bán hàng, không phải điểm yếu cần giấu.

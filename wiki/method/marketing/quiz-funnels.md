@@ -42,6 +42,22 @@ Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tớ
 ## Loading screen = captive attention
 10-15s "đang phân tích" = khán giả bị giữ chân không click đi được. Nhồi vào: before/after testimonial mạnh nhất + social-proof stat + product preview (để quen mặt trước khi thấy offer). Đừng để spinner trống.
 
+## Close sequence — pseudo-diagnosis → 3-card → offer
+2 teardown mới: [[dtcquizbuilder-mars-men-quiz-funnel]] (men's health 1.5M+ visit/mo) + [[dtcquizbuilder-clickmaxx-quiz-5stage]] (Kilo Health 9 fig). Cách quiz CHỐT sau câu hỏi cuối (trên cả "self-prescribed quantity" của Javvy):
+- **Pseudo-diagnosis result page:** điểm + màu severity + type label ("Overthinking score **32.33 — RED**, type 'Worrier'" / Mars "profile cho thấy bạn *cooked* cỡ nào"). Visual lâm sàng → *"không phải quiz result, là chẩn đoán, đơn thuốc đang load."*
+- **3-card close (Mars):** Card 1 **Profile** (đọc lại đáp án = fear/urgency) → Card 2 **Future-pace** (graph 2 nhánh "không làm gì vs đổi hôm nay", gắn mốc cụ thể "Feb 6") → Card 3 **Offer** ("dựa trên toàn bộ đáp án, đây là giải pháp hợp với bạn"). Loading screen lần cuối giữa "claim" và offer page.
+- **Prescription close:** frame là 2-min assessment y khoa → reciprocity (cho value free trước) → *"bạn đâu cãi bác sĩ khi họ kê đơn?"*
+
+## 5-stage manufacture (Kilo Health) — bổ sung 4 nguyên lý IM8
+[[dtcquizbuilder-clickmaxx-quiz-5stage]]: `Self-label → Pain deepen → Cost expand → Hope reframe → Future cast`. Net-new:
+- **Agree-STATEMENTS, không phải câu hỏi** (Q8-17): 10 mệnh đề thang đồng-ý mà câu thật chỉ có thể "yes that's me" → mỗi "Strongly Agree" = tự-chẩn sâu hơn (mạnh hơn "answers presuppose problem" vì user TỰ xác nhận).
+- **Cost expansion:** đẩy pain từ cảm giác → **chi phí cụ thể** (career/tiền/thời gian) TRƯỚC hope. *"Pain in your head is ignorable. Pain in your wallet is not."*
+- **Hope-injection interstitial:** ngay sau đỉnh pain, chèn stat reframe flaw → superpower ("87% of overthinkers more empathetic") — đặt **giữa cluster**, không cuối (= "comfort before offer" #4, đúng timing).
+- **Doctor Question:** 1 câu triệu chứng siêu cụ thể (tụt năng lượng 3pm) → "finally someone gets me" → trust (= congruency #3 dạng câu hỏi).
+
+## Swipe bank — quiz funnel sống (StefanGeorgi thread)
+[[stefangeorgi-quiz-funnel-swipe]] (StefanBrain CRO gom ví dụ): javvycoffee.com/qpc · mengotomars.com/pages/quiz-v6 (= Mars trên) · get.mylunavia.com (nail-fungus) · tour.reverse.health · try-spartan.com/lead-sp3 · madmuscles.com · walk-fit.io — 8-15M visit/mo. Tool clone 1:1: **clarflow.com** (AI quiz builder DTC).
+
 ## Segment & retarget bằng câu trả lời
 Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / symptom). Retarget tách theo đáp án: "tried diets, weight came back" → ad yo-yo cycle · "low energy" → ad energy (không phải weight). Cùng product, angle khớp đúng cái họ TỰ KHAI.
 
@@ -52,4 +68,4 @@ Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / s
 Shopify: **Octane AI** (native, sync answer → Klaviyo), RevenueHunt, hoặc Typeform/custom Liquid+JS. **Progress bar +20-30% completion.** Image-based answer > text-only. Quiz = 1 trong 4 format presell → so sánh & benchmark ở [[presell-pages]].
 
 ## Cho MaxPro? (đánh giá thật)
-Quiz mạnh nhất cho supplement/health (diagnostic triệu chứng). Grinder = tool vật lý → quiz yếu hơn nhưng làm được: *"Tình trạng móng chó bạn?"* → breed/size (cơ hội **qualify out large-breed sớm**, [[maxpro-product-truth]]) → đã thử clipper/groomer? → sợ gì nhất → data feed retarget + email. **Nhưng:** listicle pre-sell ([[funnel-and-landing]]) khả thi & rẻ hơn nhiều cho v0 — cân nhắc cái đó TRƯỚC quiz.
+Quiz mạnh nhất cho supplement/health (diagnostic triệu chứng). Grinder = tool vật lý → quiz yếu hơn nhưng làm được: *"Tình trạng móng chó bạn?"* → breed/size (route theo size; large-breed = doorway power thật ~150lb, **KHÔNG** qualify-out — [[maxpro-product-truth]]) → đã thử clipper/groomer? → sợ gì nhất → data feed retarget + email. **Nhưng:** listicle pre-sell ([[funnel-and-landing]]) khả thi & rẻ hơn nhiều cho v0 — cân nhắc cái đó TRƯỚC quiz.

@@ -20,4 +20,4 @@ Ngôn ngữ + beat cảm xúc thật. Nguồn: [[voc-mining-learnings]] + 05-voc
 15. **Desensitization ritual** (beat 13): electric toothbrush tập trước, peanut butter trên tường, để máy tắt trên bàn.
 
 ## Techniques rút ra
-Grind-and-release (chống refund power) · two-speed = proof · staged transformation từ cluster 15→5→6 · "watch the dot" defuse black-nail.
+Grind-and-release (chống nóng) · two-speed = proof · staged transformation từ cluster 15→5→6 · "watch the dot" defuse black-nail.

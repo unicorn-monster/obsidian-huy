@@ -10,14 +10,14 @@ House style: no em dash, chửi kiểm duyệt, preview kết bằng open loop.
 3. **False-premise reversal:** "Nail grinders are a gimmick. At least that's what I thought..." / KS: "TAURINE IS A SCAM!!"
 4. **Overheard revenue secret:** "I overheard my groomer tell the new girl... $45-a-visit revenue. I cancelled." → [[villains]] groomer.
 5. **Pattern-interrupt non-sequitur:** "My husband lost his job the same week my dog stopped walking. One was a blessing. It was the dog."
-6. **Symptom reframe:** "That click-click-click is not a noise problem. It's a countdown." / "Your dog isn't slowing down with age. Look at his back nails." → [[angles]] senior-mobility.
+6. **Symptom reframe:** "That click-click-click isn't a noise problem. It's a countdown." / "A perfect trim still hurts her. It was never about the quick." → crush/splinter UMP [[market-awareness]]. (❌ "isn't slowing down with age" = senior hidden-cause, KILLED.)
 7. **Authority demonstration:** "15 years grooming, used every tool... about to make every salon hate me." / KS: "I tested 11 brands in a lab."
 8. **Cause rant:** "Every 90 seconds a dog dies in a U.S. shelter. So no, I won't apologize for how blunt this gets." → persona D, [[personas]].
 9. **Exception dog (high intent):** "two people, a towel, a muzzle... Two days with this and she fell asleep."
-10. **Black-nail / power (realistic pacing):** "watch for the dot." → refund-risk lane, xem [[compliance]].
+10. **Black-nail / power (realistic pacing):** "watch for the dot." → honesty với size + grind-and-release, xem [[compliance]].
 
 ## Footer caption = mini-hook riêng
-FB link card có hook độc lập với body: "My 11-Yr-Old Ran Again. It Was Never Her Age." / "I Sedated My Dog 14 Times For Nothing😢" / KS: "Gave Her Taurine For 7 Months. She Died Anyway😢"
+FB link card có hook độc lập với body: "My 11-Yr-Old Ran Again. Her Nails Were Curling Into Her Paws." / "I Sedated My Dog 14 Times For Nothing😢" / KS: "Gave Her Taurine For 7 Months. She Died Anyway😢"
 
 ## Primary text = story, 2 dòng đầu = nút click
 Nguồn: [[dtcquizbuilder-native-ads-workflow]]. Primary text CHÍNH LÀ cái ad, và luôn là **story**. Reader chỉ thấy **2 dòng đầu** trước "See more" → đó là toàn bộ quyết định click. Image + dòng đầu đi cặp: ảnh relatable + "Every woman over 50 needs to read this" → tự nhận mình là nhân vật, sợ "đây là mình" → đọc hết story. Cùng logic open-loop của 10 pattern trên, nhưng ràng buộc: hook phải sống trong 2 dòng + khớp ảnh.

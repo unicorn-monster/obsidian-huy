@@ -12,8 +12,8 @@ Cùng con hàng vật lý với MaxPro (cùng $39.95/$66.60, diamond drum, multi
 | Review mỏng (1,217 Trustpilot) | photo testimonial |
 → Angle "us vs them": "đừng mua bản dropship ship từ nước ngoài không hoàn tiền". Cắm vào [[offer-and-cta]] inoculation + [[villains]] (hàng rẻ/fake).
 
-## Đối thủ POWER (MaxPro thua, đừng đối đầu)
-- **Casfuy** — 6 speed + dual LED soi quick + lifetime warranty (kích qua Messenger). Louder nhưng torque mạnh -> lựa chọn cho large breed/groomer. Đây là "WOW Casfuy có nhiều power hơn" trong VOC.
+## Đối thủ POWER (cạnh tranh được — MaxPro xử large-breed ~150lb, owner xác nhận 17/06 [[maxpro-product-truth]])
+- **Casfuy** — 6 speed + dual LED soi quick + lifetime warranty (kích qua Messenger). Louder; nhiều feature/raw-power hơn -> ca cực-nặng hoặc groomer chuyên có thể chọn. KHÔNG còn là lý do để MaxPro né large-breed. "WOW Casfuy có nhiều power hơn" = khen thẳng (3 pros mỗi bên) để build trust.
 - **Naigrins** — brushless motor = vừa power vừa quiet. Mối đe doạ tiến hoá, phá lợi thế "quiet" thuần.
 
 ## Đối thủ PREMIUM
@@ -23,4 +23,4 @@ Cùng con hàng vật lý với MaxPro (cùng $39.95/$66.60, diamond drum, multi
 Clipper (rẻ, rủi ro quick) · Dremel (power nhưng ồn/nặng) · Scratch board (fear-free cho chó cực sợ tool).
 
 ## Chốt chiến lược
-Compete trên **quiet + legitimacy + charity**, KHÔNG trên power. Đẩy traffic large-breed ra xa (xem [[maxpro-avatars]] Avatar 5 qualify-out) để giữ refund/review. Đối thủ thật của Budget Senior = hoá đơn groomer $40, không phải Casfuy.
+Compete trên **quiet + legitimacy + charity + power thật** (xử thick/black/large ~150lb, owner xác nhận 17/06 → [[maxpro-product-truth]]). Avatar 5 large-breed = **khách thật + doorway** "đủ mạnh cho móng dày máy rẻ bó tay", KHÔNG qualify-out. Đối thủ thật của Budget Senior = hoá đơn groomer $40, không phải Casfuy.

@@ -8,6 +8,8 @@ Nguồn: [[ecomamin-google-ads-pet-store-1m]], [[ecomamin-google-ads-57k-to-1.2m
 ## Khác Meta: Google THƯỞNG sản phẩm tốt
 *"Facebook lets you scale garbage with great creative. Google doesn't."* Cold tới qua search có intent thật → product phải giao thật, refund giết. Amin pet refund 2-3% (industry 8-12%). → khớp [[maxpro-product-truth]] limit + [[compliance]]. Prereq: product thật + margin 40%+ + market có người search sẵn + budget test $5-8k/mo (đừng "test $500").
 
+**Rented vs built (eCom_Amin's origin, [[ecomamin-pet-brand-1m-google-at-19]]):** anh bỏ Meta sau 2 năm *"winning creative → fatigue → ROAS sập → chase hook mới → lặp"*, scale pet brand đầu lên **$1M ở tuổi 19 CHỈ bằng Google Shopping**. *"meta is a rented audience... quality scores don't compound... you're starting from zero. google is built infrastructure."* + *"a meta account temporarily better; a google account permanently better."* Search CVR **6-8% vs Meta cold 1-2%**. → phản-đề cho obsession Meta-static đang build.
+
 ## Market arbitrage (đánh chỗ ít cạnh tranh)
 US = bloodbath, CPC $3-8. **UK / AU / NZ / Ireland**: GDP/capita gần bằng, English, **70% ít cạnh tranh hơn**, CPC $0.40-1.50. Same buyer, fraction cost. Pet UK: CAC £18, AOV £52, LTV £140 → 3x ROAS first-purchase, 8x LTV:CAC. AU health: 21x ROAS / 9 tháng / $57k→$1.21M.
 
@@ -15,6 +17,7 @@ US = bloodbath, CPC $3-8. **UK / AU / NZ / Ireland**: GDP/capita gần bằng, E
 Search "my dog pulls on leash" KHÔNG muốn harness — muốn hết bị giật tay mỗi sáng.
 - generic *"no pull harness - durable"* (2-3% CVR) → problem-aware *"does your dog pull? stops pulling in 3 days or full refund"* (**8-12% CVR**).
 - *"vet-recommended bed for dogs with arthritis & hip dysplasia - 60 night trial"*.
+- **Breed-specific clusters** ([[ecomamin-pet-brand-1m-google-at-19]]): `"[product] for [breed]"` convert **~2x** generic — specificity = "thiết kế đúng tình huống của tôi". MaxPro: "nail grinder for large/thick-black-nail dogs", "quiet grinder for anxious [breed]". Build 1 advertorial cho top cluster trong **30 ngày đầu** (mở TOF + organic ranking).
 Bán **outcome, không product**. = UMP [[market-awareness]] (nhớ match sophistication — nail stage 2-3).
 
 ## GMC feed = 70% kết quả (làm TRƯỚC campaign)
@@ -22,6 +25,13 @@ Amin: 70% lift từ fix feed, 30% từ campaign — đa số làm ngược.
 - **Title:** `leading keyword + what-it's-for + angle + brand`. 1 title khớp nhiều search term. Vd *"no pull dog harness for large dogs that pull - stops pulling without choking"*.
 - **Description:** outcome + risk-reversal + proof (*"fixes your back pain in 14 days or full refund. clinically proven... 60-day guarantee"*), KHÔNG feature.
 - **Image:** lifestyle (đang dùng / before-after) > white-bg → +30% click, +15% CVR chỉ từ feed. (User có skill GMC title — dùng nó.)
+
+## Feed duplication (1 sản phẩm → nhiều listing)
+Nguồn: [[blvckledge-google-shopping-duplication]] ($10k→$300k+/mo Shopping qua 5 năm). Tạo NHIỀU biến thể feed của CÙNG 1 sản phẩm, mỗi cái nhắm 1 search-intent/persona → Google coi là listing riêng → 2-3 cái cùng hiện 1 carousel → **own 2/5 vị trí thay vì 1/5, ~2x traffic cùng budget**.
+- **Front-load** target query vào **5 từ đầu** title (Google nặng đầu title nhất).
+- **Bỏ GTIN** ở mọi feed nhân bản (chỉ feed gốc giữ) → né GTIN-misuse + gộp review chéo.
+- Ăn nhất với sản phẩm **nhiều use-case / persona / vấn đề / cách khách gọi tên** — MaxPro nguyên con ([[maxpro-avatars]], [[angles]], [[grinder-avatar-bank]]).
+- **= engine [[kittysupps-machine]] đổi đường ray:** *"vô hạn cửa ngõ → 1 sản phẩm"*. KittySupps chạy trong creative Meta (240 family); tactic này trong feed Shopping. Bộ symptom-doorway/avatar bạn cày cho Meta = đúng nguyên liệu feed-duplication cần.
 
 ## 7-campaign structure (segment theo intent)
 | # | Campaign | ROAS | Vai trò |
@@ -59,6 +69,14 @@ Nguồn: [[ecomamin-google-ads-funnel-types]]. Account 8x chạy 5-7 funnel cùn
 | Homepage (as conversion page) | 4-8% | branded only |
 
 **Mapping:** TOF symptom → advertorial/quiz (KHÔNG PDP) · MOF comparison → comparison/listicle · MOF transactional → PDP thẳng (đừng thêm friction) · BOF branded → homepage/hero-PDP · conquest → comparison/listicle. *"2 account cùng product/budget/creative ra 3x vs 8x — biến số duy nhất: click có trúng page đúng stage buyer không."*
+
+> [!tip] Deep-dive: listicle cho comparison-intent (eCom_Amin, £19k→£187k/mo cùng product/budget/bid)
+> [[ecomamin-google-listicle-comparison-intent]]: leak lớn nhất = đẩy traffic "best X / X vs Y / top-rated 2026 / X review" vào **PDP** (PDP tối ưu *hoàn-tất-giao-dịch*, không *ra-quyết-định*). Fix = listicle LP **làm hộ quyết định**:
+> - **Keyword→intent:** "best [cat] for [use-case]" = decision-stage rõ nhất · "[A] vs [B]" = đã rút còn 2-3 · "top rated 2026 / review" = cần editorial validate.
+> - **Own the decision framework:** trang định sẵn mọi tiêu chí → tin evaluation = tin recommendation. **Honest-limitations** (nêu khi top-pick KHÔNG hợp ai + pick nào hợp hơn) = TĂNG trust. *"Sales pitch để phòng thủ; evaluation resource để DÙNG."*
+> - **Opening frame:** 3 đoạn đầu KHÔNG brand/hero/feature — xác nhận trang built đúng cho query ("if you are evaluating [X]… this was built for exactly that decision").
+> - **Situation-matched review:** review phản chiếu đúng hành trình ("tôi đang so 3 option cho mẹ… chọn top pick… 2 tuần ngủ ngon hơn") — solicit bằng câu hỏi source post-purchase.
+> - Compound: page đúng query-cluster convert đều, ít cần iterate creative. Tác giả nêu thẳng **"premium pet products"** ăn đậm → MaxPro: "best dog nail grinder for anxious dogs", "[MaxPro] vs Casfuy", "dog nail grinder vs clippers" ([[maxpro-competitors]]). FB listicle = TẠO intent; Google listicle = BẮT intent sẵn ([[presell-pages]]).
 
 ## Bing (bonus)
 Setup Bing = +15-20% revenue "for free". Thêm sau khi Google chạy ổn.

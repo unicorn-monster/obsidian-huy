@@ -54,9 +54,9 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 
 | Move KittySupps | Clone cho MaxPro |
 |---|---|
-| 1 mechanism gốc | **"Quick creep / nail-bed pressure"**: móng dài đẩy quick + đổi góc đặt chân → xoắn khớp mãn tính. Đủ sâu để giải thích nhiều triệu chứng. (giữ defensible → [[compliance]]) |
-| Symptom doorways | click-click sàn · chó "chậm lại vì già" · đi xoạng/khập khiễng · sàn/sofa xước · sợ cắt móng/chảy máu · đau hông · móng quặp vào đệm — TẤT CẢ → 1 grinder. Map: [[angles]], [[maxpro-avatars]] |
-| Named mechanism elasticity | mỗi triệu chứng kể lại cùng "quick creep" theo cách riêng |
+| 1 mechanism gốc | **UMP keystone: clipper crush/splinter** → đau *kể cả trim hoàn hảo* (reframe nỗi-đau-ĐÃ-CẢM). ❌ KHÔNG "quick creep → xoắn khớp" = bịa bệnh ẩn, KILLED ([[market-awareness]], [[maxpro-ugly-ads-plan]]). |
+| Symptom doorways | click-click sàn · móng quặp đâm đệm · trượt/đổi dáng trên sàn · sàn/sofa xước · sợ cắt quick chảy máu · móng dày-đen máy rẻ bó tay — TẤT CẢ → 1 grinder. (❌ KHÔNG "chậm lại vì già / đau hông" = hidden-cause.) Map: [[angles]], [[maxpro-avatars]] |
+| Named mechanism elasticity | mỗi cửa ngõ kể lại cùng UMP crush/splinter + hệ quả overgrowth quan-sát-được |
 | Villain stack | (1) clipper crush/splinter · (2) groomer $45/lần recurring · (3) grinder Amazon ồn/yếu/nóng. → [[villains]] |
 | Reason-why numbers | dB thấp + diamond grit + torque + battery (= 503mg/bioavailability của họ). → [[maxpro-product-truth]] |
 | Authority character | groomer/vet-tech về hưu (Carol) giao cơ chế qua dialogue. → [[personas]] |
@@ -64,4 +64,4 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 | Two-stage reveal | tiết lộ "giải pháp sai nguy hiểm" (cắt sâu chảy máu / an thần) trước → grinder là đường an toàn duy nhất |
 | CTA | rescue + warning + "đừng mua grinder rởm Amazon" + P.S. stack |
 
-**Việc tiếp theo nên test (từ wiki, cụ thể):** lấy 3 cửa ngõ triệu chứng mạnh nhất cho grinder (senior-mobility "tưởng già", click-trên-sàn, sợ-chảy-máu) → mỗi cái 1 advertorial cùng bộ xương + cùng "quick creep" mechanism, chạy dưới 1 Peer + 1 Expert persona. Đo theo [[media-buying]] decision matrix.
+**Việc tiếp theo nên test (từ wiki, cụ thể):** lấy 3 cửa ngõ mạnh nhất cho grinder (click-trên-sàn, sợ-chảy-máu/crush, móng-dày-máy-rẻ-bó-tay) → mỗi cái 1 advertorial cùng bộ xương + cùng **UMP crush/splinter** (❌ KHÔNG senior-mobility/"quick creep" = KILLED), chạy dưới 1 Peer + 1 Expert persona. Đo theo [[media-buying]] decision matrix.

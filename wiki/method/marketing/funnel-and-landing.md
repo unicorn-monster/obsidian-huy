@@ -43,6 +43,8 @@ Nguồn: [[dtcquizbuilder-native-ads-workflow]]. Landing page = **việc quan tr
 4. → có khung sạch, chỉ việc cắm copy (advertorial) vào.
 Đây là production shortcut; congruency + bridge-page vẫn áp như trên. Advertorial copy vào khung này theo [[ugly-ads-method]].
 
+**Mở rộng** ([[dtcquizbuilder-clone-landing-pages-ai]]): build hẳn 1 **Claude Skill** từ HTML (inspect → copy body → dán, chính xác hơn để nó scrape); ask render **live trong browser** để iterate + đính screenshot reference; **1 page / 1 winning ad** (upload ad/VSL thắng → Opus viết copy riêng cho page đó); ship Shopify = thêm page → `</>` code block (vỡ thì xin custom Liquid section). Ranh giới: AI **copy/HTML OK**, AI **ảnh bị Google flag** ([[compliance]]). 80/20 của LP vẫn là **copy** — quantity vô nghĩa nếu thiếu intent.
+
 ## Pre-sell layer: họ hàng trang warmup cho cold traffic
 Schwartz: cold/less-aware KHÔNG đi thẳng PDP được ([[market-awareness]]). Cần 1 trang warmup giữa ad và offer. Carl Weische: *"pre-sell page là lever lớn nhất để scale"* (đưa 1 brand $387k→$1.36M/tháng bằng 1 listicle) — vì warm audience nhỏ + cap nhanh, muốn scale buộc phải đánh cold. Cùng 1 job (educate problem→solution, carry proof, match awareness), khác hình thức:
 
@@ -67,4 +69,4 @@ Adapt theo awareness: problem-aware ≠ product-aware ([[market-awareness]]).
 **Cấu trúc thay thế (liam, [[liamecom-listicle-structure]]) — viết listicle như VIDEO AD:** hook open-loop (cho lý do đọc tiếp) → reason 1-3 đào problem (call out, cảm xúc, hệ luỵ lớn hơn) → reason 4-6 educate problem+product, dựng authority → reason 7-9 product = easiest/smartest/fastest + de-position alternative → de-risk (guarantee) + urgency. Áp cho MỌI LP, ko chỉ listicle.
 
 > [!tip] MaxPro map sẵn — gần như viết được ngay (build bằng skill /listical)
-> Headline *"7 reasons 18,000+ dog owners switched to MaxPro"* ([[maxpro-product-truth]] 18,587 review) · table MaxPro vs clipper / Dremel / Casfuy ([[maxpro-competitors]]) · (1) groomer $45/lần dồn năm ([[villains]], [[offer-and-cta]]) · (2) 3-port cap + "see-the-dot" · (3) cats + small-medium dogs — **KHÔNG** large-breed ([[maxpro-product-truth]]) · (4) fear-free identity + diamond drum quality · (5) quiet → chó ngủ gật, xong trong vài phút · (6) 18,587 review 5★ + charity · (7) 99-day company-paid return. Mechanism nhắc lại ở CTA = "quick creep" ([[angles]]).
+> Headline *"7 reasons 18,000+ dog owners switched to MaxPro"* ([[maxpro-product-truth]] 18,587 review) · table MaxPro vs clipper / Dremel / Casfuy ([[maxpro-competitors]]) · (1) groomer $45/lần dồn năm ([[villains]], [[offer-and-cta]]) · (2) 3-port cap + "see-the-dot" · (3) mọi cỡ móng: nhỏ → dày/đen/large ~150lb (3-port cap S/M/L, [[maxpro-product-truth]]) · (4) fear-free identity + diamond drum quality · (5) quiet → chó ngủ gật, xong trong vài phút · (6) 18,587 review 5★ + charity · (7) 99-day company-paid return. Mechanism nhắc lại ở CTA = UMP crush/splinter ([[market-awareness]]).

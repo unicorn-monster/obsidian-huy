@@ -27,11 +27,15 @@ Nguồn: [[avcanthony-sophistication-ump-match]]. UMP (unique mechanism of the *
 
 **Ví dụ avcanthony (NAIL):** thị trường chỉ biết clipper, chưa bị bom claim đối thủ → stage 2-3 → chỉ cần *"có cách tốt hơn, đây là vì sao"*. Khác menopause supp (stage 4-5: *"không phải pinched nerve, là ligament degradation"* = redefine). KittySupps cat-health = stage 4-5/hyper (root-cause taurine→bile) **vì** supplement bị bom claim nhiều năm.
 
-> [!note] Fork cho MaxPro (TEST, đừng chốt vội)
-> - **Broad cold** (đa số chỉ biết clipper) = stage 2-3 → lead "**quieter/safer better way**", ĐỪNG ép root-cause sâu.
-> - **Product-aware shopper** (so dB/torque/Casfuy/X-ray drama) = stage 4 → mới cần UMP/UMS ở trên.
-> - **Clone KittySupps engine** ([[kittysupps-machine]]): độ sâu root-cause/symptom-doorway của họ hợp stage 4-5; bê nguyên sang nail stage 2-3 có thể **falls flat**. Câu hỏi brief 16/06 ("quick creep đủ sâu chưa?") bị lật: có thể nail KHÔNG cần độ sâu đó.
-> - **Senior-mobility** ("tưởng già, thật ra móng") = problem-redefinition → hơi sớm cho stage 2-3, NHƯNG nó sửa *hiểu lầm ngây thơ* (không cạnh claim đối thủ) nên có thể vẫn chạy dạng education. Test head-to-head với "better way".
+> [!note] 2 trục đừng lẫn + specificity (avcanthony copy-that-prints)
+> [[avcanthony-copy-that-prints-fundamentals]] chốt gọn: **Sophistication = thị trường đã NGHE gì · Awareness = prospect đã BIẾT gì.** Lẫn 2 = vỡ copy. Và **problem càng cụ thể = recognition = trust**: không "đau khi cắt móng" → "clipper crush/splinter làm đau *kể cả khi trim hoàn hảo*" (UMP keystone, [[maxpro-ugly-ads-plan]]). Aim **Life Force 8** chứ không feature → chi tiết [[angles]], [[creative-brief]] pre-write check.
+
+> [!success] CHỐT cho MaxPro (16/06/2026) — [[maxpro-ugly-ads-plan]]
+> - **Broad cold = stage 2-3 → lead "quieter/safer/better way"** (mechanism differentiation). KHÔNG ép root-cause sâu. **Quyết định khoá** (user xác nhận).
+> - **Product-aware shopper** (so dB/torque/Casfuy) = stage 4 → mới dùng UMP/UMS ở dưới (segment nhỏ, KHÔNG phải lead cold).
+> - **Clone KittySupps engine** ([[kittysupps-machine]]): chỉ bê *cấu trúc* (persona network, villain stack, deny-sale, staged proof, long-form) — KHÔNG bê độ sâu root-cause. "quick creep" mechanism = **rejected**.
+> - **Senior-mobility** ("tưởng già, thật ra móng") = problem-redefinition = stage 4-5 → **rejected** (falls flat ở stage 2-3).
+> - **Cập nhật 17/06 (VSL $1M ZenPaw):** 1 **UMP keystone defensible** thì GIỮ — clipper crush/splinter → đau *kể cả trim hoàn hảo* (reframe nguyên nhân của nỗi-đau-ĐÃ-CẢM, KHÁC bịa bệnh ẩn chưa-cảm như quick-creep/senior-mobility). Chi tiết [[maxpro-ugly-ads-plan]].
 
 ## UMP / UMS (cốt lõi để tin)
 - **UMP (vì sao khổ):** clipper = **crushing pressure** pinch quick + splinter keratin. Dremel = **sensory overload / acoustic resonance** rung dọc xương, hệ thần kinh đọc như predator threat.

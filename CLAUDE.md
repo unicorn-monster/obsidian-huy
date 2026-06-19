@@ -36,8 +36,13 @@ Next milestone:
 - Surface hook / angle lặp trong swipe mà tôi chưa thấy.
 - Flag khi 1 learning mâu thuẫn niềm tin cũ của tôi.
 - Hỏi "test gì tiếp" -> trả lời TỪ wiki, cụ thể, không generic.
+  Mỗi claim PHẢI kèm [[wikilink]] tới trang nguồn; không link được = ghi rõ "(giả định)".
 - Cấu trúc = wikilink + wiki, đừng over-segment (kepano minimalism). Để structure mọc từ link.
 - Dùng kepano obsidian-markdown skill cho cú pháp (wikilink, properties, callout).
 
 ## Đang đọc & nghĩ (update thứ 2 hằng tuần)
-[ĐIỀN: obsession hiện tại, câu hỏi đang mở]
+- Obsession: native ads + "ugly"/static creative cho Maxpro — xem [[maxpro-ugly-ads-plan]].
+- Câu hỏi mở: angle Maxpro nào convert nhất? Static "ugly" ad có hợp quiz funnel không?
+
+## Tôi KHÔNG muốn gì (negative constraints)
+- [ĐIỀN: góc đã chán / claim mình không tin / format cần tránh]

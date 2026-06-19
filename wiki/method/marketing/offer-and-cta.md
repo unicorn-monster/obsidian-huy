@@ -26,6 +26,7 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 [[maxwellcopy-sweepstakes-offer-legal]]: spin-wheel/sweepstakes "prints" nhưng **rủi ro pháp lý** — hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng luật hoặc né → [[compliance]].
 
 ## CTA framework
+- **Urgency = act-now-or-consequence** (problem compounds, defensible — không "tiện/êm hơn") → [[angles]].
 - **Rescue + warning**, không "buy now".
 - **Deny the sale:** "I'm not affiliated", "forgot the link". Denying IS selling.
 - **Inoculation lock:** "đừng mua bản dropship ship nước ngoài không hoàn tiền" = đập thẳng Heusom ([[maxpro-competitors]]) + lock click về MaxPro.
@@ -34,7 +35,16 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 - Link lặp 2-3x (body + EDIT + P.S.).
 
 ## Footer link-caption bank (mỗi cái = mini-hook, xem [[hooks]])
-"She Hasn't Let Me Touch Her Paws in 8 Years. Until This." · "My 11-Yr-Old Ran Again. It Was Never Her Age." · "Groomers Don't Want You Owning This ($45 a Visit)" · "I Sedated My Dog 14 Times For Nothing😢".
+"She Hasn't Let Me Touch Her Paws in 8 Years. Until This." · "My 11-Yr-Old Ran Again. Her Nails Were Curling Into Her Paws." · "Groomers Don't Want You Owning This ($45 a Visit)" · "I Sedated My Dog 14 Times For Nothing😢".
 
 ## Price-anchor playbook (KittySupps)
 Anchor vào pain cost (groomer $40/lần dồn năm) + đối thủ. Curiosity-gap: "just go look at the price, I'm serious".
+
+## Anchor + guarantee + close (native teardowns)
+Nguồn: [[advertising-jan-hearing-aid-advertorial-evergreen]] ($99, profit 6 tháng) + [[fotw-bencivenga-listicle-collagen]]:
+- **Anchor vào "trải nghiệm đắt đáng sợ", không vào product cùng giá:** $99 vs hearing aid truyền thống **$2,500** ("same tech, 95% less"). MaxPro: anchor vào *năm tháng groomer $45/lần* + nỗi sợ làm chảy máu, không vào grinder $20 Amazon.
+- **Friction-killer 1 dòng:** "No Doctor Needed. No Fees. No Hearing Test." → MaxPro: **"No groomer. No vet visit. No fighting your dog."**
+- **Guarantee dài = closer:** 365-day (collagen) / 45-day (hearing aid) — *"as desire goes up, price resistance goes down"*, đa số không dùng. MaxPro đã có 99-day company-paid ([[compliance]]) = vũ khí, đẩy lên closer.
+- **Volume-price justify bằng lý do dùng/y khoa**, không discount: "uống 60 ngày, 2 scoop/ngày" → 6 hũ = nghe bác sĩ. (MaxPro yếu hơn vì 1 tool, nhưng bit/balm bundle theo "đủ dùng cả năm".)
+- **CTA = confirm, không re-sell:** sau advertorial/listicle dài, sales page chỉ xác nhận + gỡ rào; framing "fork in the road" rồi mới thả giá — story đã bán xong. → [[presell-pages]].
+- **Trust-stack thứ tự:** **media → clinical → peer review → video** (rộng→chuyên gia→cá nhân→undeniable, mỗi lớp gia cố lớp trước).
