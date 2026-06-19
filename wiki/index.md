@@ -24,9 +24,10 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[offer-and-cta]] — offer = perceived value (4 levers), tiered bundle, deny-the-sale, upsell = vũ khí CPA
 - [[market-awareness]] — Schwartz awareness + sophistication ladder (nail = stage 2-3 ✓ chốt 16/06), UMP/UMS, pre-sell theo awareness
 - [[creative-brief]] — static ad creative: 8 rule DR (Alex GC) + 4 category + 7 format ugly-native + seed prompt + **native-static archetypes (Jan)** + **5 pre-write check · educational-VSL · VOC-mining prompt**
+- [[creative-testing]] — isolate-one-layer (low-budget): 3 layer angle/hook/visual, test theo round (R1 angle→R2 format→R3 hook), naming+tracker, đọc signal CTR-vs-CPA; **đối trọng flood của [[media-buying]]**
 
 ### Channels & guardrails
-- [[media-buying]] — Meta 2026: broad, 1 ad set, flood AI ads, decision matrix ngày 1
+- [[media-buying]] — Meta 2026: broad, 1 ad set, flood AI ads, decision matrix ngày 1, **low-budget regime (lowest-cost→cap) + bid-cap-cold-account**
 - [[google-ads]] — kênh search-intent: market arbitrage, problem-aware angle, GMC feed 70%, **feed duplication**, **rented-vs-built (compounding)**, 7-campaign, 9 funnel-type (pet store!)
 - [[compliance]] — defensible vs fabricated, 2 landmine, guarantee trap
 

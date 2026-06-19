@@ -33,5 +33,18 @@ Conversion trong **24h đầu** HOẶC **8.5%+ ATC** = winner. Tác giả chưa 
 - **Meta ad library SORT BY IMPRESSIONS** = proxy mạnh cho ad đang ăn spend của đối thủ (mạnh hơn nhiều "longest running"). Top 6 impression ≈ top 10 account. Clone từ cái THẮNG, ko phải cái cũ.
 - **Persona-gap:** soi review+comment+survey tìm persona bị bỏ quên (có demand, ít/0 ad target) → static đơn giản cho họ thường crush (1 case: 3/5 top ad). Volume AI bổ trợ, ko thay strategy. → [[personas]], [[maxpro-avatars]].
 
+## Low-budget regime (đối trọng flood ở trên) — [[low-budget-creative-testing-playbook]]
+Flood-50 ở trên giả định budget đủ ($150-200/day). Khi budget hẹp ($20-40/day) thì đảo cách TEST (chi tiết: [[creative-testing]]) nhưng GIỮ nguyên cấu trúc account:
+- **Consolidate, đừng fragment.** 1 campaign, 1 (tối đa 2) ad set, nhét **3-5** test creative cho Meta distribute. Standard advice "ABO $100/day nhiều ad set" viết cho account giàu — fragment lúc budget thấp → ko ad set nào đạt **50 event/tuần** → kẹt learning phase mãi (= lý do thật của "feel random"). 1 ad set $20-40 > 5 ad set $10. (Cùng kết luận nkecom ở trên — 2 nguồn xác nhận con số 50.)
+- **Hunting = lowest-cost (no bid cap).** Mất CPA control nhưng giai đoạn này cần data + winner, ko phải margin. Để spend, kill loser nhanh, push winner.
+- **Cost cap CHỈ sau khi có winner đã prove** → rồi mới layer cost cap bảo vệ margin lúc scale, ko phải trước.
+
+## Bid cap "ko spend" trên account mới — [[low-budget-creative-testing-playbook]]
+Bid cap = trần cứng; Meta chỉ vào auction tới giá đó. Để spend dưới cap, algorithm phải TỰ TIN tìm được người convert ≤ cap — confidence đó đến TỪ account/pixel history.
+- **Account cũ:** pixel seasoned, nhiều data → Meta predict "impression này convert rẻ" → bid tự tin dưới cap.
+- **Account mới:** 0 history → ko predict value/impression → ko dám bid dưới cap → under-deliver. Cùng con số cap cũ giờ effectively "quá thấp" vì algorithm đang mù.
+- **Bid cap ko hỏng** — nó là tool cho account đã calibrate, bạn đang xài trên account lạnh. = bắt algorithm hit CPA target trước khi nó biết CPA của bạn là bao nhiêu.
+- **Fix account mới:** (1) start **lowest-cost** ép delivery + feed pixel → (2) season pixel **~50+ conversion** tới khi behave predictable → (3) rồi mới reintroduce bid/cost cap, set CAO hơn cap cũ một chút rồi siết dần — đừng set số cũ ngày 1. *Earn the right to use bid cap.*
+
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].
