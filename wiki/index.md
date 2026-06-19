@@ -35,6 +35,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 
 ## 🛠️ method/meta/ — cách vault tự bồi đắp
 - [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành. Nguồn: cyrilXBT + engkhairallah.
+- [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
 
 ---
 

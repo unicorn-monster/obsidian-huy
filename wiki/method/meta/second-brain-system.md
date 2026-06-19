@@ -31,6 +31,7 @@ Cấu trúc cyrilXBT đề xuất mà `CLAUDE.md` hiện thiếu:
 - **Chạy đủ 1 tuần rồi mới tinh chỉnh.** Cám dỗ là sửa identity-file ngay sau lần chạy đầu — nhưng cần 1 tuần output qua nhiều ngày/nhiều loại nội dung mới biết cái gì *thiếu hệ thống* vs chỉ là ngày bất thường.
 - **Atomic note + ≥2 wikilink mỗi note** (Zettelkasten hợp AI hơn cả hợp người — agent lần theo chain link để suy luận). Khớp kepano minimalism vault này đã theo.
 - **Feedback loop**: output AI tạo ra → lưu lại thành note → memory chứa cả tư duy gốc lẫn synthesis → compound. (Chính là `briefs/` + memory của vault này.)
+- **Lớp người vận hành**: vault giải phóng chú ý nhưng phải có kỷ luật *hướng* nó vào 1 ưu tiên — xem [[focus-and-deep-work]] (make-then-manage map vào morning brief, tách thiết bị tiêu thụ/sản xuất).
 
 ## Plugin nền (Obsidian, từ engkhairallah)
 Smart Connections (RAG chat-with-vault) · Templater · Dataview (vault → DB query) · Tasks · **Obsidian Git** (auto-commit, đã bật ✓) · Periodic Notes · **Obsidian CLI 2026** (cầu nối Claude Code ↔ vault, có `obsidian-cli` skill). Steph Ango (CEO Obsidian) ra bộ Claude Skills chính chủ — đang dùng (`obsidian-markdown`, `json-canvas`, `obsidian-bases`).
