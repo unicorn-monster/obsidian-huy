@@ -1,13 +1,9 @@
 ---
-title: "How to Build a Second Brain With Kimi and Obsidian That Works While You Sleep ( Full Course)"
+type: clip
+date: 2026-06-18
 source: "https://x.com/cyrilXBT/status/2067651155623104541"
-author:
-  - "[[@cyrilXBT]]"
-published: 2026-06-18
-created: 2026-06-19
-description: "Most second brains stop the moment you stop typing.You write a note. The note sits in a folder. Six months later you search for it and eithe..."
-tags:
-  - "clippings"
+author: "@cyrilXBT"
+title: "How to Build a Second Brain With Kimi and Obsidian That Works While You Sleep (Full Course)"
 ---
 ![Image](https://pbs.twimg.com/media/HLGmInWWkAAWKts?format=jpg&name=large)
 

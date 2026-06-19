@@ -32,6 +32,11 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 
 ---
 
+## 🛠️ method/meta/ — cách vault tự bồi đắp
+- [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành. Nguồn: cyrilXBT + engkhairallah.
+
+---
+
 ## 🔋 products/ — sự thật từng sản phẩm
 
 ### maxpro — nail grinder (sản phẩm #1)
