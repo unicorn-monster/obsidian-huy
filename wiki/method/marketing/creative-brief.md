@@ -58,6 +58,8 @@ Nguồn: [[orisilver-ai-storyboard-contact-sheet]]. Khó nhất của AI video n
 4. **Sophistication** (thị trường đã NGHE gì) — đừng ép UMP lên stage 1-2 ([[market-awareness]]).
 5. **Awareness** (prospect BIẾT gì) — quyết định copy BẮT ĐẦU ở đâu. *"Sophistication = market đã nghe; Awareness = prospect đã biết."*
 
+→ Audience-diagnosis sâu hơn (cái họ tin KHÔNG phải nguyên nhân = engine sinh belief-shift angle): [[angles]] · [[satishdtc-6-diagnosis-questions-belief-shift]].
+
 ## Educational VSL skeleton (cold, [[lachezarvoynov-educational-vsl-anatomy]])
 VSL TOF mở cold (hair-loss ad chạy từ 12/2024, **40M impression**). Động cơ = **hope**. 6 phần: (1) "educational" dạy 1 *secret process* → reframe problem từ bi-kịch-không-cứu sang quy-trình-khoa-học · (2) hook tạo hope cho người tin "hết cứu" · (3) unique mechanism (thứ chưa thử) · (4) 3D visual "make invisible visible" = proof · (5) sell-against-competition = xử objection trước · (6) **product CUỐI** như giải pháp duy nhất hoàn chỉnh. *"Educational hook → plot twist works vì người ta không ngờ bị bán."* Editing tối quan trọng. MaxPro: reframe "chó untrainable" → quy trình cảm giác (vibration vs clipper-crush), mechanism + 3D quick, sell-against clipper, product cuối.
 

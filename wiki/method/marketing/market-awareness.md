@@ -34,8 +34,8 @@ Nguồn: [[avcanthony-sophistication-ump-match]]. UMP (unique mechanism of the *
 > - **Broad cold = stage 2-3 → lead "quieter/safer/better way"** (mechanism differentiation). KHÔNG ép root-cause sâu. **Quyết định khoá** (user xác nhận).
 > - **Product-aware shopper** (so dB/torque/Casfuy) = stage 4 → mới dùng UMP/UMS ở dưới (segment nhỏ, KHÔNG phải lead cold).
 > - **Clone KittySupps engine** ([[kittysupps-machine]]): chỉ bê *cấu trúc* (persona network, villain stack, deny-sale, staged proof, long-form) — KHÔNG bê độ sâu root-cause. "quick creep" mechanism = **rejected**.
-> - **Senior-mobility** ("tưởng già, thật ra móng") = problem-redefinition = stage 4-5 → **rejected** (falls flat ở stage 2-3).
-> - **Cập nhật 17/06 (VSL $1M ZenPaw):** 1 **UMP keystone defensible** thì GIỮ — clipper crush/splinter → đau *kể cả trim hoàn hảo* (reframe nguyên nhân của nỗi-đau-ĐÃ-CẢM, KHÁC bịa bệnh ẩn chưa-cảm như quick-creep/senior-mobility). Chi tiết [[maxpro-ugly-ads-plan]].
+> - **Senior-mobility** — **RECONCILED 20/06** (was rejected 16/06): TÁCH observable vs invented. ✅ chó *thấy được* ngừng chạy → móng quặp đâm đệm → fixable (VOC-grounded, long-form + nhân vật) = nhóm "nỗi-đau-ĐÃ-CẢM", KHÔNG falls flat (ad thắng [[maxpro-elle-birdie-winning-native]] + ≥3 VOC). ❌ "móng → arthritis/hip/joint-disease/X-ray" = invented = vẫn killed. Chi tiết [[angles]].
+> - **Cập nhật 17/06 (VSL $1M ZenPaw):** 1 **UMP keystone defensible** thì GIỮ — clipper crush/splinter → đau *kể cả trim hoàn hảo* (reframe nguyên nhân của nỗi-đau-ĐÃ-CẢM). [20/06: senior-mobility-*observable* cũng thuộc nhóm "đã-cảm" này; chỉ quick-creep + disease-naming mới là "bịa ẩn chưa-cảm".] Chi tiết [[maxpro-ugly-ads-plan]].
 
 ## UMP / UMS (cốt lõi để tin)
 - **UMP (vì sao khổ):** clipper = **crushing pressure** pinch quick + splinter keratin. Dremel = **sensory overload / acoustic resonance** rung dọc xương, hệ thần kinh đọc như predator threat.

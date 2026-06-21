@@ -15,7 +15,7 @@ Mirror cấu trúc 4-archetype của [[kittysupps-machine]] (~15+ page) → MaxP
 | **Peer** — workhorse (581 ad; Anna 335) | **Elle Zena**, **May Ebert** | Sarah Whitman · Rachel Doyle · Diane Kessler · Paula Crane | #1 Traumatized, #2 Fear-Free, #4 Senior | Confession/relief: *"the bloody towel that made me quit clippers"* | crime-scene · wrestle-couch · FB-screenshot · curled-nail |
 | **Expert** — 170-ad "Speaks The Truth" | — | **Carol the Honest Groomer** · 15 Years Grooming · Ask a Vet Tech · Fear-Free Paws | #2 premium | Groomer/tech tiến cử tool tốt hơn (KHÔNG reveal bệnh) | FB-screenshot · ugly-text · product-image · receipt |
 | **Institution** (207 ad) | **Dog Grooming Tips** | Senior Dog Wellness · The Canine Paw Project · Healthy Hound Journal | tất cả | Report/so sánh = **ladder 4-level của bạn** | comparison · product-image · curled-nail |
-| **Cause/Rescue** (87 ad) | — | **Second Chance Dog Rescue** · Maple Ridge Animal Rescue · Senior Paws Sanctuary | #3 Rescue | Rescue rant + proof donate thật (50% → no-kill) | mega-zoomies · before/after · receipt |
+| **Cause/Rescue** (87 ad) | — | **Second Chance Dog Rescue** · Maple Ridge Animal Rescue · Senior Paws Sanctuary | #3 Rescue | Authority discovery-story do rescue-founder kể (shelter-scale proof) + anti-sedation; donate = closer nhẹ ([[personas]] sửa 20/06) | mega-zoomies · before/after · receipt |
 
 > [!tip] Cause tier ở MaxPro mạnh GẤP ĐÔI KittySupps
 > Brand donate thật cho shelter ([[maxpro-product-truth]]) → persona rescue vừa authentic vừa defensible. Đáng ưu tiên build.
@@ -60,7 +60,7 @@ Mirror cấu trúc 4-archetype của [[kittysupps-machine]] (~15+ page) → MaxP
 - **Ai:** rescue/foster nhỏ, giọng sứ-mệnh.
 - **Bio:** "Foster-based rescue 🐾❤️ Senior & special-needs pups. Every share helps a dog find home."
 - **Pic:** chó rescue / bối cảnh foster — ấm, mission-driven.
-- **Chạy:** rescue rant + before/after (chó sợ → chịu grind) + **proof donate thật** của MaxPro.
+- **Chạy:** authority discovery-story (rescue-founder kể, shelter-scale proof) + anti-sedation + before/after (chó sợ → chịu grind). Donate = closer nhẹ. Pack: [[second-chance-rescue-creative-pack-2026-06-20]].
 
 > [!warning] Ban / warming risk (đọc trước khi chạy)
 > Page MỚI tinh chạy DR aggressive ngày 1 = nam châm hút ban. **Nuôi mỗi page vài post organic trong vài ngày** trước khi flood. Giữ **backup page** trong Business Manager. **Đừng dựng 15 page bây giờ** — network là tài sản để *scale winner* (Phase 2-3), không phải để *đi tìm winner*. Phase 0 = 5 page này.

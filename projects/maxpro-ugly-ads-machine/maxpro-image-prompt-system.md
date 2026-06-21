@@ -13,10 +13,11 @@ Execution ảnh cho [[maxpro-ugly-ads-plan]]. Học từ swipe thật: `/Users/q
 
 Winning ugly = xấu, mộc, thật, khó chịu/đáng báo động → dừng scroll bằng VISUAL, không bằng chữ.
 
-## 3 luật vàng
+## 4 luật vàng
 1. **Ảnh raw vấn đề = hook.** Chủ thể = nỗi đau/sự cố/con vật khó chịu, lấp đầy khung. Như camera-roll thật.
 2. **Chữ = 0 (mặc định).** Nếu có: 1 dòng cực ngắn viết tay/plain HOẶC red circle + arrow. KHÔNG block chữ, KHÔNG typography đẹp.
 3. **Ratio = 1:1 LUÔN.** Mọi prompt kết `square 1:1`.
+4. **CONGRUENT với primary text (quan trọng nhất).** Mỗi ảnh = 1 cảnh/dòng CÓ THẬT trong bài (nhân vật + scene cụ thể: Boone, Sue, muzzle, trazodone, couch...), KHÔNG generic. Ảnh **HERO pair thẳng với hook** (ảnh + 2 dòng đầu đi cặp → reader tự nhận là nhân vật, [[hooks]]). Hook-swap nào → lấy ảnh congruent dòng đó. Khi giao prompt PHẢI ghi cột "congruent với dòng nào".
 
 ## ❌ KHÔNG dùng (đã test, bạn loại)
 - FB-post screenshot mockup (UI giả) — "ugly dạng post"

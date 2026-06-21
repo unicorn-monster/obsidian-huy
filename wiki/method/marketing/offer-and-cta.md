@@ -32,7 +32,7 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 - **Inoculation lock:** "đừng mua bản dropship ship nước ngoài không hoàn tiền" = đập thẳng Heusom ([[maxpro-competitors]]) + lock click về MaxPro.
 - **Risk reversal (điểm mạnh thật):** "$39.95, 99-day, dùng rồi OK, CÔNG TY trả ship về. 1 lần skip groomer là hoàn vốn." Tương phản bẫy Heusom ([[compliance]]).
 - **The cause:** "50% cho no-kill shelter, $40k+, 1,000 chó."
-- Link lặp 2-3x (body + EDIT + P.S.).
+- **Link CHỈ cụm ở CUỐI** (end-CTA + EDIT + P.S. + P.P.S.), lặp 2-3x. **KHÔNG rải link giữa bài.** Bằng chứng verbatim: KittySupps skin ad + winner [[maxpro-elle-birdie-winning-native]] đều giữ link tới ~95% bài rồi mới thả, stack ở đáy. (Note cũ "body + EDIT + P.S." gây hiểu lầm là rải giữa bài → sửa 20/06.)
 
 ## Footer link-caption bank (mỗi cái = mini-hook, xem [[hooks]])
 "She Hasn't Let Me Touch Her Paws in 8 Years. Until This." · "My 11-Yr-Old Ran Again. Her Nails Were Curling Into Her Paws." · "Groomers Don't Want You Owning This ($45 a Visit)" · "I Sedated My Dog 14 Times For Nothing😢".

@@ -9,7 +9,7 @@ Bản đồ vault. **2 trục:** `method/` = cách làm (reusable, mọi sản p
 Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / sourcing mở sau.
 
 ### Strategies (playbook đầy đủ)
-- [[ugly-ads-method]] — playbook long-form native, skeleton 15 beat, voice register
+- [[ugly-ads-method]] — playbook long-form native, skeleton 15 beat + **8-beat primary-text cousin (Mathew Ecommaxxer) + 3 luật override (trace-to-doc / outside-authority mechanism / soft CTA)**, voice register, QA checklist
 - [[kittysupps-machine]] — case study $500k/mo: engine symptom-doorway → 1 mechanism, map sang sản phẩm
 - [[native-ads]] — true-native open web (Taboola): math CTR-first, funnel 3 mảnh, advertorial 6-piece, **7-headline swipe + 3-bucket image test + Reddit Media**, readiness gate $50-100k/mo
 - [[quiz-funnels]] — interactive pre-sell: congruency #1, 4 nguyên lý tâm lý, **close sequence (3-card + pseudo-diagnosis + 5-stage)**, drop-off diagnosis, Web2App
@@ -18,8 +18,8 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 
 ### Building blocks (lắp vào mọi strategy)
 - [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + swipe vet-whistleblower
-- [[angles]] — matrix angle x avatar x persona, winning trio, Life Force 8 + reason-name, urgency defensible, native angle test
-- [[personas]] — persona-network, 4 archetype, matching rule, authority-character
+- [[angles]] — matrix angle x avatar x persona, winning trio, Life Force 8 + reason-name, urgency defensible, native angle test, **belief-shift diagnosis ("cái họ tin KHÔNG phải nguyên nhân")**
+- [[personas]] — persona-network, 4 archetype, matching rule, authority-character, **3rd-party page strategy (DTC Midas)**, **voice-signature blueprint (reusable mọi product)**
 - [[villains]] — framework 3 lớp + authority-demotion dial (3 nấc) + **Three-Mistakes failed-solutions collapse** + 5 villain + 2 landmine
 - [[offer-and-cta]] — offer = perceived value (4 levers), tiered bundle, deny-the-sale, upsell = vũ khí CPA
 - [[market-awareness]] — Schwartz awareness + sophistication ladder (nail = stage 2-3 ✓ chốt 16/06), UMP/UMS, pre-sell theo awareness
@@ -45,7 +45,8 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[maxpro-product-truth]] — spec / offer / proof / ⚠️ giới hạn power
 - [[maxpro-avatars]] — 5 avatar (lead 1+2, avatar 5 power = in-play 17/06)
 - [[maxpro-competitors]] — Heusom (cùng OEM, wedge), Casfuy, LuckyTail, Naigrins
-- [[maxpro-voc-insights]] — 15 VOC cluster theo avatar
+- [[maxpro-voc-insights]] — 17 VOC cluster theo avatar + swipe-bank; full report → [[maxpro-voc-report-2026-06-20]]
+- [[maxpro-pages]] — page system (fill của [[personas]] voice-signature): Elle/May/Carol/Institution/Cause + mirror KittySupps
 
 _Sản phẩm mới: tạo `products/<slug>/`, prefix mỗi trang bằng `<slug>-`._
 
