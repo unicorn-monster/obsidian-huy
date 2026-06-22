@@ -1,5 +1,5 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule]
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions]
 ---
 
 # Native ads (kênh open-web)
@@ -47,6 +47,25 @@ Rules: byline + publication frame thật, 2-3 ảnh "stock editorial" (không pr
 
 > [!note] Hai trường phái advertorial (ngược register)
 > Jan (true native) = **editorial-informational** ~600-900 từ, byline/publication, calm, mechanism-education. KittySupps native-style FB ([[ugly-ads-method]]) = **unhinged-personal-confession** ~3,110 từ, persona page, raw/chửi, emotional story. Cùng tên "advertorial" nhưng **ngược register** — vì khác audience state: article-reader calm vs feed-scroller emotional. Chọn register theo kênh. (Lưu ý: Jan tự mâu thuẫn số từ — "600-900" ở 2 chỗ, "1000-1800" ở 1 chỗ; native vẫn ngắn hơn FB long-form nhiều.)
+
+## Mechanism rewrite = nơi sale thật sự xảy ra (1 section → profitable 48h) ⭐
+[[advertising-jan-advertorial-rewrite-48h-profitable]]: campaign joint-brand lỗ 3 tuần, founder định kill về Meta. Jan **rewrite ĐÚNG 1 section** advertorial → profitable trong **48h**. Đây là bằng-chứng cụ-thể nhất cho **piece 3 (Mechanism)** của 6-piece + new-mechanism rule — đáng nội-hoá nguyên văn:
+- **Losing copy** (commodity, reader đã thấy trên 50 page khác): *"Our formula combines glucosamine, turmeric and MSM to support healthy, flexible joints."* → no new belief → no reason to buy today.
+- **Winning rewrite** (đặt lại **NGUYÊN NHÂN**): *"Most knee pain after 50 isn't worn cartilage. It's the thinning of the fluid that cushions the joint. That's why glucosamine alone keeps failing — it's aimed at the wrong target."* → reader nghĩ *"that's why nothing has worked for me"* → product thành **the fix for the actual cause**, không phải "one more option".
+- **Diagnosis vì sao click không convert:** click luôn có sẵn, product luôn chạy — thiếu là **belief**. Reader đã nghe cùng một "cause" mòn trong mọi ad → cho rằng vấn đề của mình là **vĩnh viễn**. Trao 1 *nguyên nhân mới, credible, giải-thích-được-điều-họ-sống-cùng-nhiều-năm* → cùng click đó bắt đầu convert.
+- **Vì sao native thưởng cái này:** "everyone else testing their 40th creative; brands quietly scaling are rewriting THIS one section — almost nobody looks there." (= obsession-test-creative bỏ lỡ chỗ sale thật.)
+- ⚠️ **Guardrail (Jan tự nhấn):** *"the cause you name has to be real and provable"* — mechanism nghe-hay-nhưng-BS không scale dài hạn (= [[compliance]] defensible). **MaxPro đã có UMP đúng dạng này:** "đau không phải vì quick — clipper **crush/splinter** keratin nên đau **kể cả trim hoàn hảo**" ([[maxpro-ugly-ads-plan]] UMP keystone) — đây chính là "wrong target" reframe, defensible. Engine sinh reframe: [[angles]] belief-shift + [[satishdtc-6-diagnosis-questions-belief-shift]].
+
+## Bằng chứng scale: advertorial là asset compounding (impression cases)
+3 teardown Jan cho thấy advertorial thắng **scale impression đều, ít cần đụng**, miễn copy hit:
+- [[advertising-jan-advertorial-100k-300k-impressions]]: **100k → 300k impression / 2 tháng**, nothing-but-native, **4-min avg session** (copy "really hits"). Jan: *"study this funnel, it's a goldmine."*
+- [[advertising-jan-advertorial-authority-2m-impressions]]: **1.1M → 2.7M impression / 1 tháng** — **authority angle** ăn đặc biệt mạnh trên native. → tie [[personas]] authority-character + [[angles]]; "discovery-story/authority" register hợp native-reader calm (khác unhinged-confession của FB ugly-ads). MaxPro authority advertorial: groomer/vet-tech 15 năm reframe clipper (Carol the Honest Groomer [[maxpro-pages]]).
+- Cùng pattern với hearing-aid evergreen >1 năm ([[advertising-jan-hearing-aid-advertorial-evergreen]]) đã có: 1 advertorial đúng = **đường ray scale dài**, đối lập creative-churn của Meta ([[media-buying]]).
+
+## "Never rely on Meta" — native có account-manager (lý do hệ thống, không chỉ ROAS)
+[[advertising-jan-native-vs-meta-argument]]: lập luận **đổi kênh vì rủi-ro nền-tảng**, không chỉ hiệu suất. Trên native bạn có **personal account manager** (Jan có cả WhatsApp) — gọi hỏi vì sao ad bị reject, họ gửi report "làm gì khác đi"; **no account ban, no restriction**. Meta *"do whatever they want, don't give a fuck about you"*. Jan: brand >$100k/mo chưa-nghĩ-tới native nên reconsider.
+> [!note] Cân với readiness gate ở đầu trang — đừng mâu thuẫn
+> Đây vẫn **đồng nhất** với gate $50-100k/mo: Jan target brand đã scale. Với Huy ($100k/NĂM, đang Meta-static) lấy **bài học rủi-ro-nền-tảng** (đa-kênh, đừng all-in 1 platform) + **giữ brand/PDP sạch để không bị ban** ([[compliance]]) — chưa phải tín hiệu mở Taboola tuần này. Diversify-khi-đủ-điều-kiện, không phải bỏ Meta ngay.
 
 ## TOF engine — làm kênh khác rẻ đi
 Native không chỉ standalone. Nó (1) mở upper-funnel reach Meta không chạm nổi at scale, (2) **flood retargeting pool bằng warm traffic** → convert trên Meta/Google ở CPA thấp hơn. *"Native isn't just a channel — it's a top-of-funnel engine that makes every other channel cheaper."* Đây là phần đa số operator bỏ lỡ.

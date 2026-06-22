@@ -1,5 +1,5 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook]
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl]
 ---
 
 # Media buying + testing (Meta 2026)
@@ -16,6 +16,18 @@ Nguồn: [[nkecom-meta-launch-playbook-2026]] (media buyer, $1m+/mo, launch gầ
 - AI static ad rẻ → volume gần như free. Launch Jan 1: **toàn bộ static AI**, tung 50, chỉ ad thứ **48** ăn spend.
 - Launch 5 ads = bị người launch 50 vượt mặt mỗi lần.
 - **Tip: 10 ads / awareness stage** → [[market-awareness]].
+
+## "Digital darwinism" — AI volume = bảng đấu mới (0xROAS, 3 confirm) ⭐
+Cùng thesis "flood ads" ở trên, 3 post 0xROAS làm sắc + cho con số:
+- **Volume bench thật ([[0xroas-resilia-3300-ads-ai-volume]]):** Resilia chạy **~3,300 active ads**. *"if you're not using AI to generate ads you're leaving money on the table — competitors out-test, out-scale, bury you with volume you can't compete with. This is digital darwinism."* → đối thủ scale đang chơi ở thang volume này; 50-ad flood của nkecom là **sàn**, không phải trần.
+- **Throughput ([[0xroas-50-statics-20-mins-ai]]):** *"spin up 50 statics in <20 min with AI"* → cost-per-creative ~0 = volume gần free (đúng "AI static rẻ → volume free" ở trên). Bottleneck dịch từ *sản-xuất* sang *test-design + kill-speed* ([[creative-testing]]).
+- ⚠️ **Cảnh báo slop:** cả 2 post bán "AI UGC guide" và đều nhấn video *"don't look like slop"* — volume KHÔNG cứu creative dở; vẫn cần hook/angle thắng ([[hooks]], [[angles]]) rồi mới nhân volume. Volume khuếch đại winner, không tạo winner.
+
+## Format đang ăn spend 2026 — AI cho phép MỌI format
+- **Drama ads + bất kỳ format ([[0xroas-drama-ads-ai-format-list]]):** *"new drama ADS are crushing on FB"* — AI làm được hết: **podcast · street-interview · drama · doctor/authority · whatever.** "Easiest + best time to create and scale content."
+- **Top-spender formats ([[dtcmidas-meta-ai-animation-yapper-vsl]]):** DTC Midas — *"Meta is doing perfectly fine"*; phần lớn top-spender chạy **AI animation ads + "yapper"-style VSL** (KHÔNG cần AI-doctor/AI-UGC). → 2 format đáng thử bên cạnh static: **AI animation** (≈ cartoon-creative [[creative-brief]]) + **yapper VSL** (talking-head độc thoại; ⚠️ AI-people → NY disclosure [[compliance]]). Phản-chứng cho "Meta đang chết" — Meta vẫn fine cho người chịu test format mới.
+> [!note] Đối trọng với [[google-ads]] / [[native-ads]]
+> Mấy post này lạc-quan Meta + AI-volume; [[google-ads]] (eCom_Amin) + [[native-ads]] (Jan) lại đẩy *rời* Meta vì fatigue/platform-risk. Không phải mâu thuẫn để chọn 1 — Meta = test-bed rẻ tìm angle/format thắng (volume); rồi **diversify** sang search-intent + native để bớt lệ-thuộc. Giữ cả hai.
 
 ## Test budget
 - **$150-200 để biết kết quả.** Min $50/day (beginner), tác giả thích $200/day. Set go-live lúc nửa đêm.

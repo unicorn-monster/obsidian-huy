@@ -1,5 +1,5 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm]
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax]
 ---
 
 # Google Ads (kênh search-intent)
@@ -12,7 +12,7 @@ Nguồn: [[ecomamin-google-ads-pet-store-1m]], [[ecomamin-google-ads-57k-to-1.2m
 ## Khác Meta: Google THƯỞNG sản phẩm tốt
 *"Facebook lets you scale garbage with great creative. Google doesn't."* Cold tới qua search có intent thật → product phải giao thật, refund giết. Amin pet refund 2-3% (industry 8-12%). → khớp [[maxpro-product-truth]] limit + [[compliance]]. Prereq: product thật + margin 40%+ + market có người search sẵn + budget test $5-8k/mo (đừng "test $500").
 
-**Rented vs built (eCom_Amin's origin, [[ecomamin-pet-brand-1m-google-at-19]]):** anh bỏ Meta sau 2 năm *"winning creative → fatigue → ROAS sập → chase hook mới → lặp"*, scale pet brand đầu lên **$1M ở tuổi 19 CHỈ bằng Google Shopping**. *"meta is a rented audience... quality scores don't compound... you're starting from zero. google is built infrastructure."* + *"a meta account temporarily better; a google account permanently better."* Search CVR **6-8% vs Meta cold 1-2%**. → phản-đề cho obsession Meta-static đang build.
+**Rented vs built (eCom_Amin's origin, [[ecomamin-pet-brand-1m-google-at-19]]; greentext-version [[ecomamin-meta-to-google-1m-at-19]]):** anh bỏ Meta sau 2 năm *"winning creative → fatigue → ROAS sập → chase hook mới → lặp"* (xem 3 brand chết cùng kiểu), thử Google brand #4 *"out of pure desperation"* — *"someone searches 'best dog harness for pulling' and just buys"*, check dashboard 1 lần/ngày thay vì 10 → scale pet brand đầu lên **$1M ở tuổi 19 CHỈ bằng Google Shopping**. *"meta is a rented audience... quality scores don't compound... you're starting from zero. google is built infrastructure."* + *"a meta account temporarily better; a google account permanently better."* Search CVR **6-8% vs Meta cold 1-2%**. → phản-đề cho obsession Meta-static đang build.
 
 ## Market arbitrage (đánh chỗ ít cạnh tranh)
 US = bloodbath, CPC $3-8. **UK / AU / NZ / Ireland**: GDP/capita gần bằng, English, **70% ít cạnh tranh hơn**, CPC $0.40-1.50. Same buyer, fraction cost. Pet UK: CAC £18, AOV £52, LTV £140 → 3x ROAS first-purchase, 8x LTV:CAC. AU health: 21x ROAS / 9 tháng / $57k→$1.21M.
@@ -58,6 +58,24 @@ Start simple (3 campaign, £100/day), add complexity khi có data. KHÔNG build 
 
 ## Đã test & GIẾT
 YouTube action cho high-ticket (1.2x) · broad match (google match "free pain relief", ROAS 6→2.8) · PMax không exclude brand (ăn thịt brand campaign 18x) · auto-bid từ ngày 1 (0.8x). **Lesson: manual CPC lấy data → RỒI mới target ROAS** (algorithm cần data mới chạy).
+
+## Demand Gen = cold-traffic machine (branded-only → $24k→$75k/30d) — [[ecomamin-demand-gen-24k-75k-30days]]
+Khi account chỉ chạy **branded** (bắt demand sẵn), Demand Gen mở **cold** trên Google/YouTube/Gmail/Discover. Amin: $24k→**$75k/mo, 6.92 ROAS, 30 ngày** (origin $20M+ agency). Playbook:
+- **Bước 0 — Meta creative audit TRƯỚC (3 ngày):** lục Meta Ads Manager, sort mọi creative 12 tháng theo **purchase ROAS**, tìm **1 hook-pattern mà top-8 cùng có**. (Cùng "sort by impressions / clone winner" [[media-buying]] — dùng Meta làm mỏ insight cho Google.)
+- **8 winner → 40+ Google asset:** feed top static vào ChatGPT Images 2.0 (30-40 biến thể) · reformat video thắng sang 9:16 · animate ảnh tốt nhất bằng Seedance 2.0. (= AI volume [[creative-brief]], [[media-buying]].)
+- **2-campaign structure:** **prospecting 70%** budget + **custom-intent audience** · **retargeting 30%** + creative social-proof-led.
+- **Audience thắng in-market ~40%:** build **custom-intent từ top-20 purchase-driving search terms** thay vì broad in-market segment. (Specificity thắng — cùng tinh thần breed-cluster ở trên.)
+- **4-week scaling cycle:** $140/day → $700/day theo **~30% increment**, có kill/scale threshold theo ngày.
+→ **MaxPro/pet:** nếu bắt đầu branded/Shopping rồi muốn cold-scale, đây là đường đi; nhưng audit-creative + custom-intent cần đã có data Meta + search-term. Sớm hơn thì ưu tiên Shopping feed + listicle ([[presell-pages]]).
+
+## Impression-share headroom — scale ĐÃ mua sẵn, bị PMax giấu (Ruslan Galba) ⭐
+[[iamgalba-impression-share-headroom-pmax]]: đòn scale **rẻ nhất** không phải creative/audience/offer mới — là **cho winner đã-chứng-minh room để hiện**. Insight: mọi người watch ROAS, **gần như không ai check impression share (IS)** — số "underread nhất account".
+- **Case:** SKU top **4.6x ROAS** nhưng **IS chỉ 10%** → Google chỉ serve 1/10 search đủ điều kiện; 9 phần còn lại về tay đối thủ product kém hơn + budget to hơn. Pattern lặp qua **20+ brand**: **campaign ROAS cao nhất thường có IS thấp nhất** (4.6x@10% · branded 2.85x@40% bị pause). *"Losers getting all the visibility, winners getting starved."*
+- **Vì sao PMax làm tệ hơn:** bundle SKU mạnh + yếu, rải budget mỏng khắp đống, report **1 số blended** trông ổn → che việc hero đang đói còn SKU chết ăn impression của nó. (Củng cố luật cũ: **PMax phải exclude brand** + tách campaign; giờ thêm lý do — tách để winner không bị SKU yếu kéo bid.)
+- **Headroom math:** `Headroom = (100% − IS hiện tại) × revenue hiện tại`. SKU 10% IS = **90% revenue còn trên bàn** ở product đã prove convert. Combined 3 campaign 1 account = **$30k+/mo** untapped, **0 creative/audience/offer mới**.
+- **Audit 10 phút (chạy mọi account mới):** (1) export search-terms 30 ngày · (2) sort theo conversion value desc · (3) top-10 product pull IS · (4) **flag: ROAS >2x VÀ IS <40%** = đòn scale rẻ nhất. Nguyên nhân thường gặp: budget share quá nhiều product · PMax bundle mạnh-yếu · bid-strategy cap vì loser kéo trung bình xuống.
+- **Fix:** **isolate** product high-ROAS/low-IS ra **campaign riêng + budget riêng + target-IS floor**. "Give the winner room instead of making it fight its own losers for spend."
+→ **MaxPro/pet:** khi Shopping chạy, đừng chỉ nhìn ROAS — pull **impression share** cho SKU MaxPro; nếu ROAS tốt mà IS thấp, tách campaign riêng + đẩy budget/target-IS TRƯỚC khi đẻ creative mới. Khớp [[ecomamin-google-ads-pet-store-1m]] feed-first + 7-campaign isolation ở trên.
 
 ## 9 funnel-type × search-intent (1 funnel ≠ đủ)
 Nguồn: [[ecomamin-google-ads-funnel-types]]. Account 8x chạy 5-7 funnel cùng lúc, mỗi cái 1 layer intent. Format chi tiết → [[presell-pages]].

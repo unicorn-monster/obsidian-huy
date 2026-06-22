@@ -1,5 +1,5 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe]
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits]
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -58,6 +58,29 @@ Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tớ
 - **Cost expansion:** đẩy pain từ cảm giác → **chi phí cụ thể** (career/tiền/thời gian) TRƯỚC hope. *"Pain in your head is ignorable. Pain in your wallet is not."*
 - **Hope-injection interstitial:** ngay sau đỉnh pain, chèn stat reframe flaw → superpower ("87% of overthinkers more empathetic") — đặt **giữa cluster**, không cuối (= "comfort before offer" #4, đúng timing).
 - **Doctor Question:** 1 câu triệu chứng siêu cụ thể (tụt năng lượng 3pm) → "finally someone gets me" → trust (= congruency #3 dạng câu hỏi).
+
+## Question-charge — mỗi câu PHẢI khuếch đại problem (DTC_Quizbuilder)
+[[dtcquizbuilder-quiz-emotional-charge-questions]]: lỗi phổ biến = quiz "let people off the hook" — hỏi *"what's your goal?"* rồi nhảy thẳng *"here's the fix!"*. Câu hỏi không emotionally-charged → 0 lý do mua. Luật: **mỗi câu làm problem to HƠN, không nhỏ đi**, rồi show offer đúng lúc problem feel huge nhất ("emotional climax"). Đây là cách vận-hành cụ-thể của IM8 #3 (*answers presuppose problem*) + "twist the knife" — biến nguyên-lý thành cách viết từng câu:
+- Weak *"How's your energy lately?"* → Strong *"How many days this week did you drag yourself through on empty?"*
+- Weak *"Want better sleep?"* → Strong *"How long have you been waking up tired no matter how early you went to bed?"*
+- Cùng topic, nhưng câu strong ép user **đo lường** nỗi đau (số ngày, bao lâu) → mỗi đáp án khắc sâu thêm. Skincare brand: scale quiz revenue **+81% / 40 ngày** chỉ nhờ catch họ ở cuối khi problem urgent nhất (cùng case-number với "emotional climax" của [[dtcquizbuilder-im8-quiz-teardown]] dòng cũ — 2 post cùng tác giả, cùng kết quả). MaxPro: thay *"chó bạn có ngại cắt móng?"* → *"Mấy lần lần cuối bạn phải bỏ cuộc giữa chừng vì nó giãy?"* / *"Bao lâu rồi bạn né hẳn việc cắt móng ở nhà?"*.
+
+## Positive-outcome framing > problem-lead (khi traffic ĐÃ burned) — 648% ⭐
+[[dtcquizbuilder-positive-framing-648-pct-rev]]: **+648% rev / 3 tháng** chỉ từ lật framing **mấy câu ĐẦU** từ negative (problem-first) sang positive (outcome-first). Lý do quan trọng — chỉ áp đúng điều kiện:
+- **Điều kiện:** traffic đã **burned** — đã thử "miracle solutions", thậm chí đã mua brand bán **cùng mechanism**. Tới quiz là họ đã *thầm quyết "nó sẽ không hiệu quả"*. Lead-with-problem ở đây = **xác nhận** đúng cái họ đã cảm → bỏ ngang.
+- **Fix:** mở bằng *nơi họ ước được tới* + *vì sao khả thi* ("becoming their past self again") thay vì "meet them at the problem". 2 hệ quả: (1) **completion tăng** — họ ở lại để xem mình *tới đó bằng cách nào*; (2) khi mechanism xuất hiện (vì sao cái này thắng những cái đã fail họ) **họ đã sold** → AOV cao hơn (lock-in upfront).
+
+> [!warning] Mâu thuẫn với "twist the knife" / question-charge ở trên — RESOLVE theo awareness
+> Hai post cùng tác giả nói **ngược nhau** về câu đầu: post này = mở *positive/outcome*; post emotional-charge ở trên = mỗi câu *amplify problem*. KHÔNG phải lỗi — là **2 audience-state khác nhau**, mở rộng callout "Sequencing nuance vs guilt-lead" đã có:
+> - **Cold / chưa-burned / mới-problem-aware** → amplify problem (twist knife) hiệu quả: họ chưa "bỏ cuộc", cần *cảm* vấn đề mới mua.
+> - **Burned / đã-thử-hết / solution-aware** → problem-lead = confirm thất bại → flip sang outcome-first để mở lại hope. (Cùng tinh thần "positive desire before negative admission" IM8 #2, nhưng đẩy xa hơn: với burned-traffic thì **bỏ luôn** negative ở đầu.)
+> → Chẩn đoán traffic-state TRƯỚC (đến từ ad nào, đã thử gì) rồi mới chọn framing câu đầu. Tie [[market-awareness]] (Schwartz) + [[angles]] (belief-shift "cái đã thử không phải nguyên nhân").
+
+## Gender-segment từ step 1 (niche phân hoá mạnh) — Moerie
+[[dtcquizbuilder-moerie-hair-quiz-gender-segment]] (Moerie, hair, Bioma hold-co — "ripping"): khi funnel **nam vs nữ khác hẳn** (hair-care, hormonal, weight…), tách 2 quiz-funnel ngay **step 1** bằng câu gender → mỗi nhánh đi đường riêng (pain, desire, proof, offer khác nhau). Rẻ và sớm hơn nhiều so với cố nhồi 1 funnel cho cả 2. (MaxPro pet = ít phân hoá theo gender owner; nhưng phân hoá mạnh theo **breed-size / nail-color / tình-trạng** — cùng nguyên lý "rẽ nhánh sớm theo biến quyết định khác biệt", route như section "Cho MaxPro" dưới.)
+
+## Quiz = traffic-scale thật ở mass-health (proof-point)
+[[dtcquizbuilder-testosterone-quiz-9m-visits]]: 1 testosterone quiz-funnel = **9.9M visit/tháng** (giúp đàn ông cải thiện testosterone). Cùng cụm bằng-chứng "quiz scale tới 8-15M visit/mo" ở swipe bank dưới (Javvy/Mars/Lunavia/walk-fit) → xác nhận quiz là format scale-được ở mass-pain (men's-health, weight, hair), KHÔNG phải tactic nhỏ. Củng cố thesis "funnel là chỗ còn arbitrage" đầu trang.
 
 ## Swipe bank — quiz funnel sống (StefanGeorgi thread)
 [[stefangeorgi-quiz-funnel-swipe]] (StefanBrain CRO gom ví dụ): javvycoffee.com/qpc · mengotomars.com/pages/quiz-v6 (= Mars trên) · get.mylunavia.com (nail-fungus) · tour.reverse.health · try-spartan.com/lead-sp3 · madmuscles.com · walk-fit.io — 8-15M visit/mo. Tool clone 1:1: **clarflow.com** (AI quiz builder DTC).

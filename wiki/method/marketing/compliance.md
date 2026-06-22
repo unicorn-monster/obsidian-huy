@@ -1,5 +1,5 @@
 ---
-sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures]
+sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures, dtcmidas-shopify-payments-not-banned]
 ---
 
 # Compliance: defensible vs fabricated
@@ -30,6 +30,14 @@ Khác mảng FTC/evidence trên; đây là policy ad-platform cho presell ([[pre
 - ⚠️ **Ảnh AI (ChatGPT/DALL-E/Sora) đang bị Google flag.** Context = **Google** (Demand Gen/native); **Meta vẫn flood AI static OK** ([[media-buying]]) — đừng hoảng với chiến lược AI image bên FB ([[creative-brief]]).
 - ⚠️ **AI-generated PEOPLE phải disclose — NY law hiệu lực 09/06/2026.** Khác bullet trên (đó = policy nền tảng); đây = **luật bang Mỹ**. Quảng cáo dùng *người* do AI sinh ra (AI-UGC creator, face, avatar, talking-head spokesperson) hiển thị cho người NY phải dán nhãn disclosure. Phân biệt: ảnh **sản phẩm/cảnh** AI không có người = chưa dính; **AI avatar/UGC** = dính → ảnh hưởng trực tiếp AI-avatar/Resilia-style production ở [[creative-brief]]. Quan trọng cho ai chạy AI UGC. Nguồn: [[alexgoughcooper-static-ads-8-rules-newsletter]].
 - ⚠️ **Sweepstakes / spin-to-win** ([[maxwellcopy-sweepstakes-offer-legal]]): "prints" nhưng hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng hoặc né. → [[offer-and-cta]].
+
+## Không bị ban Shopify Payments — 4 việc cơ bản ([[dtcmidas-shopify-payments-not-banned]])
+DTC Midas: *"It's not that hard to not get banned from Shopify payments"* — payment-processor survival (khác FTC/ad-platform trên; mất Shopify Payments = chặn đứng doanh thu):
+1. **Ship the product** (đừng giữ tiền không giao).
+2. **Đừng promise cái không deliver được** (= cùng "defensible, không over-claim" của cả trang — over-promise sinh chargeback/dispute, processor phạt).
+3. **Customer service tốt** (giảm dispute trước khi thành chargeback).
+4. **Sub phải cancel DỄ** — không bắt qua flow lằng nhằng. (Khớp [[email-marketing]] SUB-2: cancel khó = churn + resentment + dispute; cả 2 đều thắng khi cancel dễ.)
+→ Làm đúng = "easier and more fun, focus on growth thay vì cãi nhau với payment processor". MaxPro: 99-day **company-paid** return + grind-and-release dễ + giao hàng thật = đã đứng đúng phía. Chargeback-rate là KPI sống-còn ẩn (Google refund-rate [[google-ads]] cùng tinh thần: sản phẩm/CS thật bảo vệ cả ad-account lẫn payment-account).
 
 ## Teardown đỏ — claim mạnh học cấu trúc, KHÔNG bê claim
 3 teardown native ([[advertising-jan-hearing-aid-advertorial-evergreen]] · [[fotw-bencivenga-listicle-collagen]] · [[advertising-jan-derila-ergo-native-funnel]]) xài stack claim hung: "As Advertised On ABC/FOX/NBC", "70% increase in bone mineral density", Johns Hopkins, doctor-voice, fear cognitive-decline. Học **cấu trúc** (belief-shift, proof-stack, format editorial), KHÔNG bê claim — đúng loại false-evidence / health-claim Meta+FTC soi. **Native quality-score rule** ([[advertising-jan-7-native-headline-structures]]): headline hứa gì advertorial PHẢI giao — clickbait không match → Taboola/Outbrain **bóp reach**. Cùng tinh thần "1 UMP keystone defensible" của [[market-awareness]].
