@@ -19,9 +19,9 @@ Bạn farm post mới từ các X/Twitter account vào `inbox/` của vault này
 | @eCom_Amin | Google ads / pet store (sát goal $100k pet) |
 
 ## Process
-1. **Discover tool:** `ToolSearch` query `"apify"` / `"tweet"` / `"twitter"` để tìm tool chạy Apify actor. Actor X gợi ý: `apidojo/tweet-scraper` (Tweet Scraper V2) — nhưng confirm qua search-actors lúc chạy, ĐỪNG hardcode tên `mcp__...`.
+1. **Actor (chốt 2026-06-22 sau test):** dùng **`danek/twitter-scraper-ppr`** qua `call-actor`, gọi **1 lần/handle**: `{"username":"<handle>","max_posts":N}` (normal N=15; nếu prompt có `SEED:` → N=40). ⚠️ KHÔNG dùng `apidojo/tweet-scraper` — nó trả `noResults` (hỏng lúc test). Đọc kết quả bằng `get-dataset-items` với `fields="text,created_at,tweet_id,author.screen_name,lang,retweeted_tweet.tweet_id"`, `clean=true`. Actor KHÔNG lọc ngày → lọc ở bước 2.
 2. **Fetch:** mỗi handle lấy tweet **48h** gần nhất. Nếu prompt chứa `SEED: <window>` → dùng window đó thay 48h (chỉ cho backfill thủ công, KHÔNG cho scheduled run).
-3. **Dedup:** mỗi tweet lấy URL của nó. Nếu URL đã xuất hiện trong bất kỳ `sources/*.md` (grep), HOẶC đã có file cùng slug → BỎ QUA. (KHÔNG dùng `inbox/` làm mốc — `/ingest` dọn rỗng nó.)
+3. **Dedup:** dựng URL `https://x.com/<author.screen_name>/status/<tweet_id>`. Nếu `<tweet_id>` đã có trong bất kỳ `sources/*.md` (grep tweet_id), HOẶC đã có file cùng slug → BỎ QUA. (KHÔNG dùng `inbox/` làm mốc — `/ingest` dọn rỗng nó.)
 4. **Skip nếu rỗng:** không tweet mới qua filter → thoát sạch, không ghi.
 5. **Ghi mỗi tweet/thread 1 file vào `inbox/`** bằng **Write tool** (TUYỆT ĐỐI không shell redirect/here-doc — trigger heuristic bảo mật, ép Allow). Tên `<YYYY-MM-DD>-<handle>-<slug-3-5-từ>.md`:
    ```yaml
