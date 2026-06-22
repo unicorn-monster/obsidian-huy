@@ -294,4 +294,5 @@ Chỉ video đúng chủ đề marketing/ecom. Bỏ vlog/off-topic.
 ## 📝 Scratch / pending inputs
 - ⏳ **Tối 2026-06-22:** user đưa danh sách **X handles** + **YouTube channels** để điền watchlist Task 2.2 + 2.3.
 - DECISION B (cloud) xác nhận lần cuối ở Phase 3.
-- **2026-06-22 Apify connect:** OAuth thành công ở **Claude Desktop app**. NHƯNG session Claude Code này chưa load tool (ToolSearch "apify" rỗng; MCP load lúc session start). → **Restart session** để probe actor. Cloud-inherit vẫn TBD (Phase 3 test).
+- **2026-06-22 Apify:** `claude mcp list` xác nhận **`claude.ai Apify ✔ Connected`** = claude.ai connector → cloud routine SẼ inherit được (gỡ lo DECISION B, lean cloud OK). NHƯNG session đang chạy chưa enumerate tool Apify (resume giữ catalog cũ; ToolSearch "apify" rỗng) → cần **fresh session** (không phải resume) để probe actor + seed. Farmer tự discover tool lúc chạy nên viết được trước.
+- **2026-06-22 x-accounts-farmer ✅ viết xong** (`.claude/agents/x-accounts-farmer.md`), watchlist 6 handle: maxwellcopy, DTCMidas, DTC_Quizbuilder, advertising_jan, 0xROAS, eCom_Amin. CHƯA test (chờ fresh session để probe Apify + seed).
