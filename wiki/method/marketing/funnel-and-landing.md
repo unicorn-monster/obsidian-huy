@@ -57,6 +57,9 @@ Schwartz: cold/less-aware KHÔNG đi thẳng PDP được ([[market-awareness]])
 
 → **Build chi tiết 4 format** (wireframe section-by-section, CTA placement system, speed, cadence, benchmark CTR 8-18%): [[presell-pages]].
 
+> [!note] Listicle có 2 SLOT trong funnel (HookRate taxonomy)
+> Nguồn [[x-advertorial-listicle-funnel-placement]]: listicle chạy được 2 chỗ — (1) **cold front-end** `ad > listicle > pdp` (warm prospect trước PDP) và (2) **retargeting layer** `rtg listicle` (re-engage người đã xem advertorial→PDP mà bounce). Slot retarget = xác nhận listicle/comparison là format **warm-traffic** (khớp bảng format [[presell-pages]]). Full menu funnel-architecture (advertorial/quiz/vsl/listicle/low-ticket-FE) ở source. Account theo dõi tactic: @hookrate_, @Aducate, @DTC_Quizbuilder.
+
 ## Listicle pre-sell (7 reasons) — cấu trúc Carl
 Nguồn: [[carlweische-presell-listicle-7reasons]].
 1. **Headline:** *"7 reasons over [X] [audience] choose [product] [to achieve result]"* = social proof + promise gộp.

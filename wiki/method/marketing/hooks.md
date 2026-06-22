@@ -35,7 +35,7 @@ Link headline = mini-hook riêng, đo được theo số ad ([[kittysupps-adlib-
 Delta: hook flagship "I don't give a f\*k / nobody who owns a cat" giờ chỉ ~3-4% corpus — đã đa dạng hoá mạnh, đừng bám 1 hook. Engine: [[kittysupps-machine]].
 
 ## Native headline (open-web) = pre-filter + curiosity gap
-Khác FB primary-text (story 2 dòng ở trên). True-native headline ([[native-ads]]) chỉ làm 2 việc: **pre-filter** (ai nên click) + **curiosity gap** (có thứ bạn chưa biết), KHÔNG hé sản phẩm. Vd "Android users: there's a security setting most people never change." → iPhone scroll qua, Android click. Rule: số cụ thể ("73 year old" > "elderly"), callout audience/condition, curiosity gap không hype.
+Khác FB primary-text (story 2 dòng ở trên). True-native headline ([[native-ads]]) chỉ làm 2 việc: **pre-filter** (ai nên click) + **curiosity gap** (có thứ bạn chưa biết), KHÔNG hé sản phẩm. Vd "Android users: there's a security setting most people never change." → iPhone scroll qua, Android click. Rule: số cụ thể ("73 year old" > "elderly"), callout audience/condition, curiosity gap không hype. **Rule of thumb (advertising-jan): "new and a bit weird"** — prospect đã thử mọi cách quen → familiar = scroll; góc mới-lạ kích FOMO ("lỡ đây là cái mình chưa thử?") → click. Chi tiết → [[native-ads]] §new-and-weird.
 
 ## Swipe — vet-whistleblower confession (dog dental)
 Nguồn: [[ecomtable-dental-hooks-swipe]] (4 ảnh trong `ecomtable-dental-hooks-images/`). 4 biến thể cùng 1 persona-page "Health Dog Experts" (Sponsored), product răng miệng chó. Đòn bẩy = **chết/grief** + chuyên gia trục lợi. Verbatim 2 dòng đầu (cái quyết định click):

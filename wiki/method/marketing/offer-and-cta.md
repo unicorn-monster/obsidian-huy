@@ -9,6 +9,22 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 - **4 lever value** (Hormozi value equation): (1) **Dream outcome** (càng visceral càng tốt) · (2) **Perceived likelihood** (proof / UGC / review / guarantee) · (3) **Time delay** (nhanh = giá trị hơn) · (4) **Effort/sacrifice** (càng ít càng tốt). Value = (1×2) ÷ (3×4).
 - → MaxPro: dream = "chó ngủ gật khi cắt móng" · likelihood = 18,587 review + charity · time = "vài phút, tuần 1 đã khác" · effort = grind-and-release dễ ([[maxpro-product-truth]]).
 
+## 6-component offer framework (rubinov — engineer, đừng "thêm discount")
+Nguồn: [[rubiinov-opus-offer-engineering]]. "buy 1 get 10% / free ship >$50 / 30-day returns" = **terms & conditions, không phải offer** — chỉ ưu đãi người vốn đã mua. Offer thật = **đổi decision calculus của người đang lưỡng lự** từ "maybe later" → "không mua giờ là mất thật". Cùng product/ad có thể $22k vs $340k/mo chỉ khác offer construction. Best offer chạm **≥4 trong 6** thành phần (bổ trợ 4-lever Hormozi ở trên — đây là "lắp ráp", lever là "đo lường"):
+1. **Unique mechanism** — thứ có TÊN làm product khác loại, khách không so vitamin-vs-vitamin mà so mechanism. = [[angles]] new-mechanism + UMP [[market-awareness]]. *MaxPro đã có: crush/splinter reframe ([[maxpro-ugly-ads-plan]] UMP keystone).*
+2. **Bundle construction** — sub-discount (tháng đầu -40÷60% hạ friction trial) · bundle (AOV ↑ không tăng perceived spend) · quarterly prepay (cash-flow + khoá LTV). = bảng tiered dưới.
+3. **Risk reversal** — KHÔNG "30-day money-back" chung chung; nhắm ĐÚNG nỗi sợ cụ thể. *"không thấy khác trong 21 ngày → refund + $20 gift card vì làm phí thời gian bạn."* **Đây là lever variance cao nhất** (xem testing). *MaxPro: nhắm sợ "tôi sẽ làm nó chảy máu" → "dùng thử, công ty trả ship về" + 99-day ([[compliance]]).*
+4. **Urgency that's real** — fake countdown giờ = skepticism trigger. Dùng cái thật: batch nhỏ ("batch này 80% claimed") · sub-cohort ("đợt giao sau đóng thứ Sáu") · formula-update. = urgency act-now-or-consequence [[angles]]. *MaxPro: quick mọc dài mỗi ngày trì hoãn ([[maxpro-ugly-ads-plan]] urgency layer) = cơ học có thật.*
+5. **Bonus stack** — bonus VẬT LÝ convert > discount-only (cảm giác added value, không phải hạ giá). Gruns kèm áo/ca/scoop → khách thành **walking billboard**, vật thể làm brand "có thật" trước khi dùng. = "mystery gift" + eBook tier 3 dưới.
+6. **Identity anchor** — bán **access vào 1 identity**, không bán product. *"join 250,000 người đã chuyển sang…"* > "mua supplement X". *MaxPro: "join the pet parents who fired the groomer", "the people who trim at home now".*
++ **Pricing presentation** (lever thứ 7, biến số test): cost-per-day vs monthly vs one-time-then-subscribe; anchor vào alternative đắt (groomer $45/lần × năm), không vào product cùng giá → xem §Anchor+guarantee dưới.
+
+### Test 3 offer cùng lúc (đừng launch 1)
+Low spend, 3 offer song song, **giữ product + creative + advertorial cố định, đổi 1 element/lần**, đo CVR landing→purchase. Thứ tự test (variance cao → thấp): **risk-reversal copy → pricing presentation → bonus stack**. Offer thắng dùng KHẮP NƠI: landing, email subject, ad overlay, pop-up headline, cart. Data thật: đổi risk-reversal "30-day money-back" → "không thấy khác trong 21 ngày → full refund + donate $10 charity" = CVR **4.1% → 6.8%** cùng traffic. (Cùng tinh thần isolate-one-layer [[creative-testing]].)
+
+> [!note] Reusable prompt — engineer offer bằng Opus 4.8
+> [[rubiinov-opus-offer-engineering]] cho prompt đầy đủ: feed avatar + biggest hesitation + đã-thử-gì-thất-bại + most-want + cách họ nói về giá (Reddit), yêu cầu **3 offer construction** mỗi cái đủ 6 thành phần + pricing presentation + full offer copy cho advertorial, rồi **flag cái convert cao nhất + giải thích lý do tâm lý**. Dùng để brainstorm offer MaxPro trước khi test (input từ [[maxpro-voc-insights]] + [[maxpro-avatars]]).
+
 ## Tiered bundle (price anchoring, từ research OEM)
 | Tier | Gồm | Giá | Anchor | Logic |
 |---|---|---|---|---|
@@ -39,6 +55,8 @@ Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nh
 
 ## Price-anchor playbook (KittySupps)
 Anchor vào pain cost (groomer $40/lần dồn năm) + đối thủ. Curiosity-gap: "just go look at the price, I'm serious".
+
+**Curiosity-gap trong email (data thật):** "mystery discount" thắng flat discount trong abandonment flow — ~2× click rate, +46% placed order ([[email-marketing]] §1). Cùng cơ chế deny/reveal: bắt khách click mới biết offer, thay vì lộ con số.
 
 ## Anchor + guarantee + close (native teardowns)
 Nguồn: [[advertising-jan-hearing-aid-advertorial-evergreen]] ($99, profit 6 tháng) + [[fotw-bencivenga-listicle-collagen]]:

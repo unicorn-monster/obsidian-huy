@@ -75,5 +75,11 @@ Nguồn: [[advertising-jan-7-native-headline-structures]]. Headline ngồi cạn
 
 **Nguồn ảnh** ([[adswithmarian-reddit-media-native-images]], 2 brand >$500k/mo native): **Reddit Media** > Google/Instagram/stock — *"ảnh organic vì nó organic thật, CTR vs stock là một trời một vực."* Pull paw / overgrown-nail / nervous-dog từ r/dogs, r/pets. **Reddit Answer** = VOC research. → [[creative-brief]].
 
+## Rule of thumb: "new and a bit weird" = FOMO engine
+Nguồn: [[advertising-jan-native-new-and-weird-rule]]. Một dòng nhưng load-bearing cho creative TOF: **làm ad của bạn "new and a bit weird".** Logic: prospect đã thử 37 cách (ăn kiêng / clipper / Dremel / groomer…), chưa cái nào ăn — nên mọi thứ *quen thuộc* = "đã thử rồi, scroll qua". Familiar = invisible. Một góc **mới + hơi lạ** kích **FOMO**: *"lỡ ĐÂY là cái mình chưa thử thì sao?"* → buộc phải click xem nó là gì. *"That's your win"* = chỉ cần cái click, đúng job CTR-first của TOF (math ở trên).
+- **Weird signals NEW.** Cái lạ tức thì báo "đây không phải thứ bạn từng gặp" → vượt qua bộ lọc "biết rồi". Khớp bucket **Weird/pattern-interrupt** ở 3-bucket trên (Banana Phone, blue-glow ear) — giờ có *lý do*: weird không phải để vui, mà để báo hiệu NEW cho prospect kiệt-sức-vì-đã-thử-hết.
+- **= cơ chế "new mechanism"** của advertorial piece 3 ([[angles]] new-mechanism): ad hứa "có cách MỚI", advertorial giao cái mechanism mới đó. Ad weird mà advertorial không có mechanism mới = clickbait, nền tảng bóp quality-score ([[compliance]]).
+- **MaxPro:** prospect đã thử clipper / Dremel / grinder rẻ / groomer → "another nail tool" = familiar = scroll. Góc mới-lạ: grinder + glow-ring trên paw, hoặc headline "the nail-trim method groomers switched to" (≠ "best nail grinder"). Tie vào [[hooks]] native-headline (pre-filter + curiosity gap, không hé product).
+
 ## Verticals native ăn nhất
 Joint pain · sleep · weight · skin · hair · digestive · menopause · hormonal · energy · focus · finance · eye health — **mass pain/desire**. Niche / B2B / hyper-targeted = không hợp (native là kênh mass-market).
