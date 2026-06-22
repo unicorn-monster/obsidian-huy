@@ -1,3 +1,7 @@
+---
+sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe]
+---
+
 # Hooks
 
 Pattern scroll-stopper cho [[ugly-ads-method]] (beat 1). Mỗi hook = negative emotion + specificity + open loop ép "See more". Nguồn: [[maxpro-hooks-shortlist]], [[kittysupps-swipe-lines]].

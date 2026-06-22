@@ -1,3 +1,7 @@
+---
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown]
+---
+
 # Presell pages — build guide (4 format)
 
 Nguồn: [[vysta-presell-build-guide]] (agency 150+ brand, 50+ page/tuần). Đây là phần **BUILD chi tiết** của pre-sell layer — khái niệm tổng ở [[funnel-and-landing]]. Method thuần, dùng mọi sản phẩm.

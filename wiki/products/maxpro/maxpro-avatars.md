@@ -1,3 +1,7 @@
+---
+sources: [grinder-avatar-bank, maxpro-matrix-creative-guardrails, linafahizul-pet-buyer-is-a-woman]
+---
+
 # Avatars (grinder)
 
 Nguồn: [[grinder-avatar-bank]] + [[maxpro-matrix-creative-guardrails]]. Sắp theo intent + refund-risk: high-intent/low-refund ăn spend, high-refund qualify OUT.

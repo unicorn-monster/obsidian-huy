@@ -1,3 +1,7 @@
+---
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift]
+---
+
 # Angles
 
 Catalog angle ghép vào [[ugly-ads-method]]. Nguồn: [[kittysupps-angles-inventory]], [[maxpro-matrix-creative-guardrails]], [[idea-senior-mobility-flagship]].

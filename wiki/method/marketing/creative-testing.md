@@ -1,3 +1,7 @@
+---
+sources: [low-budget-creative-testing-playbook]
+---
+
 # Creative testing — isolate-one-layer (low-budget)
 
 Nguồn: [[low-budget-creative-testing-playbook]]. Đối trọng **low-budget** của [[media-buying]] (nkecom flood-volume). Thesis: **clean signal beats volume.** Account budget thấp "feel random" vì 2 lỗi cùng lúc — đổi quá nhiều thứ mỗi ad + spread spend quá mỏng → algorithm ko bao giờ learn. Ko phải vấn đề creativity, là vấn đề **attribution**: đổi angle+hook+visual cùng lúc → winner cho bạn KHÔNG gì để copy.

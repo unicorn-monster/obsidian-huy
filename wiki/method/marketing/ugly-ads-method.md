@@ -1,3 +1,7 @@
+---
+sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06]
+---
+
 # Long-form "ugly native" advertorial method
 
 Playbook DR chứng minh trên KittySupps (cat supplement, ~1,600 ad active), clone sang MaxPro grinder. Nguồn: [[kittysupps-ugly-ads-teardown]], [[kittysupps-swipe-lines]], [[maxpro-operating-system]], [[maxpro-skeleton-and-banks]].

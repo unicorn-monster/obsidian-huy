@@ -1,3 +1,7 @@
+---
+sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures]
+---
+
 # Compliance: defensible vs fabricated
 
 Nguồn: [[maxpro-matrix-creative-guardrails]], [[heusom-silent-groom-research]], [[kittysupps-funnel-analysis]]. Đường sống còn của format full-send.

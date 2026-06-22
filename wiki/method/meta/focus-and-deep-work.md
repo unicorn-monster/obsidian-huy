@@ -1,3 +1,7 @@
+---
+sources: [timdenning-dangerously-focused]
+---
+
 # Focus & deep work (meta)
 
 > Lớp **kỷ luật người vận hành** — không phải tactic marketing, không phải cơ chế vault. Second brain ([[second-brain-system]]) giải phóng sự chú ý; note này nói cách *hướng* chú ý đó vào 1 ưu tiên. Rút từ [[timdenning-dangerously-focused]] (Tim Denning). Map thẳng vào "Stuck on" của Huy ở [[index]]: quá nhiều idea, cần focus hằng ngày.

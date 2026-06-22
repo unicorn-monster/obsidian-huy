@@ -1,3 +1,7 @@
+---
+sources: [maxsturtevant-5-email-marketing-hacks]
+---
+
 # Email marketing — owned-channel / retention tactics
 
 Kênh **owned** (Klaviyo), khác máu với paid-acquisition ([[media-buying]], [[native-ads]]): không trả CPM, đánh vào list đã có. Trang này gom tactic retention/flow.

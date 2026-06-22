@@ -1,3 +1,7 @@
+---
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm]
+---
+
 # Google Ads (kênh search-intent)
 
 Nguồn: [[ecomamin-google-ads-pet-store-1m]], [[ecomamin-google-ads-57k-to-1.2m]], [[ecomamin-google-ads-funnel-types]] (@eCom_Amin, $20M+ generated, 15+ brand >$100k/mo). Kênh **search-intent** — khác Meta interrupt ([[media-buying]]) và native open-web ([[native-ads]]). Method, paid-channel discipline.

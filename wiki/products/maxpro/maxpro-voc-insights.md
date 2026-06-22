@@ -1,3 +1,7 @@
+---
+sources: [voc-mining-learnings, f3dericobartoli-voc-review-mining-prompt]
+---
+
 # VOC insights (review corpus)
 
 Ngôn ngữ + beat cảm xúc thật. Nguồn: [[voc-mining-learnings]] + 05-voc-bank. **Mixed-brand corpus: dùng language, KHÔNG present quote đối thủ thành review MaxPro.** On-page chỉ dùng 18,587 review thật.

@@ -1,3 +1,7 @@
+---
+sources: [heusom-silent-groom-research]
+---
+
 # Competitors (grinder)
 
 Nguồn: [[heusom-silent-groom-research]]. MaxPro (MaxiMutt) là sản phẩm của TÔI.

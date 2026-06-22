@@ -1,3 +1,7 @@
+---
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook]
+---
+
 # Media buying + testing (Meta 2026)
 
 Nguồn: [[nkecom-meta-launch-playbook-2026]] (media buyer, $1m+/mo, launch gần nhất Jan 2026). Đây là mảng **buying-side**, bổ sung cho creative-side ([[ugly-ads-method]]). Thesis: **creative is the new targeting** — broad + flood AI ads + để algorithm chọn winner, đọc quyết định từ metrics ngày 1.

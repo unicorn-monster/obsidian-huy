@@ -1,3 +1,7 @@
+---
+sources: [maxpro-operating-system, heusom-silent-groom-research]
+---
+
 # Product truth — MaxPro grinder
 
 Sự thật sản phẩm, KHÔNG mâu thuẫn (beat 10 [[ugly-ads-method]]). Nguồn: [[maxpro-operating-system]], [[heusom-silent-groom-research]] (cùng OEM với đối thủ Heusom -> research đó áp thẳng cho MaxPro).

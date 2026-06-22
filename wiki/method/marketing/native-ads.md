@@ -1,3 +1,7 @@
+---
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule]
+---
+
 # Native ads (kênh open-web)
 
 Nguồn: [[advertising-jan-native-ads-guide-2026]] (agency build native funnel cho DTC). Đây là **kênh riêng**, KHÔNG phải Meta — bổ sung buying-side cho [[media-buying]].

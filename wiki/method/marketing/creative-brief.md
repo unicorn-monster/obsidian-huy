@@ -1,3 +1,7 @@
+---
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt]
+---
+
 # Static ad creative (rules + ugly-native brief)
 
 Nguồn: [[alexgoughcooper-static-ads-8-rules]] (X thread, oversee 50+ ad account) + twin [[alexgoughcooper-static-ads-8-rules-newsletter]] (newsletter, cùng 8 rule — delta duy nhất = NY AI-disclosure law → [[compliance]]), [[maxpro-matrix-creative-guardrails]]. Phần trên = rule DR static chung (mọi sản phẩm); phần dưới (prime directive + 7 format) = execution ảnh ugly-native cho [[ugly-ads-method]].

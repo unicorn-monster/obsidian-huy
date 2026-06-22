@@ -1,6 +1,7 @@
 ---
 title: "MaxPro — page system (fill của personas voice-signature blueprint)"
 date: 2026-06-20
+sources: [maxpro-elle-birdie-winning-native, kittysupps-adlib-verbatim-skin]
 ---
 
 # MaxPro pages (fill)

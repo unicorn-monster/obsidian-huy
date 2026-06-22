@@ -1,3 +1,7 @@
+---
+sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows]
+---
+
 # Second-brain system (meta)
 
 > Cách *cái vault này* tự bồi đắp — không phải tactic marketing. Rút từ [[cyrilxbt-kimi-obsidian-second-brain]] (Kimi+Obsidian full course) và [[engkhairallah-obsidian-ai-workflows]] (30 Obsidian+Claude workflows).

@@ -1,3 +1,7 @@
+---
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen]
+---
+
 # Offer + CTA mechanics
 
 Beat 14-15 của [[ugly-ads-method]]. Nguồn: [[maxpro-skeleton-and-banks]], [[kittysupps-swipe-lines]], [[heusom-silent-groom-research]], [[dtcquizbuilder-what-makes-good-offer]].

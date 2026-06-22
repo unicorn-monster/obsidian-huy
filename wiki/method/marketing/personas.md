@@ -1,3 +1,7 @@
+---
+sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman]
+---
+
 # Persona-network strategy
 
 Trụ cột của [[ugly-ads-method]]. Nguồn: [[maxpro-persona-bank]], [[kittysupps-ugly-ads-teardown]].

@@ -1,3 +1,7 @@
+---
+sources: [kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match]
+---
+
 # KittySupps machine — case study long-form VSL ($500k/mo)
 
 Mổ xẻ SÂU 1 case scale tới ~$500k/tháng. Bằng chứng: [[kittysupps-adlib-census-2026-06]] (1,119 ad → 240 family, cào 15/06). Đây là bản nâng cấp đầy-corpus của [[ugly-ads-method]] (bản 13/06 chỉ xem mẫu 29). Mục tiêu: bê engine sang [[maxpro-product-truth]].

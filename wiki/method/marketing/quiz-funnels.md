@@ -1,3 +1,7 @@
+---
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe]
+---
+
 # Quiz funnels (interactive pre-sell)
 
 Nguồn: [[dtcquizbuilder-quiz-funnel-2m-90days]], [[dtcquizbuilder-im8-quiz-teardown]], [[dtcquizbuilder-web2app-email-capture]] (cùng tác giả @DTC_Quizbuilder, đã có [[dtcquizbuilder-native-ads-workflow]]). Là MỘT dạng pre-sell layer giữa ad và PDP — họ hàng đầy đủ ở [[funnel-and-landing]].

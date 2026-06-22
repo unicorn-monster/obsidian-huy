@@ -1,3 +1,7 @@
+---
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons]
+---
+
 # Market awareness + sophistication (grinder)
 
 Nguồn: [[heusom-silent-groom-research]] (Schwartz framing). Reusable cho mọi grinder.
