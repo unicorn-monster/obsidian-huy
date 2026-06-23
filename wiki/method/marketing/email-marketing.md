@@ -1,5 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn]
+updated: 2026-06-23
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -42,6 +43,21 @@ Lấy nguyên email đã "crush" 2 tháng trước, **resend lại** — "worked
 - Sender `[Founder] | [Brand]` · Subject *"Hey, quick thought..."*
 - Lời chào người-thật → cảm ơn đã ghé → **origin story 1-2 câu** (*vì sao tôi lập brand* — đánh đúng "[specific problem]") → "no pressure" → **3 USP** (3 bullet) → **store credit $XX, code, hết hạn 24h** → link bestsellers → P.S. *"hit reply, tôi tự đọc"*.
 - Cơ chế = đảo "looks like an ad" của [[personas]]/[[ugly-ads-method]] sang email: under-designed = trust. → MaxPro: founder kể vì sao ghét cảnh chó chảy máu vì clipper, 3 lý do khách yêu MaxPro (quiet / no-cut-quick / 99-day company-paid return [[compliance]]), store credit 24h. Dùng skill `plain-text-email` để viết.
+
+## Subscription onboarding sequence — đòn chống churn trước khi xảy ra (FOR SUBS ONLY)
+> [!warning] Chỉ áp khi MaxPro có dòng subscription
+> MaxPro = tool vật-lý 1 lần mua, **chưa** sub brand → mục này để DÀNH cho consumable pet (bit mài thay, balm, supplement) hoặc khi mở sub.
+
+Nguồn: [[maxwellcopy-subscription-onboarding-churn]] (maxwellcopy, 250+ sub brands audited). **#1 driver churn:** khách có quá nhiều sản phẩm tồn kho **hoặc** ngừng dùng. **#1 lever giảm churn:** onboarding email/SMS sequence đúng cách. Hầu hết brand đốt 30 ngày đầu push upsell → retention tệ.
+
+**5 nguyên tắc (từ best-in-class brands):**
+1. **7 ngày đầu = tất cả.** Hầu hết quyết định churn xảy ra trước ngày 7. Mỗi email trong D1-7 đẩy **1 việc: consumption habit** — không upsell, không educate về benefit dài hạn, chỉ dùng hàng ngày.
+2. **Hit "why bother" head-on.** Khách tự hỏi "mình có mua đúng không?" → reassure bằng: social proof từ người có cùng nghi ngờ + founder story thật + science back product.
+3. **Set expectation trước.** Consumable thường 30-60+ ngày mới thấy kết quả. Không set frame ngay → cancel trước khi thấy gì. Nói thẳng "ngày bao nhiêu bạn sẽ thấy gì".
+4. **Không upsell trong onboarding.** Mistake #2 phổ biến nhất: push upgrade/bundle/referral trong 30 ngày đầu. Build habit first → revenue follows retention.
+5. **Cadence timeline:** go hard D1-7 → educate D8-30 → ease off sau đó.
+
+Liên kết: **SUB-1 metrics** (bên dưới) để track O2/O4/O6 retention; [[maxwellcopy-billing-email-ab-test-cancel]] (SUB-2) để không trigger churn vào lúc billing; [[offer-and-cta]] (bundle + upsell timing). Onboarding + billing hygiene + cancel-flow = tam giác giữ sub.
 
 ## Subscription retention — 4 metric + 2 lever giảm churn (FOR SUBS ONLY)
 > [!warning] Chỉ áp khi MaxPro có dòng subscription

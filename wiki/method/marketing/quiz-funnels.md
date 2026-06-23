@@ -1,5 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits]
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win]
+updated: 2026-06-23
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -78,6 +79,9 @@ Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tớ
 
 ## Gender-segment từ step 1 (niche phân hoá mạnh) — Moerie
 [[dtcquizbuilder-moerie-hair-quiz-gender-segment]] (Moerie, hair, Bioma hold-co — "ripping"): khi funnel **nam vs nữ khác hẳn** (hair-care, hormonal, weight…), tách 2 quiz-funnel ngay **step 1** bằng câu gender → mỗi nhánh đi đường riêng (pain, desire, proof, offer khác nhau). Rẻ và sớm hơn nhiều so với cố nhồi 1 funnel cho cả 2. (MaxPro pet = ít phân hoá theo gender owner; nhưng phân hoá mạnh theo **breed-size / nail-color / tình-trạng** — cùng nguyên lý "rẽ nhánh sớm theo biến quyết định khác biệt", route như section "Cho MaxPro" dưới.)
+
+## Speed-to-result: Tuesday onboard → Saturday top-spender (2026 case)
+[[dtcquizbuilder-quiz-funnel-3day-cpa-win]]: supp brand onboarded Tuesday → quiz funnel launched Friday → **top spender trong account vào Saturday với CPA thấp hơn 10%**. Không phải outlier — là đặc điểm của kênh: quiz warm-up xảy ra **trước offer** nên budget scale nhanh hơn ad→PDP trực tiếp (xem arbitrage đầu trang). Reinforces "1 thay đổi" thesis.
 
 ## Quiz = traffic-scale thật ở mass-health (proof-point)
 [[dtcquizbuilder-testosterone-quiz-9m-visits]]: 1 testosterone quiz-funnel = **9.9M visit/tháng** (giúp đàn ông cải thiện testosterone). Cùng cụm bằng-chứng "quiz scale tới 8-15M visit/mo" ở swipe bank dưới (Javvy/Mars/Lunavia/walk-fit) → xác nhận quiz là format scale-được ở mass-pain (men's-health, weight, hair), KHÔNG phải tactic nhỏ. Củng cố thesis "funnel là chỗ còn arbitrage" đầu trang.

@@ -1,5 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax]
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days]
+updated: 2026-06-23
 ---
 
 # Google Ads (kênh search-intent)
@@ -114,6 +115,22 @@ Nguồn: [[ecomamin-seasonal-promotions-bfcm]] ($20M+, 7 năm seasonal Google). 
 
 > [!tip] Áp cho pet store $100k/2026
 > User mục tiêu pet store Google ([[ecomamin-google-ads-pet-store-1m]]). Pet ăn đậm **gift-framing Xmas** (quà cho người nuôi thú) + **Jan new-year** (chăm thú cưng tốt hơn). MaxPro: build remarketing pool từ ad/listicle hiện tại ([[maxpro-top5-review-funnel]]) **trước Q4**, seasonal bundle "holiday grooming kit" (grinder + bit + balm, [[offer-and-cta]] tier 3), email early-access ([[email-marketing]]). Đây là đòn bẩy revenue lớn nhất mà timeline cố định — đặt lịch prep từ giờ.
+
+## Full-funnel advertorial system — $155k→$242k/30 ngày (eCom_Amin 2026) ⭐
+[[ecomamin-supps-advertorial-155k-242k-30days]]: supps brand scale từ **$155k→$242k/mo Google rev trong 30 ngày** bằng 5 trục đồng thời. No Meta, no TikTok. Hệ thống đủ để clone:
+
+**1. Advertorial architecture (TOF convert):** 3 trang/ICP angle, mỗi trang là hybrid editorial+sales page khớp exact search intent, dẫn reader từ *pain họ search → mechanism → product*. Cold traffic đang bounce khỏi PDP bắt đầu convert có lãi trong **2 tuần**. → Cùng 6-piece advertorial ở [[native-ads]] nhưng chạy trên Google search intent.
+
+**2. YouTube Shorts MOF stack:** 8 creative UGC-raw mirror angle của advertorial, launch tuần 1; 2 winner kéo **60%+ view-through rate** → xây remarketing depth trong chính platform search traffic đến từ. Shorts = bridge TOF search → BOF remarketing.
+
+**3. Shopping feed rebuild:** 3 từ đầu title = keyword non-branded convert cao nhất (pull từ search terms report). Custom labels tier SKU theo margin → Smart Bidding đẩy SKU margin cao. Freed budget cho upper funnel không tăng CPA.
+
+**4. PMax per-ICP restructure:** kill one-asset-group generic → rebuild 1 ICP/campaign, each với creatives + headlines + advertorial LP riêng, fed customer match lists + custom intent signals từ converting search terms report → branded-search CPA trên cold acquisition.
+
+**5. Audience & signals infra:** Customer match = signal anchor Google dùng để build lookalike. RLSA layer theo funnel stage (checkout abandoner bid cao nhất). YouTube view-through audience close loop Shorts→conversion. Micro-conversion add-to-cart trong khi Smart Bidding học.
+
+> [!tip] Áp MaxPro/pet store
+> Trục 1+3+4 applicable ngay khi có data (advertorial per avatar breed-cluster + feed keyword-first + PMax per-ICP exclude brand). Trục 2 (YT Shorts MOF) khi đã có winner creative; trục 5 khi có customer list đủ lớn (~1k+). Sequence: feed rebuild TRƯỚC, rồi advertorial TOF, rồi YT Shorts remarketing depth. Liên kết: [[presell-pages]], [[creative-brief]], [[personas]].
 
 ## Bing (bonus)
 Setup Bing = +15-20% revenue "for free". Thêm sau khi Google chạy ổn.
