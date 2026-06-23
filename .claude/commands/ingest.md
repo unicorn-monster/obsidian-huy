@@ -47,9 +47,20 @@ Với mỗi file trong `inbox/`:
 5. Cập nhật `wiki/index.md`: mọi trang wiki đều có trong index, nhóm đúng 3 trục (`method/<domain>` · `products/<slug>` · `method/meta`).
 6. **Project-impact (PROPOSED — KHÔNG auto-apply):** đọc `projects/*/` (open question + status). Mỗi file vừa ingest → nếu giúp được project nào: 1 dòng *"giúp [project] ở [chỗ nào]"* + **≤3 action đề xuất** (đừng tự sửa project file, để user duyệt). Ko liên quan project nào → ghi "no current project impact."
 
+7. **Lưu & đồng bộ (BẮT BUỘC — chống mất việc khi ingest tay):** xong synthesis, nếu `sources/` hoặc `wiki/` có thay đổi thì commit + push để local ↔ origin luôn khớp (ingest tay quên commit là footgun gây trùng/đè khi pull):
+   ```bash
+   git add sources/ wiki/ inbox/
+   git commit -m "wiki: ingest — <N> new source(s)"
+   git pull --rebase --autostash origin main
+   git push origin main
+   ```
+   - CHỈ add `sources/ wiki/ inbox/` — KHÔNG `git add -A` (giữ nguyên draft/WIP đang sửa dở ở chỗ khác).
+   - `--autostash` để không vướng WIP đang mở; `--rebase` giữ history thẳng.
+   - inbox rỗng / không gì đổi → BỎ QUA bước này, đừng tạo commit rỗng.
+
 Quy tắc:
 - `sources/` BẤT BIẾN sau khi đặt vào: chỉ chuẩn hoá frontmatter + tên file, KHÔNG sửa nội dung gốc.
 - `wiki/` bạn sở hữu hoàn toàn: viết, sửa, tái cấu trúc thoải mái.
 - Theo kepano `obsidian-markdown` skill cho cú pháp.
 
-End: print a short summary **in English** — files ingested + type, wiki pages created/updated, and the per-project impact + proposed actions (≤3 each).
+End: print a short summary **in English** — files ingested + type, wiki pages created/updated, per-project impact + proposed actions (≤3 each), and the commit/push result (hash or "no-op").
