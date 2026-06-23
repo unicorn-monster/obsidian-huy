@@ -1,5 +1,5 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k]
 updated: 2026-06-23
 ---
 
@@ -71,11 +71,17 @@ Liên kết: **SUB-1 metrics** (bên dưới) để track O2/O4/O6 retention; [[
 
 **SUB-2 — billing-reminder A/B = −33% cancel ([[maxwellcopy-billing-email-ab-test-cancel]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%**. Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. (Cùng cơ chế psych-of-framing với mystery-discount #1 — cách *nói* đổi outcome, không phải cái offer.)
 
-## SMS — testimonial text land mạnh hơn email ([[maxwellcopy-sms-4-templates-ecom]])
-maxwellcopy gửi SMS cho hàng chục triệu người: **testimonial qua SMS** thắng vì hiện **ngay cạnh tin nhắn bạn bè/gia đình** → đọc như recommendation, không như ad — context tự thuyết phục hộ. (Post chỉ tiết lộ SMS #4/4; #1-3 không công khai.) Tie [[personas]] social-proof + #4 email-SMS-style ở trên. → kênh SMS đáng mở song song email cho MaxPro.
+## SMS — testimonial text + scale data ([[maxwellcopy-sms-4-templates-ecom]])
+maxwellcopy gửi SMS cho hàng chục triệu người: **testimonial qua SMS** thắng vì hiện **ngay cạnh tin nhắn bạn bè/gia đình** → đọc như recommendation, không như ad — context tự thuyết phục hộ. (Post chỉ tiết lộ SMS #4/4; #1-3 không công khai.) Tie [[personas]] social-proof + #4 email-SMS-style ở trên.
+
+### Scale proof — SMS = 77% tổng ([[maxwellcopy-12m-email-sms-30days]])
+**$12.1M** email+SMS / 30 ngày → **$9.4M chỉ từ SMS** (77%). Không phải tỷ lệ bình thường — ở scale lớn, SMS có thể outpace email. (Grain of salt: last-click over-attribute; nhưng hướng rõ.) Hàm ý thực tế: đừng build email list mà bỏ qua SMS song song.
+
+### Welcome flow incremental: +$109K / +12% từ SMS ([[maxwellcopy-sms-welcome-flow-109k]])
+Client email-only welcome flow → $887K. Thêm **SMS welcome series song song** → **+$109K incremental** (+12%). Cơ chế: SMS reach đúng **người không mở email** — khác kênh, khác moment, segment email bỏ sót. *"One of the simplest and easiest lifts you can make to your core flows."* → **MaxPro: priority SMS welcome khi list đủ lớn** — thêm 1-2 SMS touchpoint vào welcome flow Klaviyo hiện tại, không cần build riêng.
 
 ## Agency red-flags (ops-discipline khi thuê ngoài) — 21 điểm
 [[maxwellcopy-agency-red-flags-list]]: không phải email-tactic mà là checklist **chọn/giám sát agency** (email/ads) — hữu ích cho Huy nếu sau này thuê. Cờ đỏ đáng nhớ nhất: **không bao giờ báo tin xấu** (luôn có vấn đề; chỉ tin tốt = không để ý hoặc giấu) · người liên hệ ≠ người làm strategy · đồng ý mọi thứ bạn nói · chỉ nhìn metric in-platform (Klaviyo rev) thay vì KPI store · báo cáo số nhưng **0 insight** · không quick-win tuần đầu · khoá hợp đồng 6-12 tháng · guarantee to lúc sale · dùng attribution-setting riêng của họ. → dùng làm bộ lọc ngược khi nghe agency pitch.
 
 ---
-**Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].
+**Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

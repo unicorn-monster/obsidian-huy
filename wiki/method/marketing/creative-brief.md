@@ -1,5 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation]
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr]
+updated: 2026-06-23
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -70,6 +71,8 @@ Jan đẩy **3 lần trong 1 tuần** ([[advertising-jan-cartoon-7-styles-prompt
 Nguồn: [[orisilver-ai-storyboard-contact-sheet]]. Khó nhất của AI video ngắn = giữ **character/product/style nhất quán qua mọi shot**. Giải: **contact sheet** = 1 ảnh grid 10 shot khoá hết detail (cùng character/lighting/angle). Đưa sheet + prompt cho video model (Seedance 2.0) → mỗi frame bám sheet → 90%+ one-shot. Hệ prompt = **4 file** (như Claude Skill): Instructions (hành vi) · Anatomy (cấu trúc sheet) · Styles (4 block: 3D/claymation/UGC/POV) · Quick-start (ví dụ) — edit 1 file ko vỡ cái khác. Continuity = asset: sheet 2 cùng character scene khác → 2 clip 15s thành 1 mạch 30s.
 → Khớp Resilia AI-production ([[fotw-resilia-12-pages-advertorial]]): AI avatar/voice/B-roll gỡ bottleneck UGC, 544 ad/30 ngày. (Google flag ảnh AI → [[compliance]]; Meta OK.)
 
+**Speed benchmark — V3 AI video ([[0xroas-v3-ugc-15min-stitch]]):** @0xROAS (media buyer) báo cáo video AI (Veo 3 / "V3") generate xong trong **<15 phút**, khâu hậu kỳ duy nhất = stitch. Data point về tốc độ AI production hiện tại — phù hợp với contact-sheet approach ở trên: generate fast → stitch → publish, không cần full post-production.
+
 ## 5 pre-write check (avcanthony — chạy TRƯỚC khi viết 1 chữ)
 [[avcanthony-copy-that-prints-fundamentals]]: copy fail vì bỏ fundamentals, không vì thiếu trick.
 1. **Problem CỤ THỂ** — không "đau lưng" → sciatica; không "khó ngủ" → insomnia. *"Specificity is recognition, recognition is trust."*
@@ -82,6 +85,22 @@ Nguồn: [[orisilver-ai-storyboard-contact-sheet]]. Khó nhất của AI video n
 
 ## Educational VSL skeleton (cold, [[lachezarvoynov-educational-vsl-anatomy]])
 VSL TOF mở cold (hair-loss ad chạy từ 12/2024, **40M impression**). Động cơ = **hope**. 6 phần: (1) "educational" dạy 1 *secret process* → reframe problem từ bi-kịch-không-cứu sang quy-trình-khoa-học · (2) hook tạo hope cho người tin "hết cứu" · (3) unique mechanism (thứ chưa thử) · (4) 3D visual "make invisible visible" = proof · (5) sell-against-competition = xử objection trước · (6) **product CUỐI** như giải pháp duy nhất hoàn chỉnh. *"Educational hook → plot twist works vì người ta không ngờ bị bán."* Editing tối quan trọng. MaxPro: reframe "chó untrainable" → quy trình cảm giác (vibration vs clipper-crush), mechanism + 3D quick, sell-against clipper, product cuối.
+
+## DR creative mindset — "think like a marketer, not just an editor" ([[jforjacob-video-editor-dtc-dr]])
+@jforjacob hiring spec cho video editor DTC brand = signal document về **những gì DR creative production thực sự đòi hỏi** (không phải kỹ năng editing đơn thuần):
+
+**AI-first production:** avatars, AI-assisted UGC, voiceovers, image/video generation, ad variations — tốc độ + chất lượng. Khớp contact-sheet approach + V3 speed trên.
+
+**Marketer thinking trong từng cut:**
+- Hooks, pacing, captions, framing, retention — không phải "stitch clips together"
+- Hiểu *clip nào để ở đâu, và vì sao* (logic DR, không aesthetic)
+- Mang concept + angle riêng khi thấy cơ hội (editor = creative partner)
+
+**SOP-first:** document learnings, build SOPs, apply learnings across edits — hệ thống hoá winner thay vì mỗi lần làm lại từ đầu. Tie [[creative-testing]] (tracker + đọc signal).
+
+**Incentive alignment:** thưởng cho winning concept riêng → editor có động lực test, không chỉ execute brief. Cơ chế giống "resend top performer" ở [[email-marketing]]: winner gets rewarded, not just new.
+
+→ Dùng như **checklist self-audit** khi làm creative solo: *"Mình đang 'stitch clips' hay đang think DR?"* Hook đủ mạnh? Retention được xem xét từng cắt? Có ghi SOP sau khi thấy gì thắng?
 
 ## VOC mining = Claude asset (bổ sung rule #3 + Parker)
 [[f3dericobartoli-voc-review-mining-prompt]]: Claude Project (system + analysis prompt) scrape review mình + đối thủ → **VOC report 2,000-4,000 từ**: pains / desires / failed-alternatives (= switching trigger) / objections / emotional-language top-20 + **map awareness % + sophistication** + swipe-ready (top-5 headline từ ngôn ngữ khách, top-3 angle, top-10 takeaway). Rule cứng: KHÔNG paraphrase/bịa, pattern > outlier, *"think strategist not summarizer"*. DIY alt cho Parker — chạy lên review Casfuy/LuckyTail/Heusom → feed [[maxpro-voc-insights]].

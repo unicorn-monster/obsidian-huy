@@ -1,5 +1,5 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win]
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method]
 updated: 2026-06-23
 ---
 
@@ -15,6 +15,19 @@ Nguồn: [[dtcquizbuilder-quiz-funnel-2m-90days]], [[dtcquizbuilder-im8-quiz-tea
 - **Zero-party data** — biết chính xác họ quan tâm gì, mạnh hơn pixel.
 
 Thesis bổ sung cho [[media-buying]] ("creative is the new targeting"): khi ai cũng có AI copy + AI creative + CRO, **funnel là chỗ còn arbitrage** (khó copy hơn 1 cái ad).
+
+## Angle-to-quiz pipeline — validate angle TRƯỚC khi build ([[dtcquizbuilder-winning-ad-angle-method]])
+Quiz viết CUỐI, không phải đầu. Process từ @DTC_Quizbuilder:
+1. **Angle research** — Reddit / Facebook (VOC thô, ngôn ngữ khách, pain language xác thực)
+2. **Avatar** — ai đang nói về vấn đề đó? (tie [[angles]], [[personas]])
+3. **3 sub-angles** — từ 1 angle lớn, sinh 3 góc cụ thể để test song song
+4. **Test ads** — chạy ad cho từng sub-angle; đọc signal (CTR, hook-rate, CPA, ATC)
+5. **Iterate winner** — scale sub-angle thắng, hiểu vì sao nó resonates
+6. **Build quiz** — quiz mirror ĐÚNG angle + sub-angle đã validate → congruency tự nhiên
+
+> "Client was testing a new angle, once it scaled we just wrote the quiz."
+
+**Quiz amplifies angle đã validate — không thể substitute việc tìm angle.** Tie [[creative-testing]] (isolate-one-layer, đọc signal trước khi scale) + [[angles]] (matrix angle × avatar × 3 sub-angles). → **Cho MaxPro:** test 3 sub-angle của doorway grinder trước (e.g. "quick mọc theo móng" vs "vật lộn mỗi lần cắt" vs "groomer $45 mãi mãi") → quiz chỉ build SAU khi biết sub-angle nào convert tốt nhất.
 
 ## Congruency = câu hỏi #1 (hỏi TRƯỚC khi build)
 [[dtcquizbuilder-im8-quiz-teardown]]: *"Is this congruent with the traffic I'm sending to it?"* — quiz phải khớp messaging / mechanism / proof / emotion / **awareness level** của ad đã đưa họ vào. IM8 chạy ad GLP-1 side-effects (fatigue, brain fog, hair shedding) → problem-aware → quiz = *"Find out your GLP-1 Nutrient Debt Score"* (diagnostic, presuppose "hidden cost"), KHÔNG phải "wellness assessment" generic. Cùng nguyên lý congruency của tên persona-page ([[personas]]) + message-match ad↔page ([[funnel-and-landing]]) + Schwartz awareness ([[market-awareness]]).
