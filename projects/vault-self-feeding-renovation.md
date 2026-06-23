@@ -238,7 +238,18 @@ Chỉ video đúng chủ đề marketing/ecom. Bỏ vlog/off-topic.
 
 ---
 
-## Phase 3 — Lên lịch vòng lặp (auto-update)
+## Phase 3 — Lên lịch vòng lặp (auto-update) — ✅ XONG + VERIFIED (2026-06-23, commit 529930c)
+
+> [!success] KẾT QUẢ (2026-06-23)
+> Routine cloud `x-farm-ingest` chạy full end-to-end: farm 7 raw → 4 new → /ingest → push `529930c` (4 source + 4 trang wiki: [[media-buying]], [[google-ads]], [[email-marketing]], [[quiz-funnels]]). Lịch **6:07 sáng GMT+7** hằng ngày, báo cáo Telegram mỗi lần chạy.
+
+> [!bug] GOTCHA — cái làm nó fail 2 ngày
+> Routine cloud **PHẢI attach repo** vào field "Select a repository". Ghi tên repo trong prompt ("already cloned") là **vô nghĩa** — container vẫn khởi động trống → STEP 0 guard abort "WRONG REPO". Attach repo → platform tự checkout qua GitHub integration (**KHÔNG** qua egress sandbox của agent), lo cả `git clone` lẫn `git push`; lỗi egress github.com ban đầu cũng tự hết nhờ vậy.
+>
+> **Setup 1 lần:** Claude GitHub App phải cài trên account `unicorn-monster` (owner repo). Nếu claude.ai/code nối nhầm account khác → dropdown repo rỗng ("No repositories found").
+
+> [!note] Bảo mật + DECISION B chốt
+> Routine chỉ giữ connector **Apify** (gỡ Google Drive + Klaviyo — agent headless không nên cầm quyền write). **DECISION B = cloud:** xác nhận chạy được — Apify inherit vào cloud run ✓, repo-attach ✓, push ra github ✓.
 
 ### Task 3.1: Định vị routine /ingest cloud sẵn có
 
@@ -295,4 +306,4 @@ Chỉ video đúng chủ đề marketing/ecom. Bỏ vlog/off-topic.
 - ⏳ **Tối 2026-06-22:** user đưa danh sách **X handles** + **YouTube channels** để điền watchlist Task 2.2 + 2.3.
 - DECISION B (cloud) xác nhận lần cuối ở Phase 3.
 - **2026-06-22 Apify:** `claude mcp list` xác nhận **`claude.ai Apify ✔ Connected`** = claude.ai connector → cloud routine SẼ inherit được (gỡ lo DECISION B, lean cloud OK). NHƯNG session đang chạy chưa enumerate tool Apify (resume giữ catalog cũ; ToolSearch "apify" rỗng) → cần **fresh session** (không phải resume) để probe actor + seed. Farmer tự discover tool lúc chạy nên viết được trước.
-- **2026-06-22 x-accounts-farmer ✅ viết xong** (`.claude/agents/x-accounts-farmer.md`), watchlist 6 handle: maxwellcopy, DTCMidas, DTC_Quizbuilder, advertising_jan, 0xROAS, eCom_Amin. CHƯA test (chờ fresh session để probe Apify + seed).
+- **2026-06-22 x-accounts-farmer ✅ viết xong** (`.claude/agents/x-accounts-farmer.md`), watchlist **7 handle** (+ jforjacob 06-22). **✅ ĐÃ TEST & SỐNG (2026-06-23):** cloud run đầu tiên thành công, commit 529930c — xem block Phase 3.
