@@ -1,5 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions]
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling]
+updated: 2026-06-24
 ---
 
 # Native ads (kênh open-web)
@@ -10,6 +11,7 @@ Nguồn: [[advertising-jan-native-ads-guide-2026]] (agency build native funnel c
 Hai thứ hay bị lẫn vì cùng tên:
 - **True native (bài này):** placement trên open web — widget "recommended article" cuối CNN / Fox / Daily Mail / Forbes. Serve bởi **Taboola, Outbrain, RevContent, MGID, Yahoo DSP**. Hàng chục tỉ impression/ngày. Target theo **site / widget / device / country / signal**, KHÔNG theo persona.
 - **Native-style FB (cái tôi đang làm):** advertorial chạy TRÊN Meta feed, nguỵ trang persona page → [[kittysupps-machine]], [[ugly-ads-method]]. Cùng DNA funnel (advertorial→PDP) nhưng khác kênh, khác creative job, khác register.
+- **⚠️ Bẫy người mới** ([[advertising-jan-meta-ads-not-native-scaling]]): một Meta ad "trông tự nhiên" / KHÔNG text-overlay **vẫn KHÔNG phải** native ad. *"Meta ads can never be native ads"* — Meta user hành xử hoàn toàn khác (scroll feed, giành attention với brainrot reels) vs native reader (đang đọc bài, learning-mode, "muốn được dạy cách giải quyết vấn đề"). Bỏ overlay ≠ đổi kênh. Lấy advice native áp thẳng lên Meta = mất tiền.
 
 → Tôi đang ở vế dưới. Bài này là vế trên — kênh scale tôi **chưa** tới.
 
@@ -61,6 +63,13 @@ Rules: byline + publication frame thật, 2-3 ảnh "stock editorial" (không pr
 - [[advertising-jan-advertorial-100k-300k-impressions]]: **100k → 300k impression / 2 tháng**, nothing-but-native, **4-min avg session** (copy "really hits"). Jan: *"study this funnel, it's a goldmine."*
 - [[advertising-jan-advertorial-authority-2m-impressions]]: **1.1M → 2.7M impression / 1 tháng** — **authority angle** ăn đặc biệt mạnh trên native. → tie [[personas]] authority-character + [[angles]]; "discovery-story/authority" register hợp native-reader calm (khác unhinged-confession của FB ugly-ads). MaxPro authority advertorial: groomer/vet-tech 15 năm reframe clipper (Carol the Honest Groomer [[maxpro-pages]]).
 - Cùng pattern với hearing-aid evergreen >1 năm ([[advertising-jan-hearing-aid-advertorial-evergreen]]) đã có: 1 advertorial đúng = **đường ray scale dài**, đối lập creative-churn của Meta ([[media-buying]]).
+
+## Scale economics: vì sao native scale dễ + rẻ hơn Meta
+[[advertising-jan-meta-ads-not-native-scaling]] (cùng tác giả; số dưới cho brand đã qua $100k/THÁNG Meta — với Huy là **nguyên lý**, chưa phải tín hiệu mở kênh, xem readiness gate đầu trang):
+- **CPM ổn định khi scale + auction thưởng big spender** — ngược Meta (CPM phồng khi đẩy budget vì audience saturate). *"CPMs remain stable as you scale… they actually favor big spenders."* Funnel dialed rồi thì **$300/ngày → $5k/ngày trong ~1 tuần**.
+- **Ít angle hơn, ad fatigue chậm hơn** — Jan biết brand chỉ chạy **5 advertorial mà spend >$20k/ngày**. Không cần "a million angles" như creative-churn của Meta ([[media-buying]]); 1 advertorial đúng = đường ray dài (khớp compounding ngay trên).
+- **Learning curve = moat thật** — *"first campaigns usually lose before they win (that's normal)… this initial learning curve is the real moat."* Brand đang thắng **giữ im lặng** vì im lặng chính là lợi thế → khó copy, ai vào được thì giữ được.
+- **Job của copy = biến curiosity → desire-to-buy** — Jan gọi đây là *"the most important sentence of my X account"*: plant 1 ý, để nó lớn dần theo từng dòng tới khi reader không cưỡng được. = slippery-slide của advertorial 6-piece ở trên ([[funnel-and-landing]]).
 
 ## "Never rely on Meta" — native có account-manager (lý do hệ thống, không chỉ ROAS)
 [[advertising-jan-native-vs-meta-argument]]: lập luận **đổi kênh vì rủi-ro nền-tảng**, không chỉ hiệu suất. Trên native bạn có **personal account manager** (Jan có cả WhatsApp) — gọi hỏi vì sao ad bị reject, họ gửi report "làm gì khác đi"; **no account ban, no restriction**. Meta *"do whatever they want, don't give a fuck about you"*. Jan: brand >$100k/mo chưa-nghĩ-tới native nên reconsider.

@@ -11,7 +11,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 ### Strategies (playbook đầy đủ)
 - [[ugly-ads-method]] — playbook long-form native, skeleton 15 beat + **8-beat primary-text cousin (Mathew Ecommaxxer) + 3 luật override (trace-to-doc / outside-authority mechanism / soft CTA)**, voice register, QA checklist
 - [[kittysupps-machine]] — case study $500k/mo: engine symptom-doorway → 1 mechanism, map sang sản phẩm
-- [[native-ads]] — true-native open web (Taboola): math CTR-first, funnel 3 mảnh, advertorial 6-piece, **7-headline swipe + 3-bucket image test + Reddit Media + "new & weird"=FOMO rule**, readiness gate $50-100k/mo
+- [[native-ads]] — true-native open web (Taboola): math CTR-first, funnel 3 mảnh, advertorial 6-piece, **7-headline swipe + 3-bucket image test + Reddit Media + "new & weird"=FOMO rule**, **scale-economics (Meta≠native, CPM stable) + bẫy người mới**, readiness gate $50-100k/mo
 - [[quiz-funnels]] — interactive pre-sell: congruency #1, 4 nguyên lý tâm lý, **close sequence (3-card + pseudo-diagnosis + 5-stage)**, drop-off diagnosis, Web2App
 - [[funnel-and-landing]] — 5-stage funnel (creative→advertorial→presell→checkout→upsell) + pre-sell layer, **listicle 2-slot placement (cold front-end + retargeting, HookRate)**, proof-evaporation, AI page-clone
 - [[presell-pages]] — build guide 4 format: wireframe, **listicle why+build (Reason-Why/Bencivenga/Primal Vikings)**, **3rd-party review DOMAIN (criteria-funnel + borrowed-authority + verified stack GoHighLevel/Shopify-GemPages/refdomain, halo khách quan)**, story-arc, CTA system, congruence, speed
