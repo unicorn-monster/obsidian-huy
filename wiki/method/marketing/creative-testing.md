@@ -1,5 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook]
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale]
+updated: 2026-06-24
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -41,6 +42,11 @@ Cần đủ spend/creative để con số đáng tin. Test 15 thứ × $5 = mua 
 > - **Đồng ý:** 1 ad set · **50 conversion/tuần** thoát learning phase · consolidate ko fragment. (2 nguồn xác nhận con số 50.)
 > - **Khác:** volume-per-test scale theo budget. nkecom giả định **$150-200/day** → 50 ad vẫn đủ spend cho winner ăn. Bài này **$20-40/day** → 50 ad = mỗi ad ~$0.50 = noise, nên chỉ 3-5 ad để mỗi cái đủ đọc.
 > - **Chọn regime:** budget cao + chỉ cần "tìm winner nhanh" → flood. Budget thấp + cần "biết VÌ SAO thắng để copy" → isolate-layer.
+
+## Testing culture — systematic winner propagation ([[maxwellcopy-ab-testing-scale]])
+@maxwellcopy (agency, 100+ clients): **10+ A/B tests/client/month** = 1,000+ data point mỗi tháng. Cơ chế lan truyền: mọi **conclusive result** đổ vào 1 Slack channel company-wide → ai cũng "steal" winner. *"We get a SHIT TON of data and that's how we find winning concepts and angles."*
+
+Solo insight: không phải về quy mô — mà về **closing the loop**: winner PHẢI có chỗ sống sau khi test xong. Tracker (§ naming+tracker ở trên) là Slack channel cá nhân. Không đủ "chạy test", cần "hệ thống hấp thụ kết quả test". Tie [[email-marketing]] § resend-top-performer: winner không chết — được replay.
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.

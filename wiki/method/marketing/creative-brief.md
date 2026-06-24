@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr]
-updated: 2026-06-23
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete]
+updated: 2026-06-24
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -101,6 +101,11 @@ VSL TOF mở cold (hair-loss ad chạy từ 12/2024, **40M impression**). Độn
 **Incentive alignment:** thưởng cho winning concept riêng → editor có động lực test, không chỉ execute brief. Cơ chế giống "resend top performer" ở [[email-marketing]]: winner gets rewarded, not just new.
 
 → Dùng như **checklist self-audit** khi làm creative solo: *"Mình đang 'stitch clips' hay đang think DR?"* Hook đủ mạnh? Retention được xem xét từng cắt? Có ghi SOP sau khi thấy gì thắng?
+
+## Bootstrapped brands: out-creative, không out-budget ([[jforjacob-bootstrapped-creatives-compete]])
+@jforjacob (DR/ecom): *"Those who can afford to spend the most to acquire a customer win — but if you're bootstrapped you don't have that luxury."* Đường tắt duy nhất = **phải giỏi creative + landing page hơn category leaders**. Counter-intuitive: Gruns, IM8 chạy ads *"objectively mid"* — họ win bằng volume spend, không phải creative quality. Bootstrapped brand phải win bằng **conversion quality**: 1 creative sắc với CPA thấp hơn beat được hàng chục creative "đủ tốt".
+
+→ Áp MaxPro: không cần nhiều ads bằng Casfuy/Heusom — cần angle × hook × format đủ sắc để CPA thấp hơn họ cùng audience. Tie [[creative-testing]] (isolate-layer để biết VÌ SAO thắng) + [[media-buying]] § low-budget regime.
 
 ## VOC mining = Claude asset (bổ sung rule #3 + Parker)
 [[f3dericobartoli-voc-review-mining-prompt]]: Claude Project (system + analysis prompt) scrape review mình + đối thủ → **VOC report 2,000-4,000 từ**: pains / desires / failed-alternatives (= switching trigger) / objections / emotional-language top-20 + **map awareness % + sophistication** + swipe-ready (top-5 headline từ ngôn ngữ khách, top-3 angle, top-10 takeaway). Rule cứng: KHÔNG paraphrase/bịa, pattern > outlier, *"think strategist not summarizer"*. DIY alt cho Parker — chạy lên review Casfuy/LuckyTail/Heusom → feed [[maxpro-voc-insights]].

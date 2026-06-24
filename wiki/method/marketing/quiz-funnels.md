@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method]
-updated: 2026-06-23
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz]
+updated: 2026-06-24
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -15,6 +15,13 @@ Nguồn: [[dtcquizbuilder-quiz-funnel-2m-90days]], [[dtcquizbuilder-im8-quiz-tea
 - **Zero-party data** — biết chính xác họ quan tâm gì, mạnh hơn pixel.
 
 Thesis bổ sung cho [[media-buying]] ("creative is the new targeting"): khi ai cũng có AI copy + AI creative + CRO, **funnel là chỗ còn arbitrage** (khó copy hơn 1 cái ad).
+
+## Quiz = personalized sales call at scale ([[dtcquizbuilder-quiz-personalized-sales-call]])
+2026: consumer bị "spoiled by options" — mass content + AI + DTC/TikTok-shop đã normalize personalization. **Họ chỉ mua khi tin rằng option này tốt nhất cho CHÍNH HỌ, không phải "tốt nói chung."**
+
+Analogy tire salesman: salesman giỏi KHÔNG yap "lốp này tốt nhất". Họ hỏi: bạn ghét quay lại mỗi 4 tháng? Bạn thích off-road? Xe gì? → cuối cuộc, nói đúng 1 câu: *"Cái này không cần quay lại mỗi 4 tháng và hoàn toàn hợp off-road."* — bán đúng thứ khách CẦN dựa trên trigger họ TỰ tiết lộ. Ngược lại (pitch mù): khách nghĩ *"anh này không biết tôi mua lốp để làm gì."*
+
+Quiz replicate cùng logic: câu hỏi thu thập trigger → result page speak đúng trigger đó → personalization at scale. Không chỉ là "warm-up" — quiz là format **DUY NHẤT** scale được cái salesman call đó với consumer đã quen personalised experience.
 
 ## Angle-to-quiz pipeline — validate angle TRƯỚC khi build ([[dtcquizbuilder-winning-ad-angle-method]])
 Quiz viết CUỐI, không phải đầu. Process từ @DTC_Quizbuilder:
@@ -113,3 +120,5 @@ Shopify: **Octane AI** (native, sync answer → Klaviyo), RevenueHunt, hoặc Ty
 
 ## Cho MaxPro? (đánh giá thật)
 Quiz mạnh nhất cho supplement/health (diagnostic triệu chứng). Grinder = tool vật lý → quiz yếu hơn nhưng làm được: *"Tình trạng móng chó bạn?"* → breed/size (route theo size; large-breed = doorway power thật ~150lb, **KHÔNG** qualify-out — [[maxpro-product-truth]]) → đã thử clipper/groomer? → sợ gì nhất → data feed retarget + email. **Nhưng:** listicle pre-sell ([[funnel-and-landing]]) khả thi & rẻ hơn nhiều cho v0 — cân nhắc cái đó TRƯỚC quiz.
+
+**Proof mới (2026-06-23) ⭐ — [[dtcquizbuilder-golden-hippo-ugly-quiz]]:** Golden Hippo (major DR operator, 9-figure) đang scale *"ugly ass quiz"*. Signal quan trọng: ugly format + quiz = combination đã chạy được ở quy mô DR lớn nhất. Nếu roadmap MaxPro là "ugly static → quiz sau khi validate angle" ([[maxpro-ugly-ads-plan]]), Golden Hippo xác nhận không cần quiz polished — **ugly quiz đơn giản hơn và vẫn scale**. Pivot thứ tự thực tế: (1) test ugly static → (2) build ugly quiz theo angle thắng; không phải (1) build quiz polished v0.
