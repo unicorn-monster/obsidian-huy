@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz]
-updated: 2026-06-24
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation]
+updated: 2026-06-25
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -22,6 +22,13 @@ Thesis bổ sung cho [[media-buying]] ("creative is the new targeting"): khi ai 
 Analogy tire salesman: salesman giỏi KHÔNG yap "lốp này tốt nhất". Họ hỏi: bạn ghét quay lại mỗi 4 tháng? Bạn thích off-road? Xe gì? → cuối cuộc, nói đúng 1 câu: *"Cái này không cần quay lại mỗi 4 tháng và hoàn toàn hợp off-road."* — bán đúng thứ khách CẦN dựa trên trigger họ TỰ tiết lộ. Ngược lại (pitch mù): khách nghĩ *"anh này không biết tôi mua lốp để làm gì."*
 
 Quiz replicate cùng logic: câu hỏi thu thập trigger → result page speak đúng trigger đó → personalization at scale. Không chỉ là "warm-up" — quiz là format **DUY NHẤT** scale được cái salesman call đó với consumer đã quen personalised experience.
+
+## Quiz = pre-purchase data collection (không chỉ warm-up) ([[dtcquizbuilder-quiz-prepurchase-data-validation]])
+Reframe mục đích quiz: ngoài việc warm-up + micro-commitment, quiz là **instrument thu thập dữ liệu khách hàng trước mua** — bổ sung (không thay) post-purchase survey. Câu hỏi thiết kế: **"What do I want to know about this customer?"** → liệt kê những thứ cần biết (pain trigger, solution-tried, goal, context) → đó là question bank.
+
+Hệ quả thực tiễn: mỗi câu hỏi phải kiếm được chỗ vì nó trả lời 1 điều bạn chưa biết về khách, chứ không chỉ để "emotional charge" hoặc "micro-commitment". Khi cả 2 mục đích gộp lại → quiz hoạt động như **live angle-validator ở quy mô**: câu nào khách trả lời xong rồi convert → bạn biết signal nào quyết định.
+
+> Tie [[angles]] (angle-to-quiz pipeline bên dưới) + "Segment & retarget bằng câu trả lời" cuối trang: zero-party data đó là output có giá trị kể cả khi khách không mua.
 
 ## Angle-to-quiz pipeline — validate angle TRƯỚC khi build ([[dtcquizbuilder-winning-ad-angle-method]])
 Quiz viết CUỐI, không phải đầu. Process từ @DTC_Quizbuilder:
