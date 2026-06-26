@@ -1,5 +1,6 @@
 ---
-sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows]
+sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows, cyrilxbt-50-obsidian-workflows]
+updated: 2026-06-26
 ---
 
 # Second-brain system (meta)
@@ -36,6 +37,16 @@ Cấu trúc cyrilXBT đề xuất mà `CLAUDE.md` hiện thiếu:
 - **Atomic note + ≥2 wikilink mỗi note** (Zettelkasten hợp AI hơn cả hợp người — agent lần theo chain link để suy luận). Khớp kepano minimalism vault này đã theo.
 - **Feedback loop**: output AI tạo ra → lưu lại thành note → memory chứa cả tư duy gốc lẫn synthesis → compound. (Chính là `briefs/` + memory của vault này.)
 - **Lớp người vận hành**: vault giải phóng chú ý nhưng phải có kỷ luật *hướng* nó vào 1 ưu tiên — xem [[focus-and-deep-work]] (make-then-manage map vào morning brief, tách thiết bị tiêu thụ/sản xuất).
+
+## Dataview query cho `/lint` (cyrilXBT 50-workflows)
+Nguồn: [[cyrilxbt-50-obsidian-workflows]]. Category "AI Integration" (setup 21-25) **trùng khớp 1:1** skill stack ở trên — Filesystem-MCP-pointed-at-vault · morning brief · capture processor · **connection finder (#24)** · **weekly synthesis (#25)** → củng cố cả gap connection-finder lẫn `/synthesis` đã có. Phần đáng lấy thêm: vài Dataview query thành **vũ khí cụ thể cho `/lint` (Phase 2)** thay vì quét tay:
+- **Orphan finder** — note 0 incoming link (idea capture rồi bị quên). Chạy hằng tháng. = mục "trang mồ côi" của `/lint`.
+- **Stale-projects alert** — `projects/` ko modified 14+ ngày → surface thứ đã âm thầm bỏ trước khi thành "embarrassment 6 tháng". Map "project đứng yên".
+- **Content pipeline tracker** — query draft theo stage (idea/outline/draft/published) → thay content calendar; áp được cho `briefs/` + creative pack `projects/`.
+- **Decision log** — gom note quyết-định + assumption + review-date thành 1 bảng auditable. Hợp "beliefs ledger" mà [[index]] (CLAUDE.md) còn thiếu.
+
+> [!note] Phần lớn 50-list là generic/đã biết
+> 10 category × 5 = 50 setup, đa số là Obsidian-101 (PARA, MOC #31, atomic note #34, literature-vs-permanent #35 — đã có ở "Nguyên tắc vận hành"). Giá trị thật của clip: (1) xác nhận skill-stack AI đang đi đúng hướng, (2) 4 Dataview query trên cho `/lint`. Ko cần ingest sâu hơn.
 
 ## Plugin nền (Obsidian, từ engkhairallah)
 Smart Connections (RAG chat-with-vault) · Templater · Dataview (vault → DB query) · Tasks · **Obsidian Git** (auto-commit, đã bật ✓) · Periodic Notes · **Obsidian CLI 2026** (cầu nối Claude Code ↔ vault, có `obsidian-cli` skill). Steph Ango (CEO Obsidian) ra bộ Claude Skills chính chủ — đang dùng (`obsidian-markdown`, `json-canvas`, `obsidian-bases`).

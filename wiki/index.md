@@ -28,14 +28,14 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 
 ### Channels & guardrails
 - [[media-buying]] — Meta 2026: broad, 1 ad set, flood AI ads, decision matrix ngày 1, **low-budget regime (lowest-cost→cap) + bid-cap-cold-account**
-- [[google-ads]] — kênh search-intent: market arbitrage, problem-aware angle, GMC feed 70%, **feed duplication**, **rented-vs-built (compounding)**, 7-campaign, 9 funnel-type (pet store!), **seasonal 10x (BFCM/Xmas)**, **Demand-Gen cold machine (custom-intent)**, **impression-share headroom audit (winner bị PMax bỏ đói)**
+- [[google-ads]] — kênh search-intent: **demand-CAPTURE vs Meta demand-GEN (Meta feeds Google)**, **prospecting-first account 80-95% + SERP domination**, market arbitrage, problem-aware angle, GMC feed 70%, **feed duplication**, **Shopping masterclass (title benefit-rich · image contrast · social-proof count>rating · promo anchor · bid 3-tier · search-terms mining)**, **LP = Google's creative (3 cấp)**, rented-vs-built, 7-campaign (+branded/conquest/non-branded depth), 9 funnel-type + **4 cold-traffic funnel**, seasonal 10x (BFCM/Xmas), Demand-Gen cold machine, impression-share headroom audit
 - [[email-marketing]] — owned/retention (Klaviyo): **mystery-discount > flat trong abandonment (data ~2× click, +46% order)**, odd send times (2 nguồn), pattern-interrupt + SMS-style email, resend top performer, **founder plain-text winback template**, **subscription 4-metric + billing-A/B −33% cancel**, agency red-flags. Nguồn Max Sturtevant + maxwellcopy.
 - [[compliance]] — defensible vs fabricated, 2 landmine, guarantee trap
 
 ---
 
 ## 🛠️ method/meta/ — cách vault tự bồi đắp
-- [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành. Nguồn: cyrilXBT + engkhairallah.
+- [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành, **Dataview query cho `/lint` (orphan/stale-project/pipeline/decision-log)**. Nguồn: cyrilXBT + engkhairallah.
 - [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
 
 ---

@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match]
+sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match]
 ---
 
 # KittySupps machine — case study long-form VSL ($500k/mo)
@@ -43,6 +43,7 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 ## Anatomy định lượng
 - **Median 3,110 từ** (p25 2.4k – p90 4.3k). Length = qualifier: ai tới CTA là pre-sold. Bộ xương 15-beat: [[ugly-ads-method]].
 - **98% static IMAGE** + long primary text. 2 dòng đầu + ảnh = nút "See more": [[hooks]].
+- **Cadence = burst, không đều** (đo 23/06, [[kittysupps-adlib-census-2026-06-23]]): ~30 ad/ngày TB nhưng dạng **dump 80–100 ad/ngày theo batch ~mỗi tuần** + ngày 1–2 ad. Dấu hiệu **bulk upload / Advantage+ / dynamic creative** đẻ hàng loạt. Scale velocity: **+25% active ad (1,119→1,401) trong 8 ngày**. ~24% ad sống >60d (nền winner), 31% tươi <14d (vẫn test máy móc). ⚠️ Ad Library KHÔNG lộ ABO/CBO/cost-cap — volume chỉ là *signal*, không phải bằng chứng budget structure.
 - Title-card (link headline) là **mini-hook riêng**, death + second-cat clock ("Loki Died At 6. Simba Started Doing The Same Thing😢") hoặc authority ("Veterinarian Speaks The Truth..").
 
 ## Villain stack + reason-why bank (lặp ~verbatim, xem census)
