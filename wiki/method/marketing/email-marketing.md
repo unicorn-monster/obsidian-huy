@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k]
-updated: 2026-06-23
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown]
+updated: 2026-06-26
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -80,8 +80,36 @@ maxwellcopy gửi SMS cho hàng chục triệu người: **testimonial qua SMS**
 ### Welcome flow incremental: +$109K / +12% từ SMS ([[maxwellcopy-sms-welcome-flow-109k]])
 Client email-only welcome flow → $887K. Thêm **SMS welcome series song song** → **+$109K incremental** (+12%). Cơ chế: SMS reach đúng **người không mở email** — khác kênh, khác moment, segment email bỏ sót. *"One of the simplest and easiest lifts you can make to your core flows."* → **MaxPro: priority SMS welcome khi list đủ lớn** — thêm 1-2 SMS touchpoint vào welcome flow Klaviyo hiện tại, không cần build riêng.
 
+## Headline angle > copy — 4-step framework ([[maxwellcopy-email-headline-angle-framework]])
+**Unwritten rule:** đổi headline angle, giữ nguyên body → double/triple revenue. Người không đọc copy — nhưng angle đúng tạo buying intent. Framework tìm "banger angle":
+1. **Boring benefit** → *"Helps with sleep."*
+2. **Emotional pain behind it** → *"Waking up at 3am every night exhausted."*
+3. **Tension** → *"Wrong supplementation may be why you wake up at 3am."*
+4. **Special sauce** → *"The source of your exhaustion lies in your medicine cabinet."*
+
+Banger angle *"pokes you in the chest"*; weak angle = fact without intent. MaxPro ví dụ: "Grinder êm cho chó" (boring) → "Hôm qua lại bỏ cuộc giữa chừng vì nó giãy" (pain) → "Công cụ cắt móng bạn dùng có thể là vấn đề" (tension) → "Có 1 grinder chó không sợ tiếng — và nó chưa ở nhà bạn" (special sauce). Tie [[angles]] (emotional pain layer) + #4 SMS-style email (đọc như người nói, không như brand).
+
+## 10 lesson từ $250M email — Chase Dimond ([[maxwellcopy-10-email-lessons-chase-dimond]])
+Insight cao độ nghịch-lý (từ $250M+ ecom email marketing):
+- **Welcome flow: 4-6 email, không 12.** Quá 12 = vô nghĩa; mở bằng core points, không "welcome to the family."
+- **Đừng rewrite hoàn toàn flow yếu.** Lấy campaign đang crush, add welcome code, slot vào — ăn hơn viết mới.
+- **Highest lever = offer, không copy.** Test percent-off vs dollar-off vs free gift → có thể double conversion; copy tweak thì không.
+- **RPR > open rate.** Apple inflates open rate → revenue per recipient là số duy nhất chứng minh campaign work thật. Tie [[maxwellcopy-12m-email-sms-30days]] (attribution discipline).
+- **Abandonment flow: split by cart value.** Cart nhỏ = reminder; cart lớn có thể cần discount (bảo vệ margin theo threshold).
+- **Replenishment email: theo rebuy cycle thật, không "day 30" round.** Gửi khi người ta thực sự rebuy — đa số brand đang đoán.
+- **AI tốt nhất trong retention = VOC mining.** Đào review + support ticket lấy exact language khách dùng, không phải "viết email". Tie [[creative-brief]] (VOC-mining prompt).
+
+## Popup personalization at scale — Prism AI ([[maxwellcopy-prism-ai-popup-personalization]])
+Popup đọc context visitor (first-visit / returning / gender / segment) → rebuild nội dung tương ứng → machine học cái nào convert → serve nhiều hơn. Sofa Club (ecom): **+21% email signups, +15% SMS, +17% attributed orders** từ cùng 1 popup vị trí. Cơ chế tương tự quiz funnel ([[quiz-funnels]]) — personalization tăng relevance → conversion. → MaxPro trigger: khi list ~1k+ subscriber, test 2 variant popup (first-visit vs returning customer) trước khi đầu tư AI. Khởi đầu bằng Klaviyo conditional block hoặc Privy segment-based display.
+
 ## Agency red-flags (ops-discipline khi thuê ngoài) — 21 điểm
 [[maxwellcopy-agency-red-flags-list]]: không phải email-tactic mà là checklist **chọn/giám sát agency** (email/ads) — hữu ích cho Huy nếu sau này thuê. Cờ đỏ đáng nhớ nhất: **không bao giờ báo tin xấu** (luôn có vấn đề; chỉ tin tốt = không để ý hoặc giấu) · người liên hệ ≠ người làm strategy · đồng ý mọi thứ bạn nói · chỉ nhìn metric in-platform (Klaviyo rev) thay vì KPI store · báo cáo số nhưng **0 insight** · không quick-win tuần đầu · khoá hợp đồng 6-12 tháng · guarantee to lúc sale · dùng attribution-setting riêng của họ. → dùng làm bộ lọc ngược khi nghe agency pitch.
+
+## Subscription brand operational reality — teardown 13 điểm ([[maxwellcopy-subscription-brand-teardown]])
+> [!warning] Chỉ liên quan khi MaxPro mở dòng subscription consumable
+> Reinforces warning callout ở trên: subscription brand "trông cute cho đến khi bạn nhìn inside."
+
+Pain points hay gặp nhất khi audit (maxwellcopy, 250+ brands audited): unprofitable cho đến lần mua thứ 3+, gọi ROAS 0.9x là win, không thể lấy clean cohort data trong 6+ tháng đầu, customer service nightmare từ rebill complaints, temptation grey-hat/black-hat mỗi ngày, 20+ softwares cùng lúc, talent cực khó tìm. *"Most of these brands are LARPing success."* → Đọc kỹ trước khi mở bất kỳ dòng subscription nào; onboarding + billing hygiene (§SUB-1/2 ở trên) phải vào từ ngày 1, không phải sau.
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

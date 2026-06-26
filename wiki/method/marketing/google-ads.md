@@ -1,5 +1,5 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels]
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel]
 updated: 2026-06-26
 ---
 
@@ -177,6 +177,17 @@ Nguồn: [[ecomamin-seasonal-promotions-bfcm]] ($20M+, 7 năm seasonal Google). 
 
 > [!tip] Áp MaxPro/pet store
 > Trục 1+3+4 applicable ngay khi có data (advertorial per avatar breed-cluster + feed keyword-first + PMax per-ICP exclude brand). Trục 2 (YT Shorts MOF) khi đã có winner creative; trục 5 khi có customer list đủ lớn (~1k+). Sequence: feed rebuild TRƯỚC, rồi advertorial TOF, rồi YT Shorts remarketing depth. Liên kết: [[presell-pages]], [[creative-brief]], [[personas]].
+
+## AI funnel builder — Manus AI (2-3 ngày vs 2-3 tuần) ([[ecomamin-manus-ai-google-ads-funnel]])
+eCom_Amin (7-figure pet brand Google): dùng Manus AI build toàn bộ Google ads funnel ecom trong **2-3 ngày** thay vì 2-3 tuần. 6 component workflow:
+1. **Competitor intelligence prompt** — pull live data top 10 brands: landing pages, angles, credibility signals → gap analysis → tìm angle CHƯA ai chạy (không fatigue như saturated angles).
+2. **Keyword mapping by intent tier** — 20 kw/stage, mỗi kw mapped về page convert đúng intent. *"Magnesium glycinate"* và *"why can't I sleep"* là 2 intent khác nhau — không thuộc cùng 1 page.
+3. **Funnel type selection** — chọn đúng format per stage (advertorial, comparison, listicle, quiz, VSL, PDP) + testing roadmap. Cold supplement buyer ≠ gadget enthusiast → pre-sell page khác hoàn toàn.
+4. **Advertorial copy** — 1 prompt pull audience language từ Reddit/Amazon/forums → 900-word advertorial *"đọc như journalist viết, không phải marketer."* Highest-leverage copy cho cold traffic.
+5. **Campaign architecture doc** — naming convention, ad group structure, match types, bid sequence, negatives, 30-day launch plan. "Phần agencies giữ trong đầu → không ai replicate được" → hệ thống hoá nó.
+6. **Branding audit** — score 1-5: domain, photography, social proof, founder presence, credibility TRƯỚC khi tiêu 1 đồng cold traffic. *"Best campaigns won't save a page that doesn't look legit."*
+
+Tie [[presell-pages]] (format selection) + [[angles]] (competitor gap = unsaturated angle) + 9 funnel-type section ở trên + advertorial system. → MaxPro: dùng workflow này khi ready build Google funnel lần đầu thay vì bắt đầu với PDP.
 
 ## Bing (bonus)
 Setup Bing = +15-20% revenue "for free". Thêm sau khi Google chạy ổn.

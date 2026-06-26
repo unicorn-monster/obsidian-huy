@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation]
-updated: 2026-06-25
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase]
+updated: 2026-06-26
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -15,6 +15,9 @@ Nguồn: [[dtcquizbuilder-quiz-funnel-2m-90days]], [[dtcquizbuilder-im8-quiz-tea
 - **Zero-party data** — biết chính xác họ quan tâm gì, mạnh hơn pixel.
 
 Thesis bổ sung cho [[media-buying]] ("creative is the new targeting"): khi ai cũng có AI copy + AI creative + CRO, **funnel là chỗ còn arbitrage** (khó copy hơn 1 cái ad).
+
+## Consumer evolution = tại sao personalization không còn optional ([[dtcquizbuilder-quiz-funnel-personalization-scale]])
+*Books > Google > AI. DTC > Amazon > TikTok shop.* Mỗi bước = consumer bị spoil thêm với options + personalization. Hệ quả: họ chỉ mua khi tin rằng option này giải đúng VẤN ĐỀ CỦA CHÍNH HỌ — không phải "tốt nói chung." Đây là macro lý do quiz funnels win: không phải trick, mà là format DUY NHẤT align với cách consumer 2026 ra quyết định. Ads "niched down", headlines "specific" đều cùng hướng này — quiz là biểu hiện đầy đủ nhất của xu hướng đó ở quy mô.
 
 ## Quiz = personalized sales call at scale ([[dtcquizbuilder-quiz-personalized-sales-call]])
 2026: consumer bị "spoiled by options" — mass content + AI + DTC/TikTok-shop đã normalize personalization. **Họ chỉ mua khi tin rằng option này tốt nhất cho CHÍNH HỌ, không phải "tốt nói chung."**

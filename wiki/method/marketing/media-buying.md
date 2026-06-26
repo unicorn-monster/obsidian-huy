@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm]
-updated: 2026-06-25
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages]
+updated: 2026-06-26
 ---
 
 # Media buying + testing (Meta 2026)
@@ -91,6 +91,11 @@ Nguồn: [[jforjacob-split-test-cpm-hidden-cost]] (jforjacob, DR/ecom). Lỗi í
 > Mỗi lần A/B test PDP hay quiz funnel → sau khi roll out biến winner, pull CPM/CPC ở Ads Manager ngay tuần đó. Đừng chỉ nhìn Intelligems dashboard.
 
 Bổ sung cho **Decision matrix ngày 1** ở trên: ATC rate chỉ đúng khi CPM ổn định. Liên kết [[funnel-and-landing]] (page change) + [[quiz-funnels]] (quiz variant test).
+
+## Bootstrapped brand creative edge — phải thắng bằng craft ([[jforjacob-bootstrapped-creatives-landing-pages]])
+*"Those who can afford to spend the most to acquire a customer win"* — đúng, nhưng bootstrap không có luxury đó. Hệ quả thực tế: **phải ăn hơn big brand về creative quality + landing page** nếu muốn compete. Counter-intuitive: category leaders như Gruns, IM8 đang chạy ads *"objectively mid"* — đây là gap thực. Budget không thể cân bằng; craft + angle + page quality thì có thể.
+
+Tie [[creative-testing]] (đọc signal từ metric, không budget to) + [[funnel-and-landing]] (landing page = lever ngang với creative) + [[ugly-ads-method]] (quality ≠ production value — là hook/angle/structure). → MaxPro: "không đủ ngân sách Gruns" không phải excuse — đây chính xác là lý do cần craft tốt hơn họ.
 
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].
