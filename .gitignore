@@ -4,8 +4,10 @@
 .obsidian/cache
 .trash/
 
-# Bulky reproducible raw scrape data (21MB) — essence captured in markdown sources; re-gen via scrape
-sources/kittysupps-adlib-raw-2026-06.json
+# Bulky reproducible raw scrape data (20MB+ each) — essence captured in markdown sources; re-gen via scrape
+sources/kittysupps-adlib-raw-*.json
 
 # Image swipe bank (bulky binaries) — annotations in index.md stay tracked
 sources/kittysupps-adlib-images/*.jpg
+
+.wrangler/

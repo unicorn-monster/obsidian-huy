@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MaxPro Top-5 — OUTLINE DEMO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@600;700;800;900&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --page:#F5F9FF; --ink:#1a1d24; --body:#3d4757; --line:#e3e8ef;
+    --blue:#3486CA; --teal:#1BC7B1; --red:#e93d3d; --villain:#FF4A4A;
+    --orange:#FF9900; --orange-d:#e08600; --yellow:#FFDA00; --gold:#F8AE13;
+    --mint:rgba(154,230,180,0.28);
+    --hf:'Raleway',sans-serif; --bf:'Roboto',Arial,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:var(--bf);background:var(--page);color:var(--body);line-height:1.6;font-size:16px;-webkit-font-smoothing:antialiased;}
+  h1,h2,h3,h4{font-family:var(--hf);color:var(--ink);line-height:1.2;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1170px;margin:0 auto;padding:0 18px;}
+  .narrow{max-width:1000px;margin:0 auto;padding:0 18px;}
+  .sec{position:relative;padding:40px 0;}
+  .tag{position:absolute;top:6px;left:6px;z-index:6;font-family:var(--bf);font-size:11px;font-weight:700;letter-spacing:.03em;
+       border-radius:6px;padding:3px 9px;text-transform:uppercase;}
+  .t-keep{color:#0b6e63;background:#e2f8f4;border:1px dashed #46c3b4;}
+  .t-up{color:#11568c;background:#e6f1fb;border:1px dashed #5aa0e0;}
+  .t-add{color:#9a4b00;background:#fff1e0;border:1px dashed #f0a35a;}
+  .demobar{position:sticky;top:0;z-index:50;background:#11151c;color:#fff;text-align:center;font-size:13px;padding:9px 14px;}
+  .demobar b{color:var(--yellow);}
+  .ph{background:repeating-linear-gradient(45deg,#eef3f8,#eef3f8 10px,#e6edf4 10px,#e6edf4 20px);
+      border:2px dashed #b9c7d4;border-radius:10px;display:flex;align-items:center;justify-content:center;
+      color:#7e8ba0;font-size:12.5px;text-align:center;min-height:90px;padding:12px;font-weight:500;}
+  .todo{color:#b13a32;font-weight:700;font-size:12.5px;}
+  /* header */
+  header{background:#fff;border-bottom:1px solid var(--line);}
+  .hdr{display:flex;align-items:center;justify-content:space-between;max-width:1170px;margin:0 auto;padding:12px 18px;}
+  .logo{font-family:var(--hf);font-weight:900;font-size:24px;color:#111;}
+  .logo b{color:var(--villain);}
+  .logo small{display:block;font-size:9px;letter-spacing:.32em;color:#9aa;font-weight:700;margin-top:-3px;}
+  /* hero */
+  .hero{background:#15181f;color:#fff;position:relative;padding:30px 0 38px;}
+  .hero .disc{position:absolute;top:14px;right:18px;text-align:center;font-size:12px;color:#cfd6df;}
+  .hero .disc .b{border:1px solid #4a5260;border-radius:20px;padding:6px 14px;display:inline-block;font-weight:700;color:#fff;}
+  .hero h1{font-size:38px;font-weight:800;text-align:center;color:#fff;max-width:830px;margin:34px auto 12px;}
+  .hero .sub{font-size:21px;font-weight:700;color:var(--yellow);text-align:center;font-family:var(--hf);margin-bottom:18px;}
+  .badges{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;margin:14px 0 6px;}
+  .badge{background:#1e2530;border:1px solid #2f3947;border-radius:10px;padding:12px 18px;text-align:center;min-width:150px;}
+  .badge b{font-family:var(--hf);color:#fff;font-size:22px;display:block;}
+  .badge span{font-size:12px;color:#b6c0cc;}
+  .hnav{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:18px;}
+  .hnav a{border:2px solid #fff;color:#fff;padding:12px 22px;font-family:var(--hf);font-weight:700;font-size:14px;letter-spacing:.02em;text-decoration:none;transition:background .15s,color .15s;}
+  .hnav a:hover{background:#fff;color:#15181f;}
+  /* important */
+  .important{border:1px solid #111;background:#fff;padding:16px 20px;font-size:16px;line-height:1.5;font-style:italic;margin:24px auto;}
+  .important b{color:var(--villain);font-style:normal;}
+  /* edu */
+  .edu h2{font-size:27px;margin:6px 0 12px;}
+  .edu p{margin-bottom:12px;}
+  /* criteria as taught rubric */
+  .crit{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:8px;}
+  .crit .c{background:#fff;border:1px solid var(--line);border-top:3px solid var(--teal);border-radius:0 0 10px 10px;padding:14px;}
+  .crit .c .n{font-family:var(--hf);font-weight:900;color:var(--teal);font-size:14px;}
+  .crit .c h4{font-size:15px;margin:4px 0 6px;color:var(--ink);}
+  .crit .c .spec{display:inline-block;background:#eef7ff;color:#1f6fb2;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;}
+  .crit .c p{font-size:12.5px;color:#6b7682;margin-top:6px;}
+  /* health-fear cards */
+  .cards3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;}
+  .hc{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px;}
+  .hc .ic{width:42px;height:42px;border-radius:9px;background:#ffeceb;color:var(--red);display:flex;align-items:center;justify-content:center;font-size:20px;margin-bottom:10px;}
+  .hc h4{font-size:16px;color:var(--ink);margin-bottom:6px;}
+  .hc p{font-size:13px;color:#67727f;}
+  /* level ladder */
+  .ladder{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;}
+  .lev{border-radius:12px;padding:18px 16px;border:1px solid var(--line);background:#fff;}
+  .lev .lt{font-family:var(--hf);font-weight:800;font-size:12.5px;text-transform:uppercase;}
+  .lev h4{font-size:16px;margin:3px 0 6px;color:var(--ink);}
+  .lev .db{font-family:var(--hf);font-weight:900;font-size:23px;margin:4px 0;}
+  .lev p{font-size:12.5px;color:#6b7682;}
+  .lev.bad{background:#fff6f5;border-color:#f3c8c4;} .lev.bad .lt,.lev.bad .db{color:var(--red);}
+  .lev.mid{background:#fffaf0;border-color:#f4dda6;} .lev.mid .lt,.lev.mid .db{color:#d98c0a;}
+  .lev.win{background:#effaf1;border:2px solid #16a34a;} .lev.win .lt,.lev.win .db{color:#16a34a;}
+  .winb{display:inline-block;background:#16a34a;color:#fff;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-bottom:5px;}
+  /* villain */
+  .villbox{background:#fff4f4;border:2px solid var(--villain);border-radius:14px;padding:22px;}
+  .villbox .vt{display:inline-block;background:var(--villain);color:#fff;font-family:var(--hf);font-weight:800;font-size:13px;padding:4px 12px;border-radius:6px;text-transform:uppercase;}
+  .villbox h3{font-size:21px;margin:10px 0 8px;}
+  /* compare scorecard table */
+  .ctbl{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:13px;}
+  .ctbl th,.ctbl td{padding:10px;text-align:center;border:1px solid var(--line);}
+  .ctbl thead th{background:#f1f5fa;font-family:var(--hf);}
+  .ctbl .crow td:first-child{text-align:left;font-weight:500;color:var(--ink);background:#fafcfe;}
+  .ctbl .mp{background:var(--mint);}
+  .ctbl .mp.head{background:#bdeccb;}
+  .ck{color:var(--teal);font-weight:900;} .cx{color:var(--red);font-weight:900;}
+  .scoremini{font-family:var(--hf);font-weight:800;color:var(--ink);}
+  /* ranking cards */
+  .rank{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px;margin-bottom:18px;position:relative;}
+  .rank.one{border:3px solid var(--blue);}
+  .rbadge{position:absolute;top:-12px;left:18px;background:var(--blue);color:#fff;font-family:var(--hf);font-weight:900;border-radius:20px;padding:4px 14px;font-size:14px;}
+  .rtop{display:grid;grid-template-columns:90px 1fr 130px;gap:16px;align-items:center;}
+  .grade{font-family:var(--hf);font-weight:900;font-size:54px;color:var(--ink);text-align:center;line-height:1;}
+  .grade small{display:block;font-size:11px;letter-spacing:.1em;color:#8a929c;}
+  .rname{font-family:var(--hf);font-weight:800;font-size:20px;color:var(--ink);}
+  .rby{font-size:13px;color:#8a929c;}
+  .scores{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0;}
+  .scores div{font-size:12px;color:#6b7682;}
+  .scores b{font-family:var(--hf);color:var(--ink);}
+  .pc{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:12px;}
+  .pc h5{font-family:var(--hf);font-size:13px;letter-spacing:.05em;margin-bottom:6px;}
+  .pc ul{list-style:none;font-size:13px;}
+  .pros li{padding:3px 0 3px 20px;position:relative;} .pros li::before{content:"\2714";position:absolute;left:0;color:var(--teal);font-weight:900;}
+  .cons li{padding:3px 0 3px 20px;position:relative;} .cons li::before{content:"\2716";position:absolute;left:0;color:var(--red);font-weight:900;}
+  .botline{background:#f7fafd;border-radius:10px;padding:12px 16px;margin-top:12px;font-size:13.5px;}
+  .botline .cmp{color:var(--blue);font-weight:700;}
+  .cta{display:inline-block;background:var(--orange);color:#fff;font-family:var(--hf);font-weight:800;font-size:15px;text-transform:uppercase;padding:12px 26px;border-radius:30px;border:2px solid #fff;text-decoration:none;box-shadow:0 3px 0 var(--orange-d);margin-top:12px;}
+  .humble{background:#effaf1;color:#16713a;font-size:12px;font-weight:600;padding:6px 10px;border-radius:7px;display:inline-block;margin-top:6px;}
+  /* hot tip */
+  .hottip{background:var(--mint);border:2px dashed #57c98a;border-radius:14px;padding:20px;}
+  .hottip h3{font-size:20px;margin-bottom:6px;}
+  /* final pick */
+  .finalpick{background:#fff;border:3px solid var(--blue);border-radius:16px;padding:26px;text-align:center;max-width:760px;margin:0 auto;}
+  .trophy{font-size:42px;}
+  /* citations */
+  .cites{font-size:12px;color:#8a929c;}
+  .cites ol{margin-left:18px;} .cites li{margin:3px 0;}
+  h2.big{font-size:28px;text-align:center;margin-bottom:8px;}
+  .lead{max-width:760px;margin:0 auto 22px;text-align:center;color:#5d6876;}
+  .kick{color:var(--teal);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;text-align:center;}
+  @media(max-width:820px){
+    .crit,.ladder,.cards3{grid-template-columns:1fr 1fr;}
+    .rtop{grid-template-columns:60px 1fr;} .rtop .cta{grid-column:1/-1;}
+    .pc{grid-template-columns:1fr;} .hero h1{font-size:28px;}
+    .ctbl{font-size:11px;} .ctbl th,.ctbl td{padding:6px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="demobar">🧪 <b>OUTLINE DEMO</b> — bài top-5 advertorial. Copy là <b>placeholder</b>, nhãn ① màu = <span style="color:#46c3b4">KEEP</span> / <span style="color:#5aa0e0">UPGRADE</span> / <span style="color:#f0a35a">ADD</span>. Ta sẽ viết copy thật từng mục.</div>
+
+<header><div class="hdr"><div class="logo">4Paws<b>Review</b><small>INDEPENDENT PET REVIEWS</small></div><div style="font-size:13px;color:#888;">Reviews · Guides · About</div></div></header>
+
+<!-- 1 -->
+<section class="hero sec">
+  <span class="tag t-keep">① Hero · KEEP</span>
+  <span class="tag t-add" style="left:auto;right:6px;top:auto;bottom:6px;">+ ADD badge methodology (#8)</span>
+  <div class="wrap">
+    <h1>The Best Nail Grinder of 2026: A Buyer's Guide</h1>
+    <div class="sub">Discover which dog nail grinder works… and which is worthless.</div>
+    <div style="font-size:13px;color:#cfd6df;text-align:center;margin:-4px auto 16px;">Latest update: June 23, 2026 · 4 minute read</div>
+    <div class="hnav">
+      <a href="#why">WHY IT MATTERS</a>
+      <a href="#mistakes">TOP MISTAKES</a>
+      <a href="#best">BEST OF 2026</a>
+    </div>
+  </div>
+</section>
+
+<!-- 2 -->
+<section class="sec"><span class="tag t-keep">② IMPORTANT · KEEP</span>
+  <div class="narrow"><div class="important"><b>IMPORTANT:</b> If your dog panics, bleeds, or needs sedation at nail time, the problem usually isn't your dog — it's the tool. Here's what actually fixes it.</div></div>
+</section>
+
+<!-- 3 -->
+<section class="sec edu" id="why"><span class="tag t-keep">③ Why the tool matters · KEEP</span>
+  <div class="narrow">
+    <h2>Why the tool matters more than your technique</h2>
+    <p>Overgrown nails change your dog's stride, stress their joints, and can cause lasting posture problems. But most owners avoid trims because the <i>tool</i> terrifies the dog — not because they don't care.</p>
+    <div class="ph">🐾 Ảnh ngang: chó + dụng cụ</div>
+  </div>
+</section>
+
+<!-- 4 -->
+<section class="sec edu" style="background:#fff;"><span class="tag t-up">④ What you need: 5 criteria · UPGRADE → taught-rubric (#1) + cụ thể (#2)</span>
+  <div class="wrap">
+    <h2 style="text-align:center;">What you need: the 5 things that actually matter</h2>
+    <p class="lead">Spent weeks testing. These 5 separate a grinder that works from one your dog fights. <span class="todo">(bí mật = đúng spec MaxPro)</span></p>
+    <div class="crit">
+      <div class="c"><div class="n">01</div><h4>Truly quiet</h4><span class="spec">&lt; 40 dB</span><p>Below the anxiety-trigger threshold. Most run 50-90 dB.</p></div>
+      <div class="c"><div class="n">02</div><h4>Low vibration</h4><span class="spec">no paw-nerve rattle</span><p>Vibration scares dogs more than noise.</p></div>
+      <div class="c"><div class="n">03</div><h4>Power for thick/black nails</h4><span class="spec">won't bog down</span><p>Weak motors stall on large breeds.</p></div>
+      <div class="c"><div class="n">04</div><h4>Safe around the quick</h4><span class="spec">grind gradually</span><p>Controlled, no cut-too-short.</p></div>
+      <div class="c"><div class="n">05</div><h4>Battery that lasts</h4><span class="spec">7 hr runtime</span><p>No dying mid-session.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 5 -->
+<section class="sec"><span class="tag t-up">⑤ Bad nail care can cause · UPGRADE → 3 cơ chế health-fear (heusom)</span>
+  <div class="wrap">
+    <h2 class="big">What bad nail care actually does to your dog</h2>
+    <div class="cards3" style="margin-top:18px;">
+      <div class="hc"><div class="ic">⚠️</div><h4>Splitting → infection</h4><p>Clippers crush &amp; snap, opening nail beds to bacteria — painful splits that invite infection.</p></div>
+      <div class="hc"><div class="ic">🩸</div><h4>Cutting the quick</h4><p>One wrong clip severs the quick: bleeding, swelling, lasting trauma.</p></div>
+      <div class="hc"><div class="ic">🦴</div><h4>Stride → joint stress</h4><p>Wrong length changes paw structure, stresses joints, ages your dog faster.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 6 -->
+<section class="sec" id="mistakes" style="background:#fff;"><span class="tag t-add">⑥ Why most tools fail: Level 1-4 ladder · ADD (từ sale page)</span>
+  <div class="wrap">
+    <h2 class="big">Why other tools fail — and what actually works</h2>
+    <p class="lead">Same 3 needs, four tools, very different results.</p>
+    <div class="ladder">
+      <div class="lev bad"><div class="lt">Level 1 · Clipper</div><div class="db">SNAP</div><p>Crushing action = panic. Micro-fractures that never heal. One slip severs the quick.</p></div>
+      <div class="lev bad"><div class="lt">Level 2 · Dremel</div><div class="db">80-90 dB</div><p>Screams by their ear. Heavy vibration + heat that burns. Too bulky to control.</p></div>
+      <div class="lev mid"><div class="lt">Level 3 · Cheap grinder</div><div class="db">50-60 dB</div><p>Anxious dogs still panic. Weak motor bogs on thick nails.</p></div>
+      <div class="lev win"><span class="winb">✓ Winner</span><div class="lt">Level 4 · MaxPro</div><div class="db">&lt; 40 dB</div><p>Quieter than a fridge. Strong on big nails, calm enough they fall asleep.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 7 -->
+<section class="sec"><span class="tag t-up">⑦ What to AVOID + villain · UPGRADE (gộp watch-out + 5 mistakes)</span>
+  <div class="narrow">
+    <div class="villbox">
+      <span class="vt">⚠ The #1 thing to avoid</span>
+      <h3>The "triple trigger": loud whine + vibration + friction heat</h3>
+      <p>The grinders that fail anxious dogs all share it — a high-pitched motor (50-90 dB), buzzing that rattles paw nerves, and friction heat that can burn the quick. It's why your dog bolts. Any tool with all three is disqualified — no matter the price. <span class="todo">[chọn villain spec sắc nhất + dẫn chứng]</span></p>
+    </div>
+  </div>
+</section>
+
+<!-- 8 -->
+<section class="sec" id="best" style="background:#fff;"><span class="tag t-up">⑧ Comparison table · UPGRADE → scorecard đa trục (#4)</span>
+  <div class="wrap">
+    <h2 class="big">The best dog nail grinders of 2026, scored</h2>
+    <table class="ctbl" style="margin-top:14px;">
+      <thead><tr><th style="text-align:left;">Criteria</th><th class="mp head">MaxPro</th><th>FURminator</th><th>Wahl 5972</th><th>Hertzko</th><th>WOOFMEW</th></tr></thead>
+      <tbody>
+        <tr class="crow"><td>Overall grade</td><td class="mp"><b>A+</b></td><td>B</td><td>B-</td><td>C</td><td>C-</td></tr>
+        <tr class="crow"><td>Quiet (&lt;40dB)</td><td class="mp"><span class="ck">✔</span> <span class="scoremini">9.8</span></td><td><span class="cx">✘</span> 6.1</td><td><span class="ck">✔</span> 7.5</td><td>6.8</td><td>6.0</td></tr>
+        <tr class="crow"><td>Power (thick/black)</td><td class="mp"><span class="ck">✔</span> <span class="scoremini">9.5</span></td><td>7.2</td><td><span class="cx">✘</span> 5.4</td><td>6.0</td><td><span class="cx">✘</span> 5.1</td></tr>
+        <tr class="crow"><td>Safety / quick</td><td class="mp"><span class="ck">✔</span> <span class="scoremini">9.7</span></td><td>7.0</td><td>7.1</td><td>6.6</td><td>6.2</td></tr>
+        <tr class="crow"><td>Battery</td><td class="mp"><span class="ck">✔</span> <span class="scoremini">9.4</span></td><td><span class="cx">✘</span> 5.0</td><td>6.8</td><td><span class="cx">✘</span> 5.5</td><td>5.8</td></tr>
+        <tr class="crow"><td>Value</td><td class="mp"><span class="scoremini">9.3</span></td><td>6.7</td><td>6.4</td><td>7.0</td><td>6.2</td></tr>
+      </tbody>
+    </table>
+    <p style="text-align:center;font-size:12px;color:#8a929c;margin-top:8px;">Cột MaxPro highlight mint · sub-score mỗi trục thay vì chỉ 1 grade</p>
+  </div>
+</section>
+
+<!-- 9 -->
+<section class="sec"><span class="tag t-up">⑨ Ranking #1 MaxPro · DEEPEN (spec #2 + con humblebrag #6 + review thật)</span>
+  <div class="wrap">
+    <div class="rank one"><div class="rbadge">#1 PICK</div>
+      <div class="rtop">
+        <div class="grade">A+<small>9.7/10</small></div>
+        <div>
+          <div class="rname">MaxPro 3-in-1 Grinder</div>
+          <div class="rby">★★★★★ 4.8 — 18,587+ reviews</div>
+          <div class="scores"><div><b>Quiet</b> 9.8</div><div><b>Power</b> 9.5</div><div><b>Safety</b> 9.7</div><div><b>Battery</b> 9.4</div><div><b>Value</b> 9.3</div></div>
+        </div>
+        <div style="text-align:center;"><div class="ph" style="min-height:80px;">🐾 ảnh</div></div>
+      </div>
+      <div class="pc">
+        <div><h5 style="color:#0b8f7e;">PROS</h5><ul class="pros"><li>Under 40 dB — quieter than a fridge</li><li>Diamond drum, safe on black nails</li><li>3 ports + 2 speeds, to 150 lb</li><li>USB, 7-hr runtime</li><li>99-day money-back guarantee</li></ul></div>
+        <div><h5 style="color:#b13a32;">CONS</h5><ul class="cons"><li>Often sells out from demand</li></ul>
+          <div class="humble">↳ con "humblebrag": êm tới mức vài chủ tưởng máy chưa bật</div></div>
+      </div>
+      <div class="botline">The quietest, most controllable grinder we tested — and the only one that hit every one of our 5 criteria. <span class="todo">[chèn 1-2 quote review thật làm proof]</span></div>
+      <a href="#" class="cta">Find out more →</a>
+    </div>
+  </div>
+</section>
+
+<!-- 10 -->
+<section class="sec" style="background:#fff;"><span class="tag t-up">⑩ Ranking #2-5 · DEEPEN (CONS = quote 1-2★ thật + kéo so về #1 (#7))</span>
+  <div class="wrap">
+    <div class="rank"><div class="rbadge" style="background:#188bf6;">#2</div>
+      <div class="rtop"><div class="grade">B<small>FURminator</small></div>
+        <div><div class="rname">FURminator Nail Grinder</div><div class="rby">★★★★☆ 3.9 — 3,774 reviews</div>
+          <div class="scores"><div><b>Quiet</b> 6.1</div><div><b>Power</b> 7.2</div><div><b>Battery</b> 5.0</div></div></div>
+        <div style="text-align:center;"><div class="ph" style="min-height:70px;">🐾</div></div></div>
+      <div class="pc"><div><h5 style="color:#0b8f7e;">PROS</h5><ul class="pros"><li>Trusted brand, LED light</li></ul></div>
+        <div><h5 style="color:#b13a32;">CONS</h5><ul class="cons"><li><span class="todo">[quote 1★ thật: pin tụt giữa chừng]</span></li><li>Motor stalls on thick nails</li></ul></div></div>
+      <div class="botline"><span class="cmp">Compare to #1:</span> where the FURminator's AA batteries die mid-trim, MaxPro runs 7 hrs on USB. <a href="#" class="cta" style="font-size:13px;padding:8px 18px;">Learn more</a></div>
+    </div>
+
+    <div class="rank"><div class="rbadge" style="background:#1BC7B1;">#3</div>
+      <div class="rtop"><div class="grade">B-<small>Wahl 5972</small></div>
+        <div><div class="rname">Wahl Premium 5972</div><div class="rby">★★★★☆ 3.9 — 522 reviews</div>
+          <div class="scores"><div><b>Quiet</b> 7.5</div><div><b>Power</b> 5.4</div></div></div>
+        <div style="text-align:center;"><div class="ph" style="min-height:70px;">🐾</div></div></div>
+      <div class="pc"><div><h5 style="color:#0b8f7e;">PROS</h5><ul class="pros"><li>Genuinely quiet, has a guard</li></ul></div>
+        <div><h5 style="color:#b13a32;">CONS</h5><ul class="cons"><li><span class="todo">[quote: khựng khi ấn nhẹ]</span></li><li>Drum flies off mid-trim</li></ul></div></div>
+      <div class="botline"><span class="cmp">Compare to #1:</span> fine for a Chihuahua, but it stalls under pressure — MaxPro powers through large-breed nails. <a href="#" class="cta" style="font-size:13px;padding:8px 18px;">Learn more</a></div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+      <div class="rank" style="margin:0;"><div class="rbadge" style="background:var(--orange);">#4</div>
+        <div class="grade" style="font-size:38px;">C</div><div class="rname">Hertzko</div><div class="rby">4.0 — 10,582 rev</div>
+        <ul class="cons" style="font-size:12.5px;margin-top:8px;"><li><span class="todo">[quote: yếu móng đen]</span></li><li>Pin tụt giữa buổi</li></ul></div>
+      <div class="rank" style="margin:0;"><div class="rbadge" style="background:#9aa3ad;">#5</div>
+        <div class="grade" style="font-size:38px;">C-</div><div class="rname">WOOFMEW</div><div class="rby">3.8 — 703 rev</div>
+        <ul class="cons" style="font-size:12.5px;margin-top:8px;"><li><span class="todo">[quote: tắt khi ấn]</span></li><li>Pin chết sau vài bàn chân</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<!-- 11 -->
+<section class="sec"><span class="tag t-keep">⑪ HOT TIP · KEEP (dời gần ranking)</span>
+  <div class="narrow"><div class="hottip"><h3>🔥 Hot tip: desensitize first</h3><p>Peanut-butter lick mat + run the grinder nearby (off, then on) + treats. 3-4 short sessions and most dogs stop fearing it.</p></div></div>
+</section>
+
+<!-- 12 -->
+<section class="sec" style="background:#fff;"><span class="tag t-keep">⑫ Final pick + trophy · KEEP</span>
+  <div class="wrap"><div class="finalpick">
+    <div class="trophy">🏆</div>
+    <h2 style="margin:6px 0;">2026's best dog nail grinder</h2>
+    <div class="rname" style="font-size:24px;">MaxPro 3-in-1 Grinder</div>
+    <p style="margin:8px 0 4px;color:#5d6876;">The only grinder that hit all 5 — quiet, safe, powerful, lasting.</p>
+    <a href="#" class="cta">See today's price →</a>
+  </div></div>
+</section>
+
+<!-- 13 -->
+<section class="sec"><span class="tag t-add">⑬ Citations strip · ADD (#9 — research not ad)</span>
+  <div class="narrow cites">
+    <h4 style="font-size:14px;margin-bottom:6px;">Sources</h4>
+    <ol><li>Effect of nail length on canine gait &amp; joints — [study]</li><li>Noise sensitivity &amp; anxiety in dogs — [study]</li><li>Nail-bed injury &amp; infection risk — [vet source]</li><li class="todo">[thêm 2-3 nguồn thật khi viết]</li></ol>
+  </div>
+</section>
+
+</body>
+</html>
