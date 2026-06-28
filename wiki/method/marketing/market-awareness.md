@@ -1,5 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons]
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot]
+updated: 2026-06-28
 ---
 
 # Market awareness + sophistication (grinder)
@@ -46,6 +47,36 @@ Nguồn: [[avcanthony-sophistication-ump-match]]. UMP (unique mechanism of the *
 - **UMS (vì sao mình giải được):** ultra-quiet DC dưới ngưỡng dB panic + low-vibration + **diamond drum** mài vi mô (không crush) + multi-port cap chặn quick + "watch the dot".
 
 Giao UMS dạng dialogue qua authority character (beat 8 [[ugly-ads-method]]). Defensible, không đạp landmine ([[compliance]]).
+
+## Unaware pool = biên giới scale duy nhất còn lại ([[study-unaware-ads-nicktheriot]])
+Nick Theriot (agency spend $2.5M/mo): **problem-aware pool đang cạn kiệt** cho mọi brand. Mỗi lần ai đó chạy thêm testimonial UGC / "30% off" / "buy 2 get 1" → pool problem-aware **co lại cho cả ngành**. Hệ quả: account cap ~$200-300k/mo, CPM leo, CPA không cải thiện. Thoát trần = mở **unaware pool** (người chưa biết mình có vấn đề) — pool to nhất + khó nhất + bán ở **premium**.
+
+> [!note] Mệnh đề lõi: unaware buyer được **TẠO RA**, không **TÌM THẤY**
+> Buyer được "mở" đúng khoảnh khắc creative **sắp xếp lại sự chú ý** quanh thứ họ chưa gọi tên (story / stat / question / symptom). Feed = mental entropy (skip, block); 1 creative không-cố-bán mà order được attention = mental order (lean in, curiosity). → Đây là cùng cơ chế "earn attention before selling" của [[native-ads]] + [[presell-pages]] (advertorial mở bằng story, không bằng offer).
+
+**Fast ads vs slow ads (phổ creative):**
+
+| | Fast ads (problem-aware) | Slow ads (unaware) |
+|---|---|---|
+| Cơ chế | **deliver** offer | **earn** attention |
+| Mở bằng | product / discount / testimonial | story · stat · question · symptom |
+| Làm gì với buyer | inform người đã muốn category | **tạo** buyer chưa biết category quan trọng |
+| Format | UGC testimonial, "30% off" static, B2G1, before/after, 15s pain-spot | unaware ad, advertorial, long-form VSL ([[native-ads]]) |
+| Tuổi thọ | ~30 ngày | **437+ ngày** (durable, ít bão hoà) |
+| AI viết được? | có (→ carbon-copy, bão hoà nhanh) | **không** nếu thiếu operator input |
+
+**Vì sao AI KHÔNG thay được unaware ad** (≠ fast ad): format đòi **situated POV** về buyer (họ sợ ngầm gì, chưa biết muốn gì). AI mô phỏng được *cấu trúc* nhưng **làm phẳng yếu tố bất ngờ** (buyer cảm được công thức) → giết đúng cái angle đột phá. Tie [[creative-testing]]: đây là lý do "flood ad AI" tự bào mòn — imitation tăng tốc, chỉ có problem-aware creative để clone.
+
+**Cách viết unaware ad đầu tiên (checklist Nick):**
+1. Viết để **mở** buyer, không để bán — back-end close sau. Mở bằng story/stat/question/symptom họ nhận ra nhưng chưa gọi tên.
+2. Một **emotional truth** duy nhất. Research thật: đọc review **1★ + 3★** đối thủ ([[maxpro-voc-insights]]), Reddit upvoted, YouTube comments — đừng tin 1 survey.
+3. **Resist template.** Debate với resistance của buyer, pre-handle objection trong script *trước*, format/AI tính sau. Marketing thinking first.
+4. Tự hỏi: *"cái này có dừng được người CHƯA TỪNG nghe về product không?"* — không phải người đã problem-aware. Cưỡng lại hook quen.
+5. **Consume** unaware creative đang chạy lâu: Facebook Ad Library, TrendTrack top-performers, longest-running ads ở niche kề. Input định hình sense-making.
+6. Build **body of unaware concepts** (layered full-funnel), không content-calendar testimonial. Brand scale off *body* creative, không off 1 ad.
+
+> [!tip] Áp cho MaxPro — bổ sung fork 16/06 ở trên
+> Fork "broad cold = stage 2-3 → lead quieter/better way" vẫn đúng cho **fast/problem-aware** lane. Nhưng Nick thêm 1 lane SONG SONG đáng test: **unaware lane** (long-form, mở bằng symptom chó *đã* biểu hiện — móng quặp, bỏ chạy — không bằng grinder). Đây chính là [[maxpro-ugly-ads-plan]] long-form + nhân vật, định khung lại như "creative mở pool mới" thay vì chỉ "ad thắng". Durable (chạy 400+ ngày) + AI-proof = đúng moat cho brand $100k goal.
 
 ## Native cold traffic = ngược (L1-2)
 Khi mở [[native-ads]] (open-web): cold native = **Unaware / Problem-aware**, KHÔNG L3-4 như grinder buyer trên Meta. Targeting native rộng → **funnel tự qualify** thay cho targeting. Cùng 1 product có thể cần register awareness khác nhau theo kênh.

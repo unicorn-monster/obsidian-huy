@@ -7,6 +7,9 @@ updated: 2026-06-26
 
 Kênh **owned** (Klaviyo), khác máu với paid-acquisition ([[media-buying]], [[native-ads]]): không trả CPM, đánh vào list đã có. Trang này gom tactic retention/flow.
 
+> [!info] Setup từng-flow SMS → [[sms-flows]]
+> Trang này = *tactic* email/SMS (mystery discount, founder winback, odd send-times…). Cách **dựng** 6 flow Klaviyo (Welcome, Site/Browse/Cart/Checkout abandonment, Win-back) với trigger + exclusion filter + delay + copy template → tách ra [[sms-flows]].
+
 Nguồn #1: [[maxsturtevant-5-email-marketing-hacks]] — Max Sturtevant (claim $57M/tháng từ email = flex uy tín, **chưa verify**). 5 hack đang chạy, xếp theo độ mạnh bằng chứng.
 
 ## 1. Mystery discount > flat discount (abandonment flow) ⭐ có data
