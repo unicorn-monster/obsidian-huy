@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete]
-updated: 2026-06-24
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts]
+updated: 2026-06-29
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -66,6 +66,22 @@ Jan đẩy **3 lần trong 1 tuần** ([[advertising-jan-cartoon-7-styles-prompt
 - **Candid mirror photo (weight/midsection):** phụ nữ cuối 30s nghiêng người trong gương bathroom thường, tay đặt bụng dưới, mặt mệt-trung-tính, *"flat even daylight… dull honest unflattering"*, chi tiết thật (bath mat lệch, laundry basket), *"looks exactly like a real before-photo on their own phone. No logos, no text, no flattering angles, no studio lighting."*
 - **Documentary man with bills (financial stress):** đàn ông ~63 cúi trên chồng hoá đơn + máy tính cũ tối muộn, 1 bóng đèn vàng, *"photojournalism-style… belongs in a news article about retirement savings. No bank branding, no polished lighting."*
 → Pattern lặp = **plainly/honestly-lit, unflattering, real-room clutter, neutral-tired expression, No logos/text** = đối nghịch studio. MaxPro fill archetype #1: *"candid iPhone photo, a tired dog owner crouched on the kitchen floor holding a squirming dog's paw, overgrown nails visible, plain real kitchen, flat daylight, slightly blurry, no logos, no text"* (cùng dòng raw-problem-photo Refinement 16/06 ở trên). ⚠️ #1 sinh **người AI** → NY disclosure ([[compliance]]); cartoon (trên) né được điều này.
+
+## Senior niche — ultra-detailed candid prompts ([[advertising-jan-senior-niche-ai-prompts]])
+Nguồn: advertising_jan. **Senior products = "most profitable niche in ecom"**: easy to target (demographic clear), money to spend, *"not able to identify AI ads"* (lower AI-detection bar than younger demo). 2 style mẫu cho authentic senior lifestyle — technique value: mức độ detail của prompt để ngăn "AI perfection look":
+
+**Cấu trúc chung:** film stock + exact lens model (Fujifilm X-T4 56mm f/1.2 vs Nikon Z6II 50mm f/1.4 — khác camera = khác color science) + f-stop + focus point (mắt gần nhất) + ISO + white balance bias + specific clothing với brand name + body language decades-specific + **1 imperfection detail mỗi người** (vest slightly unzipped, lint on shoulder, puffiness under eyes) + environmental storytelling (scattered leaves, prescription bottle OOF, half-full carafe).
+
+**Style 1 — Couple autumn walk (Fuji warm tones, golden hour backlit):**
+Couple early 70s, arms interlocked, genuine laugh-lines deepening, vest unzipped, fleece has lint on shoulder. Background: small clapboard house blurred. *"Natural imperfections in clothing fit and posture... no posed or artificially styled feel."* → Camera spec: Fuji X-T4 + 56mm f/1.2, shot f/1.4, focus point woman's eye, warm white balance shifted slightly amber.
+
+**Style 2 — Woman alone, morning kitchen (Nikon muted editorial):**
+65-year-old, chin-length silver hair slightly tousled from sleep, no makeup, holding coffee mug looking out window. Expression: *"slightly melancholic but peaceful, distant unfocused gaze as if lost in thought. Slight puffiness under the eyes suggesting she did not sleep well."* Prescription pill bottle slightly OOF in frame. Color grade: muted desaturated, lifted shadows, softened highlights, subtle grain. → Camera spec: Nikon Z6 II + 50mm f/1.4, f/1.8, ISO 640.
+
+**Kỹ thuật cốt:** (1) name exact film/camera for color science (Fuji = rich warm reds / Nikon = muted editorial); (2) mỗi người ≥1 "real imperfection" detail (kills AI-perfect look); (3) cho senior avatar: direct-gaze warmth + laugh-line description = immediate relatability.
+
+→ MaxPro pet owner avatar (older female, avatar 1-2 từ [[maxpro-avatars]]): adapt style 2 — *"65-year-old pet owner sitting at kitchen table, silver hair, concerned expression looking at dog's paw she holds on the table, overgrown nails visible, morning kitchen light, Nikon Z6 II editorial grade, puffiness under eyes, muted tones."* ⚠️ Người AI thật → NY disclosure [[compliance]]; dùng cartoon style thay nếu né disclosure.
+Full prompts (verbatim) → [[advertising-jan-senior-niche-ai-prompts]].
 
 ## Video creative (AI contact-sheet)
 Nguồn: [[orisilver-ai-storyboard-contact-sheet]]. Khó nhất của AI video ngắn = giữ **character/product/style nhất quán qua mọi shot**. Giải: **contact sheet** = 1 ảnh grid 10 shot khoá hết detail (cùng character/lighting/angle). Đưa sheet + prompt cho video model (Seedance 2.0) → mỗi frame bám sheet → 90%+ one-shot. Hệ prompt = **4 file** (như Claude Skill): Instructions (hành vi) · Anatomy (cấu trúc sheet) · Styles (4 block: 3D/claymation/UGC/POV) · Quick-start (ví dụ) — edit 1 file ko vỡ cái khác. Continuity = asset: sheet 2 cùng character scene khác → 2 clip 15s thành 1 mạch 30s.

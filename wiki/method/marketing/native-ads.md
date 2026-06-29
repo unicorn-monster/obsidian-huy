@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling]
-updated: 2026-06-24
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche]
+updated: 2026-06-29
 ---
 
 # Native ads (kênh open-web)
@@ -37,6 +37,15 @@ CPM do auction set (không phải mình). **CTR là biến duy nhất mình cont
 2. **Advertorial (~600-900 từ)** — bridge Problem-aware → Product-aware. Trông + đọc như **editorial**, KHÔNG như sale page. Inform / frame / position, không bán. (Jan: 1,400 từ nửa-pitch CVR 0.4% → viết lại 650 từ informational, product ở 1/3 cuối, CVR 2.1%.) Gánh **~70% conversion lift**.
 3. **PDP** — chốt. Reader đã warm, PDP không educate lại, chỉ close. **Phải khớp angle + framing + visual của advertorial.** Continuity advertorial→PDP = **lỗ rò lớn nhất Jan thấy khi audit** (= proof-evaporation → [[funnel-and-landing]]).
 
+## Biến thể 4-mảnh: Ad → Mini Advertorial → VSL ([[advertising-jan-mini-advertorial-vsl]]) ⭐ AB-tested
+Khi funnel có VSL trên landing, **đừng** đẩy traffic thẳng Ad → VSL. AB-test (advertising_jan) cho kết quả **consistent mọi lần**: Ad → Mini Advertorial → VSL thắng Ad → VSL direct.
+
+*"Most users are in a reading mood. They're not ready to watch a video yet. A short transition from reading mode to video mode helps the monkey brain mentally prepare for the switch."*
+
+**Mini advertorial** (short-form, vài trăm từ — không phải 6-piece đầy đủ) = bridge đọc → xem. Xử lý *mode-switching friction* trước khi yêu cầu commit xem video 5-15 phút.
+
+Mapping: **Classic native (text-primary)** = 3-mảnh (Ad → Advertorial → PDP). **Funnel có VSL** = 4-mảnh (Ad → Mini Advertorial → VSL → PDP). Cùng nguyên lý slippery-slide — mỗi mảnh chuẩn bị cho mảnh tiếp theo.
+
 ## Advertorial 6-piece (editorial register)
 1. **Hook** — 100 từ đầu trả nợ curiosity của headline (story, không product).
 2. **Problem block** — tả vấn đề bằng ngôn ngữ "feel seen", specific ("over 40 wake up with stiff knees, forming a pattern that gets worse" > "joint pain is common").
@@ -59,6 +68,10 @@ Rules: byline + publication frame thật, 2-3 ảnh "stock editorial" (không pr
 - ⚠️ **Guardrail (Jan tự nhấn):** *"the cause you name has to be real and provable"* — mechanism nghe-hay-nhưng-BS không scale dài hạn (= [[compliance]] defensible). **MaxPro đã có UMP đúng dạng này:** "đau không phải vì quick — clipper **crush/splinter** keratin nên đau **kể cả trim hoàn hảo**" ([[maxpro-ugly-ads-plan]] UMP keystone) — đây chính là "wrong target" reframe, defensible. Engine sinh reframe: [[angles]] belief-shift + [[satishdtc-6-diagnosis-questions-belief-shift]].
 
 ## Bằng chứng scale: advertorial là asset compounding (impression cases)
+**Data point mới ([[advertising-jan-taboola-advertorial-40k]]):** 1 advertorial + 19 Taboola ads → **40k impressions dưới 2 tuần**, bắt đầu từ 0. Funnel dùng: Ad → Advertorial → Presell → Checkout (classic 3-mảnh). *"Native ads are simple, but not easy."* → Xác nhận funnel chuẩn scale nhanh khi copy hit.
+
+**Xác nhận niche-agnostic ([[dtcquizbuilder-native-ads-lp-any-niche]]):** Native ads → LP (listicle / quiz / advertorial) = kỹ năng **print in any niche** (DTCQuizbuilder). Không bị giới hạn bởi vertical — cơ chế advertorial hoạt động vì audience state (reading-mode), không phải vì category sản phẩm.
+
 3 teardown Jan cho thấy advertorial thắng **scale impression đều, ít cần đụng**, miễn copy hit:
 - [[advertising-jan-advertorial-100k-300k-impressions]]: **100k → 300k impression / 2 tháng**, nothing-but-native, **4-min avg session** (copy "really hits"). Jan: *"study this funnel, it's a goldmine."*
 - [[advertising-jan-advertorial-authority-2m-impressions]]: **1.1M → 2.7M impression / 1 tháng** — **authority angle** ăn đặc biệt mạnh trên native. → tie [[personas]] authority-character + [[angles]]; "discovery-story/authority" register hợp native-reader calm (khác unhinged-confession của FB ugly-ads). MaxPro authority advertorial: groomer/vet-tech 15 năm reframe clipper (Carol the Honest Groomer [[maxpro-pages]]).

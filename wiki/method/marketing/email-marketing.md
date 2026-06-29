@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv]
-updated: 2026-06-28
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence]
+updated: 2026-06-29
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -133,6 +133,29 @@ maxwellcopy (250+ sub brands) liệt kê 10 lever thực sự dịch chuyển re
 | 10 | **Clean, active email + SMS list** | Hygiene bảo vệ deliverability; tie §Scale proof (SMS = 77%) |
 
 **Điểm cốt:** A/B testing tối ưu margin trên nền đã tốt — nhưng nếu sản phẩm dùng sai, offer không align, onboarding thiếu, list dơ → A/B test chỉ polish cái đang cháy. 10 driver này = nền. → MaxPro: driver 3 (onboarding education "cách dùng đúng để không đau") + driver 4 (identity "pet parent chuyên nghiệp") + driver 9 (unboxing video/photo) là quick-win ngay cả khi chưa có subscription.
+
+## Email hero design — 6-step framework ([[maxwellcopy-email-hero-section-framework]])
+75% của design effort nên nằm ở hero section — thứ duy nhất reader thấy trước khi scroll quyết định click hay không.
+
+1. **Above-the-fold first** — headline rõ + 1-2 dòng support + nút hiển thị + graphic mạnh, tất cả trước scroll. Goal: không cần scroll để hiểu offer.
+2. **Image sells, không phải minh hoạ** — image drive performance hơn mọi thứ khác trong hero. Đừng drop product shot thẳng — match image vào thứ *actually sells the product* (outcome, không object).
+3. **Background sau text phải sạch** — busy image sau copy = friction đọc. Dùng AI image extender để thêm không gian sạch phía trên, hoặc add contrast đằng sau text. Không đặt mặt người sau copy.
+4. **Shape the text** — không để orphan word lẻ loi dòng cuối. Căn như reverse-triangle dẫn mắt xuống nút. Đáng chỉnh word-wrap.
+5. **Text phải POP** — mix font size, weight, màu để tạo visual hierarchy. Hero phẳng đồng đều = skimmed past.
+6. **Xoay format hero** — cùng layout headline/body/button mỗi email = feel templated = open rate giảm dần. Variant: image trước → headline phía dưới · testimonial stack phía trên headline · infographic mở đầu · full-bleed image với text overlay. Xoay ít nhất mỗi 3-4 sends.
+
+→ MaxPro: hero = ảnh raw paw hoặc "couch grind" + benefit headline reverse-triangle + nút ngay dưới. Rotate: cứ 3 send thứ nhất dùng review stack phía trên headline.
+
+## Agency communication cadence — "good" trông như thế nào ([[maxwellcopy-agency-client-comms-cadence]])
+Bổ sung cho "Agency red-flags" ở trên — đây là cadence tốt, dùng như mức kỳ vọng tối thiểu khi thuê agency (email, ads):
+
+*"When you're a client, literally all you can see is that Slack channel. If there's no messages, the client will be thinking 'is anything actually going on?'"* — maxwellcopy.
+
+**Cadence thực tế (maxwellcopy agency):**
+- **Onboarding:** daily update + weekly call, đôi khi 2 lần/tuần khi di chuyển nhanh.
+- **Post-onboarding ổn định:** Mon automated stats report · Tue manual report từ account manager (tuần trước làm gì, tuần này làm gì, key learnings) · Monthly full breakdown · Quarterly business review + roadmap.
+
+→ Nguyên tắc: proactive > reactive. Nếu agency không tự gửi update thì bạn đang ở trong một red-flag từ danh sách trên (không báo tin, không có insight, chỉ có số).
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

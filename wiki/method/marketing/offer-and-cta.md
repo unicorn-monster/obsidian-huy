@@ -1,5 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen]
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card]
+updated: 2026-06-29
 ---
 
 # Offer + CTA mechanics
@@ -44,6 +45,11 @@ Low spend, 3 offer song song, **giữ product + creative + advertorial cố đ�
 
 ## ⚠️ Gamified offer (spin-to-win / sweepstakes)
 [[maxwellcopy-sweepstakes-offer-legal]]: spin-wheel/sweepstakes "prints" nhưng **rủi ro pháp lý** — hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng luật hoặc né → [[compliance]].
+
+**Variant ít rủi ro hơn: pick-a-card ([[maxwellcopy-gruns-gamification-pick-card]]):**
+Gruns (pet supplement) đang drive traffic đến trang *"pick a card for free gifts"* — khách **chọn thẻ bài để nhận quà**, không phải random spin-to-win. Không có lottery mechanics (kết quả không ngẫu nhiên-ẩn → ít nguy cơ anti-lottery hơn spin-wheel). Tín hiệu: gamification page như standalone traffic destination đang nổi trong ecom. Signal để theo dõi.
+
+→ MaxPro: chưa có data để prove, nhưng có thể test như **post-purchase engagement** (chọn quà tặng kèm order) hoặc **email capture** ("pick a card to reveal your welcome gift"). Không ưu tiên trước các lever data-backed ở trên.
 
 ## CTA framework
 - **Urgency = act-now-or-consequence** (problem compounds, defensible — không "tiện/êm hơn") → [[angles]].

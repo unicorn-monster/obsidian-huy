@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel]
-updated: 2026-06-26
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown]
+updated: 2026-06-29
 ---
 
 # Google Ads (kênh search-intent)
@@ -188,6 +188,15 @@ eCom_Amin (7-figure pet brand Google): dùng Manus AI build toàn bộ Google ad
 6. **Branding audit** — score 1-5: domain, photography, social proof, founder presence, credibility TRƯỚC khi tiêu 1 đồng cold traffic. *"Best campaigns won't save a page that doesn't look legit."*
 
 Tie [[presell-pages]] (format selection) + [[angles]] (competitor gap = unsaturated angle) + 9 funnel-type section ở trên + advertorial system. → MaxPro: dùng workflow này khi ready build Google funnel lần đầu thay vì bắt đầu với PDP.
+
+## Organic rankings = free byproduct của paid structure đúng ([[ecomamin-google-ads-0-to-14m-teardown]])
+Case: 0 → **$1.4M in 6 months**, Google ads only (Search + Shopping + YouTube). By month 4: **ranked #1 cho primary category keywords với 0 SEO spend**.
+
+Cơ chế: paid structure feed clean, intent-matched traffic vào pages built để **answer the search, not just sell**. Khi paid click map đúng intent tier → page giải đúng query → Google coi page là authoritative → organic ranking theo sau paid. SEO không cần campaign riêng — nó là byproduct của paid done right.
+
+**Compounding ROAS (reinforcement):** ROAS tháng 6 > ROAS tháng 2 — không có campaign mới, không creative mới, chỉ thêm budget vào cấu trúc đã tồn tại. Account compound trên chính data của nó. Minh chứng cụ thể nhất cho claim *"a Google account permanently better"* ([[ecomamin-pet-brand-1m-google-at-19]]): hiệu quả tăng theo thời gian (ngược Meta — fatigue compound).
+
+Điều kiện để byproduct này xảy ra: intent-tier isolation nghiêm (TOF problem-aware → advertorial, brand-aware → PDP, không share landing page giữa 2 intent) + pages built để answer first, sell second. = 7-campaign structure + landing-page strategy ([[blvckledge-5-brands-1m-google-ads]]) áp đúng.
 
 ## Bing (bonus)
 Setup Bing = +15-20% revenue "for free". Thêm sau khi Google chạy ổn.
