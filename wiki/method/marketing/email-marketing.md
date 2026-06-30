@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence]
-updated: 2026-06-29
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event]
+updated: 2026-06-30
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -156,6 +156,11 @@ Bổ sung cho "Agency red-flags" ở trên — đây là cadence tốt, dùng nh
 - **Post-onboarding ổn định:** Mon automated stats report · Tue manual report từ account manager (tuần trước làm gì, tuần này làm gì, key learnings) · Monthly full breakdown · Quarterly business review + roadmap.
 
 → Nguyên tắc: proactive > reactive. Nếu agency không tự gửi update thì bạn đang ở trong một red-flag từ danh sách trên (không báo tin, không có insight, chỉ có số).
+
+## Pre-event deliverability warmup ([[maxwellcopy-email-deliverability-pre-event]])
+maxwellcopy tips (2026-06-30): before a big promotional send (BFCM, product launch, sale), send a **deliberate "smart" email** to prime deliverability first — primes ISP signals (opens, clicks) in the days before → inbox placement improves for the main event. Concept only (tweet teases, no mechanics shared). Standard interpretation: send a high-value, easy-to-engage email 2-3 days before to warm the list → algorithms treat your next send as trusted sender.
+
+→ MaxPro: before BFCM or a major creative push, run a re-engagement send (founder note, unboxing video clip, free grooming tip) to prime the list. No cost, upside = better placement on the big day.
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

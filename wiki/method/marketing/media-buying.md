@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages]
-updated: 2026-06-26
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation]
+updated: 2026-06-30
 ---
 
 # Media buying + testing (Meta 2026)
@@ -96,6 +96,16 @@ Bổ sung cho **Decision matrix ngày 1** ở trên: ATC rate chỉ đúng khi C
 *"Those who can afford to spend the most to acquire a customer win"* — đúng, nhưng bootstrap không có luxury đó. Hệ quả thực tế: **phải ăn hơn big brand về creative quality + landing page** nếu muốn compete. Counter-intuitive: category leaders như Gruns, IM8 đang chạy ads *"objectively mid"* — đây là gap thực. Budget không thể cân bằng; craft + angle + page quality thì có thể.
 
 Tie [[creative-testing]] (đọc signal từ metric, không budget to) + [[funnel-and-landing]] (landing page = lever ngang với creative) + [[ugly-ads-method]] (quality ≠ production value — là hook/angle/structure). → MaxPro: "không đủ ngân sách Gruns" không phải excuse — đây chính xác là lý do cần craft tốt hơn họ.
+
+## Don't model funded brands — wrong unit economics ([[dtcmidas-dont-copy-funded-brands]])
+DTCMidas: most visible big DTC brands are funded → **completely different unit economics** from bootstrapped. They can sustain far higher CACs (investor capital, don't need near-term profitability), have celebrity endorsements, and accumulated brand trust over years. *"When you copy their funnels and ads, you're copying a strategy built on advantages you don't have."*
+
+**Rule: model bootstrapped brands scaling quickly**, not funded names. A brand burning a raise at 0.5 ROAS is not proof their funnel works — it's proof they have runway you don't. Spy targets: $500k-$2M bootstrapped brands converting cold traffic profitably. → Spy tool: Meta Ad Library sorted by impressions on same-scale accounts (§Spy + persona-gap above).
+
+Reinforces [[jforjacob-bootstrapped-creatives-landing-pages]] (must win on craft, not budget) — now extends: also win by *studying the right peers*. Funded brand funnel as reference = misleading data.
+
+## Off-peak budget push — exploratory tactic ([[jforjacob-budget-timing-observation]])
+jforjacob: *"sometimes, for no reason whatsoever you just need to send the budgets at 7pm on a random Tuesday night and see wtf happens."* Thin observation (anecdotal, no CPA cited) but compatible with manual-intervention thesis ([[jforjacob-meta-manual-beats-algorithm]]): Meta delivery can lock into ruts; an off-peak budget push breaks the pattern and occasionally surfaces latent audience segments. Low cost: pick an off-peak hour on a slow day, monitor CPM + CPA vs 7-day baseline for 24h.
 
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].

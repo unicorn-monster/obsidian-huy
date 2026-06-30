@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche]
-updated: 2026-06-29
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data]
+updated: 2026-06-30
 ---
 
 # Native ads (kênh open-web)
@@ -125,6 +125,32 @@ Nguồn: [[advertising-jan-native-new-and-weird-rule]]. Một dòng nhưng load-
 - **Weird signals NEW.** Cái lạ tức thì báo "đây không phải thứ bạn từng gặp" → vượt qua bộ lọc "biết rồi". Khớp bucket **Weird/pattern-interrupt** ở 3-bucket trên (Banana Phone, blue-glow ear) — giờ có *lý do*: weird không phải để vui, mà để báo hiệu NEW cho prospect kiệt-sức-vì-đã-thử-hết.
 - **= cơ chế "new mechanism"** của advertorial piece 3 ([[angles]] new-mechanism): ad hứa "có cách MỚI", advertorial giao cái mechanism mới đó. Ad weird mà advertorial không có mechanism mới = clickbait, nền tảng bóp quality-score ([[compliance]]).
 - **MaxPro:** prospect đã thử clipper / Dremel / grinder rẻ / groomer → "another nail tool" = familiar = scroll. Góc mới-lạ: grinder + glow-ring trên paw, hoặc headline "the nail-trim method groomers switched to" (≠ "best nail grinder"). Tie vào [[hooks]] native-headline (pre-filter + curiosity gap, không hé product).
+
+## AI pain image prompts — "show exact pain, super detailed" ([[advertising-jan-native-pain-image-prompts]])
+advertising_jan ($3k/day native): *"Scaling native ads to $3k/day comes down to this: show the exact pain your customer has, in a super detailed way."* 5 "Nano Banana" AI prompts show the production DNA — applicable to any pain niche.
+
+**Template DNA (transfer to any niche):**
+- **Caught-on-camera framing** — *"as if another shopper walking by took the photo on their phone"* / *"as if someone walking past the door paused and took the photo"* → removes staged-stock feel instantly
+- **Exact time + granular setting** — 2:47am alarm clock in red digits, overcast grocery parking lot, cluttered desk with specific objects → scene is undeniable, not generic
+- **Micro-detail pain cues** — knuckles slightly white, jaw clenched, eyes squeezed shut, knuckles mildly swollen → specific struggle moment, not "sad person"
+- **Smartphone degradation** — *"slightly grainy, smartphone camera quality, natural muted color tones, no filters, no editing"* → organic quality (tie: [[adswithmarian-reddit-media-native-images]] Reddit Media > stock for same reason)
+- **POV always = bystander, never subject** — shopper in parking lot, person passing the doorway, someone at foot of bed. Never first-person.
+
+**5 pain archetypes (prompt pattern → MaxPro adaptation):**
+| Pain | Scene | MaxPro equivalent |
+|---|---|---|
+| Back pain | Mid-50s man stepping out of car, gripping door + lower back | Owner mid-clip, dog recoiling, owner bracing against table |
+| Restless legs | Woman in bed 2:47am, sheet kicked off, gripping calf | Owner up late, bandaging dog's paw after quick nick |
+| Neck stiffness | Man at cluttered desk, both hands behind neck | Owner hunched over dog on floor, clipper in hand, dog squirming |
+| Joint pain | Woman struggling to open jar, swollen knuckles | Senior pet parent struggling to hold squirming dog still for clip |
+| *(add your niche)* | Same DNA: specific setting + caught-on-camera + micro-detail | Adapt to paw pain, anxiety, overgrown nails |
+
+→ Directly feeds [[creative-brief]] AI prompt section and [[ugly-ads-method]] static image brief for MaxPro. Pull reference shots from r/dogs, r/pets (tie: Reddit Media), then replicate exact scene with AI using above DNA.
+
+## Native audience is more attentive than Meta (SimilarWeb data) ([[advertising-jan-supplement-native-traffic-data]])
+advertising_jan tracked 11 DTC supplement brands on SimilarWeb → **9 of 11 run native ads**. Key finding: landing pages with **majority native traffic had longer session duration** than Meta-only pages. *"The native audience is much more attentive and WANTS to find out more about your product."*
+
+Mechanically validates the "article-reading mindset" principle at top of this page and explains why advertorial gánh ~70% conversion lift (reader stays, reads, believes). Not just anecdote — behavioral metric from competitive intelligence. Pairs with compounding advertorial evidence ([[advertising-jan-advertorial-100k-300k-impressions]], 4-min avg session = same signal). Industry-level signal: 82% of supplement brands at scale have reached the same conclusion about the channel.
 
 ## Verticals native ăn nhất
 Joint pain · sleep · weight · skin · hair · digestive · menopause · hormonal · energy · focus · finance · eye health — **mass pain/desire**. Niche / B2B / hyper-targeted = không hợp (native là kênh mass-market).
