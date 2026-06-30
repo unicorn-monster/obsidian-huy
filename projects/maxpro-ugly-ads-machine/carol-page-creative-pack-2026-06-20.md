@@ -1,7 +1,8 @@
 ---
-title: "Carol the Honest Groomer — creative pack (primary text + 5 IGM prompts + 10 headlines)"
+title: Carol the Honest Groomer — creative pack (primary text + 5 IGM prompts + 10 headlines)
 date: 2026-06-20
-persona: "Carol the Honest Groomer (Expert/Defector, Avatar 5 power + skeptic)"
+stage: "3-chờ ảnh"
+persona: Carol the Honest Groomer (Expert/Defector, Avatar 5 power + skeptic)
 voc: "[[maxpro-voc-insights]]"
 ---
 

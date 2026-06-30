@@ -1,11 +1,12 @@
 ---
-title: "Stillwater Animal Rescue — creative pack (primary text + 5 IGM prompts + title-cards)"
+title: Stillwater Animal Rescue — creative pack (primary text + 5 IGM prompts + title-cards)
 date: 2026-06-20
-persona: "Stillwater Animal Rescue (Cause/Rescue, Avatar 3 Difficult Rescue Guardian)"
-page-name-note: "geo-name mimic KS (Riverside/North Valley). Slot cũ = 'Second Chance Dog Rescue'"
+stage: "3-chờ ảnh"
+persona: Stillwater Animal Rescue (Cause/Rescue, Avatar 3 Difficult Rescue Guardian)
+page-name-note: geo-name mimic KS (Riverside/North Valley). Slot cũ = 'Second Chance Dog Rescue'
 voc: "[[maxpro-voc-insights]] · [[maxpro-voc-report-2026-06-20]]"
 source-winner: "[[maxpro-elle-birdie-winning-native]]"
-mirror: "KittySupps Riverside / North Valley Animal Rescue (Cause slot)"
+mirror: KittySupps Riverside / North Valley Animal Rescue (Cause slot)
 ---
 
 # Stillwater Animal Rescue — creative pack

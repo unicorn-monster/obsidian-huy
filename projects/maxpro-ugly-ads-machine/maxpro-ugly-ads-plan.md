@@ -1,10 +1,14 @@
 ---
 date: 2026-06-16
-status: phase-0
+status: superseded
+superseded-by: maxpro-ugly-ads-plan-v2
 product: maxpro
 ---
 
 # MaxPro ugly-ads machine — master plan
+
+> [!warning] Superseded 24/06 → [[maxpro-ugly-ads-plan-v2]]
+> Insight mới: clone đúng **raw structure** KS (72 skeleton), không tự viết theo "method". Engine/UMP/guardrail dưới đây vẫn đúng và được v2 kế thừa; cadence + đơn vị sản xuất đổi sang structure-clone. Đọc v2 trước.
 
 Clone engine [[kittysupps-machine]] sang [[maxpro-product-truth]], **hiệu chỉnh stage 2-3** (KHÔNG phải 4-5 như cat-health). Asset hiện có: **sale page**. Sản xuất: **solo + Claude**. Cadence: **2 script/ngày × 5 creative = 10 ad/ngày**, phân across persona network.
 

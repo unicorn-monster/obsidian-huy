@@ -1,9 +1,13 @@
+---
+status: building
+---
 # MaxPro Top-5 Review Funnel (4pawsreview.com)
 
 Project đang chạy (bắt đầu 2026-06-21): clone funnel **review-domain** kiểu top5-choices cho MaxPro nail grinder. Method gốc ở [[presell-pages]] (section "3rd-party review DOMAIN") + teardown [[top5choices-seamoss-review-funnel-teardown]].
 
 ## Trạng thái hiện tại
-Đã dựng **demo HTML** trang advertorial, clone 1:1 design `top5-choices.com/magnesiumreview`, cắm content MaxPro. File: `~/Downloads/4pawsreview-dog-nail-grinder-review.html` (mở browser xem). Đang polish design + chờ ảnh thật. Đã đọc source thật của trang gốc để lấy đúng token.
+**ĐÃ LIVE** trên Cloudflare Pages (2026-06-22): https://4pawsreview.com/nailgrinderreview/ (SSL ok, apex + www proxied). Cấu trúc **path-based để reuse domain**: mỗi sản phẩm 1 subfolder (`/nailgrinderreview/` = MaxPro), root để dành trang hub sau. Source deploy: `~/Downloads/4pawsreview-site/nailgrinderreview/`. Lệnh: `npx wrangler pages deploy ~/Downloads/4pawsreview-site --project-name=4pawsreview --branch=main`. Ảnh thật đã cắm (5 đối thủ + MaxPro), CTA wired, advertising disclosure có.
+**CHƯA ad-ready:** CONS đối thủ chưa có review thật (FTC) · chưa wire pixel (GA4/Google Ads/Meta) · Shopify maximutt chưa xác nhận pixel đếm Purchase.
 
 ## Nền móng đã chốt
 - **Scope:** review-domain tái dùng (1 domain → nhiều sản phẩm pet sau).
@@ -30,11 +34,13 @@ Project đang chạy (bắt đầu 2026-06-21): clone funnel **review-domain** k
 header → hero tối (H1 + subhead vàng + Advertising Disclosure + 3 nav button) → IMPORTANT box → ảnh ngang → education (why tool matters · what you need = 5 criteria · bad nail care can cause · why most tools fail · HOT TIP · 5 mistakes) → "Best Dog Nail Grinders of 2026" + bảng so sánh (5 ô ảnh + 5 criteria rows, cột MaxPro mint) → ranking #1-#5 (grade + seal/rank badge + PROS/CONS + The Bottom Line + CTA) → pick cuối + cúp. **Đã bỏ footer + sticky bar** theo yêu cầu.
 
 ## Việc tiếp theo (thứ tự)
-1. Cắm **ảnh thật**: 5 grinder (bảng + ranking card), ảnh hero, ảnh ngang sau IMPORTANT.
-2. **Wire CTA** → sale page MaxPro Shopify + `?refdomain=4pawsreview`.
-3. **Verify đối thủ**: số sao hiện tại + kéo 1-2 review 1-2★ thật mỗi đứa để substantiate cons.
-4. **Mua domain** + deploy Cloudflare Pages.
-5. **Re-add advertising disclosure** trước khi publish live (FTC bắt buộc, đã bỏ trong demo).
+~~Ảnh thật~~ ✅ · ~~Wire CTA~~ ✅ · ~~Mua domain + deploy CF Pages~~ ✅ · ~~Disclosure~~ ✅
+Còn lại **trước khi đốt tiền ad**:
+1. **Substantiate đối thủ** (ĐANG NỢ — bắt buộc FTC): số sao thật + 1-2 quote 1-2★/đối thủ vào CONS. ASIN: FURminator B0062Z0UVG · Wahl B016AJEI7K · Hertzko B01IPW47BW · WOOFMEW B07LFV4Q4K. (Apify `web_wanderer/amazon-reviews-extractor` trả 0 items 22/6 — thử actor khác hoặc lấy tay.)
+2. **Wire 3 pixel** (GA4 + Google Ads + Meta) vào `<head>` + event click CTA.
+3. **Tracking khép kín**: Meta Pixel + GA4 trên Shopify maximutt.com (Purchase đếm ở đó) + GA4 cross-domain `4pawsreview ↔ maximutt`.
+
+**Gotcha deploy:** token OAuth wrangler KHÔNG có scope DNS → 2 CNAME (`@` + `www` → `4pawsreview.pages.dev`, Proxied) phải thêm tay ở dashboard. Redeploy = chạy lại lệnh deploy ở trên (ảnh cache theo hash, upload tức thì).
 
 ## Guardrails
 - **IP:** badge/seal tái dựng (brand 4Paws, "4PAWS #1 PICK"), KHÔNG bê file seal "Top5 Choices" của họ. Ảnh sản phẩm = ảnh MaxPro/đối thủ tự chụp-tải, không hotlink file của họ.

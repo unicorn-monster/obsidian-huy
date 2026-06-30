@@ -31,7 +31,7 @@ Next milestone:
 - `/ingest` : inbox -> sources + cập nhật wiki + index
 - `/brief`  : đọc wiki -> 3 mục sáng, lưu briefs/
 - `/synthesis` : tổng hợp tuần, lưu briefs/
-- `/lint`   : dọn wiki (Phase 2)
+- `/lint`   : dọn wiki — mâu thuẫn / claim cũ / orphan / broken-link (ACTIVE)
 
 ## Tôi muốn gì ở bạn
 - Surface hook / angle lặp trong swipe mà tôi chưa thấy.

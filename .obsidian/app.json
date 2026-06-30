@@ -4,5 +4,6 @@
   "attachmentFolderPath": "inbox",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "promptDelete": false
 }

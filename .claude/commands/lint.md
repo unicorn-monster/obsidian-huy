@@ -1,5 +1,5 @@
 ---
-description: Dọn wiki — mâu thuẫn, claim cũ, trang mồ côi (Phase 2)
+description: Dọn wiki — mâu thuẫn, claim cũ, trang mồ côi, orphan, broken-link
 ---
 Quét toàn bộ `wiki/`. Báo cáo và đề xuất sửa:
 - Mâu thuẫn giữa các trang.

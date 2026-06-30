@@ -54,3 +54,5 @@ Craft: số sốc cụ thể (2,000 / 6,000 / 4-pound) = believability · villai
 
 ## Quy tắc test
 Test 3-4 hook trên CÙNG body → tìm scroll-stopper → rồi test hook thắng across persona.
+
+→ Lấy 1 hook proven (KS/đối thủ) đổi sang MaxPro mà không mất sức: [[hook-swap-method]] (giữ ENGINE cảm xúc + nhịp, chỉ thay SKIN danh-từ/số/tên).

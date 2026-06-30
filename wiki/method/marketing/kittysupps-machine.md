@@ -69,4 +69,4 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 | Two-stage reveal | tiết lộ "giải pháp sai nguy hiểm" (cắt sâu chảy máu / an thần) trước → grinder là đường an toàn duy nhất |
 | CTA | rescue + warning + "đừng mua grinder rởm Amazon" + P.S. stack |
 
-**Việc tiếp theo nên test (từ wiki, cụ thể):** lấy 3 cửa ngõ mạnh nhất cho grinder (click-trên-sàn, sợ-chảy-máu/crush, móng-dày-máy-rẻ-bó-tay) → mỗi cái 1 advertorial cùng bộ xương + cùng **UMP crush/splinter** (❌ KHÔNG senior-mobility/"quick creep" = KILLED), chạy dưới 1 Peer + 1 Expert persona. Đo theo [[media-buying]] decision matrix.
+**Việc tiếp theo nên test (từ wiki, cụ thể):** lấy 3 cửa ngõ mạnh nhất cho grinder (click-trên-sàn, sợ-chảy-máu/crush, móng-dày-máy-rẻ-bó-tay) → mỗi cái 1 advertorial cùng bộ xương + cùng **UMP crush/splinter** (❌ KHÔNG "quick creep"/bịa-bệnh-ẩn joint/hip = KILLED — senior-mobility *quan-sát-được* thì OK, xem [[angles]] RECONCILED 20/06), chạy dưới 1 Peer + 1 Expert persona. Đo theo [[media-buying]] decision matrix.

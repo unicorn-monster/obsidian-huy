@@ -559,11 +559,11 @@ fbq('track','PageView');
     </div>
   </div>
 </section>
-<!-- 4PawsReview tracking: carry fbclid/utm to store + fire CTA event -->
+<!-- 4PawsReview tracking: carry fbclid/gclid/utm to store + fire CTA event -->
 <script>
 (function(){
   var sp=new URLSearchParams(location.search),keep=new URLSearchParams();
-  ['fbclid','utm_source','utm_medium','utm_campaign','utm_content','utm_term'].forEach(function(k){if(sp.get(k))keep.set(k,sp.get(k));});
+  ['fbclid','gclid','gbraid','wbraid','utm_source','utm_medium','utm_campaign','utm_content','utm_term'].forEach(function(k){if(sp.get(k))keep.set(k,sp.get(k));});
   var extra=keep.toString();
   function wire(){
     document.querySelectorAll('a[href*="maximutt.com"]').forEach(function(a){

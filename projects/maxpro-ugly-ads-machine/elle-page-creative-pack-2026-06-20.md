@@ -1,7 +1,8 @@
 ---
-title: "Elle Zena page — creative pack (2 primary text + 5 IGM prompts + 10 headlines)"
+title: Elle Zena page — creative pack (2 primary text + 5 IGM prompts + 10 headlines)
 date: 2026-06-20
-persona: "Elle Zena (Peer, Avatar 1 traumatized)"
+stage: "5-đang chạy"
+persona: Elle Zena (Peer, Avatar 1 traumatized)
 note: "Creative #2A + #2B (đổi hook). Winner Birdie ở [[maxpro-elle-birdie-winning-native]]. Build qua routing checklist dưới."
 voc: "[[maxpro-voc-insights]]"
 ---
