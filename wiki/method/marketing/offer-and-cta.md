@@ -1,11 +1,21 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide]
-updated: 2026-06-30
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal]
+updated: 2026-07-01
 ---
 
 # Offer + CTA mechanics
 
 Beat 14-15 của [[ugly-ads-method]]. Nguồn: [[maxpro-skeleton-and-banks]], [[kittysupps-swipe-lines]], [[heusom-silent-groom-research]], [[dtcquizbuilder-what-makes-good-offer]].
+
+## "Too expensive" = value gap (không phải price objection) ⭐
+Nguồn: [[maxwellcopy-expensive-objection-value-signal]]. *"'It's too expensive' isn't feedback on your price — it's feedback on the value."* Khi nghe "đắt quá" (từ khách cancel sub, prospect chê, ai từ chối): KHÔNG phải vấn đề giá — là bạn chưa làm outcome cảm thấy xứng với tiền. Toyota $50k = đắt. Lamborghini $50k = rẻ. Cùng số tiền, khác perceived value → người ta tìm ra tiền nếu họ muốn đủ.
+
+**3 điều chưa làm:**
+- Chưa làm outcome *feel* worth the price (visceral, không feature-list)
+- Chưa show ROI họ thực sự nhận được
+- Chưa đào đúng cái họ đang thực sự muốn
+
+→ Diagnostic tool: khi conversion chậm hoặc churn tăng, đừng hỏi "giá có cao không?" — hỏi "perceived value của chúng ta thấp ở chỗ nào?" Trả lời bằng 4-lever Hormozi + 6-component rubinov bên dưới. MaxPro: nếu CPA cao → check xem dream outcome ("chó ngủ gật khi cắt móng") có đang *felt* trên page không, hay chỉ đang stated.
 
 ## Offer = toàn bộ perceived value (không chỉ bundle)
 Nguồn: [[dtcquizbuilder-what-makes-good-offer]]. Offer = MỌI thứ khách nhận (product + price + bonus + guarantee + claims + terms), không chỉ cái bundle trên PDP. Compete bằng OFFER, không bằng giá — no differentiation → commodity → race to the bottom. *"Fix the offer first, everything else gets easier."*

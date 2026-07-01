@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation]
-updated: 2026-06-30
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers]
+updated: 2026-07-01
 ---
 
 # Media buying + testing (Meta 2026)
@@ -103,6 +103,17 @@ DTCMidas: most visible big DTC brands are funded → **completely different unit
 **Rule: model bootstrapped brands scaling quickly**, not funded names. A brand burning a raise at 0.5 ROAS is not proof their funnel works — it's proof they have runway you don't. Spy targets: $500k-$2M bootstrapped brands converting cold traffic profitably. → Spy tool: Meta Ad Library sorted by impressions on same-scale accounts (§Spy + persona-gap above).
 
 Reinforces [[jforjacob-bootstrapped-creatives-landing-pages]] (must win on craft, not budget) — now extends: also win by *studying the right peers*. Funded brand funnel as reference = misleading data.
+
+## Record-month validation — 6 levers DTC brand đang dùng ([[dtcmidas-june-record-month-levers]])
+DTCMidas báo record June 2026. 6 lever đã move needle — không phải 1 thứ, là combination:
+1. **New product launch** — mở thêm SKU = new hook + new audience segment
+2. **More focus on Google Ads** — shift spend mix, đẩy search-intent. Tie [[google-ads]].
+3. **VSL AI animation ads** — xác nhận format đang ăn Meta ([[dtcmidas-meta-ai-animation-yapper-vsl]]). Cùng signal với [[0xroas-ai-animation-tof-story-required]]: cần story mạnh, không overdo.
+4. **Creator seeding** — đủ volume creators on board tạo social proof mass + content hữu cơ (UGC, testimonial raw)
+5. **Surf scaling Meta** — manually bump spend vào winners. Xác nhận thesis jforjacob ([[jforjacob-meta-manual-beats-algorithm]]): không để algorithm auto-allocate mù.
+6. **LP hero section tests** — page đang tested ngay level hero (first impression), không chỉ body/offer. Tie [[funnel-and-landing]] (congruency) + [[email-marketing]] hero-design.
+
+→ MaxPro takeaway: lever 3 (VSL AI animation) + lever 5 (surf scaling) + lever 6 (hero LP test) là 3 cái actionable nhất ngay bây giờ mà không cần new product. Cần: 1 AI animation VSL test + weekly hero-section A/B trên presell/review domain.
 
 ## Off-peak budget push — exploratory tactic ([[jforjacob-budget-timing-observation]])
 jforjacob: *"sometimes, for no reason whatsoever you just need to send the budgets at 7pm on a random Tuesday night and see wtf happens."* Thin observation (anecdotal, no CPA cited) but compatible with manual-intervention thesis ([[jforjacob-meta-manual-beats-algorithm]]): Meta delivery can lock into ruts; an off-peak budget push breaks the pattern and occasionally surfaces latent audience segments. Low cost: pick an off-peak hour on a slow day, monitor CPM + CPA vs 7-day baseline for 24h.

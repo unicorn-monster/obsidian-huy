@@ -1,10 +1,14 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure]
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout]
+updated: 2026-07-01
 ---
 
 # Funnel + landing congruency
 
 Nguồn: [[kittysupps-funnel-analysis]].
+
+## Tại sao PDP giết cold conversion — "too many distractions" ([[advertising-jan-funnel-advertorial-presell-checkout]])
+Jan viết thẳng: *"This is why you are poor. Your funnel: Ad → PDP → Cart → Checkout."* Cold traffic đến PDP sẽ tự hỏi "bestsellers là gì?", "founding story thế nào?", "Vogue article đâu?" — WAY TOO MANY distractions, mỗi link là 1 cửa thoát. Funnel đúng: **Ad → Advertorial → Presell → Checkout** — mỗi bước chỉ có 1 việc: đến bước tiếp. Không cần khách tự figure out — bạn dẫn tay từng bước. *"Your funnel has one goal: conversion. Delete everything that doesn't increase the likelihood of that."* → Xác nhận 5-stage skeleton của [[advertising-jan-5-stage-funnel]] + giải thích *vì sao* cold traffic không qua PDP: PDP là product catalog, không phải sales machine. Tie [[funnel-and-landing]] proof-evaporation + bridge-page per-angle để gỡ lỗ rò — trang đích cold phải là presell, không phải PDP.
 
 ## Nguyên tắc: ad bán, PDP chỉ chốt
 Division of labor đúng DR: ad làm hết emotion + mechanism + villain; PDP chỉ price/guarantee/scarcity/Add-to-cart. Click chính là transition. Kể lại story trên page = làm chậm buy.

@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event]
-updated: 2026-06-30
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event, maxwellcopy-subscriber-onboarding-21days]
+updated: 2026-07-01
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -46,6 +46,30 @@ Lấy nguyên email đã "crush" 2 tháng trước, **resend lại** — "worked
 - Sender `[Founder] | [Brand]` · Subject *"Hey, quick thought..."*
 - Lời chào người-thật → cảm ơn đã ghé → **origin story 1-2 câu** (*vì sao tôi lập brand* — đánh đúng "[specific problem]") → "no pressure" → **3 USP** (3 bullet) → **store credit $XX, code, hết hạn 24h** → link bestsellers → P.S. *"hit reply, tôi tự đọc"*.
 - Cơ chế = đảo "looks like an ad" của [[personas]]/[[ugly-ads-method]] sang email: under-designed = trust. → MaxPro: founder kể vì sao ghét cảnh chó chảy máu vì clipper, 3 lý do khách yêu MaxPro (quiet / no-cut-quick / 99-day company-paid return [[compliance]]), store credit 24h. Dùng skill `plain-text-email` để viết.
+
+## 21-day subscriber onboarding — 2-phase framework ([[maxwellcopy-subscriber-onboarding-21days]]) ⭐ FOR SUBS ONLY
+> [!warning] Chỉ áp khi MaxPro có dòng subscription (consumable: bit, balm, supplement)
+
+*"This is the first subscription I actually didn't cancel."* — customer maxwellcopy client. Framework 21 ngày, 2 phase, chống churn trước khi nó xảy ra (30-day mark = brutal vì hầu hết brand không có gì ở đây):
+
+**Phase 1 — TRƯỚC khi hàng tới (4-10 ngày, daily/every other day email):**
+Khách đã mua nhưng chưa có sản phẩm → còn hoài nghi nhẹ + excited. Job: làm họ cảm thấy đúng khi mua.
+- Confirm họ ra quyết định đúng (không nghi ngờ)
+- Kill skepticism bằng testimonials, social proof, founder credibility
+- **Pre-frame timeline:** ép cam kết 90 ngày+ TRƯỚC khi trải nghiệm — không frame này → cancel vì "chưa thấy gì" sau 2 tuần
+
+**Phase 2 — SAU khi nhận hàng (4-10 ngày, daily/every other day email):**
+Job đảo chiều: không còn là convince nữa — là build habit + belonging.
+- Dạy cách dùng đúng (đừng assume họ tự biết)
+- Gắn vào thói quen sẵn có (morning coffee, brushing teeth) — habit-stacking
+- Nhắc họ là cộng đồng: "you're now part of the people who..."
+
+**SMS layer — 3 moment cao-impact:**
+1. **Delivery day** — education (cách dùng, kỳ vọng đúng)
+2. **Day 3 check-in** — are they using it?
+3. **Day 7 nudge** — recommit TRƯỚC khi rebill đầu hit
+
+→ Xác nhận + chi tiết hóa §Subscription onboarding bên dưới (cùng nguồn maxwellcopy, khác post). Point mới ở đây: **SMS 3 trigger cụ thể** (delivery / D3 / D7) + **phase 1 job = pre-frame 90 ngày** (không chỉ "make them feel good"). Tie [[sms-flows]] SMS-welcome + [[offer-and-cta]] churn-as-value-gap.
 
 ## Subscription onboarding sequence — đòn chống churn trước khi xảy ra (FOR SUBS ONLY)
 > [!warning] Chỉ áp khi MaxPro có dòng subscription

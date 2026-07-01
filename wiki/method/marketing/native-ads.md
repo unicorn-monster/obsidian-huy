@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data]
-updated: 2026-06-30
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability]
+updated: 2026-07-01
 ---
 
 # Native ads (kênh open-web)
@@ -76,6 +76,9 @@ Rules: byline + publication frame thật, 2-3 ảnh "stock editorial" (không pr
 - [[advertising-jan-advertorial-100k-300k-impressions]]: **100k → 300k impression / 2 tháng**, nothing-but-native, **4-min avg session** (copy "really hits"). Jan: *"study this funnel, it's a goldmine."*
 - [[advertising-jan-advertorial-authority-2m-impressions]]: **1.1M → 2.7M impression / 1 tháng** — **authority angle** ăn đặc biệt mạnh trên native. → tie [[personas]] authority-character + [[angles]]; "discovery-story/authority" register hợp native-reader calm (khác unhinged-confession của FB ugly-ads). MaxPro authority advertorial: groomer/vet-tech 15 năm reframe clipper (Carol the Honest Groomer [[maxpro-pages]]).
 - Cùng pattern với hearing-aid evergreen >1 năm ([[advertising-jan-hearing-aid-advertorial-evergreen]]) đã có: 1 advertorial đúng = **đường ray scale dài**, đối lập creative-churn của Meta ([[media-buying]]).
+
+## Bằng chứng mới: 3M impressions, 3 tháng, đường cong bằng phẳng ([[advertising-jan-native-advertorial-3m-stability]])
+1 advertorial duy nhất → **3M+ impressions trong 3 tháng liên tục**, đường cong ổn định. Jan: *"Once native is scaled, it remains SUPER stable, over months or even years… (unlike Meta)."* Đây là data point mạnh nhất cho compounding-asset luận điểm: native không có ad-fatigue theo nghĩa Meta — 1 advertorial đúng = đường ray dài không cần rebuild liên tục. → Củng cố [[advertising-jan-advertorial-authority-2m-impressions]] (2.7M/tháng) và [[advertising-jan-advertorial-100k-300k-impressions]] (4-min avg session): pattern nhất quán trên nhiều campaign. So sánh trực tiếp với Meta: khi scale Meta CPM phồng, creative fatigue nhanh; native ngược lại — CPM ổn, creative sống lâu. Readiness gate vẫn áp: **$50-100k/tháng** trước khi mở kênh.
 
 ## Scale economics: vì sao native scale dễ + rẻ hơn Meta
 [[advertising-jan-meta-ads-not-native-scaling]] (cùng tác giả; số dưới cho brand đã qua $100k/THÁNG Meta — với Huy là **nguyên lý**, chưa phải tín hiệu mở kênh, xem readiness gate đầu trang):
