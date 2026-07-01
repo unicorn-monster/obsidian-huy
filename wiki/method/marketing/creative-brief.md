@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts]
-updated: 2026-06-29
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives]
+updated: 2026-06-30
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -125,3 +125,13 @@ VSL TOF mở cold (hair-loss ad chạy từ 12/2024, **40M impression**). Độn
 
 ## VOC mining = Claude asset (bổ sung rule #3 + Parker)
 [[f3dericobartoli-voc-review-mining-prompt]]: Claude Project (system + analysis prompt) scrape review mình + đối thủ → **VOC report 2,000-4,000 từ**: pains / desires / failed-alternatives (= switching trigger) / objections / emotional-language top-20 + **map awareness % + sophistication** + swipe-ready (top-5 headline từ ngôn ngữ khách, top-3 angle, top-10 takeaway). Rule cứng: KHÔNG paraphrase/bịa, pattern > outlier, *"think strategist not summarizer"*. DIY alt cho Parker — chạy lên review Casfuy/LuckyTail/Heusom → feed [[maxpro-voc-insights]].
+
+## "Sounds like her, not sounds good" — VOC → $100k+ creative ([[adrian-chivu-voc-driven-100k-creatives]])
+Adrian Chivu (3 ads spending $180k, cùng nguồn gốc): copy scale qua $100k spend và vẫn convert cold traffic KHÔNG phải vì "sounds good" (generic: *"Premium quality"*, *"Elevate your everyday look"* — 0 ai đọc, 0 ai cảm) mà vì **"sounds like her"** — đúng câu chữ khách hàng thật viết trong review lúc 11pm vì xúc động phải kể ai đó. Đó là **messaging resonance = "is this me?" moment fires TRƯỚC KHI logic bật lên** (khớp rule #4 "cho người ta CẢM" ở trên, nhưng nhấn thêm: nguồn chữ phải là verbatim khách, không phải copywriter diễn giải lại).
+
+Quy trình cụ thể (4 bước, chạy TRƯỚC khi viết):
+1. Đọc HẾT review, comment ad, DM — không chỉ sample.
+2. Ghi lại chữ/cụm từ LẶP LẠI (không phải chữ hay nhất, mà chữ NHIỀU NGƯỜI DÙNG NHẤT).
+3. Tìm cụm mô tả CẢM GIÁC sản phẩm mang lại (không phải feature).
+4. Tìm KHOẢNH KHẮC cụ thể (mặc lúc nào, mua cho ai) — nguồn cho identity statement, không chỉ hook.
+→ Build hook + body + **identity statement** trực tiếp từ chữ nguyên văn bước 2-4, đừng "khôn lỏi" viết lại cho hay hơn. Củng cố trực tiếp rule #3 ở trên và [[f3dericobartoli-voc-review-mining-prompt]] — thêm lát cắt "identity statement" (câu định danh "tôi là người dùng sản phẩm này") mà VOC report chưa tách riêng thành mục.

@@ -1,6 +1,6 @@
 ---
-sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows, cyrilxbt-50-obsidian-workflows]
-updated: 2026-06-26
+sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows, cyrilxbt-50-obsidian-workflows, greg-isenberg-ai-native-company-brain, shann-marketing-engineer-agent-orchestration]
+updated: 2026-06-30
 ---
 
 # Second-brain system (meta)
@@ -47,6 +47,19 @@ Nguồn: [[cyrilxbt-50-obsidian-workflows]]. Category "AI Integration" (setup 21
 
 > [!note] Phần lớn 50-list là generic/đã biết
 > 10 category × 5 = 50 setup, đa số là Obsidian-101 (PARA, MOC #31, atomic note #34, literature-vs-permanent #35 — đã có ở "Nguyên tắc vận hành"). Giá trị thật của clip: (1) xác nhận skill-stack AI đang đi đúng hướng, (2) 4 Dataview query trên cho `/lint`. Ko cần ingest sâu hơn.
+
+## Vault = "company brain" cho agent, không chỉ note cho người ([[greg-isenberg-ai-native-company-brain]])
+Greg Isenberg (build công ty chạy trên AI agent): trong mô hình cũ, công ty = con người (họ giữ kiến thức, ra quyết định, làm việc). Trong mô hình mới, **con người chuyển lên strategy/taste/judgment, agent làm execution, và cái công ty thật sự là shared context layer** — data, SOP, pricing, permission, decision đều sống ở 1 chỗ. *"The most valuable thing you can build in 2026 is a business so well-documented that an agent can run it."* Đây chính xác là identity-file thesis ở trên (CLAUDE.md = đòn bẩy lớn nhất) nhưng phát biểu ở tầng công ty: **độ "legible" (đọc được bởi agent) của cái vault này quyết định agent làm được gì**, không phải model mạnh cỡ nào. Điểm chọn việc: giao agent việc *"repetitive đủ để agent làm, phức tạp đủ để incumbent chưa bận tâm"* — khớp lý do `/ingest`, `/brief`, `/lint` tồn tại (việc lặp, tốn thời gian, nhưng cần đọc nhiều context trước).
+
+## Marketing engineer = build agent orchestration, không chỉ prompt 1 lần ([[shann-marketing-engineer-agent-orchestration]])
+Shann³ (marketing/GTM engineer): vai trò đang chuyển từ "mở chat, prompt 1 lần lấy 1 output" sang **build cái TỰ TẠO output đó lặp lại**. 7 bước, map thẳng vào vault này:
+1. **Build, đừng chỉ dùng** — vault + skill (`/ingest`, `/brief`) = version "build" thay vì hỏi Claude lại từ đầu mỗi lần.
+2. **Company brain trước** — centralize transcript/campaign-cũ/learning/brand-rule/SOP TRƯỚC khi build agent. *"Aim an agent at good inputs and weeks of work turn into hours. Point it at a mess and it just makes slop, faster."* — cùng cảnh báo garbage-in ở thesis trên.
+3. **Agent profile: open (cần người trong loop) vs closed (chạy 1 mình)** — `/brief` `/ingest` hiện là open (user review output); connection-finder gap ở trên là ứng viên tốt để bắt đầu open rồi promote lên closed.
+4. **Tìm agent mới bằng cách quan sát việc LẶP LẠI của chính mình** — đừng nhảy vào build agent mới trước khi tự làm tay vài lần và thấy pattern rõ. Áp dụng: trước khi thêm skill mới vào vault, hỏi "mình đã làm việc này thủ công ≥3 lần chưa?"
+5. **Thiết kế loop TRƯỚC khi chạy** — steps, checks, budget, done-state. Loop thiết kế lỏng lẻo = tốn token + trả slop.
+6. **Orchestrate agent theo vertical** (SEO/PR/paid/CRO...), con người giữ vai *"champion"* giữ brain sạch — vault này 1 vertical (marketing content), domain finance/fulfillment sẽ là vertical kế.
+7. **Đóng eval loop** — chấm output so với "good" đã định nghĩa, feed miss ngược vào brain. Vault chưa có bước này tường minh; đây là input thêm cho gap connection-finder/`/lint` ở trên — `/lint` có thể đóng vai eval loop nếu thêm bước "so khớp output gần đây với chuẩn đã định".
 
 ## Plugin nền (Obsidian, từ engkhairallah)
 Smart Connections (RAG chat-with-vault) · Templater · Dataview (vault → DB query) · Tasks · **Obsidian Git** (auto-commit, đã bật ✓) · Periodic Notes · **Obsidian CLI 2026** (cầu nối Claude Code ↔ vault, có `obsidian-cli` skill). Steph Ango (CEO Obsidian) ra bộ Claude Skills chính chủ — đang dùng (`obsidian-markdown`, `json-canvas`, `obsidian-bases`).
