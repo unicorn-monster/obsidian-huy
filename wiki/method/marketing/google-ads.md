@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp]
-updated: 2026-06-30
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel]
+updated: 2026-07-02
 ---
 
 # Google Ads (kênh search-intent)
@@ -157,6 +157,19 @@ Nguồn: [[ecomamin-seasonal-promotions-bfcm]] ($20M+, 7 năm seasonal Google). 
 > [!tip] Áp MaxPro/pet store
 > Trục 1+3+4 applicable ngay khi có data (advertorial per avatar breed-cluster + feed keyword-first + PMax per-ICP exclude brand). Trục 2 (YT Shorts MOF) khi đã có winner creative; trục 5 khi có customer list đủ lớn (~1k+). Sequence: feed rebuild TRƯỚC, rồi advertorial TOF, rồi YT Shorts remarketing depth. Liên kết: [[presell-pages]], [[creative-brief]], [[personas]].
 
+## 7 sai lầm phổ biến nhất — 100+ audit ([[ecomamin-7-google-ads-mistakes]]) ⭐ checklist
+eCom_Amin (100+ audit, $20M+ generated). Đáng nhớ vì đây không phải lý thuyết — đây là pattern **lặp lại qua hơn 100 account thật**. Xếp theo mức ảnh hưởng:
+
+1. **Blended ROAS che branded.** *"7x ROAS" mà 80% conv từ branded = người đã biết brand mua lại.* Tách report theo campaign-type mới thấy cold ROAS thật. (Củng cố §prospecting-first — branded-only account = cap.)
+2. **PMax như là chiến lược.** 1 campaign, all products, generic asset, 0 audience signal → algorithm tìm con đường ít kháng cự nhất = branded demand có sẵn → rồi credit. *"Treating PMax as a strategy"* — không phải là strategy, là tool khi account đã có data. Khớp §7-campaign: PMax campaign 5 phải feed-only + brand EXCLUDED.
+3. **Tăng budget ≠ scale.** Demand-capture-only account có trần: khi đã bắt hết intent tồn tại cho brand/category, thêm $ chỉ làm trần đắt hơn. Scale thật = mở demand mới (TOF/prospecting/Demand Gen).
+4. **Cold traffic thẳng vào PDP.** Advertorial giữa ad và PDP consistently **doubles cold CVR** trên gần như mọi account Amin test. Khớp §9 funnel-type + [[funnel-and-landing]].
+5. **Bỏ qua shopping feed.** Title bắt đầu bằng brand name = vô hình với query non-branded. → fix: 3 từ đầu title = keyword convert cao nhất ([[google-shopping]]).
+6. **Zero negative keyword hygiene.** Amin thấy account chạy 18 tháng không 1 negative → hàng trăm £/tháng đổ vào query không thể convert. → fix: §Optimization (search-term report weekly).
+7. **Chuyển tROAS trước khi đủ data.** Algorithm cần **30-50 conversion** để học. Switch sớm → không bao giờ stabilize. Khớp §"đã test & GIẾT" (auto-bid từ ngày 1 = 0.8x). → fix: manual CPC lấy data → RỒI target ROAS.
+
+*"Every single one of these is fixable. None of them require a bigger budget."* → MaxPro: audit theo 7 điểm này trước khi scale spend.
+
 ## AI funnel builder — Manus AI (2-3 ngày vs 2-3 tuần) ([[ecomamin-manus-ai-google-ads-funnel]])
 eCom_Amin (7-figure pet brand Google): dùng Manus AI build toàn bộ Google ads funnel ecom trong **2-3 ngày** thay vì 2-3 tuần. 6 component workflow:
 1. **Competitor intelligence prompt** — pull live data top 10 brands: landing pages, angles, credibility signals → gap analysis → tìm angle CHƯA ai chạy (không fatigue như saturated angles).
@@ -167,6 +180,8 @@ eCom_Amin (7-figure pet brand Google): dùng Manus AI build toàn bộ Google ad
 6. **Branding audit** — score 1-5: domain, photography, social proof, founder presence, credibility TRƯỚC khi tiêu 1 đồng cold traffic. *"Best campaigns won't save a page that doesn't look legit."*
 
 Tie [[presell-pages]] (format selection) + [[angles]] (competitor gap = unsaturated angle) + 9 funnel-type section ở trên + advertorial system. → MaxPro: dùng workflow này khi ready build Google funnel lần đầu thay vì bắt đầu với PDP.
+
+**Update 2026-07-02 ([[ecomamin-opus48-google-ads-funnel]]):** Amin xác nhận Manus + **Opus 4.8** là combo CRACKED để one-shot Google ads funnels ecom — advertorials, comparison pages, quizzes, listicles, PDPs — backed by $20M+ generated. Dùng Opus 4.8 (không phải Sonnet) cho giai đoạn synthesis + copy, Manus cho research/crawl. 6-step playbook đã có ở source ([[ecomamin-manus-ai-google-ads-funnel]]) vẫn apply; thêm model guidance này.
 
 ## Organic rankings = free byproduct của paid structure đúng ([[ecomamin-google-ads-0-to-14m-teardown]])
 Case: 0 → **$1.4M in 6 months**, Google ads only (Search + Shopping + YouTube). By month 4: **ranked #1 cho primary category keywords với 0 SEO spend**.

@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event, maxwellcopy-subscriber-onboarding-21days]
-updated: 2026-07-01
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-reach-beats-segmentation]
+updated: 2026-07-02
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -96,6 +96,16 @@ Liên kết: **SUB-1 metrics** (bên dưới) để track O2/O4/O6 retention; [[
 3. **Billing-reminder cancellations** → §SUB-2.
 4. **Cancellation-flow recovery** target **15-20%+** — đừng để cancel trơn; hỏi lý do + winback timely. **Founder message/video lúc cancel convert hơn mọi automated winback** (cùng tinh thần #6).
 
+## Day-30 rebill = highest churn day — Klaviyo reframe fix ([[maxwellcopy-day30-rebill-klaviyo-reframe]]) ⭐ FOR SUBS
+*"The HIGHEST CHURN day for almost any subscription brand is day 30."* Đây là ngày rebill đầu tiên — khách thấy charge, stomach drops, cancel ngay. Trigger: **default Shopify order confirmation email** — bare, no framing, no value.
+
+**Fix (Shopify Plus brands):**
+1. Tắt default Shopify order confirmation email
+2. Rebuild trong **Klaviyo** với framing khác: vẫn confirm order → nhưng **reaffirm product benefits + remind what subscription includes** + trông như email brand thật (không phải transactional)
+3. Khách vẫn bị charge — nhưng **không rage-cancel** vì context đã đổi
+
+Cơ chế = framing (cùng SUB-2 bên dưới, cùng nguyên lý psych): cách nói đổi outcome, không phải offer. → MaxPro: khi có subscription, đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
+
 **SUB-2 — billing-reminder A/B = −33% cancel ([[maxwellcopy-billing-email-ab-test-cancel]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%**. Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. (Cùng cơ chế psych-of-framing với mystery-discount #1 — cách *nói* đổi outcome, không phải cái offer.)
 
 ## SMS — testimonial text + scale data ([[maxwellcopy-sms-4-templates-ecom]])
@@ -185,6 +195,17 @@ Bổ sung cho "Agency red-flags" ở trên — đây là cadence tốt, dùng nh
 maxwellcopy tips (2026-06-30): before a big promotional send (BFCM, product launch, sale), send a **deliberate "smart" email** to prime deliverability first — primes ISP signals (opens, clicks) in the days before → inbox placement improves for the main event. Concept only (tweet teases, no mechanics shared). Standard interpretation: send a high-value, easy-to-engage email 2-3 days before to warm the list → algorithms treat your next send as trusted sender.
 
 → MaxPro: before BFCM or a major creative push, run a re-engagement send (founder note, unboxing video clip, free grooming tip) to prime the list. No cost, upside = better placement on the big day.
+
+## Reach >> segmentation — 9-figure data ([[maxwellcopy-reach-beats-segmentation]]) ⭐ contrarian
+maxwellcopy hot take sau khi audit brand $10M/mo (9-figure): *"most email/sms segmentation is bullshit."*
+
+**Data point:** brand 2M wide-engaged list, gửi 3x/tuần → **50-100% more revenue** trên campaign wide so với campaign segmented (list nhỏ hơn gửi 4 ngày còn lại). Không có sense nào để over-segment khi data nói ngược.
+
+**Rule:** *"As long as your list growth is beating your unsubscribes 3:1, keep sending wide and hit your big engaged list often."* Chỉ sau khi đã đạt **benchmark daily sends** mới layer thêm segmented/personalized campaign (không thay thế — bổ sung).
+
+**Diagnosis:** over-segmentation often = sophistication theater, không phải revenue optimization. Data không quan tâm setup trông clever đến đâu. *"Sometimes the simple, 'retarded' shit is the one that makes them most money."*
+
+**Hàm ý MaxPro:** đừng chia nhỏ list sớm. Ưu tiên list growth (list growth 3:1 > unsub trước) + gửi wide với cadence đều. Segment sau khi nền đã vững — không phải lúc mới có 200 subscriber. Tie [[maxwellcopy-sms-welcome-flow-109k]] (SMS welcome = reach người không mở email, không phải segment sâu hơn).
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability]
-updated: 2026-07-01
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts]
+updated: 2026-07-02
 ---
 
 # Native ads (kênh open-web)
@@ -128,6 +128,17 @@ Nguồn: [[advertising-jan-native-new-and-weird-rule]]. Một dòng nhưng load-
 - **Weird signals NEW.** Cái lạ tức thì báo "đây không phải thứ bạn từng gặp" → vượt qua bộ lọc "biết rồi". Khớp bucket **Weird/pattern-interrupt** ở 3-bucket trên (Banana Phone, blue-glow ear) — giờ có *lý do*: weird không phải để vui, mà để báo hiệu NEW cho prospect kiệt-sức-vì-đã-thử-hết.
 - **= cơ chế "new mechanism"** của advertorial piece 3 ([[angles]] new-mechanism): ad hứa "có cách MỚI", advertorial giao cái mechanism mới đó. Ad weird mà advertorial không có mechanism mới = clickbait, nền tảng bóp quality-score ([[compliance]]).
 - **MaxPro:** prospect đã thử clipper / Dremel / grinder rẻ / groomer → "another nail tool" = familiar = scroll. Góc mới-lạ: grinder + glow-ring trên paw, hoặc headline "the nail-trim method groomers switched to" (≠ "best nail grinder"). Tie vào [[hooks]] native-headline (pre-filter + curiosity gap, không hé product).
+
+## Sciatic pain — top-performing native angle 2026 ([[advertising-jan-sciatic-pain-7-prompts]]) ⭐ swipe
+advertising_jan: *"The new best performing ad angle: Sciatic Pain."* 7 AI image prompts published as a swipe-bank → full prompts in [[advertising-jan-sciatic-pain-7-prompts]]. Patterns across the 7:
+
+- **Bird's eye / top-down** diagram (5 sleeping positions numbered 1-5) — info-graphic feel, instant CTR
+- **Crosshatch ink on parchment** — vintage clinical handbook aesthetic; single saturated red nerve-path line = only color in image (extreme contrast, clinical authority)
+- **X-ray / thermal imaging aesthetic** — figures on black background, glowing body outlines, clinical scanner feel; labels each position
+- **Nerve overlay transparent** — colored nerve pathway through clothing on diverse women-from-behind; anatomical but editorial
+- **Pain zone maps** — bare skin + bold colored rectangles marking specific lumbar/hip referral zones; grey-toned clinical diagnostic style
+
+Transfer DNA to any pain niche: (1) exact nerve/pain pathway rendered; (2) clinical aesthetic (crosshatch, thermal, parchment, X-ray) signals authority; (3) multiple-view info-graphic shows breadth, begs scroll. → MaxPro equivalent: paw close-up with quick marked, nerve-path from quick to paw tip, sleeping-position diagram for post-groom dog. Tie [[advertising-jan-native-pain-image-prompts]] (Nano Banana DNA) and [[creative-brief]] AI prompt section.
 
 ## AI pain image prompts — "show exact pain, super detailed" ([[advertising-jan-native-pain-image-prompts]])
 advertising_jan ($3k/day native): *"Scaling native ads to $3k/day comes down to this: show the exact pain your customer has, in a super detailed way."* 5 "Nano Banana" AI prompts show the production DNA — applicable to any pain niche.
