@@ -1,5 +1,6 @@
 ---
 sources: [maxpro-operating-system, heusom-silent-groom-research]
+updated: 2026-06-22
 ---
 
 # Product truth — MaxPro grinder

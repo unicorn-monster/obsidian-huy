@@ -1,5 +1,6 @@
 ---
 sources: [kittysupps-adlib-raw-2026-06-23]
+updated: 2026-06-24
 ---
 
 # Hook-swap method — thay hook proven sang sản phẩm mình

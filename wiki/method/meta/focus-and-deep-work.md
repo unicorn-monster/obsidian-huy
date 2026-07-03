@@ -1,5 +1,6 @@
 ---
 sources: [timdenning-dangerously-focused]
+updated: 2026-06-22
 ---
 
 # Focus & deep work (meta)

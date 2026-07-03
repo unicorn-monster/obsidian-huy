@@ -1,5 +1,6 @@
 ---
 sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match]
+updated: 2026-06-30
 ---
 
 # KittySupps machine — case study long-form VSL ($500k/mo)

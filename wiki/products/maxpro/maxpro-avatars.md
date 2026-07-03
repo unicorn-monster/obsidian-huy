@@ -1,5 +1,6 @@
 ---
 sources: [grinder-avatar-bank, maxpro-matrix-creative-guardrails, linafahizul-pet-buyer-is-a-woman]
+updated: 2026-06-22
 ---
 
 # Avatars (grinder)

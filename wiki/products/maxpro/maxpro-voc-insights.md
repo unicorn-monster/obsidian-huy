@@ -1,5 +1,6 @@
 ---
 sources: [voc-mining-learnings, f3dericobartoli-voc-review-mining-prompt]
+updated: 2026-06-22
 ---
 
 # VOC insights (review corpus)

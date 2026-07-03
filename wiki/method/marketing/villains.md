@@ -1,5 +1,6 @@
 ---
 sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen]
+updated: 2026-06-22
 ---
 
 # Villain stack + landmines

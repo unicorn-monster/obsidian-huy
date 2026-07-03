@@ -1,5 +1,6 @@
 ---
 sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe]
+updated: 2026-06-30
 ---
 
 # Hooks
