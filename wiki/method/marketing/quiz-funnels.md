@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase]
-updated: 2026-06-26
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles]
+updated: 2026-07-03
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -118,6 +118,13 @@ Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tớ
 
 ## Swipe bank — quiz funnel sống (StefanGeorgi thread)
 [[stefangeorgi-quiz-funnel-swipe]] (StefanBrain CRO gom ví dụ): javvycoffee.com/qpc · mengotomars.com/pages/quiz-v6 (= Mars trên) · get.mylunavia.com (nail-fungus) · tour.reverse.health · try-spartan.com/lead-sp3 · madmuscles.com · walk-fit.io — 8-15M visit/mo. Tool clone 1:1: **clarflow.com** (AI quiz builder DTC).
+
+## Vận hành quiz như 9-figure brand: feedback loop · big swings · commit ([[dtcquizbuilder-9fig-quiz-operating-principles]])
+3 nguyên tắc VẬN HÀNH sau khi build (bổ sung cho toàn bộ build-guide trên):
+1. **Feedback loop 2 chiều quiz ↔ ads.** Data quiz lộ outlier (*"80% người back-pain ĐÃ thử X rồi mới mua"*) → call out đúng cái đó trong ad. Chiều ngược: angle / winning ad / avatar đổi → quiz PHẢI update theo, không thì mismatch y hệt PDP incongruent ([[funnel-and-landing]]). **Quiz không phải build-once — nó stale như creative.**
+2. **Big swings khi iterate.** Sửa lặt vặt ("bớt câu", "ngắn Q1") hiếm khi cứu quiz — đúng bệnh thì mới đáng; đa số case cần swing lớn (đổi angle, framing, close) tới khi thấy success rồi mới fine-tune. Hit lần đầu thường là may — hypothesis → test → data → tiếp. (= [[creative-testing]] isolate-layer nhưng ở cấp funnel.)
+3. **"Making it work" mindset.** Vào với tư thế *"để test thử xem"* = tự setup fail → extract **negative learning sai sự thật** ("quiz không hợp brand mình" trong khi thật ra chưa từng làm tử tế). Brands crack quiz = brands vào với resource + mindset iterate-tới-khi-được. Áp cho MỌI thứ: offer, listicle, PDP, ads, TikTok Shop.
+→ MaxPro: nếu build ugly quiz ([[maxpro-ugly-ads-plan]] roadmap), commit trước ít nhất 3-5 swing trước khi kết luận "quiz không hợp grinder".
 
 ## Segment & retarget bằng câu trả lời
 Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / symptom). Retarget tách theo đáp án: "tried diets, weight came back" → ad yo-yo cycle · "low energy" → ad energy (không phải weight). Cùng product, angle khớp đúng cái họ TỰ KHAI.

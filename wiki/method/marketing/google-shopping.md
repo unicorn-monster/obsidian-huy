@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank]
-updated: 2026-06-28
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal]
+updated: 2026-07-03
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -34,5 +34,11 @@ Nguồn: [[ecomamin-shopping-masterclass]]. *"Mọi brand có Shopping CAMPAIGN;
 - **Local/location signal:** "ships from UK" cho buyer UK = ngụ ý giao nhanh + hợp pháp (ngược "Shenzhen shipping time"). Set Merchant Center reflect đúng origin.
 - **Bid segmentation 3 tier** (sau khi feed chuẩn, structure phản chiếu custom labels): **Tier 1** bestseller/high-margin hero → campaign riêng, budget cao nhất, target ROAS thấp nhất (= bid cao nhất, có data validate) · **Tier 2** new product testing → budget riêng, maximize-clicks/manual-CPC gom data TRƯỚC smart bidding · **Tier 3** clearance/low-margin → promo giá + bid thấp, ko move thì **exclude khỏi Shopping**. *"Cấu trúc ÉP algorithm chạy trong profit-logic của bạn; ko có nó, PMax/Smart Shopping luôn dồn budget về path-of-least-resistance (volume cao bất kể margin)."*
 - **Shopping search-terms report (ít ai mở):** (1) **mine title keyword** — query convert mà chưa có trong title → add (match chủ động + scale hơn) · (2) **negative** — query có spend, 0 conversion, ở volume → cắt · (3) **product split** — 1 variant (màu/size/material) liên tục hiện ở converting query → tách listing riêng + title riêng. Review hằng tháng = 1 trong các task ROI cao nhất account.
+
+## Attribute completeness = matching signal (đừng dừng ở title) ([[rudra-shopping-feed-attributes-signal]])
+Đa số upload MINIMUM required fields rồi thắc mắc ads không convert. Google dùng **MỌI attribute** để hiểu product là gì / ai nên thấy / show khi nào: gender · material · color · size · condition · style · hardware · year · brand… Mỗi field điền = 1 signal match product ↔ đúng query ↔ đúng buyer đúng lúc.
+- Long-tail/high-ticket: attributes = khác biệt giữa hiện cho *"handbag"* (browser) vs *"vintage chanel caviar leather classic flap medium black"* (buyer cầm thẻ sẵn).
+- **Map mọi Shopify metafield → valid identifier trong GMC feed.** *"Competitors không làm, đa số agency không biết làm"* → signal quality giữ vị trí auction không ai đụng được.
+- Cùng triết lý "70% từ feed, làm TRƯỚC campaign" đầu trang — nhưng mở rộng từ title/desc/image ra **toàn bộ attribute schema**. MaxPro: điền đủ size/breed-compatibility (3-port cap S/M/L), material (diamond drum), noise level, pet type — mọi field GMC cho phép.
 
 → Impression-share headroom (winner ROAS cao nhưng IS thấp → tách campaign riêng) + 7-campaign + optimization + seasonal: [[google-ads]].

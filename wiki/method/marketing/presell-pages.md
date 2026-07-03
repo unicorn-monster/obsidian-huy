@@ -1,5 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown]
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide]
+updated: 2026-07-03
 ---
 
 # Presell pages — build guide (4 format)
@@ -39,6 +40,13 @@ Chi tiết hơn 6-piece của [[native-ads]] / 15-beat của [[ugly-ads-method]]
 
 > [!note] 2 lớp advertorial: layout (trên) vs emotional arc
 > Wireframe trên = bố cục. Story-advertorial native ([[advertising-jan-derila-ergo-native-funnel]] · [[advertising-jan-hearing-aid-advertorial-evergreen]]) thêm **arc cảm xúc**: Hook (nhân vật siêu cụ thể "Arthur, 72, kiến trúc sư") → Emotional breaking point → Failed solutions → **Mechanism / belief-shift** (ear→brain, pillow→neck) → Payoff → Emotional bookend (mở-đóng cùng 1 vết thương) → CTA "fork in the road" (quyết định đời, không bán). Sales page sau = **confirm, không re-sell** + trust-stack media→clinical→peer→video → [[offer-and-cta]].
+
+## Advertorial 8 phần (Carl Weische $100M) — nửa SAU first-CTA là chỗ khác biệt
+Nguồn: [[carlweische-100m-advertorials-guide]]. Cùng DNA wireframe + arc trên; net-new của Carl:
+- **Chọn format theo AD (quy tắc quyết định nhanh):** ad angle generic / giới thiệu brand / cần page versatile cho nhiều ad → **listicle**; ad build quanh 1 angle + 1 pain CỤ THỂ → **advertorial** (cả trang đào sâu đúng angle đó, đẩy qua ngưỡng). Bổ sung cho bảng 4-format đầu trang: chọn theo ad đến, không chỉ theo product.
+- **Pain threshold (Tony Robbins):** pain chỉ đẻ action khi VƯỢT ngưỡng "đau hơn cả việc phải hành động" (người thừa cân nặng vẫn không diet = chưa đủ pain). Chọn **3-5 pain + 3-5 desire lớn nhất, hammer LẶP LẠI suốt trang** bằng cách khác nhau — đừng sợ lặp. Selling = tạo separation giữa "đang ở đâu" vs "muốn tới đâu", product = cây cầu, bridge đi bridge lại.
+- **Sequence 8 phần:** (1) hook A/B mạnh (pain-driven / desire-driven / first-person POV) → (2) educate WHY có problem + root cause GIẤU ("không phải lỗi bạn" — vì sao mọi thứ đã thử fail) + ripple effect nếu KHÔNG fix (tie core desires: status/belonging/safety) → (3) mechanism qua **origin story** ("2 năm + team expert" credible hơn "buy me") + feature→benefit → (4) proof story **skeptic-to-believer** (khách nghi → thử → sốc vì NHANH; skepticism = believability, "faster than expected" = quick-win desire ai cũng thầm muốn; PHẢI đọc như khách thật, không phải sales giả giọng) → (5) risk reversal + CTA mềm (*"check availability"*, không "buy now" — khớp CTA system dưới) → **[sau first CTA]** (6) slam pain threshold LẦN NỮA (*"còn chịu X đang tốn Y tới bao giờ?"*) + frame mọi option khác (đối thủ) = thứ giữ họ stuck → (7) **mỗi testimonial giết đúng 1 objection** — top-5 objection → 5 review khớp từng cái ("sợ không hợp [tình huống]" → review từ người ĐÚNG tình huống đó); không review nào "great product :)" suông + CTA ngay sau → (8) close 2 lựa chọn (tiếp tục stuck vs thử risk-free) + identity reframe (*"đọc tới đây = 1 phần trong bạn đã sẵn sàng"*) + scarcity + CTA cuối.
+- **Insight vận hành:** ai không mua ở CTA #1 chỉ vì (a) chưa vượt pain threshold hoặc (b) chưa tin deliver được → nửa sau trang chia đúng 2 việc đó (pain again → objection-proof). Đa số advertorial chết vì DỪNG ở CTA #1.
 
 ## Comparison page (intent cao nhất) — MaxPro ăn liền
 Người search "[brand] vs [competitor]" = sẵn sàng mua, chỉ cần cú đẩy cuối. Cấu trúc: headline *"[product] vs [competitor]: honest breakdown after testing both"* · TL;DR verdict 1 câu · spec table side-by-side · **3 pros MỖI bên** (khen điểm mạnh đối thủ = build trust mạnh) · "who should choose which" theo use-case · 3 citation ngoài · CTA. URL `/compare/x-vs-y`.

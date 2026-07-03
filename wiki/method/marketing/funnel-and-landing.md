@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout]
-updated: 2026-07-01
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack]
+updated: 2026-07-03
 ---
 
 # Funnel + landing congruency
@@ -52,6 +52,18 @@ Nguồn: [[dtcquizbuilder-native-ads-workflow]]. Landing page = **việc quan tr
 Đây là production shortcut; congruency + bridge-page vẫn áp như trên. Advertorial copy vào khung này theo [[ugly-ads-method]].
 
 **Mở rộng** ([[dtcquizbuilder-clone-landing-pages-ai]]): build hẳn 1 **Claude Skill** từ HTML (inspect → copy body → dán, chính xác hơn để nó scrape); ask render **live trong browser** để iterate + đính screenshot reference; **1 page / 1 winning ad** (upload ad/VSL thắng → Opus viết copy riêng cho page đó); ship Shopify = thêm page → `</>` code block (vỡ thì xin custom Liquid section). Ranh giới: AI **copy/HTML OK**, AI **ảnh bị Google flag** ([[compliance]]). 80/20 của LP vẫn là **copy** — quantity vô nghĩa nếu thiếu intent.
+
+## Trust recession — vì sao CVR rớt toàn thị trường + legitimacy stack 5 điểm ([[ecomamin-trust-recession-legitimacy-stack]]) ⭐
+CVR không rớt vì product / algorithm / iOS — vì **buyer đã bị blackhat-dropship đốt 3-5 lần** (fake timer reset khi reload · "ships from UK" từ Guangdong · subscription ẩn trong checkout · review 3→847/tuần · email bounce khi đòi refund) → **skepticism reflex tự động nổ trong 2 giây đầu** với mọi brand lạ. Structural, không tự hết.
+- **Đánh nặng nhất kênh interrupt** (Meta/TikTok/IG — người không ở buying mindset, brand-lạ-xin-tiền không có intent làm mỏ neo); **nhẹ hơn kênh intent** (Google/Bing — *"họ tự gõ, tự click — intent làm hộ một phần credibility work"*). = macro-lý-do cho demand-capture + Bing "less burned" ([[google-ads]], [[ecomamin-google-bing-youtube-ecosystem]]). Kênh thắng khác: Pinterest (wishlist mindset, reflex nổ thấp) · Reddit (native/organic — community tự rip ad pitch, nhưng product thật được bàn trong subreddit convert "insane") · YouTube long-form (8-15 phút build cred trước khi ask) · YT Shorts/Demand Gen (format social nhưng platform CHƯA bị condition).
+- **Legitimacy stack — trả lời "is this legit?" trong 5 giây đầu LP:**
+	1. **.com sạch** — "yourproduct-buy-now-US.shop" = còi báo scam trước khi đọc chữ nào.
+	2. **Founder presence = trust-builder mạnh nhất hiện tại.** Video founder 60s trên homepage (vì sao product tồn tại) convert cold hơn mọi trust badge. Reflex được train để nghi BRAND, không nghi NGƯỜI → **founder ads > UGC cho cold trên đa số product** (UGC fake được; founder trên camera + presence nhất quán mọi platform = accountable).
+	3. **Comparison page** — dám đặt mình cạnh cả field (ingredient / price-per-serving / shipping / return / certs) = transparent choice + ngầm nói brands-không-dám-so đang giấu gì. Thêm 1 lý do **TRUST** cho comparison format ([[presell-pages]]), không chỉ intent-capture.
+	4. **Social proof CỤ THỂ** — *"ngủ xuyên đêm lần đầu sau 3 năm, vợ tôi nhận ra trước cả tôi"* ≠ "great product, would recommend". **Volume fake được; specificity khó fake** → specificity = trust signal. (= situation-matched review [[google-ads]] + review-count threshold [[google-shopping]].)
+	5. **Photography thật** — white-bg giống hệt aliexpress listing = zero signal; lifestyle thật / người thật / môi trường thật. Production quality creative = **proxy chất lượng product** (khách chưa từng chạm product — màn hình là tất cả).
+- Map full-funnel: TOF Shorts/DG frame educational (chưa ask) → MOF search+advertorial (trả lời câu họ HỎI) → BOF branded/Shopping/RLSA (chốt). Trust collapse **nâng bar credibility trước cái ask** — không giết willingness to spend.
+→ = bản đầy đủ của "branding audit score 1-5" trong Manus workflow ([[google-ads]]). MaxPro: 4pawsreview đã là comparison-play đúng hướng; gap lớn nhất = **founder presence** (mặt người nuôi chó thật) trên [[maxpro-pages]] + ảnh candid thật (cùng logic "thật > polished" của [[ugly-ads-method]]).
 
 ## Pre-sell layer: họ hàng trang warmup cho cold traffic
 Schwartz: cold/less-aware KHÔNG đi thẳng PDP được ([[market-awareness]]). Cần 1 trang warmup giữa ad và offer. Carl Weische: *"pre-sell page là lever lớn nhất để scale"* (đưa 1 brand $387k→$1.36M/tháng bằng 1 listicle) — vì warm audience nhỏ + cap nhanh, muốn scale buộc phải đánh cold. Cùng 1 job (educate problem→solution, carry proof, match awareness), khác hình thức:
