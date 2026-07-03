@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify]
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy]
 updated: 2026-07-03
 ---
 
@@ -46,6 +46,12 @@ Nguồn: [[scalabilityschool-landing-page-stack-diversify]] (Scalability School)
 
 > [!warning] Tension với [[media-buying]] §manual-beats-algorithm
 > Video này = phe **PRO-algorithm** ("let Meta allocate spend between pages"), nghịch với counter-signal jforjacob (*"Meta near-100% failure rate"*, surf-scale tay). Reconcile theo **layer**: để Meta allocate ở **page-level** (matching người→trang = việc Meta thật sự giỏi), nhưng vẫn **surf-scale ở ad-level** (audit ads bị bỏ đói). Khác tầng, không mâu thuẫn.
+
+## One-shot homepage vs lander riêng (Gruns model)
+Nguồn: [[scalabilityschool-50-angle-strategy]]. 2 kiến trúc, chọn theo có gộp mọi thứ vào 1 trải nghiệm hay không:
+- **One-shot homepage** — đổ HẾT traffic về homepage giàu content (Gruns cũ → gruns.co: **content → learn → shop** trong 1 trang; Primal Queen all-in-one). Hợp khi muốn education + offer + retention-seeding (timeline 90-ngày) sống chung 1 chỗ.
+- **Lander/presell riêng** — mỗi ad → 1 presell congruent ([[presell-pages]], §landing-page-stack trên). Sạch, congruent, dễ nhân angle — hợp với 50-angle stack.
+- **Luật:** đừng bê content one-shot (vd seed "commit 90 ngày") lên presell lander — bắt cold commit trước khi thấy giá = phản tác dụng (Hollow test, no impact). Seeding đó thuộc PDP/onboarding → [[subscription-retention]]. Chỉ nhồi-tất-cả-1-trang khi CHỦ ĐÍCH làm one-shot experience.
 
 ## Carry gì (message match)
 Headline page khớp frame ad (KS: "Stop the Silent Deficiency Before You See the Signs" ↔ "silent, too late"). Mechanism + villain-lite giữ ở FAQ.

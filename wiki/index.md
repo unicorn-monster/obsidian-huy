@@ -19,7 +19,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 ### Building blocks (lắp vào mọi strategy)
 - [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + swipe vet-whistleblower
 - [[hook-swap-method]] — lấy hook proven (KS/đối thủ) đổi sang sản phẩm mình: tách **ENGINE (cảm xúc+nhịp, giữ) vs SKIN (danh-từ/số/tên, thay)** + swap library KS→MaxPro + hook↔body khớp
-- [[angles]] — matrix angle x avatar x persona, winning trio, Life Force 8 + reason-name, urgency defensible, native angle test, **belief-shift diagnosis ("cái họ tin KHÔNG phải nguyên nhân")**
+- [[angles]] — matrix angle x avatar x persona, winning trio, Life Force 8 + reason-name, urgency defensible, native angle test, **belief-shift diagnosis ("cái họ tin KHÔNG phải nguyên nhân")**, **50-angle strategy — 1 product bán 50 góc, angle-TAM/positioning-TAM = trục scale bị bỏ quên**
 - [[personas]] — persona-network, 4 archetype, matching rule, authority-character, **3rd-party strategy 2 tầng: PAGE (DTC Midas) + review DOMAIN**, **voice-signature blueprint (reusable mọi product)**
 - [[villains]] — framework 3 lớp + authority-demotion dial (3 nấc) + **Three-Mistakes failed-solutions collapse** + 5 villain + 2 landmine
 - [[offer-and-cta]] — offer = perceived value (4 levers) + **6-component framework (rubinov) + test-3-offers + reusable Opus prompt**, **cold-traffic-test = định nghĩa good offer · mass-desire reposition · find-opportunity (new-market) · offers-expire (Carl Weische)**, tiered bundle, deny-the-sale, upsell = vũ khí CPA, **"too expensive" = value gap không phải price objection (maxwellcopy)**

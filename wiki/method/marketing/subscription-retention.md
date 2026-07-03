@@ -1,5 +1,5 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv]
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy]
 updated: 2026-07-03
 ---
 
@@ -60,6 +60,11 @@ Tie [[offer-and-cta]] churn-as-value-gap.
 3. Khách vẫn bị charge — nhưng **không rage-cancel** vì context đã đổi
 
 **Billing-reminder A/B = −33% cancel (SUB-2, [[maxwellcopy-billing-email-ab-test-cancel]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%**. Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. Cơ chế = psych-of-framing (cùng họ mystery-discount [[email-marketing]] §1 — cách *nói* đổi outcome, không phải cái offer). → Khi có subscription: đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
+
+## Quarterly/90-day sub — audit margin TRƯỚC khi defer revenue; seed ở PDP không phải lander ([[scalabilityschool-50-angle-strategy]])
+Zach/Hollow, 2 nuance thực chiến:
+- **Đừng mặc định làm quarterly/90-day sub.** Trước khi show gói 90-ngày, **audit contribution-margin theo THÁNG + payback period + khả năng scale nhanh hơn nếu KHÔNG defer revenue.** Prepay quý khoá LTV nhưng defer cash → chậm tái đầu tư ad. Với Hollow "just doesn't make sense"; vài brand justify được — quyết bằng SỐ, không "ai cũng làm". → sharpen driver #6 (offer align consumption pattern).
+- **90-day seeding = PDP element, KHÔNG phải lander.** Gieo mầm "day 3 cảm nhận X, nhưng month 3-6-12 mới là impact thật" hợp trên PDP/onboarding (§Phase-1 pre-frame timeline trên), NHƯNG bắt cold commit 90 ngày *trước khi thấy giá* trên lander = phản tác dụng ("not as ideal"). Ngoại lệ: funnel **one-shot homepage all-in-one** (Gruns cũ đổ hết về gruns.co: content→learn→shop; Primal Queen) — khi education+offer+seeding sống chung 1 trải nghiệm thì seed 90-ngày mới hợp; tách lander riêng thì **bỏ content đó ra** (Hollow test, no impact). Kiến trúc one-shot-vs-lander: [[funnel-and-landing]].
 
 ## 10 driver thực sự tăng 6-month LTV — khung tổng ([[maxwellcopy-retention-10-drivers-ltv]])
 > "That doesn't happen from AB testing."
