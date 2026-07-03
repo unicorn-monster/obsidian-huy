@@ -1,14 +1,14 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-sms-4-templates-ecom, maxwellcopy-founder-email-template-winback, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-subscription-4-metrics-track, maxwellcopy-agency-red-flags-list, maxwellcopy-subscription-onboarding-churn, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-subscription-brand-teardown, maxwellcopy-retention-10-drivers-ltv, maxwellcopy-email-hero-section-framework, maxwellcopy-agency-client-comms-cadence, maxwellcopy-email-deliverability-pre-event, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-reach-beats-segmentation]
-updated: 2026-07-02
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation]
+updated: 2026-07-03
 ---
 
 # Email marketing — owned-channel / retention tactics
 
 Kênh **owned** (Klaviyo), khác máu với paid-acquisition ([[media-buying]], [[native-ads]]): không trả CPM, đánh vào list đã có. Trang này gom tactic retention/flow.
 
-> [!info] Setup từng-flow SMS → [[sms-flows]]
-> Trang này = *tactic* email/SMS (mystery discount, founder winback, odd send-times…). Cách **dựng** 6 flow Klaviyo (Welcome, Site/Browse/Cart/Checkout abandonment, Win-back) với trigger + exclusion filter + delay + copy template → tách ra [[sms-flows]].
+> [!info] Trang này còn THUẦN email tactic — 3 cụm đã tách (2026-07-03)
+> **SMS** (setup 6 flow + testimonial format + scale proof 77%/+12%) → [[sms-flows]] · **Subscription** (onboarding 21-day / churn / Day-30 rebill / 4 metric / 10 driver LTV) → [[subscription-retention]] · **Thuê & giám sát agency** (red-flags 21 điểm + comms cadence) → [[agency-ops]].
 
 Nguồn #1: [[maxsturtevant-5-email-marketing-hacks]] — Max Sturtevant (claim $57M/tháng từ email = flex uy tín, **chưa verify**). 5 hack đang chạy, xếp theo độ mạnh bằng chứng.
 
@@ -30,7 +30,7 @@ Cơ chế = **curiosity gap**, cùng họ với [[offer-and-cta]] (deny-the-sale
 Email siêu tối giản, **1 banner duy nhất, không trông giống email**. Best performer khi resend. Ví dụ swipe: brand **Willie's Remedy** dựng email giả **màn hình cuộc gọi đến iPhone** ("Weekend is calling… / Slide to answer" + ảnh sản phẩm). Liên hệ [[hooks]] — pattern-interrupt visual là scroll-stop trong inbox y như trong feed.
 
 ## 4. SMS-style email — text trơn như tin nhắn
-"Người ta lười đọc" → email **plain-text ngắn như SMS** nổi bật hơn email thiết kế. Ví dụ swipe: **Breatheeze** subject "Try Risk Free", body 1 dòng *"Max, by the way, we offer a full money-back guarantee… Try risk free >> — Manny, Founder."* Giống mail cá nhân từ founder → cảm giác 1-1, không "blast". Cùng tinh thần raw/under-designed của [[ugly-ads-method]] + founder-template ở §SUB-3 dưới.
+"Người ta lười đọc" → email **plain-text ngắn như SMS** nổi bật hơn email thiết kế. Ví dụ swipe: **Breatheeze** subject "Try Risk Free", body 1 dòng *"Max, by the way, we offer a full money-back guarantee… Try risk free >> — Manny, Founder."* Giống mail cá nhân từ founder → cảm giác 1-1, không "blast". Cùng tinh thần raw/under-designed của [[ugly-ads-method]] + founder-template ở §6 dưới.
 
 ## 5. Copy-paste top performer (resend)
 Lấy nguyên email đã "crush" 2 tháng trước, **resend lại** — "worked once → work again, người ta quên rồi". Resend nhiều lần liên tiếp vẫn ăn. Lazy nhưng hiệu quả; là cách tái dùng winner thay vì luôn đẻ mới (đối trọng với áp lực "flood ad mới" bên [[creative-testing]]).
@@ -47,75 +47,8 @@ Lấy nguyên email đã "crush" 2 tháng trước, **resend lại** — "worked
 - Lời chào người-thật → cảm ơn đã ghé → **origin story 1-2 câu** (*vì sao tôi lập brand* — đánh đúng "[specific problem]") → "no pressure" → **3 USP** (3 bullet) → **store credit $XX, code, hết hạn 24h** → link bestsellers → P.S. *"hit reply, tôi tự đọc"*.
 - Cơ chế = đảo "looks like an ad" của [[personas]]/[[ugly-ads-method]] sang email: under-designed = trust. → MaxPro: founder kể vì sao ghét cảnh chó chảy máu vì clipper, 3 lý do khách yêu MaxPro (quiet / no-cut-quick / 99-day company-paid return [[compliance]]), store credit 24h. Dùng skill `plain-text-email` để viết.
 
-## 21-day subscriber onboarding — 2-phase framework ([[maxwellcopy-subscriber-onboarding-21days]]) ⭐ FOR SUBS ONLY
-> [!warning] Chỉ áp khi MaxPro có dòng subscription (consumable: bit, balm, supplement)
-
-*"This is the first subscription I actually didn't cancel."* — customer maxwellcopy client. Framework 21 ngày, 2 phase, chống churn trước khi nó xảy ra (30-day mark = brutal vì hầu hết brand không có gì ở đây):
-
-**Phase 1 — TRƯỚC khi hàng tới (4-10 ngày, daily/every other day email):**
-Khách đã mua nhưng chưa có sản phẩm → còn hoài nghi nhẹ + excited. Job: làm họ cảm thấy đúng khi mua.
-- Confirm họ ra quyết định đúng (không nghi ngờ)
-- Kill skepticism bằng testimonials, social proof, founder credibility
-- **Pre-frame timeline:** ép cam kết 90 ngày+ TRƯỚC khi trải nghiệm — không frame này → cancel vì "chưa thấy gì" sau 2 tuần
-
-**Phase 2 — SAU khi nhận hàng (4-10 ngày, daily/every other day email):**
-Job đảo chiều: không còn là convince nữa — là build habit + belonging.
-- Dạy cách dùng đúng (đừng assume họ tự biết)
-- Gắn vào thói quen sẵn có (morning coffee, brushing teeth) — habit-stacking
-- Nhắc họ là cộng đồng: "you're now part of the people who..."
-
-**SMS layer — 3 moment cao-impact:**
-1. **Delivery day** — education (cách dùng, kỳ vọng đúng)
-2. **Day 3 check-in** — are they using it?
-3. **Day 7 nudge** — recommit TRƯỚC khi rebill đầu hit
-
-→ Xác nhận + chi tiết hóa §Subscription onboarding bên dưới (cùng nguồn maxwellcopy, khác post). Point mới ở đây: **SMS 3 trigger cụ thể** (delivery / D3 / D7) + **phase 1 job = pre-frame 90 ngày** (không chỉ "make them feel good"). Tie [[sms-flows]] SMS-welcome + [[offer-and-cta]] churn-as-value-gap.
-
-## Subscription onboarding sequence — đòn chống churn trước khi xảy ra (FOR SUBS ONLY)
-> [!warning] Chỉ áp khi MaxPro có dòng subscription
-> MaxPro = tool vật-lý 1 lần mua, **chưa** sub brand → mục này để DÀNH cho consumable pet (bit mài thay, balm, supplement) hoặc khi mở sub.
-
-Nguồn: [[maxwellcopy-subscription-onboarding-churn]] (maxwellcopy, 250+ sub brands audited). **#1 driver churn:** khách có quá nhiều sản phẩm tồn kho **hoặc** ngừng dùng. **#1 lever giảm churn:** onboarding email/SMS sequence đúng cách. Hầu hết brand đốt 30 ngày đầu push upsell → retention tệ.
-
-**5 nguyên tắc (từ best-in-class brands):**
-1. **7 ngày đầu = tất cả.** Hầu hết quyết định churn xảy ra trước ngày 7. Mỗi email trong D1-7 đẩy **1 việc: consumption habit** — không upsell, không educate về benefit dài hạn, chỉ dùng hàng ngày.
-2. **Hit "why bother" head-on.** Khách tự hỏi "mình có mua đúng không?" → reassure bằng: social proof từ người có cùng nghi ngờ + founder story thật + science back product.
-3. **Set expectation trước.** Consumable thường 30-60+ ngày mới thấy kết quả. Không set frame ngay → cancel trước khi thấy gì. Nói thẳng "ngày bao nhiêu bạn sẽ thấy gì".
-4. **Không upsell trong onboarding.** Mistake #2 phổ biến nhất: push upgrade/bundle/referral trong 30 ngày đầu. Build habit first → revenue follows retention.
-5. **Cadence timeline:** go hard D1-7 → educate D8-30 → ease off sau đó.
-
-Liên kết: **SUB-1 metrics** (bên dưới) để track O2/O4/O6 retention; [[maxwellcopy-billing-email-ab-test-cancel]] (SUB-2) để không trigger churn vào lúc billing; [[offer-and-cta]] (bundle + upsell timing). Onboarding + billing hygiene + cancel-flow = tam giác giữ sub.
-
-## Subscription retention — 4 metric + 2 lever giảm churn (FOR SUBS ONLY)
-> [!warning] Chỉ áp khi MaxPro có dòng subscription
-> MaxPro = tool vật-lý 1 lần mua, **chưa** phải sub brand → mục này để DÀNH cho consumable pet (bit mài thay, balm, supplement) hoặc khi mở sub. Đừng ép sub lên 1 món one-time.
-
-**SUB-1 — 4 metric track ([[maxwellcopy-subscription-4-metrics-track]]):**
-1. **First-order subscription take-rate** — daily-use (AG1) target **70-80%**, not-everyday **~50%**. Sub-first-order LTV **gấp 2** one-time → metric chính để tối ưu (sub-first offer + PDP). NHƯNG track CAC + contribution-margin LTV để chắc payback (first purchase đắt hơn).
-2. **Order-2/4/6 retention** (đo theo *order* không theo subscriber — chỉ tiền thật vào túi): O2 (rebill đầu) **60-70%** · O4 **50%+** · O6 **30-40%**. Drop lớn nhất ở đâu = chỗ focus.
-3. **Billing-reminder cancellations** → §SUB-2.
-4. **Cancellation-flow recovery** target **15-20%+** — đừng để cancel trơn; hỏi lý do + winback timely. **Founder message/video lúc cancel convert hơn mọi automated winback** (cùng tinh thần #6).
-
-## Day-30 rebill = highest churn day — Klaviyo reframe fix ([[maxwellcopy-day30-rebill-klaviyo-reframe]]) ⭐ FOR SUBS
-*"The HIGHEST CHURN day for almost any subscription brand is day 30."* Đây là ngày rebill đầu tiên — khách thấy charge, stomach drops, cancel ngay. Trigger: **default Shopify order confirmation email** — bare, no framing, no value.
-
-**Fix (Shopify Plus brands):**
-1. Tắt default Shopify order confirmation email
-2. Rebuild trong **Klaviyo** với framing khác: vẫn confirm order → nhưng **reaffirm product benefits + remind what subscription includes** + trông như email brand thật (không phải transactional)
-3. Khách vẫn bị charge — nhưng **không rage-cancel** vì context đã đổi
-
-Cơ chế = framing (cùng SUB-2 bên dưới, cùng nguyên lý psych): cách nói đổi outcome, không phải offer. → MaxPro: khi có subscription, đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
-
-**SUB-2 — billing-reminder A/B = −33% cancel ([[maxwellcopy-billing-email-ab-test-cancel]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%**. Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. (Cùng cơ chế psych-of-framing với mystery-discount #1 — cách *nói* đổi outcome, không phải cái offer.)
-
-## SMS — testimonial text + scale data ([[maxwellcopy-sms-4-templates-ecom]])
-maxwellcopy gửi SMS cho hàng chục triệu người: **testimonial qua SMS** thắng vì hiện **ngay cạnh tin nhắn bạn bè/gia đình** → đọc như recommendation, không như ad — context tự thuyết phục hộ. (Post chỉ tiết lộ SMS #4/4; #1-3 không công khai.) Tie [[personas]] social-proof + #4 email-SMS-style ở trên.
-
-### Scale proof — SMS = 77% tổng ([[maxwellcopy-12m-email-sms-30days]])
-**$12.1M** email+SMS / 30 ngày → **$9.4M chỉ từ SMS** (77%). Không phải tỷ lệ bình thường — ở scale lớn, SMS có thể outpace email. (Grain of salt: last-click over-attribute; nhưng hướng rõ.) Hàm ý thực tế: đừng build email list mà bỏ qua SMS song song.
-
-### Welcome flow incremental: +$109K / +12% từ SMS ([[maxwellcopy-sms-welcome-flow-109k]])
-Client email-only welcome flow → $887K. Thêm **SMS welcome series song song** → **+$109K incremental** (+12%). Cơ chế: SMS reach đúng **người không mở email** — khác kênh, khác moment, segment email bỏ sót. *"One of the simplest and easiest lifts you can make to your core flows."* → **MaxPro: priority SMS welcome khi list đủ lớn** — thêm 1-2 SMS touchpoint vào welcome flow Klaviyo hiện tại, không cần build riêng.
+## Subscription retention → trang riêng
+Cụm FOR-SUBS (21-day onboarding 2-phase với SMS D0/D3/D7 · 5 nguyên tắc onboarding · 4 metric SUB-1 · Day-30 rebill fix + billing-A/B −33% cancel · brand teardown 13 điểm · 10 driver LTV) đã tách sang **[[subscription-retention]]** (2026-07-03). Chỉ áp khi MaxPro mở dòng consumable/sub; 3 driver dùng được ngay (education / identity / unboxing) — xem bảng cuối trang đó.
 
 ## Headline angle > copy — 4-step framework ([[maxwellcopy-email-headline-angle-framework]])
 **Unwritten rule:** đổi headline angle, giữ nguyên body → double/triple revenue. Người không đọc copy — nhưng angle đúng tạo buying intent. Framework tìm "banger angle":
@@ -133,40 +66,14 @@ Insight cao độ nghịch-lý (từ $250M+ ecom email marketing):
 - **Highest lever = offer, không copy.** Test percent-off vs dollar-off vs free gift → có thể double conversion; copy tweak thì không.
 - **RPR > open rate.** Apple inflates open rate → revenue per recipient là số duy nhất chứng minh campaign work thật. Tie [[maxwellcopy-12m-email-sms-30days]] (attribution discipline).
 - **Abandonment flow: split by cart value.** Cart nhỏ = reminder; cart lớn có thể cần discount (bảo vệ margin theo threshold).
-- **Replenishment email: theo rebuy cycle thật, không "day 30" round.** Gửi khi người ta thực sự rebuy — đa số brand đang đoán.
+- **Replenishment email: theo rebuy cycle thật, không "day 30" round.** Gửi khi người ta thực sự rebuy — đa số brand đang đoán. (Sub context → [[subscription-retention]] driver 7.)
 - **AI tốt nhất trong retention = VOC mining.** Đào review + support ticket lấy exact language khách dùng, không phải "viết email". Tie [[creative-brief]] (VOC-mining prompt).
 
 ## Popup personalization at scale — Prism AI ([[maxwellcopy-prism-ai-popup-personalization]])
 Popup đọc context visitor (first-visit / returning / gender / segment) → rebuild nội dung tương ứng → machine học cái nào convert → serve nhiều hơn. Sofa Club (ecom): **+21% email signups, +15% SMS, +17% attributed orders** từ cùng 1 popup vị trí. Cơ chế tương tự quiz funnel ([[quiz-funnels]]) — personalization tăng relevance → conversion. → MaxPro trigger: khi list ~1k+ subscriber, test 2 variant popup (first-visit vs returning customer) trước khi đầu tư AI. Khởi đầu bằng Klaviyo conditional block hoặc Privy segment-based display.
 
-## Agency red-flags (ops-discipline khi thuê ngoài) — 21 điểm
-[[maxwellcopy-agency-red-flags-list]]: không phải email-tactic mà là checklist **chọn/giám sát agency** (email/ads) — hữu ích cho Huy nếu sau này thuê. Cờ đỏ đáng nhớ nhất: **không bao giờ báo tin xấu** (luôn có vấn đề; chỉ tin tốt = không để ý hoặc giấu) · người liên hệ ≠ người làm strategy · đồng ý mọi thứ bạn nói · chỉ nhìn metric in-platform (Klaviyo rev) thay vì KPI store · báo cáo số nhưng **0 insight** · không quick-win tuần đầu · khoá hợp đồng 6-12 tháng · guarantee to lúc sale · dùng attribution-setting riêng của họ. → dùng làm bộ lọc ngược khi nghe agency pitch.
-
-## Subscription brand operational reality — teardown 13 điểm ([[maxwellcopy-subscription-brand-teardown]])
-> [!warning] Chỉ liên quan khi MaxPro mở dòng subscription consumable
-> Reinforces warning callout ở trên: subscription brand "trông cute cho đến khi bạn nhìn inside."
-
-Pain points hay gặp nhất khi audit (maxwellcopy, 250+ brands audited): unprofitable cho đến lần mua thứ 3+, gọi ROAS 0.9x là win, không thể lấy clean cohort data trong 6+ tháng đầu, customer service nightmare từ rebill complaints, temptation grey-hat/black-hat mỗi ngày, 20+ softwares cùng lúc, talent cực khó tìm. *"Most of these brands are LARPing success."* → Đọc kỹ trước khi mở bất kỳ dòng subscription nào; onboarding + billing hygiene (§SUB-1/2 ở trên) phải vào từ ngày 1, không phải sau.
-
-## 10 driver thực sự tăng 6-month LTV — khung tổng ([[maxwellcopy-retention-10-drivers-ltv]])
-> "That doesn't happen from AB testing."
-
-maxwellcopy (250+ sub brands) liệt kê 10 lever thực sự dịch chuyển retention — xếp từ brand-level xuống list-hygiene:
-
-| # | Driver | Ghi chú |
-|---|---|---|
-| 1 | **New product drops / flavors / variants** | "Something to look forward to" — expectation tương lai giữ sub |
-| 2 | **Offers sáng tạo** (không phải % flat) | Tie [[offer-and-cta]] — perceived value > discount depth |
-| 3 | **Onboarding + education đúng cách** | Cực kỳ quan trọng; khách dùng sai → không thấy kết quả → churn. Xem §Subscription onboarding dưới |
-| 4 | **Identity-fit branding** (AG1-style) | Brand trở thành một phần *con người họ* → không cancel vì xấu hổ. Tie [[personas]] voice-signature |
-| 5 | **Billing/order comms tối ưu cancel** | "Unsexy stuff most brands ignore." Tie §SUB-2 (billing A/B −33%) |
-| 6 | **Offer align consumption pattern** | Đừng push gói 90 ngày cho người rebill 30 ngày. Tie §SUB-1 replenishment cycle |
-| 7 | **Replenishment reminder theo data thật** | "Timing > messaging." Chase Dimond: theo rebuy cycle thật, không "day 30" |
-| 8 | **Free gift / incentive mỗi lần mua thêm** | Phần thưởng phải *thực sự tốt* — fake gift = đốt trust |
-| 9 | **Unboxing experience** (Apple-level) | First impression vật lý tạo identity-anchor → tie driver #4 |
-| 10 | **Clean, active email + SMS list** | Hygiene bảo vệ deliverability; tie §Scale proof (SMS = 77%) |
-
-**Điểm cốt:** A/B testing tối ưu margin trên nền đã tốt — nhưng nếu sản phẩm dùng sai, offer không align, onboarding thiếu, list dơ → A/B test chỉ polish cái đang cháy. 10 driver này = nền. → MaxPro: driver 3 (onboarding education "cách dùng đúng để không đau") + driver 4 (identity "pet parent chuyên nghiệp") + driver 9 (unboxing video/photo) là quick-win ngay cả khi chưa có subscription.
+## Agency (thuê / giám sát) → trang riêng
+Red-flags 21 điểm + communication cadence chuẩn → **[[agency-ops]]** (2026-07-03) — ops-discipline khi thuê ngoài, không phải email tactic.
 
 ## Email hero design — 6-step framework ([[maxwellcopy-email-hero-section-framework]])
 75% của design effort nên nằm ở hero section — thứ duy nhất reader thấy trước khi scroll quyết định click hay không.
@@ -179,17 +86,6 @@ maxwellcopy (250+ sub brands) liệt kê 10 lever thực sự dịch chuyển re
 6. **Xoay format hero** — cùng layout headline/body/button mỗi email = feel templated = open rate giảm dần. Variant: image trước → headline phía dưới · testimonial stack phía trên headline · infographic mở đầu · full-bleed image với text overlay. Xoay ít nhất mỗi 3-4 sends.
 
 → MaxPro: hero = ảnh raw paw hoặc "couch grind" + benefit headline reverse-triangle + nút ngay dưới. Rotate: cứ 3 send thứ nhất dùng review stack phía trên headline.
-
-## Agency communication cadence — "good" trông như thế nào ([[maxwellcopy-agency-client-comms-cadence]])
-Bổ sung cho "Agency red-flags" ở trên — đây là cadence tốt, dùng như mức kỳ vọng tối thiểu khi thuê agency (email, ads):
-
-*"When you're a client, literally all you can see is that Slack channel. If there's no messages, the client will be thinking 'is anything actually going on?'"* — maxwellcopy.
-
-**Cadence thực tế (maxwellcopy agency):**
-- **Onboarding:** daily update + weekly call, đôi khi 2 lần/tuần khi di chuyển nhanh.
-- **Post-onboarding ổn định:** Mon automated stats report · Tue manual report từ account manager (tuần trước làm gì, tuần này làm gì, key learnings) · Monthly full breakdown · Quarterly business review + roadmap.
-
-→ Nguyên tắc: proactive > reactive. Nếu agency không tự gửi update thì bạn đang ở trong một red-flag từ danh sách trên (không báo tin, không có insight, chỉ có số).
 
 ## Pre-event deliverability warmup ([[maxwellcopy-email-deliverability-pre-event]])
 maxwellcopy tips (2026-06-30): before a big promotional send (BFCM, product launch, sale), send a **deliberate "smart" email** to prime deliverability first — primes ISP signals (opens, clicks) in the days before → inbox placement improves for the main event. Concept only (tweet teases, no mechanics shared). Standard interpretation: send a high-value, easy-to-engage email 2-3 days before to warm the list → algorithms treat your next send as trusted sender.
@@ -208,4 +104,4 @@ maxwellcopy hot take sau khi audit brand $10M/mo (9-figure): *"most email/sms se
 **Hàm ý MaxPro:** đừng chia nhỏ list sớm. Ưu tiên list growth (list growth 3:1 > unsub trước) + gửi wide với cadence đều. Segment sau khi nền đã vững — không phải lúc mới có 200 subscriber. Tie [[maxwellcopy-sms-welcome-flow-109k]] (SMS welcome = reach người không mở email, không phải segment sâu hơn).
 
 ---
-**Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome series** = +12% incremental (§Welcome flow) → mở khi list ~500+ subscriber; #3/#4 + SMS-testimonial là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription metrics (SUB-1/2) để DÀNH tới khi có dòng consumable. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].
+**Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome +12%** → setup bên [[sms-flows]], mở khi list ~500+ subscriber; #3/#4 là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription (onboarding / metrics / rebill) để DÀNH → [[subscription-retention]]. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].
