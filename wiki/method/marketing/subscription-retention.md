@@ -1,5 +1,5 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy]
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow]
 updated: 2026-07-03
 ---
 
@@ -17,7 +17,7 @@ Subscription brand "trông cute cho đến khi bạn nhìn inside." Pain points 
 1. **First-order subscription take-rate** — daily-use (AG1) target **70-80%**, not-everyday **~50%**. Sub-first-order LTV **gấp 2** one-time → metric chính để tối ưu (sub-first offer + PDP). NHƯNG track CAC + contribution-margin LTV để chắc payback (first purchase đắt hơn).
 2. **Order-2/4/6 retention** (đo theo *order* không theo subscriber — chỉ tiền thật vào túi): O2 (rebill đầu) **60-70%** · O4 **50%+** · O6 **30-40%**. Drop lớn nhất ở đâu = chỗ focus.
 3. **Billing-reminder cancellations** → §Day-30 rebill dưới.
-4. **Cancellation-flow recovery** target **15-20%+** — đừng để cancel trơn; hỏi lý do + winback timely. **Founder message/video lúc cancel convert hơn mọi automated winback** (cùng tinh thần founder plain-text [[email-marketing]] §6).
+4. **Cancellation-flow recovery** target **15-20%+** — đừng để cancel trơn; hỏi lý do + winback timely. **Founder message/video lúc cancel convert hơn mọi automated winback** (cùng tinh thần founder plain-text [[email-marketing]] §6). Case cụ thể ([[maxwellcopy-founder-video-cancel-flow]]): thêm 1 founder video vào cancel splash page → **churn recovery rate TĂNG 3×** (3× target thông thường 15-20%) — chỉ bằng cách "put a face to the name when someone went to cancel." Cơ chế: người đang cancel đang cancel "brand" vô hình; video founder làm họ cancel 1 người thật → threshold tăng vọt.
 
 ## Onboarding sequence — đòn chống churn trước khi xảy ra ([[maxwellcopy-subscription-onboarding-churn]])
 **#1 driver churn:** khách có quá nhiều sản phẩm tồn kho **hoặc** ngừng dùng. **#1 lever giảm churn:** onboarding email/SMS sequence đúng cách. Hầu hết brand đốt 30 ngày đầu push upsell → retention tệ.
@@ -85,3 +85,14 @@ Zach/Hollow, 2 nuance thực chiến:
 | 10 | **Clean, active email + SMS list** | Hygiene bảo vệ deliverability; tie [[sms-flows]] scale proof |
 
 **Điểm cốt:** A/B testing tối ưu margin trên nền đã tốt — nhưng nếu sản phẩm dùng sai, offer không align, onboarding thiếu, list dơ → A/B test chỉ polish cái đang cháy. 10 driver này = nền. → MaxPro: driver 3 (education "cách dùng đúng để không đau") + driver 4 (identity "pet parent chuyên nghiệp") + driver 9 (unboxing video/photo) là quick-win ngay cả khi CHƯA có subscription.
+
+## Founder video placement — 4 điểm trong lifecycle ([[maxwellcopy-founder-video-cancel-flow]])
+*"Everyone's leaning hard into founder-led content on the front end, but almost NOBODY is using it anywhere else."*
+
+Founder video không chỉ cho ads. 4 điểm high-impact trong post-purchase lifecycle:
+1. **Post-purchase upsell** — ngay sau checkout, trước khi khách về trang confirm
+2. **Onboarding thank-you** — email hoặc page sau D1 (tie [[maxwellcopy-subscriber-onboarding-21days]] Phase 1)
+3. **New product launch hype page** — founder explain why this product, build anticipation
+4. **Cancel splash page** ⭐ — quan trọng nhất. Ngay khi click cancel, founder video xuất hiện TRƯỚC form cancel. **Cơ chế 3× recovery:** khách cancel "brand" dễ; khách cancel "người" (founder thật trên camera) khó hơn nhiều — threshold tâm lý tăng vọt.
+
+→ MaxPro (khi mở sub): build founder video 60-90s 1 lần → deploy ở tất cả 4 điểm. ROI cao nhất của cùng 1 asset. Tie [[funnel-and-landing]] §trust-recession (founder presence = trust-builder mạnh nhất) + [[email-marketing]] §6 (founder plain-text cùng tư duy).

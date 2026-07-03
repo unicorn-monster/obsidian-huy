@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts]
-updated: 2026-07-02
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k]
+updated: 2026-07-03
 ---
 
 # Native ads (kênh open-web)
@@ -165,6 +165,16 @@ advertising_jan ($3k/day native): *"Scaling native ads to $3k/day comes down to 
 advertising_jan tracked 11 DTC supplement brands on SimilarWeb → **9 of 11 run native ads**. Key finding: landing pages with **majority native traffic had longer session duration** than Meta-only pages. *"The native audience is much more attentive and WANTS to find out more about your product."*
 
 Mechanically validates the "article-reading mindset" principle at top of this page and explains why advertorial gánh ~70% conversion lift (reader stays, reads, believes). Not just anecdote — behavioral metric from competitive intelligence. Pairs with compounding advertorial evidence ([[advertising-jan-advertorial-100k-300k-impressions]], 4-min avg session = same signal). Industry-level signal: 82% of supplement brands at scale have reached the same conclusion about the channel.
+
+## Iterate từ long-form thắng — 2 format nhanh ([[dtcmidas-native-ad-iterations]])
+Khi đã có 1 long-form advertorial đang chạy tốt, đừng build from scratch — **iterate từ chính asset đó**:
+
+1. **Scrolling text video với voiceover** — lấy winning long-form, làm video scroll text, dùng winning image làm background, thêm voiceover đọc copy. Cost thấp, chuyển format text → video không cần quay mới.
+2. **AI animation story** — turn long-form thành animated story (effort cao hơn nhưng scales tốt). Khớp với format "AI animation" đang ăn spend trên Meta ([[media-buying]] §format 2026).
+
+Nguyên lý: khi copy hit (advertorial đang có 4-min session hoặc 100k+ impression), vấn đề là **format reach** — không phải angle. Hai format này mở thêm inventory (platform reward video khác text) mà giữ nguyên angle thắng. = **creative iteration** không phải creative creation. Tie [[creative-testing]] (isolate 1 variable; đây thay format, giữ copy).
+
+→ **Bằng chứng mới scale Outbrain ([[advertising-jan-outbrain-one-angle-850k]]):** 1 advertorial + **1 angle duy nhất** → **150k → 850k impression/tháng** (~5.7×) trên Outbrain. Xác nhận thêm "1 angle đúng scale xa" — không cần đa dạng angle liên tục; chắc angle trước khi nhân.
 
 ## Verticals native ăn nhất
 Joint pain · sleep · weight · skin · hair · digestive · menopause · hormonal · energy · focus · finance · eye health — **mass pain/desire**. Niche / B2B / hyper-targeted = không hợp (native là kênh mass-market).

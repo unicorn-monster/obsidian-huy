@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy]
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas]
 updated: 2026-07-03
 ---
 
@@ -69,6 +69,27 @@ Xác nhận độc lập: Jan ([[native-ads]]) gọi **continuity advertorial→
 2. Giữ proof cứng ad đã hứa: COA thật, bảng so bioavailability/power, named-expert device, before/after.
 3. Mới button xuống PDP cho scarcity/checkout.
 -> recapture skeptic, claim defensible, PDP vẫn nhanh cho người đã convinced. Liên quan compliance: [[compliance]].
+
+## LP test protocol — Meta ABO ROAS comparison ([[dtcmidas-lp-test-meta-abo-roas]]) ⭐
+DTCMidas: **đừng dùng Intelligems/VWO để quyết winner — chạy test trực tiếp trong Meta**. Lý do: split-test tool chia đều CPM cho 2 page → bỏ qua thực tế là *page khác nhau drive CPM khác nhau*. Một page có thể thua về rev/session nhưng thắng về ROAS vì traffic đến nó rẻ hơn. Xác nhận [[jforjacob-split-test-cpm-hidden-cost]] (split test ẩn CPM shift, winner trên tool là loser thật).
+
+**Protocol ABO ROAS test:**
+1. Lấy winning ads cho page cần test
+2. Spin up **separate ABO testing campaign** (không dùng CBO để tránh Meta auto-allocate)
+3. Ad set A: tất cả winning ads → Page A (control)
+4. Ad set B: cùng winning ads → Page B (variant)
+5. Daily budget BẰNG NHAU cho cả 2 ad set
+6. Duplicate control page sang URL mới → đảm bảo không có traffic lẫn từ chỗ khác
+7. Chạy đủ lâu (ít nhất 1 tuần) → so sánh **revenue thực / spend = ROAS mỗi page**
+8. Significance test: abtestguide.com trước khi kết luận
+
+**Variant page lazy (khi muốn nhanh):** duplicate 1 winning ad set trong live campaign, swap hero section mới, xem nó tự pick up spend không. Ít chính xác nhưng nhanh + hiệu quả về spend.
+
+**2 loại LP cần phân biệt (DTCMidas):**
+- **Main LP** (1/angle/product): hầu hết traffic vào đây, tối ưu liên tục
+- **Variant/congruent LP** (build từ template của main, match winning ad angle): tối ưu congruency cho ad cụ thể — tie §Carry gì (message match) ở dưới
+
+→ MaxPro: khi test presell vs review-domain vs quiz, dùng ABO test thay Intelligems. Pull ROAS/page, không pull CVR bằng split-test tool. Tie [[media-buying]] §split-test-trap (jforjacob).
 
 ## Build page nhanh: clone template thắng
 Nguồn: [[dtcquizbuilder-native-ads-workflow]]. Landing page = **việc quan trọng nhất** (làm trước cả ad). Đừng vẽ lại từ đầu:

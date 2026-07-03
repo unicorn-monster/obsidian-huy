@@ -1,5 +1,5 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats]
 updated: 2026-07-03
 ---
 
@@ -102,6 +102,19 @@ maxwellcopy hot take sau khi audit brand $10M/mo (9-figure): *"most email/sms se
 **Diagnosis:** over-segmentation often = sophistication theater, không phải revenue optimization. Data không quan tâm setup trông clever đến đâu. *"Sometimes the simple, 'retarded' shit is the one that makes them most money."*
 
 **Hàm ý MaxPro:** đừng chia nhỏ list sớm. Ưu tiên list growth (list growth 3:1 > unsub trước) + gửi wide với cadence đều. Segment sau khi nền đã vững — không phải lúc mới có 200 subscriber. Tie [[maxwellcopy-sms-welcome-flow-109k]] (SMS welcome = reach người không mở email, không phải segment sâu hơn).
+
+## Text email 3-format rotation — $1.9M từ $7.3M brand ([[maxwellcopy-3-text-email-formats]])
+Brand apparel $7.3M/tháng, $1.9M từ email — phần lớn là **plain text email**, nhưng KHÔNG chỉ 1 format. Lỗi phổ biến: chọn 1 kiểu text email rồi lặp mãi → fatigue. Luân phiên 3 format:
+
+| Format | Độ dài | Cấu trúc | Dùng cho |
+|---|---|---|---|
+| **Short / SMS-style** | <30 từ, 2 câu + link | — | Restock, flash sale, urgency thuần túy |
+| **Medium** | Trung bình | Short personal intro → tight body (story/case) → 1 CTA | Founder message, personal rec, education intimate |
+| **Long-form DR** | Dài | Story → tension → mỗi dòng kéo vào dòng tiếp | High-AOV product, case phải build the case trước khi ask |
+
+**Nguyên tắc hoạt động (và vì sao khác §4 SMS-style ở trên):** §4 là "email trông như SMS" = *format* visual. 3-format này là về *độ dài + cấu trúc* — đều là plain text, nhưng short/medium/long mang feeling khác nhau trong inbox và phục vụ mục tiêu khác nhau. Không phải 3 cách viết khác; là 3 tình huống khác nhau → chọn đúng format theo job.
+
+→ MaxPro: rotate ngay trên list hiện tại. Short = restock notification / flash sale; Medium = founder "why I built this" + dog story; Long = DR storytelling cho cold-list nurture hoặc win-back. Tie §6 (founder plain-text = dạng "Medium" hoặc "Long").
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome +12%** → setup bên [[sms-flows]], mở khi list ~500+ subscriber; #3/#4 là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription (onboarding / metrics / rebill) để DÀNH → [[subscription-retention]]. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].
