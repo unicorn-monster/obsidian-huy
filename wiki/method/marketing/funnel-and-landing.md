@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack]
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify]
 updated: 2026-07-03
 ---
 
@@ -25,6 +25,27 @@ Nguồn: [[advertising-jan-5-stage-funnel]]. Khung gộp toàn bộ buying-side:
 5. **Upsells** — job duy nhất = tăng AOV → outspend đối thủ ở CPA ([[offer-and-cta]]).
 
 *"Most brands give up on stage 2"* = phần lớn dừng ở advertorial, bỏ presell + upsell = tiền để lại trên bàn.
+
+## Landing page STACK — chạy 1 DANH MỤC page, đừng săn 1 winner ⭐
+Nguồn: [[scalabilityschool-landing-page-stack-diversify]] (Scalability School). **Mục tiêu test landing page KHÔNG phải tìm 1 trang thắng duy nhất** — hệt như bạn không săn 1 ad thắng ([[creative-testing]] §budget-split "bank the winner"). Bạn tìm 1 *rổ* "bangers" và **giữ TẤT CẢ live cùng lúc**. AI làm page gần như free → không còn lý do chỉ nuôi 1 trang. Cùng logic "creative is the new targeting" của [[media-buying]], nhưng áp cho **layer trang đích**: flood page-type thay vì để 1 trang gánh.
+
+**Cơ chế (vì sao stack ăn):** cùng 1 ad đẩy vào MỌI page-type; **Meta deliver ad đó khác nhau tới đúng người resonate với từng loại trang**. 5-reasons-why · quiz · advertorial · comparison · + giữ **PDP** cho người đã xem cả 10 ad, chỉ cần cú chốt "here's the offer, click to buy". Càng nhiều trang live = càng nhiều **shots at goal** = ăn tiền nhất khi chạy **cost controls** ([[media-buying]] §bid-cap). *Đừng test PDP-vs-LP để chọn 1 — cho cả hai live, để Meta phân bổ spend giữa chúng.*
+
+**Bằng chứng (winner XOAY VÒNG → "1 winner cố định" là bẫy):**
+- Brand $300k/30 ngày trải: ~50% cho **2 trang 5-reasons-why khác nhau** + 15-20% cho trang 5-reasons thứ 3 + 1 chunk **advertorial** + 1 **quiz**. 60 ngày trước quiz là **50% account** → giờ tụt hẳn. Trang thắng luân phiên; khoá vào 1 winner = miss tail.
+- Mars Landers: **29 trang có spend / 14 ngày** ($450k · $200k · $150k · $150k · $120k · $100k → tail dài $40-80k). Spread = **vừa scale nhiều hơn vừa efficient hơn** cùng lúc.
+
+**Congruency → Meta thấy "funnel hoàn toàn khác" (lý do AUCTION, không chỉ CVR):** tie ad↔page khớp → Meta *"sees it as a completely different funnel"* → lợi đấu giá. Beauty brand scale spend mà **CPM ĐI XUỐNG** vì ad relevant hơn → Meta "back-tap" thưởng trong auction. = tầng thứ 2 chồng lên congruency ở dưới (§Carry gì) + dynamic-congruence +15-25% CTR ([[presell-pages]] §congruence): congruent không chỉ đỡ bounce, còn **hạ CPM khi scale**.
+
+**Chỗ THẬT SỰ nên test = trong 1 variant, không phải "trang nào thắng":** 5-reasons-why này vs 5-reasons-why kia, hoặc swap headline trên cùng 1 trang. = kỷ luật isolate-one-layer của [[creative-testing]] áp ở cấp *variant*, không dùng để chọn "1 trang trị vì".
+
+**Reasons-why laddering (trục nhân page rẻ nhất):** 5 = table stakes; **6 > 5** ("one more reason why is what makes it great"); *ironically* **7 đang > 5** gần đây; Mars chạy hẳn **10 reasons**. Cùng skeleton listicle [[presell-pages]], chỉ đổi số reason = đẻ variant mới gần như free.
+
+> [!note] Stack ≠ spray 1 ad khắp nơi mãi — bản trưởng thành = cặp ad↔page congruent
+> 1 operator: *"chỉ launch ad nếu có trang congruent để đẩy tới"* (ad weight-loss → page weight-loss) — bớt kiểu "same ad tới nhiều page". Vẫn giữ **top-10-reasons + top-quiz** làm catch-all evergreen. Tức: bắt đầu bằng stack rộng để Meta match, rồi siết dần về cặp ad↔page khớp cho efficiency.
+
+> [!warning] Tension với [[media-buying]] §manual-beats-algorithm
+> Video này = phe **PRO-algorithm** ("let Meta allocate spend between pages"), nghịch với counter-signal jforjacob (*"Meta near-100% failure rate"*, surf-scale tay). Reconcile theo **layer**: để Meta allocate ở **page-level** (matching người→trang = việc Meta thật sự giỏi), nhưng vẫn **surf-scale ở ad-level** (audit ads bị bỏ đói). Khác tầng, không mâu thuẫn.
 
 ## Carry gì (message match)
 Headline page khớp frame ad (KS: "Stop the Silent Deficiency Before You See the Signs" ↔ "silent, too late"). Mechanism + villain-lite giữ ở FAQ.
