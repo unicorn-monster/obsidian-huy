@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad]
-updated: 2026-07-03
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness]
+updated: 2026-07-04
 ---
 
 # Media buying + testing (Meta 2026)
@@ -142,3 +142,53 @@ jforjacob: *"sometimes, for no reason whatsoever you just need to send the budge
 
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].
+
+## Trust collapse + route-around strategy ([[ecomamin-trust-collapse-route-around]]) ⭐
+eCom_Amin (2026-07-04): cold CVR down across the board — không phải lỗi creative, targeting, hay agency. Vấn đề là **cấu trúc**:
+
+Nhiều năm dropshippers dùng fake urgency / auto-billing / hàng không giao / fake social proof → **trained buyers to be sceptical của bất kỳ brand không quen**. Reflex bật trong **2 giây** khi landing trên trang lạ. Sản phẩm tốt đến đâu cũng không cứu được nếu page trông giống 10 thứ đã burn họ trước.
+
+**Fix có 2 phần — không thể làm chỉ 1:**
+
+**Phần 1 — Làm brand trông legit TRƯỚC khi khách thấy ad:**
+- Clean .com (không subdomain, không builder-default template)
+- Founder on camera (face = người thật, không phải operation ẩn danh)
+- Real review volume + specific testimonials (không 5 ★ chung chung)
+- Lifestyle photography không giống supplier listing
+- Comparison page (confidence enough to make the comparison = trust signal)
+
+**Phần 2 — Chạy trên kênh có scepticism reflex thấp hơn:**
+| Kênh | Lý do reflex thấp hơn |
+|---|---|
+| **Google Search** | Khách tìm đến bạn với câu hỏi; ad = câu trả lời |
+| **YouTube** | 8 phút build credibility trước khi ask for anything |
+| **Bing** | Demographic skews older, ít tiếp xúc blackhat wave |
+| **Reddit** | Context làm pitch ít giống pitch |
+| **Pinterest** | Visual discovery mode, không intent block |
+
+> *"The brands printing right now aren't fighting the trust collapse. They're routing around it."*
+
+**Hàm ý chiến lược:**
+- CVR thấp ≠ creative tệ; có thể là trust debt từ market trước bạn. Chẩn đoán đúng trước khi đổ tiền vào ad mới.
+- Phần 1 (brand legitimacy) phải làm trước mọi channel — bất kỳ kênh nào cũng benefit. Tie [[funnel-and-landing]] §proof-evaporation + [[personas]] voice-signature (founder presence = trust anchor).
+- Phần 2 là channel diversification, không phải abandon Meta — Meta vẫn là test-bed rẻ nhất để tìm angle ([[media-buying]] thesis cũ). Nhưng khi scale, route more volume qua search-intent + YouTube nơi trust environment tốt hơn. Tie [[google-ads]] (demand-capture vs demand-gen).
+- **MaxPro ngay bây giờ:** audit checklist Phần 1 — .com sạch? Founder on video? Reviews specific? Lifestyle photo không supplier? So sánh page có chưa? Làm xong mới tối ưu ad-level.
+
+## $100k/day scaling — fundamentals proven, gap là budget boldness ([[jforjacob-100k-day-budget-boldness]])
+jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pretty easy for anyone with half decent ads and a ok product."*
+
+**Luận điểm:** nếu bạn đã hit $100k/tháng, bạn đã PROVE:
+- Customers tồn tại
+- Bạn acquire họ efficiently
+- Website + ads convert
+
+→ Gap giữa $100k/tháng và $100k/ngày **không phải tactic mới** — là **Meta delivery efficiency** + **budget boldness**:
+*"I genuinely believe the main thing is just having the balls to do it. I've fundamentally changed my business from simply saying 'fuck it' and upping the budgets, even when the numbers didn't really justify me doing it."*
+
+**Reconcile với [[media-buying]] thesis cũ:**
+- Không mâu thuẫn với manual intervention (§Algorithm trust decay) hay surf scaling (§Record-month) — những kỹ thuật đó vẫn đúng khi upping budget.
+- Điểm jforjacob thêm: **rào cản tâm lý thường lớn hơn rào cản kỹ thuật** khi đã prove fundamentals. Operator sợ tăng budget vì "chưa chắc" → miss cơ hội Meta delivery scale tự nhiên khi có đủ data/pixel/proof.
+- Không áp dụng khi fundamentals chưa proven (CVR thấp, CPA không ổn định, pixel còn mù). Phải earn the right to scale (tie §Bid cap "ko spend" trên account mới).
+
+> [!note] MaxPro hiện tại
+> Còn xa $100k/tháng → bài học **chưa** áp dụng trực tiếp về budget. Nhưng insight đúng ngay: khi fundamentals proven (CPA ổn định, CVR confirm, pixel seasoned), đừng để sợ hãi là lý do không scale. Tập trung prove fundamentals trước.

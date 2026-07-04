@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow]
-updated: 2026-07-03
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value]
+updated: 2026-07-04
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -96,3 +96,20 @@ Founder video không chỉ cho ads. 4 điểm high-impact trong post-purchase li
 4. **Cancel splash page** ⭐ — quan trọng nhất. Ngay khi click cancel, founder video xuất hiện TRƯỚC form cancel. **Cơ chế 3× recovery:** khách cancel "brand" dễ; khách cancel "người" (founder thật trên camera) khó hơn nhiều — threshold tâm lý tăng vọt.
 
 → MaxPro (khi mở sub): build founder video 60-90s 1 lần → deploy ở tất cả 4 điểm. ROI cao nhất của cùng 1 asset. Tie [[funnel-and-landing]] §trust-recession (founder presence = trust-builder mạnh nhất) + [[email-marketing]] §6 (founder plain-text cùng tư duy).
+
+## 2026 market shift: AI commoditizes execution → depth wins ([[maxwellcopy-ai-shifts-retention-value]])
+maxwellcopy (Well Copy, 70+ người, một trong những retention agency lớn nhất 2025): *"AI made pure execution way less valuable."*
+
+**Hệ quả cho agency landscape:**
+- Email/SMS execution (viết, gửi, setup flow) → AI làm được → không còn là differentiator đủ mạnh.
+- Agency sống được 2026: expanded depth vào **"true retention management"** — không chỉ Klaviyo email/SMS mà phủ toàn bộ Shopify + subscription platform (Recharge, Skio, Stay…).
+- Differentiator thật: **data độc quyền + expertise không-ai-có** ("providing a data and service that no one else can provide").
+
+**Hàm ý khi thuê agency (tie [[agency-ops]]):**
+Red flag mới 2026: agency chỉ pitch execution volume (số email, số flow, số A/B test) mà không nói gì về retention strategy, subscription health, hoặc Shopify-level insight. Pure execution agencies đang bị AI ép margin → pressure chuyển sang khách hàng qua volume-pricing mà không thêm value thật.
+
+**Hàm ý khi scale brand:**
+Cùng nguyên lý với bootstrap-vs-funded ([[media-buying]] §bootstrapped edge): lúc execution rẻ hóa, **craft + depth + insight = moat thật** — đây là chỗ bạn compete không cần budget to.
+
+> [!note] Cho MaxPro hiện tại
+> Grinder chưa phải sub brand. Nhưng tín hiệu này đúng ngay bây giờ: **đừng thuê agency pitch "we handle your email flows"** — cái đó AI làm được rẻ hơn. Khi đủ revenue mở sub/consumable: tìm agency hiểu retention health + biết đọc Shopify cohort data, không chỉ Klaviyo dashboard.
