@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence]
-updated: 2026-07-03
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure]
+updated: 2026-07-05
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -18,3 +18,13 @@ Cờ đỏ đáng nhớ nhất: **không bao giờ báo tin xấu** (luôn có v
 - **Post-onboarding ổn định:** Mon automated stats report · Tue manual report từ account manager (tuần trước làm gì, tuần này làm gì, key learnings) · Monthly full breakdown · Quarterly business review + roadmap.
 
 → Nguyên tắc: **proactive > reactive**. Agency không tự gửi update = đang ở trong 1 red-flag từ danh sách trên (không báo tin, không insight, chỉ có số). Cadence này = mức kỳ vọng TỐI THIỂU ghi vào hợp đồng/kickoff.
+
+## Pod structure — cách scale agency giữ service quality ([[maxwellcopy-agency-pod-structure]])
+maxwellcopy (2026-07-05), tự chạy email agency: cập nhật structure sau 1 năm — cùng pod-model, chỉnh lại để **tăng depth thay vì tăng headcount**:
+
+- **4-6 client/pod** (giảm từ 7-8) — tăng giá để margin cover ít client hơn → mỗi client nhận nhiều strategy + touchpoint hơn.
+- **Senior AM (division owner) = 3 pods max** (giảm từ 4) — balance giữa service quality và margin.
+- **Director of Service** (mới thêm) — giữ standard + keep leveling up quality, cùng Director of Ops co-oversee các seniors.
+- Hướng đi tiếp: tiếp tục raise prices để pod xuống còn **3-4 client** = highest-touch model.
+
+**Takeaway cho người thuê agency:** pod-ratio là proxy tốt cho service depth. Hỏi agency *"bao nhiêu client mỗi AM?"* — nếu > 6 là red-flag service bandwidth. Structure trên cũng là blueprint nếu Huy mở dịch vụ marketing sau này.
