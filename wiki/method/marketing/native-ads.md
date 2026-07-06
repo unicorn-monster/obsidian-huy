@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial]
-updated: 2026-07-04
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k]
+updated: 2026-07-06
 ---
 
 # Native ads (kênh open-web)
@@ -178,6 +178,13 @@ Nguyên lý: khi copy hit (advertorial đang có 4-min session hoặc 100k+ impr
 
 ## Verticals native ăn nhất
 Joint pain · sleep · weight · skin · hair · digestive · menopause · hormonal · energy · focus · finance · eye health — **mass pain/desire**. Niche / B2B / hyper-targeted = không hợp (native là kênh mass-market).
+
+## Data point mới: 100k → 280k impressions / 2 tháng ([[advertising-jan-advertorial-100k-280k]])
+advertising_jan (2026-07-06): advertorial scale từ **100k → 280k impressions trong 2 tháng**, Jan gọi phần intro là *"textbook copywriting"* — bằng chứng rằng **chất lượng copy của opening hook là driver chính của scale trajectory**.
+
+Pattern khớp với [[advertising-jan-advertorial-100k-300k-impressions]] (100k → 300k cùng khung 2 tháng, 4-min avg session) và [[advertising-jan-native-advertorial-3m-stability]] (1 advertorial bền vững 3M impressions / 3 tháng): copy mạnh = compounding asset. *"Give the intro a read"* = Jan nhấn mạnh **piece 1 (Hook)** và **piece 2 (Problem block)** của advertorial 6-piece là nơi scale bắt đầu hoặc kết thúc.
+
+→ MaxPro (khi tới readiness gate): không cần viết lại toàn bộ advertorial để scale — audit và rewrite **100 từ đầu tiên** trước. Cùng nguyên lý [[advertising-jan-advertorial-rewrite-48h-profitable]] (rewrite đúng 1 section → profitable 48h).
 
 ## "Ugly" creative xác nhận ở scale native ([[advertising-jan-ugly-ads-1m-advertorial]]) ⭐
 advertising_jan (2026-07-04): advertorial đang chạy **1.6M impressions/tháng** với 5 best-performing creative đều là **super "ugly" — và đó là mục tiêu**.

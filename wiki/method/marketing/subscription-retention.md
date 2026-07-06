@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value]
-updated: 2026-07-04
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock]
+updated: 2026-07-06
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -96,6 +96,28 @@ Founder video không chỉ cho ads. 4 điểm high-impact trong post-purchase li
 4. **Cancel splash page** ⭐ — quan trọng nhất. Ngay khi click cancel, founder video xuất hiện TRƯỚC form cancel. **Cơ chế 3× recovery:** khách cancel "brand" dễ; khách cancel "người" (founder thật trên camera) khó hơn nhiều — threshold tâm lý tăng vọt.
 
 → MaxPro (khi mở sub): build founder video 60-90s 1 lần → deploy ở tất cả 4 điểm. ROI cao nhất của cùng 1 asset. Tie [[funnel-and-landing]] §trust-recession (founder presence = trust-builder mạnh nhất) + [[email-marketing]] §6 (founder plain-text cùng tư duy).
+
+## Survey → habit discovery → LTV unlock ([[maxwellcopy-creatine-survey-ltv-unlock]]) ⭐
+maxwellcopy: *"The biggest LTV unlocks come from literally ASKING YOUR CUSTOMERS instead of guessing what they want."*
+
+**Case creatine brand:** churn cao vì khách không dùng hàng ngày → không thấy kết quả → hủy sub. Không đoán nguyên nhân — **chạy 3-câu survey:**
+1. What results are you seeing?
+2. How long did it take and how happy are you?
+3. **How do you actually take the product every day?**
+
+Kết quả khi plug vào customer data: khách uống creatine **cùng cà phê sáng** có LTV **50%+ cao hơn** phần còn lại. Logic rõ ràng: coffee = daily habit đã có → creatine bám vào habit đó → dùng đều → thấy kết quả → không cancel.
+
+**Toàn bộ front-end message đổi thành 1 câu: *"Put creatine in your coffee."*** Từ survey → insight → messaging change, dùng Claude để parse data.
+
+**Framework tổng quát (transfer về bất kỳ sản phẩm nào):**
+1. **Survey 3 câu:** results seen · time to results · **HOW they actually use it** (câu 3 quan trọng nhất — câu 1-2 là satisfaction, câu 3 là habit signal).
+2. **Correlate habit với LTV/retention** trong cohort data — tìm *"users who do X have LTV Y% higher"*.
+3. **Make X = front-end message** — không sell product features, sell the habit that drives retention.
+
+> [!note] Cho MaxPro (non-sub, nhưng nguyên lý vẫn dùng)
+> MaxPro = tool vật lý, không sub. Nhưng câu 3 ("how do you actually use it?") áp thẳng: khách nào dùng grinder khi nào? Sau bath? Xem TV? Trước vet visit? Nếu correlate với review 5★ / repurchase → đó là habit để làm front-end message. "Grind while they dry off." "Sunday afternoon routine." Không cần sub mới dùng methodology này — chỉ cần post-purchase survey + review mining.
+
+Tie driver #3 (onboarding + education đúng cách = habit building) trong §10 driver LTV ở trên. Survey là công cụ đơn giản nhất để **tìm habit nào cần build vào onboarding** — không đoán.
 
 ## 2026 market shift: AI commoditizes execution → depth wins ([[maxwellcopy-ai-shifts-retention-value]])
 maxwellcopy (Well Copy, 70+ người, một trong những retention agency lớn nhất 2025): *"AI made pure execution way less valuable."*

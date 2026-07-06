@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness]
-updated: 2026-07-04
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure]
+updated: 2026-07-06
 ---
 
 # Media buying + testing (Meta 2026)
@@ -173,6 +173,28 @@ Nhiều năm dropshippers dùng fake urgency / auto-billing / hàng không giao 
 - Phần 1 (brand legitimacy) phải làm trước mọi channel — bất kỳ kênh nào cũng benefit. Tie [[funnel-and-landing]] §proof-evaporation + [[personas]] voice-signature (founder presence = trust anchor).
 - Phần 2 là channel diversification, không phải abandon Meta — Meta vẫn là test-bed rẻ nhất để tìm angle ([[media-buying]] thesis cũ). Nhưng khi scale, route more volume qua search-intent + YouTube nơi trust environment tốt hơn. Tie [[google-ads]] (demand-capture vs demand-gen).
 - **MaxPro ngay bây giờ:** audit checklist Phần 1 — .com sạch? Founder on video? Reviews specific? Lifestyle photo không supplier? So sánh page có chưa? Làm xong mới tối ưu ad-level.
+
+## CBO structure: 1 per product per geo ([[dtcmidas-cbo-per-product-geo-structure]])
+DTCMidas: **1 CBO per product per geo**. 3 sản phẩm × 3 geo = 9 CBOs. Mỗi **creative batch = adset riêng của nó** trong CBO, mỗi adset nhận minimum spend.
+
+Cấu trúc này tách biệt signal theo sản phẩm + thị trường (không cross-pollute data), và dùng CBO làm budget arbiter trong cùng product/geo. Mỗi creative batch test trong adset riêng = isolation layer (đúng nguyên lý [[creative-testing]] isolate-one-layer, nhưng ở budget-allocation level thay vì ad level).
+
+> Khác với nkecom (1 ad set duy nhất khi test): DTCMidas giả định multi-product / multi-geo rồi — nkecom nói về lúc launch 1 product. Không mâu thuẫn: **single product testing → 1 ad set**; khi scale đa sản phẩm → structure này.
+
+## Kill/keep criteria — upper funnel KPIs + topspender exception ([[dtcmidas-ad-kill-criteria-upper-funnel]])
+DTCMidas: quy trình **2-window** để quyết định kill hay giữ ad:
+
+**Window 1 (ngày 3-4):** Đọc **upper funnel KPIs** — cpatc, hook rate, hold rate.
+- Nếu **cả performance VÀ upper funnel KPIs đều tệ** → **kill**.
+- Nếu chỉ 1 trong 2 tệ → tiếp tục theo dõi.
+
+**Window 2 (ngày 7):** Nếu đã không kill ở W1 → đánh giá lại performance tổng thể.
+
+**Topspender exception:** Nếu ad là **topspender** trong account — tần suất/CPM thấp, campaign overall perform tốt — nhưng in-platform ROAS/CAC của adset đó tệ → **vẫn để chạy**. Logic: topspender với CPM thấp = algorithm đang phân phối hiệu quả; in-platform attribution của adset đó có thể không capture hết. Đừng kill dựa trên adset-level ROAS đơn lẻ khi context account rộng hơn đang tốt.
+
+Bổ sung cho §CBO active-ad pruning (tắt ads trên CPA target) và §Decision matrix ngày 1 (ATC-based). Cả 3 dùng cùng lúc: ngày 1 đọc ATC (demand signal), ngày 3-4 đọc upper funnel KPIs (engagement quality), ngày 7 final verdict. Topspender exception = layer thứ 4 — context từ account level override adset-level metric.
+
+→ MaxPro: khi đủ data để identify topspender (ad ăn nhiều spend nhất với CPM thấp), đừng kill dựa trên ROAS adset đơn lẻ — pull account-level performance trước.
 
 ## $100k/day scaling — fundamentals proven, gap là budget boldness ([[jforjacob-100k-day-budget-boldness]])
 jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pretty easy for anyone with half decent ads and a ok product."*

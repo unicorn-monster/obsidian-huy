@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required]
-updated: 2026-07-01
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems]
+updated: 2026-07-06
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -138,3 +138,15 @@ Quy trình cụ thể (4 bước, chạy TRƯỚC khi viết):
 3. Tìm cụm mô tả CẢM GIÁC sản phẩm mang lại (không phải feature).
 4. Tìm KHOẢNH KHẮC cụ thể (mặc lúc nào, mua cho ai) — nguồn cho identity statement, không chỉ hook.
 → Build hook + body + **identity statement** trực tiếp từ chữ nguyên văn bước 2-4, đừng "khôn lỏi" viết lại cho hay hơn. Củng cố trực tiếp rule #3 ở trên và [[f3dericobartoli-voc-review-mining-prompt]] — thêm lát cắt "identity statement" (câu định danh "tôi là người dùng sản phẩm này") mà VOC report chưa tách riêng thành mục.
+
+## AI cho copy: đã tới trần — ít AI hơn ở copy, nhiều AI hơn ở systems ([[maxwellcopy-ai-copy-vs-systems]])
+maxwellcopy (Well Copy, 70+ người, agency lớn): *"AI has officially hit a plateau."* Họ đang **giảm** dùng AI cho copy — copywriter giỏi nhất mất nhiều thời gian hơn để edit AI output so với viết từ đầu. Quan trọng hơn: *"the second somebody senses AI in your copy… alarm bells go off and you lose all chance of converting."* AI copy = non-genuine + lazy signal với reader.
+
+Ngược lại, AI usage cho **systems + analytics** tăng mạnh: họ build analytics tool riêng bằng AI → differentiator thật. *"Less AI copy… more AI systems."*
+
+**Hàm ý thực tế (2026):**
+- **Đừng dùng AI để viết copy** — dùng AI để **draft** (nguồn ý thô), nhưng final copy = copywriter viết, không phải edit AI output. Không ngược lại.
+- **AI systems = moat mới:** analytics, testing infrastructure, reporting, brief automation — đây là chỗ AI tạo leverage thật không bị reader nhận ra.
+- ⚠️ **Mâu thuẫn với volume-thesis:** 0xROAS / flood-50-ads đều giả định AI copy đủ tốt để test. maxwellcopy là counter-signal từ agency-level data. Reconcile: **AI copy đủ cho volume test** (chỉ cần pass hook scan), nhưng **angle thắng rồi → human-craft** final version để convert cold traffic. Test bằng AI volume, close bằng human copy.
+
+→ MaxPro: khi test angle/hook ở R1 ([[creative-testing]]) — AI copy OK. Khi scale winner dài hạn (advertorial, VSL, long-form native) → viết tay hoặc edit nặng, không phụ thuộc AI output thô.
