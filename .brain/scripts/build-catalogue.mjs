@@ -10,7 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { VAULT, CATALOGUE, TOPIC_MAP, parseFrontmatter, tokenize, fold } from './lib.mjs';
 
-const SCAN_DIRS = ['wiki', 'sources', 'projects', 'briefs'];
+const SCAN_DIRS = ['wiki', 'sources', 'briefs']; // archive/ KHÔNG index — brain thuần memory
 
 function* walk(dir) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -23,11 +23,12 @@ function* walk(dir) {
 
 function axisOf(rel, fm) {
   if (rel.startsWith('wiki/method/meta/')) return 'wiki-meta';
-  if (rel.startsWith('wiki/method/')) return 'wiki-method';
+  if (rel.startsWith('wiki/method/business/')) return 'wiki-business';
+  if (rel.startsWith('wiki/method/personal/')) return 'wiki-personal';
+  if (rel.startsWith('wiki/method/')) return 'wiki-method'; // marketing + domain sau
   if (rel.startsWith('wiki/products/')) return 'wiki-product';
   if (rel.startsWith('wiki/')) return 'wiki';
   if (rel.startsWith('sources/')) return `source-${fm.type || 'clip'}`;
-  if (rel.startsWith('projects/')) return 'project';
   if (rel.startsWith('briefs/')) return 'brief';
   return 'other';
 }

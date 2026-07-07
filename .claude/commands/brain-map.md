@@ -1,14 +1,16 @@
 ---
-description: Regenerate + mở visual brain map (orbit graph từ wikilink thật)
+description: Mở visual brain map 4 vòng (live server hoặc snapshot tĩnh)
 ---
-Regenerate bản đồ não rồi mở trong browser:
+Brain map 4 vòng: APPLICATIONS → ROUTINES → MEMORY (6 khu: MARKETING/PRODUCT/BUSINESS/PERSONAL/META/BRIEFS) → SKILLS → CLAUDE.md ở tâm. Edge = wikilink thật; sources tự phân khu theo trang wiki link tới nó nhiều nhất.
 
+**Mặc định — live mode** (real-time, vault đổi là map đổi <1s):
+- Dùng preview tool: `preview_start` với config `brain-map-live` (.claude/launch.json, port 4321), rồi `open http://localhost:4321`.
+- Hoặc chạy tay: `node /Users/quanghuy/Obsidian/brain/.brain/server/serve.mjs`
+
+**Snapshot tĩnh** (user nói "static" / không cần server):
 ```bash
 node /Users/quanghuy/Obsidian/brain/.brain/scripts/build-graph-html.mjs && open /Users/quanghuy/Obsidian/brain/.brain/brain-map.html
 ```
 
-- Cần **Obsidian đang mở vault `brain`** (script đọc `app.metadataCache.resolvedLinks` qua CLI). Lỗi "Không đọc được metadataCache" → bảo user mở Obsidian rồi chạy lại.
-- Map là snapshot tĩnh: CLAUDE.md ở tâm, cluster màu theo trục (wiki·method cam, wiki·products tím, sources theo type, projects vàng, briefs xám), size node = backlink, edge = wikilink thật.
-- Sau khi mở: báo user số nodes/links + node hub lớn nhất (in-degree cao nhất, đọc từ output script nếu cần thì thêm log).
-
-KHÔNG cần chạy lại khi vault đổi lặt vặt — chỉ regenerate khi user gọi /brain-map.
+- Cần **Obsidian đang mở vault `brain`** (đọc metadataCache qua CLI). Lỗi "Không đọc được metadataCache" → bảo user mở Obsidian; đôi khi transient sau khi move nhiều file — retry 1 lần trước khi hỏi.
+- Sau khi mở: báo số memories/skills/routines/apps từ output.

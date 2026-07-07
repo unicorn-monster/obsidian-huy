@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "maxpro-funnel",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8731", "--directory", "projects/maxpro-top5-review-funnel"],
-      "port": 8731
+      "name": "brain-map-live",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".brain/server/serve.mjs"],
+      "port": 4321
     }
   ]
 }

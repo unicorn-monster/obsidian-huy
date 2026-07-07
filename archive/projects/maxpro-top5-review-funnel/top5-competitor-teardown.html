@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bóc tách chiến thuật "Top 5 Review Ads" — Organics Ocean & Stonehenge</title>
+<style>
+  :root{
+    --bg:#0d0f14; --bg2:#141821; --card:#171c27; --line:#262d3b;
+    --tx:#e7ecf3; --mut:#9aa6b8; --dim:#6b7689;
+    --acc:#ff7a18; --acc2:#ffb347; --grn:#46d39a; --red:#ff5c7a; --blu:#4aa8ff; --pur:#b07cff;
+    --mono:"SF Mono",ui-monospace,Menlo,Consolas,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:linear-gradient(180deg,#0b0d12,#0d0f14 240px);color:var(--tx);font-family:var(--sans);line-height:1.65;font-size:16px}
+  a{color:var(--acc2);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+  header.hero{padding:64px 0 40px;border-bottom:1px solid var(--line)}
+  .kick{font-family:var(--mono);font-size:12.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--acc);margin:0 0 14px}
+  h1{font-size:clamp(28px,4.4vw,46px);line-height:1.1;margin:0 0 16px;font-weight:800;letter-spacing:-.02em}
+  h1 .hl{background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sub{color:var(--mut);font-size:18px;max-width:760px}
+  .meta{margin-top:22px;display:flex;gap:10px;flex-wrap:wrap}
+  .pill{font-family:var(--mono);font-size:12px;color:var(--mut);background:var(--bg2);border:1px solid var(--line);padding:5px 11px;border-radius:999px}
+  nav.toc{position:sticky;top:0;z-index:20;background:rgba(13,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);margin-bottom:8px}
+  nav.toc .wrap{display:flex;gap:6px;flex-wrap:wrap;padding:11px 22px;font-size:13px}
+  nav.toc a{color:var(--mut);padding:5px 10px;border-radius:7px;font-family:var(--mono);font-size:12px}
+  nav.toc a:hover{color:var(--tx);background:var(--bg2);text-decoration:none}
+  section{padding:46px 0;border-bottom:1px solid var(--line)}
+  h2{font-size:27px;margin:0 0 6px;font-weight:750;letter-spacing:-.01em}
+  h2 .n{font-family:var(--mono);color:var(--acc);font-size:16px;margin-right:10px}
+  .lede{color:var(--mut);margin:0 0 26px;font-size:16.5px;max-width:820px}
+  h3{font-size:18.5px;margin:30px 0 10px;font-weight:700}
+  h4{font-size:15px;margin:18px 0 8px;color:var(--acc2);font-weight:700;font-family:var(--mono);letter-spacing:.02em}
+  p{margin:0 0 14px;color:#d3dae6}
+  strong{color:#fff}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media(max-width:760px){.grid2,.grid3{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+  .card.brand1{border-top:3px solid var(--acc)}
+  .card.brand2{border-top:3px solid var(--blu)}
+  .tag{display:inline-block;font-family:var(--mono);font-size:11px;padding:3px 8px;border-radius:6px;background:#22293a;color:var(--mut);border:1px solid var(--line);margin:0 5px 5px 0}
+  .tag.g{background:rgba(70,211,154,.12);color:var(--grn);border-color:rgba(70,211,154,.3)}
+  .tag.o{background:rgba(255,122,24,.13);color:var(--acc2);border-color:rgba(255,122,24,.32)}
+  .tag.r{background:rgba(255,92,122,.12);color:var(--red);border-color:rgba(255,92,122,.3)}
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:14.5px}
+  th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--dim);font-family:var(--mono);font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+  td code,code{font-family:var(--mono);font-size:12.5px;background:#0f1320;border:1px solid var(--line);padding:1.5px 6px;border-radius:5px;color:var(--acc2);word-break:break-all}
+  .bars{margin:8px 0 4px}
+  .bar{display:flex;align-items:center;gap:12px;margin:7px 0;font-size:13.5px}
+  .bar .lbl{flex:0 0 200px;color:var(--mut);font-size:13px}
+  .bar .track{flex:1;height:13px;background:#0f1320;border-radius:7px;overflow:hidden;border:1px solid var(--line)}
+  .bar .fill{height:100%;border-radius:7px;background:linear-gradient(90deg,var(--acc),var(--acc2))}
+  .bar .fill.b{background:linear-gradient(90deg,#2b6fb3,var(--blu))}
+  .bar .fill.g{background:linear-gradient(90deg,#2c9c73,var(--grn))}
+  .bar .val{flex:0 0 60px;text-align:right;font-family:var(--mono);font-size:12.5px;color:var(--tx)}
+  .gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;margin-top:18px}
+  .shot{background:var(--bg2);border:1px solid var(--line);border-radius:11px;overflow:hidden;display:block;transition:transform .15s,border-color .15s}
+  .shot:hover{transform:translateY(-3px);border-color:var(--acc);text-decoration:none}
+  .shot img{width:100%;display:block;background:#fff;min-height:90px;object-fit:cover}
+  .shot .cap{padding:9px 11px;font-size:12px;color:var(--mut);display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .shot .days{font-family:var(--mono);font-weight:700;color:var(--acc2)}
+  .shot .days.fresh{color:var(--grn)}
+  .callout{background:linear-gradient(135deg,rgba(255,122,24,.10),rgba(255,122,24,.02));border:1px solid rgba(255,122,24,.28);border-left:3px solid var(--acc);border-radius:11px;padding:16px 18px;margin:18px 0}
+  .callout.b{background:linear-gradient(135deg,rgba(74,168,255,.09),transparent);border-color:rgba(74,168,255,.28);border-left-color:var(--blu)}
+  .callout.w{background:linear-gradient(135deg,rgba(255,92,122,.09),transparent);border-color:rgba(255,92,122,.28);border-left-color:var(--red)}
+  .callout p:last-child{margin-bottom:0}
+  ul.clean{margin:8px 0 14px;padding-left:0;list-style:none}
+  ul.clean li{position:relative;padding:6px 0 6px 26px;color:#d3dae6;border-bottom:1px solid rgba(38,45,59,.5)}
+  ul.clean li:before{content:"›";position:absolute;left:6px;top:6px;color:var(--acc);font-weight:800}
+  ul.clean li:last-child{border-bottom:none}
+  .flow{display:flex;flex-wrap:wrap;align-items:stretch;gap:0;margin:18px 0}
+  .step{flex:1;min-width:150px;background:var(--bg2);border:1px solid var(--line);padding:14px;border-radius:11px;position:relative;margin:6px}
+  .step .s{font-family:var(--mono);font-size:11px;color:var(--acc);font-weight:700}
+  .step h5{margin:6px 0 4px;font-size:14.5px;color:#fff}
+  .step p{font-size:13px;color:var(--mut);margin:0}
+  .arr{display:flex;align-items:center;color:var(--dim);font-size:20px;padding:0 2px}
+  @media(max-width:760px){.arr{display:none}.step{min-width:100%}}
+  .quote{border-left:3px solid var(--acc2);padding:4px 0 4px 16px;margin:12px 0;color:#cfd7e4;font-style:italic;font-size:15px}
+  .num{font-family:var(--mono);font-size:34px;font-weight:800;color:#fff;line-height:1}
+  .num.acc{color:var(--acc2)}.num.b{color:var(--blu)}.num.g{color:var(--grn)}
+  .lab{color:var(--dim);font-size:12.5px;font-family:var(--mono);text-transform:uppercase;letter-spacing:.05em;margin-top:6px}
+  .pb{font-family:var(--mono);font-size:12px;color:var(--acc);font-weight:700}
+  footer{padding:40px 0 70px;color:var(--dim);font-size:13.5px}
+  .check li:before{content:"☐";color:var(--grn);font-size:15px}
+  .two-col{columns:2;column-gap:28px}
+  @media(max-width:760px){.two-col{columns:1}}
+</style>
+</head>
+<body>
+
+<header class="hero"><div class="wrap">
+  <p class="kick">Competitive Ad Intelligence · Dossier</p>
+  <h1>Bóc tách chiến thuật <span class="hl">"Top 5 Review Ads"</span><br>Organics Ocean &amp; Stonehenge Health</h1>
+  <p class="sub">Phân tích đầy đủ 2 case study đang chạy: loại ads, kênh, tài khoản, creative thật, cấu trúc funnel, bảng so sánh — và playbook để clone vào campaign Top 5 của bạn.</p>
+  <div class="meta">
+    <span class="pill">📅 23/06/2026</span>
+    <span class="pill">🔍 Nguồn: Google Ads Transparency + SimilarWeb + landing pages</span>
+    <span class="pill">🎯 top5-choices.com · reviewscout.org</span>
+  </div>
+</div></header>
+
+<nav class="toc"><div class="wrap">
+  <a href="#tldr">01 · TL;DR</a>
+  <a href="#doithu">02 · 2 đối thủ</a>
+  <a href="#kenh">03 · Kênh &amp; budget</a>
+  <a href="#account">04 · Tài khoản ads</a>
+  <a href="#creative">05 · Creative thật</a>
+  <a href="#funnel">06 · Mổ xẻ funnel</a>
+  <a href="#bang">07 · Chiêu bảng so sánh</a>
+  <a href="#assets">08 · Headline/KW/Tracking</a>
+  <a href="#playbook">09 · Playbook clone</a>
+  <a href="#nguon">10 · Nguồn &amp; giới hạn</a>
+</div></nav>
+
+<main class="wrap">
+
+<!-- 01 -->
+<section id="tldr">
+  <h2><span class="n">01</span>TL;DR — Cốt lõi chiến thuật</h2>
+  <p class="lede">Cả hai KHÔNG phải trang review độc lập. Đây là mô hình <strong>"advertorial review tự sở hữu"</strong>: hãng tự dựng trang "Top 5" rồi tự xếp sản phẩm của mình hạng #1 — rồi đổ traffic rẻ từ Google Display/Demand Gen/YouTube vào để hâm nóng khách lạnh trước khi bán.</p>
+
+  <div class="callout">
+    <p><strong>Phát hiện lớn nhất:</strong> top5-choices.com do chính <strong>Organics Ocean (under "Rain Media")</strong> sở hữu — vừa làm chủ trang "review", vừa làm chủ sản phẩm #1. reviewscout.org cũng vậy: do <strong>Hi-Altitude Brands</strong> (hãng Stonehenge Health) sở hữu &amp; vận hành. "Top 5 khách quan" thực chất là một cỗ máy bán hàng đội lốt review.</p>
+  </div>
+
+  <div class="grid3" style="margin-top:8px">
+    <div class="card"><div class="num acc">929</div><div class="lab">ngày — control chạy lâu nhất của Organics Ocean (từ 12/2023). Funnel evergreen siêu ổn định.</div></div>
+    <div class="card"><div class="num b">~$35k<span style="font-size:15px">/th</span></div><div class="lab">chi cho Google <strong>Search (RSA)</strong> trên top5-choices.com — 3,233 paid keyword (SpyFu). Search là kênh #1.</div></div>
+    <div class="card"><div class="num g">~15</div><div class="lab">creative mới drop cùng 1 ngày (29/05/2026) — test theo batch, always-on.</div></div>
+  </div>
+
+  <h3>Chuỗi 7 mắt xích của mô hình</h3>
+  <ul class="clean">
+    <li><strong>Sở hữu trang review</strong> → tự dàn bảng Top 5 để sản phẩm mình luôn A+ / 9.8.</li>
+    <li><strong>Traffic rẻ</strong> qua Google Display + Demand Gen + YouTube (né đấu giá search đắt đỏ).</li>
+    <li><strong>Advertorial</strong> giả khách quan + authority (Harvard/PubMed) + nỗi sợ ("magie Trung Quốc nhiễm chì") để hâm nóng khách lạnh.</li>
+    <li><strong>Bảng so sánh</strong> với tiêu chí cố tình chọn có lợi cho mình → đối thủ ăn B/C.</li>
+    <li><strong>Coupon + bảo hành 90 ngày + Subscribe &amp; Save</strong> → chốt đơn &amp; tăng LTV.</li>
+    <li><strong>Control evergreen</strong> chạy 2–2.5 năm + liên tục test creative mới theo lô.</li>
+    <li><strong>Tài khoản ads núp dưới LLC/agency</strong>; tracking refdomain + click-ID để đo lường, và <em>ăn cả</em> hoa hồng affiliate khi khách bấm sang đối thủ.</li>
+  </ul>
+</section>
+
+<!-- 02 -->
+<section id="doithu">
+  <h2><span class="n">02</span>Hồ sơ 2 đối thủ</h2>
+  <p class="lede">Cùng một playbook, hai hãng khác nhau. Organics Ocean là case mình mổ xẻ được chi tiết nhất (đầy đủ creative + dữ liệu tài khoản); Stonehenge xác nhận chạy y hệt mô hình qua bằng chứng funnel &amp; tracking.</p>
+  <div class="grid2">
+    <div class="card brand1">
+      <h3 style="margin-top:0">🟠 Organics Ocean / Rain Media</h3>
+      <p style="color:var(--mut);font-size:14px">Trang review: <code>top5-choices.com</code></p>
+      <table>
+        <tr><th>Sản phẩm #1</th><td>Pure Magnesium Glycinate ($26/lọ) · Wild Sea Moss ($29/lọ)</td></tr>
+        <tr><th>Ngách</th><td>Magnesium, Sea Moss</td></tr>
+        <tr><th>Tài khoản Google Ads</th><td><code>iScale Consulting LLC</code></td></tr>
+        <tr><th>Advertiser ID</th><td><code>AR11119756125610704897</code></td></tr>
+        <tr><th>Customer ID</th><td><code>8104863738</code></td></tr>
+        <tr><th>Đích đến</th><td><code>offer.organicsocean.com</code></td></tr>
+      </table>
+      <div><span class="tag o">Display</span><span class="tag o">YouTube/Demand Gen</span><span class="tag">Search</span><span class="tag g">40 creative live</span></div>
+    </div>
+    <div class="card brand2">
+      <h3 style="margin-top:0">🔵 Hi-Altitude Brands / Stonehenge Health</h3>
+      <p style="color:var(--mut);font-size:14px">Trang review: <code>reviewscout.org</code></p>
+      <table>
+        <tr><th>Sản phẩm #1</th><td>Stonehenge Health "For Women Menopause Support"</td></tr>
+        <tr><th>Ngách</th><td>Menopause, Probiotics, Cortisol/Stress…</td></tr>
+        <tr><th>Tài khoản Google Ads</th><td><code>hsa_acc = 3985173062</code> (auto-tag HubSpot, <code>hsa_net=adwords</code>)</td></tr>
+        <tr><th>Keyword đã lộ</th><td><code>curcugen</code> (phrase match)</td></tr>
+        <tr><th>Đích đến</th><td><code>stonehengehealth.com</code> → <code>get.stonehengehealth.com/lprsfwms2sub/</code></td></tr>
+        <tr><th>Bằng chứng sở hữu</th><td>Footer: "owned and operated by Hi-Altitude Brands"</td></tr>
+      </table>
+      <div><span class="tag o">Display</span><span class="tag o">YouTube</span><span class="tag">Search</span><span class="tag r">creative inventory: xem §09</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- 03 -->
+<section id="kenh">
+  <h2><span class="n">03</span>Kênh &amp; phân bổ ngân sách</h2>
+  <p class="lede">Marketing Mix từ SimilarWeb (T5/2026). <strong>Search Paid là kênh chính thật sự</strong>: creative đọc được là Responsive Search Ads (có sitelink) và SpyFu xác nhận top5-choices.com chi <strong>~$35.7k/tháng</strong> cho <strong>3,233 paid keyword</strong>. Display/Demand Gen/YouTube là kênh phụ (~15–17%) kiêm kho creative. Chi tiết headline/keyword/tracking ở §08.</p>
+
+  <div class="grid2">
+    <div class="card">
+      <h4>top5-choices.com (magnesium / sea moss)</h4>
+      <div class="bars">
+        <div class="bar"><span class="lbl">Search Paid</span><span class="track"><span class="fill" style="width:81%"></span></span><span class="val">59.1%</span></div>
+        <div class="bar"><span class="lbl">Social Paid</span><span class="track"><span class="fill g" style="width:26%"></span></span><span class="val">19.2%</span></div>
+        <div class="bar"><span class="lbl">Display Ads</span><span class="track"><span class="fill b" style="width:24%"></span></span><span class="val">17.3%</span></div>
+        <div class="bar"><span class="lbl">Social Organic</span><span class="track"><span class="fill" style="width:3%"></span></span><span class="val">1.6%</span></div>
+        <div class="bar"><span class="lbl">Search Organic</span><span class="track"><span class="fill" style="width:2%"></span></span><span class="val">1.0%</span></div>
+      </div>
+    </div>
+    <div class="card">
+      <h4>reviewscout.org (menopause)</h4>
+      <div class="bars">
+        <div class="bar"><span class="lbl">Search Paid</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">72.8%</span></div>
+        <div class="bar"><span class="lbl">Display Ads</span><span class="track"><span class="fill b" style="width:21%"></span></span><span class="val">15.1%</span></div>
+        <div class="bar"><span class="lbl">Social Paid</span><span class="track"><span class="fill g" style="width:10%"></span></span><span class="val">7.4%</span></div>
+        <div class="bar"><span class="lbl">Search Organic</span><span class="track"><span class="fill" style="width:4%"></span></span><span class="val">3.3%</span></div>
+        <div class="bar"><span class="lbl">Direct</span><span class="track"><span class="fill" style="width:1%"></span></span><span class="val">0.6%</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="callout b">
+    <p><strong>Đọc gì từ đây:</strong> ~99% traffic là từ Mỹ, ~100% trả phí, gần như 0% organic/email → đây là <strong>cỗ máy paid-traffic thuần</strong>, không phụ thuộc SEO hay list. Cả 2 đều dồn tiền vào Google (Search + Display + Demand Gen/YouTube). Meta (Social Paid) chỉ là kênh phụ 7–19%.</p>
+  </div>
+</section>
+
+<!-- 04 -->
+<section id="account">
+  <h2><span class="n">04</span>Tài khoản ads &amp; "vũ khí" (Organics Ocean)</h2>
+  <p class="lede">Kéo từ Google Ads Transparency Center cho advertiser <code>iScale Consulting LLC</code>. Bức tranh: một tài khoản trưởng thành, chạy từ 12/2023, có dàn control "trâu bò" sống nhiều năm + liên tục test creative mới theo lô.</p>
+
+  <h3>Tuổi thọ creative = đâu là winner</h3>
+  <p>Trong ads, ad sống càng lâu = càng có lãi (họ không bao giờ tắt ad đang ăn). Đây là vòng đời các creative đang chạy:</p>
+  <div class="bars" style="margin-top:14px">
+    <div class="bar"><span class="lbl">Text/Display — control A</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">929 ng</span></div>
+    <div class="bar"><span class="lbl">Text/Display — control B</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">929 ng</span></div>
+    <div class="bar"><span class="lbl">Display</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="val">842 ng</span></div>
+    <div class="bar"><span class="lbl">Display</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="val">821 ng</span></div>
+    <div class="bar"><span class="lbl">Display</span><span class="track"><span class="fill" style="width:72%"></span></span><span class="val">665 ng</span></div>
+    <div class="bar"><span class="lbl">Display</span><span class="track"><span class="fill" style="width:65%"></span></span><span class="val">607 ng</span></div>
+    <div class="bar"><span class="lbl">Video (YouTube/DemandGen)</span><span class="track"><span class="fill b" style="width:45%"></span></span><span class="val">422 ng</span></div>
+    <div class="bar"><span class="lbl">Video (YouTube/DemandGen)</span><span class="track"><span class="fill b" style="width:28%"></span></span><span class="val">263 ng</span></div>
+    <div class="bar"><span class="lbl">Display — lô test mới (29/05)</span><span class="track"><span class="fill g" style="width:3%"></span></span><span class="val">25 ng</span></div>
+    <div class="bar"><span class="lbl">Video — lô test mới (08/06)</span><span class="track"><span class="fill g" style="width:2%"></span></span><span class="val">16 ng</span></div>
+  </div>
+
+  <div class="grid3" style="margin-top:24px">
+    <div class="card">
+      <h4>Định dạng</h4>
+      <p style="font-size:14px;margin:0">Responsive Display (ảnh + text, nhiều tỉ lệ: 760×438, 730×950 dọc, 696×360…) + Video cho YouTube/Demand Gen. Rất ít search text thuần.</p>
+    </div>
+    <div class="card">
+      <h4>Targeting</h4>
+      <p style="font-size:14px;margin:0"><code>contextual</code> + <code>demographics</code> + <code>geography</code>. Tức nhắm theo ngữ cảnh nội dung + nhân khẩu + vùng — chuẩn Display/Demand Gen, không phải bid keyword.</p>
+    </div>
+    <div class="card">
+      <h4>Nhịp test</h4>
+      <p style="font-size:14px;margin:0">~15 creative mới cùng drop ngày 29/05/2026, rồi 6 video mới ngày 08/06. Always-on, đẩy lô mới đều trong khi giữ control cũ chạy.</p>
+    </div>
+  </div>
+
+  <div class="callout">
+    <p><strong>Bài học rút ra:</strong> tìm winner của bất kỳ ai bằng cách sort creative theo <em>days_shown</em> — ad sống 600–900 ngày chính là control đáng để bạn "vay mượn" góc tiếp cận. Đây là tình báo creative mạnh nhất mà Transparency cho không.</p>
+  </div>
+</section>
+
+<!-- 05 -->
+<section id="creative">
+  <h2><span class="n">05</span>Thư viện creative thật (Organics Ocean)</h2>
+  <p class="lede">Ảnh creative gốc đã render, kéo trực tiếp từ kho ad của Google. Số ngày = tuổi thọ (winner). Bấm vào ảnh để mở trang Google Ads Transparency của từng creative.</p>
+
+  <div class="gal">
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR03736761082417512449?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/6265095583671151032" alt="creative 929 ngày"><span class="cap">Control · Display<span class="days">929 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR02923219234886516737?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/13772348547898901754" alt="creative 929 ngày"><span class="cap">Control · Display<span class="days">929 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR09964296742008520705?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/14758003716512425203" alt="creative 842 ngày"><span class="cap">Display<span class="days">842 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR02722500294859554817?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/7647824918117124137" alt="creative 821 ngày"><span class="cap">Display<span class="days">821 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR15861444756774060033?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/9366065757024293889" alt="creative 666 ngày"><span class="cap">Display<span class="days">666 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR09038113089307803649?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/17823321000577350268" alt="creative 665 ngày"><span class="cap">Display<span class="days">665 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR14155447239580844033?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/4968838188128839236" alt="creative 607 ngày"><span class="cap">Display<span class="days">607 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR06585068889296601089?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/9154962568165724443" alt="creative 590 ngày dọc"><span class="cap">Display dọc 730×950<span class="days">590 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR05067406392407621633?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/2959374656779749782" alt="creative 590 ngày"><span class="cap">Display<span class="days">590 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR02338113658309050369?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/13081878376974508598" alt="creative 197 ngày"><span class="cap">Display<span class="days">197 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR04021712620405915649?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/18220158562732258252" alt="creative mới 25 ngày"><span class="cap">Lô test mới<span class="days fresh">25 ng</span></span></a>
+    <a class="shot" target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897/creative/CR04891001906488410113?region=US"><img loading="lazy" src="https://tpc.googlesyndication.com/archive/simgad/13279480316797931457" alt="creative mới 25 ngày"><span class="cap">Lô test mới<span class="days fresh">25 ng</span></span></a>
+  </div>
+  <p style="margin-top:18px;font-size:13.5px;color:var(--dim)">Xem toàn bộ tài khoản: <a target="_blank" href="https://adstransparency.google.com/advertiser/AR11119756125610704897?region=US">adstransparency.google.com/advertiser/AR11119756125610704897</a> · Nếu ảnh không hiện (Google chặn hotlink), bấm vào ô để mở trực tiếp creative.</p>
+</section>
+
+<!-- 06 -->
+<section id="funnel">
+  <h2><span class="n">06</span>Mổ xẻ funnel (advertorial → đơn hàng)</h2>
+  <p class="lede">Cấu trúc landing page của top5-choices.com — đọc thẳng từ trang magnesium &amp; sea moss. reviewscout.org dùng khuôn y hệt.</p>
+
+  <div class="flow">
+    <div class="step"><div class="s">B1 · HOOK</div><h5>Câu hỏi + lời hứa</h5><p>"Tested top 5 brands… which is best?"</p></div>
+    <div class="arr">→</div>
+    <div class="step"><div class="s">B2 · PAIN/FEAR</div><h5>Khơi nỗi sợ</h5><p>thiếu hụt, độc tố, "đừng tin review Amazon"</p></div>
+    <div class="arr">→</div>
+    <div class="step"><div class="s">B3 · COMPARE</div><h5>Bảng Top 5 dàn xếp</h5><p>tiêu chí thiên vị → mình #1 (A+/9.8)</p></div>
+    <div class="arr">→</div>
+    <div class="step"><div class="s">B4 · OFFER</div><h5>Coupon + bảo hành</h5><p>$26–29/lọ, 90 ngày, Sub &amp; Save</p></div>
+    <div class="arr">→</div>
+    <div class="step"><div class="s">B5 · CTA</div><h5>Sang offer page</h5><p>tracking refdomain + click-ID</p></div>
+  </div>
+
+  <div class="grid2" style="margin-top:8px">
+    <div class="card">
+      <h4>Hook &amp; nỗi đau (magnesium)</h4>
+      <p class="quote">"Magnesium glycinate is popular, but which one is the best for results? We tested the top 5 brands… why most magnesium is toxic, and which brand has 46x's less heavy metals than everyone else."</p>
+      <ul class="clean" style="font-size:14px">
+        <li>"75% người lớn thiếu magie" (dẫn Harvard)</li>
+        <li>"Magie Trung Quốc chứa chì &amp; arsenic"</li>
+        <li>"Đừng tin review Amazon — toàn mua &amp; giả"</li>
+        <li>FOMO: "Sells Out Often"</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h4>Authority &amp; chốt đơn</h4>
+      <ul class="clean" style="font-size:14px">
+        <li>Harvard, PubMed, 10 nguồn trích dẫn</li>
+        <li>"FDA Registered &amp; GMP Certified", "Third Party Lab Tested"</li>
+        <li>"80,000+ người dùng", "4.8★ trung bình"</li>
+        <li>CTA: "CLIP COUPON" / "LEARN MORE" → <code>offer.organicsocean.com</code></li>
+      </ul>
+      <h4 style="margin-top:14px">Tracking đã lộ</h4>
+      <p style="font-size:13px;margin:0"><code>?refdomain=top5choices&amp;cmc_vid=…&amp;cmc_goal=a&amp;cmc_ref=lp-mag</code></p>
+    </div>
+  </div>
+
+  <div class="callout w">
+    <p><strong>Chiêu "ăn cả 2 đầu":</strong> các sản phẩm đối thủ trong bảng được gắn <strong>link affiliate</strong> (Amazon, naturalstacks.com, lumanutrition.com, clinicaleffects.com). Khách không mua hàng họ mà bấm sang đối thủ → họ vẫn ăn hoa hồng. Không có click nào bị lãng phí.</p>
+  </div>
+</section>
+
+<!-- 07 -->
+<section id="bang">
+  <h2><span class="n">07</span>Chiêu "bảng so sánh dàn xếp"</h2>
+  <p class="lede">Đây là trái tim chuyển đổi của format Top 5. Bí quyết: chọn tiêu chí mà CHỈ sản phẩm mình đạt đủ, rồi chấm điểm chữ + số để tạo cảm giác "khoa học".</p>
+
+  <div class="grid2">
+    <div class="card">
+      <h4>Magnesium — 6 cột tiêu chí</h4>
+      <ul class="clean" style="font-size:14px">
+        <li>Magnesium Glycinate Only</li>
+        <li>Third-Party Lab Tested</li>
+        <li><strong>46x's Less Heavy Metals</strong> ← tiêu chí "độc quyền"</li>
+        <li>Magnesium Per Serving</li>
+        <li>90-Day Guarantee</li>
+        <li>Binders &amp; Additives</li>
+      </ul>
+      <p style="font-size:13px;color:var(--mut);margin:0">Chấm: A+ / B / C / C- · #1 = A+</p>
+    </div>
+    <div class="card">
+      <h4>Sea Moss — 6 cột tiêu chí</h4>
+      <ul class="clean" style="font-size:14px">
+        <li>Organic Irish Moss</li>
+        <li>2+ Year Shelf Life</li>
+        <li><strong>Organic Chlorella</strong> ← tiêu chí "độc quyền"</li>
+        <li>Sea Moss Per Serving (mg)</li>
+        <li>90-Day Guarantee</li>
+        <li>GMP + FDA Registered</li>
+      </ul>
+      <p style="font-size:13px;color:var(--mut);margin:0">Chấm: điểm số 9.8/10 + grade chữ · #1 = 9.8</p>
+    </div>
+  </div>
+  <div class="callout">
+    <p><strong>Công thức:</strong> 6 cột check ✓/✗ + 1 cột grade (A+→C-) + 1 điểm số nổi bật (9.8/10). Trong đó <strong>1–2 cột là "bẫy"</strong> mà chỉ công thức của bạn đạt (vd "46x ít kim loại nặng", "có chlorella"). Sản phẩm bạn ✓ hết → A+; đối thủ rớt 2–3 cột bẫy → B/C.</p>
+  </div>
+</section>
+
+<!-- 08 -->
+<section id="assets">
+  <h2><span class="n">08</span>Chiến lược asset: Headline · Long headline · Description · Keyword · Tracking</h2>
+  <p class="lede">Bóc từ creative thật (RSA) + SpyFu. Phân loại đúng theo asset type của Google Ads để bạn dựng campaign Top 5 và copy thẳng được.</p>
+
+  <h3>① Headline — RSA, mỗi mẩu ≤30 ký tự (Google tự trộn 2–3 mẩu)</h3>
+  <p>Cấu trúc 2 mẩu: <strong>[Góc câu khách] + [Best/Top + Product + qualifier]</strong>. 4 nhóm góc đang chạy:</p>
+  <table>
+    <tr><th>Nhóm góc</th><th>Headline thật (verbatim)</th><th>Ngách</th></tr>
+    <tr><td><span class="tag o">"We tested top 5"</span></td><td>We Tested The Top 5 Brands · Best Black Seed Oil of 2025</td><td>Black Seed Oil</td></tr>
+    <tr><td><span class="tag o">"Best [X] of [năm]"</span></td><td>The Best Magnesium Of 2025 · What's The Best Magnesium Type</td><td>Magnesium</td></tr>
+    <tr><td><span class="tag o">"Top 5 + biến thể"</span></td><td>Top 5 Best Sea Moss of 2025 · Best Organic Sea Moss Gel</td><td>Sea Moss</td></tr>
+    <tr><td><span class="tag">Use-case</span></td><td>Top Magnesium for Muscles · Magnesium for Muscle Cramps</td><td>Magnesium</td></tr>
+    <tr><td><span class="tag r">Benefit + Side Effects</span></td><td>Shilajit Benefits For Men · Top Benefits &amp; Side Effects</td><td>Shilajit</td></tr>
+    <tr><td><span class="tag r">Tò mò / nỗi đau</span></td><td>Supplements To Help You Poop · Best Fiber For Weight Loss</td><td>Fiber</td></tr>
+    <tr><td><span class="tag">Đặc tính SP</span></td><td>Best Slippery Elm Capsules · Best Fiber For Constipation</td><td>Fiber</td></tr>
+  </table>
+  <div class="callout"><p style="margin:0"><strong>Cách nạp RSA:</strong> nạp ~10–15 headline trộn 4 nhóm góc trên, Google tự ghép. Luôn có ≥1 headline chứa đúng <em>tên sản phẩm/thành phần</em> để khớp keyword đang bid.</p></div>
+
+  <h3>② Long headline — Demand Gen/Discovery, ≤90 ký tự</h3>
+  <p>Bản dài stack nhiều mệnh đề (hiện khi ad render dạng feed/native). Ví dụ thật (Sea Moss):</p>
+  <p class="quote">"We breakdown everything you need to know about the different types of sea moss available. We tested the top 5 sea moss capsules and gels. Get our top pick w/ exclusive deals now. Avoid These Mistakes. 2025's Top Choices. Best For Results."</p>
+  <p style="font-size:14px;color:var(--mut)">Pattern: <strong>everything you need to know → we tested top 5 → get top pick + exclusive deals → avoid mistakes → [năm]'s top choices → best for results</strong>.</p>
+
+  <h3>③ Description — ≤90 ký tự, 3 mảnh xoay vòng</h3>
+  <table>
+    <tr><th>Mảnh</th><th>Câu thật (verbatim)</th></tr>
+    <tr><td><strong>1 · Cảnh báo / nỗi sợ</strong></td><td>"Never get scammed when shopping for magnesium, again." · "Don't buy cheap shilajit that can't be absorbed." · "Don't buy brands that require 20 capsules daily."</td></tr>
+    <tr><td><strong>2 · Bằng chứng / khách quan</strong></td><td>"Check out this year's comparison chart." · "Watch for these 4 common red flags." · "Avoid These Mistakes."</td></tr>
+    <tr><td><strong>3 · Kết + CTA</strong></td><td>"I ranked the top 5…" · "There is only one winner." · "Get my top pick with exclusive deals now."</td></tr>
+  </table>
+
+  <h3>④ Sitelink / asset phụ</h3>
+  <p style="font-size:14px"><span class="tag">2025's Best Brands</span><span class="tag">Top 4 Mistakes</span><span class="tag">[X] Side Effects</span><span class="tag">Why [X] Doesn't Work</span><span class="tag">Don't Waste Your Money</span><span class="tag">Top 5 [X]</span><span class="tag">The Best [X]</span><span class="tag o">Top 5 Vitamin D Ranked</span><span class="tag o">Top 5 Calcium Brands</span></p>
+  <p style="font-size:13.5px;color:var(--mut)">2 tag cam = sitelink cross-sell sang ngách khác (tận dụng cùng một click).</p>
+
+  <h3>⑤ Keyword targeting + budget (SpyFu · US)</h3>
+  <table>
+    <tr><th>Domain</th><th>Paid KW</th><th>Budget/tháng</th><th>Top keyword</th></tr>
+    <tr><td>top5-choices.com</td><td><strong>3,233</strong></td><td><strong>~$35,756</strong></td><td>magnesium, vitamin d, calcium, iron, vitamin k</td></tr>
+    <tr><td>stonehengehealth.com</td><td>726</td><td>~$35,460</td><td>fish oil, alpha lipoic acid, gastric bypass, stone henge, glp</td></tr>
+    <tr><td>organicsocean.com</td><td>206</td><td>~$1,146</td><td>fiber, black seed oil, olly vitamins, chelated magnesium</td></tr>
+  </table>
+  <ul class="clean">
+    <li><strong>Bid tên thành phần phổ thông</strong> (magnesium, vitamin d, fish oil) — top-funnel rộng, KHÔNG chỉ brand. Match type chính: <code>phrase</code> (vd <code>hsa_mt=p</code>).</li>
+    <li>Long-tail use-case (khớp headline): "magnesium for muscle cramps", "fiber for constipation", "shilajit benefits for men".</li>
+    <li>Phần lớn spend ở <strong>domain advertorial</strong> (top5-choices.com ~$35k) chứ không phải domain brand → advertorial là phễu chính.</li>
+  </ul>
+  <div class="callout b"><p style="margin:0"><strong>🎁 Mạng lưới advertorial cùng mô hình (để swipe):</strong> <code>barefootbasil.com</code> · <code>product-insight.org</code> · <code>absorbmore.com</code> · <code>nutrition-review.com</code> · <code>topcertifiedsupplements.com</code> · <code>magnesium.news</code> · (Stonehenge: <code>mushroomsupplements-guide.com</code>, <code>buygundrymd.com</code>)</p></div>
+
+  <h3>⑥ Tracking &amp; attribution</h3>
+  <div class="grid2">
+    <div class="card brand1">
+      <h4>Organics Ocean — custom "cmc"</h4>
+      <p style="font-size:12.5px;word-break:break-all"><code>offer.organicsocean.com/shopifymagnesium-2b?refdomain=top5choices&amp;cmc_vid=[cmc_vid]&amp;cmc_goal=a&amp;cmc_ref=lp-mag</code></p>
+      <ul class="clean" style="font-size:13.5px">
+        <li><code>refdomain=top5choices</code> → advertorial nào đẩy đơn</li>
+        <li><code>cmc_ref=lp-mag</code> / <code>lp-sea</code> → landing page / ngách nào</li>
+        <li><code>cmc_vid</code> · <code>cmc_goal</code> → visitor-id + goal cho hệ tracking riêng</li>
+      </ul>
+    </div>
+    <div class="card brand2">
+      <h4>Stonehenge — HubSpot auto-tag</h4>
+      <p style="font-size:12.5px;word-break:break-all"><code>stonehengehealth.com/?hsa_acc=3985173062&amp;hsa_kw=curcugen&amp;hsa_mt=p&amp;hsa_net=adwords&amp;hsa_src=g&amp;xtref=www.reviewscout.org&amp;mrasn=…</code></p>
+      <ul class="clean" style="font-size:13.5px">
+        <li><code>hsa_*</code> = HubSpot Ads auto-tag (acc / cam / grp / ad / kw / matchtype)</li>
+        <li><code>xtref=reviewscout.org</code> → gắn advertorial nguồn</li>
+        <li><code>mrasn=…</code> → ID mạng affiliate / sub-affiliate</li>
+        <li>Offer page: <code>get.stonehengehealth.com/lprsfwms2sub/</code> (lp + rs[reviewscout] + fwms + 2sub)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="callout"><p style="margin:0"><strong>Nguyên tắc:</strong> mỗi click mang <em>nguồn advertorial</em> + <em>landing-page/ngách</em> + <em>click-id</em> → quy doanh thu về từng trang Top 5 và từng ad. Offer luôn đặt trên <strong>subdomain riêng</strong> (offer. / get.) tách khỏi advertorial.</p></div>
+</section>
+
+<!-- 09 -->
+<section id="playbook">
+  <h2><span class="n">09</span>Playbook clone cho campaign Top 5 của bạn</h2>
+  <p class="lede">Checklist hành động, rút thẳng từ những gì 2 đối thủ đang làm. Áp dụng theo thứ tự.</p>
+
+  <h3>A · Hạ tầng &amp; trang</h3>
+  <ul class="clean check">
+    <li>Dựng domain advertorial riêng, <strong>tách khỏi brand</strong> (kiểu "top5-…", "reviewscout-…") để giữ vẻ khách quan.</li>
+    <li>Footer ghi rõ <strong>disclosure sở hữu + disclaimer FDA</strong> — đây là cách họ vừa lách luật vừa giữ uy tín (bắt buộc với supplement).</li>
+    <li>Tạo offer page trên subdomain riêng (<code>offer.brand.com</code> / <code>get.brand.com</code>) để gắn coupon + Subscribe &amp; Save.</li>
+  </ul>
+
+  <h3>B · Cấu trúc advertorial (copy)</h3>
+  <ul class="clean check">
+    <li>Hook = câu hỏi + lời hứa: "Đã test 5 loại… loại nào tốt nhất?"</li>
+    <li>Khơi nỗi sợ cụ thể (độc tố, kém hấp thu sau tuổi X, "đừng tin review Amazon").</li>
+    <li>Bảng so sánh 6 cột + grade + điểm số, có <strong>1–2 cột bẫy</strong> chỉ mình đạt.</li>
+    <li>Authority: trích Harvard/PubMed, "GMP/FDA Registered", "Third-Party Tested", số người dùng, ★ trung bình.</li>
+    <li>CTA lặp lại: "CLIP COUPON" / "LEARN MORE" → offer page.</li>
+    <li>Gắn <strong>affiliate link cho đối thủ</strong> trong bảng để vớt hoa hồng.</li>
+  </ul>
+
+  <h3>C · Media buying (Google)</h3>
+  <ul class="clean check">
+    <li>Khởi động bằng <strong>Demand Gen + Display + YouTube</strong> (rẻ hơn search), targeting <em>contextual + demographic + geo</em> — đúng như họ làm.</li>
+    <li>Layer thêm Search trên từ khóa ngách/thành phần (vd kiểu "curcugen") để bắt khách intent cao.</li>
+    <li>Creative: responsive display <strong>nhiều tỉ lệ</strong> (vuông, ngang 760×438, dọc 730×950), look "native/editorial" mô phỏng đúng hook advertorial.</li>
+    <li>Sản xuất &amp; thả <strong>theo lô</strong>, giữ winner chạy dài hạn, cắt loser — không tắt control đang ăn.</li>
+    <li>Làm 3–5 video cho Demand Gen/YouTube ngay từ đầu.</li>
+  </ul>
+
+  <h3>D · Đo lường &amp; offer</h3>
+  <ul class="clean check">
+    <li>Gắn <code>refdomain</code> + click-ID vào mọi link để quy traffic về từng advertorial.</li>
+    <li>Offer: giá "reader coupon" + bảo hành 90 ngày + Subscribe &amp; Save (tăng LTV).</li>
+    <li>Theo dõi đối thủ định kỳ: sort creative theo <em>days_shown</em> trên Transparency để bắt winner mới của họ.</li>
+  </ul>
+
+  <div class="callout">
+    <p><strong>Đòn bẩy nhanh nhất:</strong> bạn đang chạy đúng format này rồi → việc giá trị nhất là (1) copy lại <em>cấu trúc bảng so sánh có cột bẫy</em>, (2) chuyển ngân sách thử sang <em>Demand Gen/Display</em> thay vì chỉ search, và (3) build dàn <em>control evergreen</em> rồi test lô đều như họ.</p>
+  </div>
+</section>
+
+<!-- 10 -->
+<section id="nguon">
+  <h2><span class="n">10</span>Nguồn dữ liệu &amp; giới hạn (minh bạch)</h2>
+  <div class="grid2">
+    <div class="card">
+      <h4>Đã xác minh chắc chắn</h4>
+      <ul class="clean" style="font-size:14px">
+        <li>40 creative Organics Ocean — Google Ads Transparency (advertiser <code>iScale Consulting LLC</code>): format, ngày chạy, surface (Display+YouTube), targeting, ảnh gốc.</li>
+        <li>Cấu trúc funnel + offer + bảng so sánh — đọc trực tiếp landing page magnesium &amp; sea moss.</li>
+        <li>Quyền sở hữu — footer disclosure của cả 2 trang.</li>
+        <li>Stonehenge chạy Google Ads — tracking <code>hsa_acc=3985173062</code>, keyword <code>curcugen</code>, offer page <code>get.stonehengehealth.com</code>.</li>
+        <li>Marketing mix — SimilarWeb (ảnh bạn cung cấp, T5/2026).</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h4>Giới hạn cần biết</h4>
+      <ul class="clean" style="font-size:14px">
+        <li><strong>Inventory creative của Stonehenge chưa kéo được:</strong> search theo domain <code>stonehengehealth.com</code> / <code>reviewscout.org</code> trả 0 (advertiser đăng ký dưới tên pháp nhân khác), và 1 actor khi search theo tên bị fallback nhầm sang advertiser mặc định (Niantic/Pokémon GO) → mình đã loại bỏ dữ liệu nhiễm đó. Mô hình của họ vẫn xác nhận chắc qua funnel + tracking.</li>
+        <li>Số "impression" của Google ở US thường ẩn (0) vì luật riêng tư — nên dùng <em>days_shown</em> làm proxy cho winner.</li>
+        <li>Đã bỏ qua Meta Ad Library theo yêu cầu (tập trung Google).</li>
+      </ul>
+    </div>
+  </div>
+  <p style="margin-top:18px;font-size:13.5px;color:var(--dim)">Muốn đào tiếp: mình có thể (a) thử resolver khác để lấy creative Stonehenge, (b) kéo Meta Ad Library 2 brand, (c) lấy full danh sách keyword qua SpyFu/Semrush-style, hoặc (d) viết sẵn advertorial + bảng so sánh mẫu cho sản phẩm của bạn.</p>
+</section>
+
+</main>
+
+<footer><div class="wrap">
+  Dossier tạo ngày 23/06/2026 · Dữ liệu công khai (Google Ads Transparency Center, SimilarWeb, landing pages) · Mục đích: nghiên cứu cạnh tranh.
+</div></footer>
+
+</body>
+</html>

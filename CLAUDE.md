@@ -18,12 +18,11 @@ Next milestone:
 - `inbox/` = capture thô, chưa xử lý. Rỗng sau /ingest.
 - `sources/` = raw BẤT BIẾN (đọc, không sửa nội dung). property: `type` (domain hoãn tới khi mở mảng 2).
 - `wiki/` = BẠN (Claude) sở hữu + bảo trì. `index.md` là bản đồ. **2 trục:**
-  - `wiki/method/<domain>/` = cách làm, **SOURCE OF TRUTH**, dùng cho mọi sản phẩm (rút từ post X chuyên gia). Domain đang mở: `marketing`. Mở sau: `finance`, `fulfillment`, `sourcing`.
-  - `wiki/method/meta/` = cách vận hành CHÍNH cái vault này (second-brain / AI+Obsidian workflow), KHÔNG phải tactic business. Trục riêng, gom mọi note kiểu "cách dùng/cải tiến vault".
-  - `wiki/products/<slug>/` = sự thật từng sản phẩm (cross-domain), mỗi trang prefix `<slug>-`. Sản phẩm #1: `maxpro` (nail grinder).
-  - **Routing khi /ingest:** cách-làm-lại-được → `method/<domain>/`; fact 1 sản phẩm cụ thể → `products/<slug>/`; cách vận hành vault/AI-workflow → `method/meta/`. Sản phẩm mới = tạo folder + prefix page bằng slug. Domain business mới (finance…) = `method/<domain>/`.
+  - `wiki/method/<domain>/` = cách làm, **SOURCE OF TRUTH**, dùng cho mọi sản phẩm (rút từ post X chuyên gia). Domain đang mở (= 4 khu Memory trên brain-map): **`marketing`** (ads, funnel, creative — khu đậm nhất) · **`business`** (finance, customer support, fulfillment, ops) · **`personal`** (mindset, focus, vận hành bản thân) · **`meta`** (vận hành CHÍNH cái vault / AI-workflow, KHÔNG phải business). Mở sau: `sourcing`.
+  - `wiki/products/<slug>/` = sự thật từng sản phẩm (cross-domain), mỗi trang prefix `<slug>-`. Sản phẩm #1: `maxpro` (nail grinder). = khu PRODUCT trên map.
+  - **Routing khi /ingest:** cách-làm-lại-được → `method/<domain>/` (marketing / business / personal); fact 1 sản phẩm cụ thể → `products/<slug>/`; cách vận hành vault → `method/meta/`. Sản phẩm mới = tạo folder + prefix page bằng slug.
 - `briefs/` = output của bạn (brief + synthesis), có ngày. KHÔNG ingest.
-- `projects/` = việc đang chạy, mỗi campaign/client 1 folder.
+- `archive/` = execution cũ (plans, creative packs, daily logs). KHÔNG index vào brain, KHÔNG ingest. Projects mới = folder code riêng NGOÀI vault — brain thuần lưu trữ + query.
 - `.brain/` = lớp retrieval deterministic (ẩn khỏi Obsidian): `catalogue.tsv` (1 dòng/file toàn vault) + `topic-map.tsv` (heading→trang chủ quản) + scripts. **Brain-first rule: câu hỏi tri thức về vault → chạy `node .brain/scripts/recall.mjs "<câu hỏi>"` TRƯỚC, mở file SAU. KHÔNG grep/đọc lan man.** Semantic fallback (Việt↔Anh): `qmd query`. Ladder đầy đủ: `/ask`.
 
 ## Quy ước (chốt 1 lần)
@@ -35,7 +34,7 @@ Next milestone:
 - `/brief`  : đọc wiki -> 3 mục sáng, lưu briefs/
 - `/synthesis` : tổng hợp tuần, lưu briefs/
 - `/lint`   : dọn wiki — mâu thuẫn / claim cũ / orphan / broken-link (ACTIVE). Broken-link/orphan đọc metadataCache qua `obsidian-cli` skill (chính xác hơn grep), lệnh sẵn trong lint.md.
-- Dashboard `.base` (mở trong Obsidian): `projects.base` (việc ì) · `sources.base` (source theo type, swipe, mồ côi) · `wiki.base` (trang stale >45d 🔴, mồ côi, số nguồn/trang).
+- Dashboard `.base` (mở trong Obsidian): `sources.base` (source theo type, swipe, mồ côi) · `wiki.base` (trang stale >45d 🔴, mồ côi, số nguồn/trang).
 - URL thô trong inbox → `/ingest` dùng `defuddle` skill kéo bản markdown sạch làm body source.
 
 ## Tôi muốn gì ở bạn

@@ -30,11 +30,13 @@ Với mỗi file trong `inbox/`:
 
    | Loại insight | Đích |
    |---|---|
-   | Cách làm lại được, dùng cho MỌI sản phẩm (rút từ clip/post chuyên gia) | `wiki/method/<domain>/` — domain đang mở: `marketing` → vd `wiki/method/marketing/hooks.md`, `angles.md`, `offer-and-cta.md` |
-   | Sự thật của 1 SẢN PHẨM cụ thể (spec / avatar / competitor / VOC / page) | `wiki/products/<slug>/`, mỗi trang prefix `<slug>-` → vd `wiki/products/maxpro/maxpro-avatars.md` |
+   | Tactic marketing lại được, dùng cho MỌI sản phẩm (ads, funnel, creative, email…) | `wiki/method/marketing/` → vd `hooks.md`, `angles.md`, `offer-and-cta.md` |
+   | Vận hành business: finance, customer support, fulfillment, ops | `wiki/method/business/` |
+   | Mindset, focus, vận hành bản thân | `wiki/method/personal/` |
+   | Sự thật của 1 SẢN PHẨM cụ thể (spec / avatar / competitor / VOC / page / funnel-ops) | `wiki/products/<slug>/`, mỗi trang prefix `<slug>-` → vd `wiki/products/maxpro/maxpro-avatars.md` |
    | Cách vận hành CHÍNH cái vault / AI+Obsidian workflow (KHÔNG phải tactic business) | `wiki/method/meta/` |
 
-   - Sản phẩm mới → tạo `wiki/products/<slug>/` + prefix trang bằng slug. Domain business mới (finance / fulfillment / sourcing) → `wiki/method/<domain>/`.
+   - Sản phẩm mới → tạo `wiki/products/<slug>/` + prefix trang bằng slug. Domain mới (sourcing…) → `wiki/method/<domain>/`.
    - 1 khái niệm = 1 trang: đã có trang gần đúng thì BỒI vào, đừng tạo trùng.
    - Dùng wikilink `[[...]]` cross-link giữa các trang VÀ trỏ về source `[[<source-slug>]]`.
    - KHÔNG copy nguyên văn. Tổng hợp, dedup, xếp hạng khi có số liệu.
@@ -52,7 +54,7 @@ Với mỗi file trong `inbox/`:
    qmd update && qmd embed
    ```
    build-catalogue rebuild `.brain/catalogue.tsv` + `topic-map.tsv` (<1s, deterministic). `qmd update/embed` incremental — chỉ embed file mới/đổi. qmd lỗi (model chưa tải…) → vẫn tiếp tục, ghi chú trong summary; catalogue mới là bắt buộc.
-6. **Project-impact (PROPOSED — KHÔNG auto-apply):** đọc `projects/*/` (open question + status). Mỗi file vừa ingest → nếu giúp được project nào: 1 dòng *"giúp [project] ở [chỗ nào]"* + **≤3 action đề xuất** (đừng tự sửa project file, để user duyệt). Ko liên quan project nào → ghi "no current project impact."
+6. **Câu-hỏi-mở-impact (PROPOSED — KHÔNG auto-apply):** đọc mục "Đang đọc & nghĩ" + "Câu hỏi mở" trong `CLAUDE.md`. Mỗi file vừa ingest → nếu trả lời/đẩy được câu hỏi mở nào: 1 dòng *"đẩy [câu hỏi] ở [chỗ nào]"* + **≤3 action đề xuất**. Ko liên quan → ghi "no open-question impact." (Vault không còn `projects/` — execution track ở folder code riêng.)
 
 7. **Lưu & đồng bộ (BẮT BUỘC — chống mất việc khi ingest tay):** xong synthesis, nếu `sources/` hoặc `wiki/` có thay đổi thì commit + push để local ↔ origin luôn khớp (ingest tay quên commit là footgun gây trùng/đè khi pull):
    ```bash
@@ -70,4 +72,4 @@ Quy tắc:
 - `wiki/` bạn sở hữu hoàn toàn: viết, sửa, tái cấu trúc thoải mái.
 - Theo kepano `obsidian-markdown` skill cho cú pháp.
 
-End: print a short summary **in English** — files ingested + type, wiki pages created/updated, per-project impact + proposed actions (≤3 each), and the commit/push result (hash or "no-op").
+End: print a short summary **in English** — files ingested + type, wiki pages created/updated, open-question impact + proposed actions (≤3 each), and the commit/push result (hash or "no-op").

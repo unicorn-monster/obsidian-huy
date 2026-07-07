@@ -40,9 +40,14 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 
 ---
 
+## 💼 method/business/ — vận hành business (finance, CS, fulfillment)
+_Mở 07/07 — chưa có trang. Insight về finance / customer support / fulfillment / ops route vào đây._
+
+## 🧘 method/personal/ — mindset & vận hành bản thân
+- [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
+
 ## 🛠️ method/meta/ — cách vault tự bồi đắp
 - [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành, **Dataview query cho `/lint` (orphan/stale-project/pipeline/decision-log)**. Nguồn: cyrilXBT + engkhairallah.
-- [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
 
 ---
 
@@ -52,16 +57,21 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[maxpro-product-truth]] — spec / offer / proof / ⚠️ giới hạn power
 - [[maxpro-avatars]] — 5 avatar (lead 1+2, avatar 5 power = in-play 17/06)
 - [[maxpro-competitors]] — Heusom (cùng OEM, wedge), Casfuy, LuckyTail, Naigrins
+- [[casfuy-voc-avatars]] — VOC learning từ 252 review Casfuy (Apify) + Chewy + Amazon: avatar validation
 - [[maxpro-voc-insights]] — 17 VOC cluster theo avatar + swipe-bank; full report → [[maxpro-voc-report-2026-06-20]]
 - [[maxpro-pages]] — page system (fill của [[personas]] voice-signature): Elle/May/Carol/Institution/Cause + mirror KittySupps
+- [[maxpro-persona-network]] — persona network phase-0: page nào nói giọng nào
+- [[maxpro-headline-system]] — headline swipe system phase-0
+- [[maxpro-image-prompt-system]] — AI image prompt library phase-0
+- [[maxpro-structure-library]] — 17-beat ugly-ads structure library (S01, S02…)
+- [[maxpro-top5-review-funnel]] — funnel ops 4pawsreview.com: status LIVE, lệnh deploy wrangler, design tokens, pixel checklist
 
 _Sản phẩm mới: tạo `products/<slug>/`, prefix mỗi trang bằng `<slug>-`._
 
 ---
 
-## 🚀 projects/ — việc đang chạy
-- [[maxpro-ugly-ads-plan]] — máy ugly-ads clone KittySupps (stage 2-3) cho MaxPro · [[maxpro-persona-network]] · [[maxpro-image-prompt-system]]. **(Phase 0)**
-- [[maxpro-top5-review-funnel]] — clone review-domain top5-choices cho MaxPro (4pawsreview.com), static HTML → Cloudflare Pages. Demo dựng xong, chờ ảnh + deploy. **(đang chạy)**
+## 📦 archive/ — execution cũ (KHÔNG phải memory)
+Plans / creative packs / daily logs đã archive tại `archive/projects/` — brain không index. Projects mới = folder code riêng ngoài vault.
 
 ## Domain mở sau (kepano: tạo khi có note)
-- **finance/** · **fulfillment/** · **sourcing/** — chưa mở.
+- **fulfillment/** · **sourcing/** — chưa mở (finance giờ thuộc `method/business/`).

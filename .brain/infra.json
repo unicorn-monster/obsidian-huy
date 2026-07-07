@@ -1,0 +1,50 @@
+{
+ "applications": [
+  "Obsidian",
+  "GitHub",
+  "Klaviyo",
+  "Apify",
+  "Shopify",
+  "Chrome",
+  "Google Drive",
+  "Cloudflare",
+  "Context7",
+  "Computer Use",
+  "X / Twitter",
+  "Vercel"
+ ],
+ "skills": [
+  "build-wiki",
+  "caveman",
+  "defuddle",
+  "direct-response-copy",
+  "frontend-design",
+  "gmc-optimization",
+  "grill-me",
+  "grill-with-docs",
+  "handoff",
+  "hlpt-salepage",
+  "humanizer",
+  "img-to-prompt",
+  "json-canvas",
+  "karpathy-guidelines",
+  "last30days",
+  "long-form-native-ads-copy",
+  "obsidian-bases",
+  "obsidian-cli",
+  "obsidian-markdown",
+  "plain-text-email",
+  "skill-creator",
+  "top-5"
+ ],
+ "routines": [
+  "/ask",
+  "/brain-map",
+  "/brief",
+  "/ingest",
+  "/lint",
+  "/synthesis",
+  "⟳ x-accounts-farmer",
+  "⟳ session-sync"
+ ]
+}
