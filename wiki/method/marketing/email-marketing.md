@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats]
-updated: 2026-07-03
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown]
+updated: 2026-07-07
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -115,6 +115,14 @@ Brand apparel $7.3M/tháng, $1.9M từ email — phần lớn là **plain text e
 **Nguyên tắc hoạt động (và vì sao khác §4 SMS-style ở trên):** §4 là "email trông như SMS" = *format* visual. 3-format này là về *độ dài + cấu trúc* — đều là plain text, nhưng short/medium/long mang feeling khác nhau trong inbox và phục vụ mục tiêu khác nhau. Không phải 3 cách viết khác; là 3 tình huống khác nhau → chọn đúng format theo job.
 
 → MaxPro: rotate ngay trên list hiện tại. Short = restock notification / flash sale; Medium = founder "why I built this" + dog story; Long = DR storytelling cho cold-list nurture hoặc win-back. Tie §6 (founder plain-text = dạng "Medium" hoặc "Long").
+
+## Entertain-first, skim-designed — Gruns ($100M/2yr, [[rubiinov-gruns-100m-funnel-teardown]])
+Gruns gửi **3-4 campaign/tuần** (frequency không lạ ở tầm $100M) — khác biệt là **format**, built cho người **skim 8 giây** chứ không đọc 2 phút. *"Entertain first, sell second."*
+- **Infographic > copy block:** 1 infographic 5 ingredient + icon + 1 dòng = truyền tải bằng 300 từ nhưng nhanh + nhớ hơn + perceived-production-value cao → value rút được trong 1 lượt lướt.
+- **Nút to, trên fold:** CTA thấy được không cần scroll (đẩy xa §hero above-the-fold: đừng để nút đáy email — chỉ % người scroll tới đáy mới click được).
+- **Bold/màu = skim-path:** in đậm/đổi màu vài cụm → mắt nhảy tới high-contrast, dựng gist chỉ từ đó.
+- **Consistent offer anchor:** offer (52%) xuất hiện gần như mọi email — không phải message chính mà là **context nền quen thuộc** → giảm cognitive effort quyết định mua.
+→ MaxPro: infographic "3 lý do chó sợ clipper" thay đoạn văn; nút "grind at home" trên fold; anchor 99-day return mọi send. Bổ sung §6-step hero ở tầng "cả email đọc trong 8 giây".
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome +12%** → setup bên [[sms-flows]], mở khi list ~500+ subscriber; #3/#4 là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription (onboarding / metrics / rebill) để DÀNH → [[subscription-retention]]. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].

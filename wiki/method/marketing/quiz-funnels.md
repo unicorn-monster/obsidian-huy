@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles]
-updated: 2026-07-03
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown]
+updated: 2026-07-07
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -131,6 +131,14 @@ Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / s
 
 ## Web2App — dùng quiz thay pop-up để bắt email
 [[dtcquizbuilder-web2app-email-capture]]: tắt pop-up → CVR **+51%**. Pop-up chồng discount lên discount, spike CPA Meta, che PDP đúng lúc họ định mua. Thay bằng: export email KÈM mọi biến quiz (`{{age}}` `{{main_problem}}` `{{desire}}` `{{failed_solutions}}`) về Klaviyo → flow/campaign hyper-targeted. **Trick 0 drop-off (Pawchamp):** đóng khung email như "bên thứ 3 để NHẬN quà" (free K9 program) chứ không phải "bạn cho tôi data" → ask nhẹ, vẫn chốt sale front-end. Ví dụ thị trường: MadMuscles, Pawchamp, Liven.
+
+## Quiz-style pop-up = email capture 15-20% (Gruns, [[rubiinov-gruns-100m-funnel-teardown]])
+Gruns chạy **full-page quiz-style pop-up** convert **15-20% opt-in** (industry 3-4% = 4-5x). Không phải discount to hơn — là **cơ chế** (4 đòn, đều transferable):
+- **Button-first, không form-first:** bước 1 = click chọn "primary health concern" (1 nút), CHƯA hỏi email. Micro-commitment (= yes-chain quiz ở trên) → dễ hoàn tất bước sau hơn là ném thẳng vào ô email.
+- **Loss-aversion framing:** *"you've got 52% off"* (đã sở hữu, bỏ ngang = mất) chứ không *"get 52% off"* (chưa có, phải gắng lấy). Pain-of-loss ~2x pleasure-of-gain → gấp đôi urgency mà **không đổi offer**.
+- **Specificity 52% (không phải 50%):** số lẻ đọc như thật, không phải round-number marketing.
+- **1 field / bước:** email rồi phone TÁCH riêng, không gộp → giảm cognitive load mỗi bước → completion cao hơn.
+→ Cùng logic Web2App ở trên (quiz thay pop-up) nhưng đây là pop-up *mang khung quiz*. MaxPro: pop-up *"tình trạng móng chó bạn?"* (1 nút chọn size/nail-color) → *"bạn đã có [X]% off"* → email → phone tách bước. Feed data về Klaviyo như §Web2App.
 
 ## Build nhanh (tool)
 Shopify: **Octane AI** (native, sync answer → Klaviyo), RevenueHunt, hoặc Typeform/custom Liquid+JS. **Progress bar +20-30% completion.** Image-based answer > text-only. Quiz = 1 trong 4 format presell → so sánh & benchmark ở [[presell-pages]].

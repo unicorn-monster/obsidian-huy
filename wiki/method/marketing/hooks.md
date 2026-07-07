@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe]
-updated: 2026-06-30
+sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook]
+updated: 2026-07-07
 ---
 
 # Hooks
@@ -52,6 +52,9 @@ Nguồn: [[ecomtable-dental-hooks-swipe]] (4 ảnh trong `ecomtable-dental-hooks
 Craft: số sốc cụ thể (2,000 / 6,000 / 4-pound) = believability · villain = vet/anesthesia upsell ([[villains]] lớp 2) · product vô hình trong hook (chỉ kiếm click) · footer mini-hook gần cố định *"Read This If Your Dog Has Bad Breath"* rotate body hook (cùng cơ chế census).
 
 **MaxPro transfer:** template "pro bỏ nghề, giờ mới được nói" = authority character Carol (groomer về hưu) + villain groomer $45/lần. NHƯNG móng không giết chó → thay death bằng **silent decline / guilt confession** ("I made my dog bleed"), đừng bịa chết (landmine [[compliance]]). Footer: *"Read This If Your Dog [symptom]"* → *"...If Your Dog Clicks On Your Floors."*
+
+## "pov:" unaware-mistake hook ([[ecomamin-google-ads-budget-pov-hook]])
+Swipe (eCom_Amin, gốc B2B): *"pov: you've been torching your google ads budget this whole time and had no idea"*. Pattern transferable: **"pov: you've been [doing harmful thing] this whole time and had no idea"** — POV second-person + retroactive guilt + open loop ("và không hề biết" ép đọc để tìm ra mình sai chỗ nào). Cùng họ confession (#2) + symptom-reframe (#6) nhưng vào bằng POV. MaxPro: *"pov: mỗi lần cắt móng bạn đang làm chó đau và không hề biết"* / *"pov: cái clipper đó đã hại paw chó bạn cả năm nay."*
 
 ## Quy tắc test
 Test 3-4 hook trên CÙNG body → tìm scroll-stopper → rồi test hook thắng across persona.

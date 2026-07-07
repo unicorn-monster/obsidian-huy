@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem]
-updated: 2026-07-03
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes]
+updated: 2026-07-07
 ---
 
 # Google Ads (kênh search-intent)
@@ -169,6 +169,9 @@ eCom_Amin (100+ audit, $20M+ generated). Đáng nhớ vì đây không phải l�
 7. **Chuyển tROAS trước khi đủ data.** Algorithm cần **30-50 conversion** để học. Switch sớm → không bao giờ stabilize. Khớp §"đã test & GIẾT" (auto-bid từ ngày 1 = 0.8x). → fix: manual CPC lấy data → RỒI target ROAS.
 
 *"Every single one of these is fixable. None of them require a bigger budget."* → MaxPro: audit theo 7 điểm này trước khi scale spend.
+
+> [!note] Bản kể lại "how to burn your budget" (8-step, [[ecomamin-google-ads-burn-8-mistakes]]) — cùng pattern, đảo ngược
+> Cùng eCom_Amin, cùng 7-8 lỗi ở trên nhưng đóng khung ngược ("làm sao đốt sạch budget nhanh nhất": all-in-1-PMax · broad-match-no-negatives · homepage/PDP traffic · ignore feed · tROAS day-1 · no-segmentation · never-test · skip-negative-architecture). Không thêm mechanism mới — 2 điểm nhấn mạnh hơn: (a) **segment theo ICP/persona** (1 asset-group/persona, 1 bộ copy/intent-tier) · (b) **1 test/campaign-type/tháng** (hypothesis→control→variable→measure). Câu chốt đáng nhớ: *"the account was built for convenience, not performance."* Dùng như checklist song song §7-mistakes.
 
 ## 16+ revenue streams — coverage audit cho 1 sản phẩm (blvckledge) ⭐
 Nguồn: [[blvckledge-16-revenue-streams-google-ads]]. Test mở đầu: *"best-seller của bạn đang bán qua BAO NHIÊU cách trên Google?"* — đa số trả lời 3-8 = bỏ phần lớn platform. Case lấp dần stream: $9.1M→$35.8M/12 tháng · $2.07M→$5.74M/7 tháng. Dùng như **coverage audit**, không phải campaign list (nhiều stream control bằng structure/feed/negative/LP, không cần campaign riêng):

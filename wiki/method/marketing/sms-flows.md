@@ -1,6 +1,6 @@
 ---
-sources: [klaviyo-sms-flows-setup-guide, maxwellcopy-sms-4-templates-ecom, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-12m-email-sms-30days]
-updated: 2026-07-03
+sources: [klaviyo-sms-flows-setup-guide, maxwellcopy-sms-4-templates-ecom, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-12m-email-sms-30days, rubiinov-gruns-100m-funnel-teardown]
+updated: 2026-07-07
 ---
 
 # SMS flows — Klaviyo setup playbook (6 core flows)
@@ -10,6 +10,7 @@ Owned-channel, lane song song với email ([[email-marketing]]). Setup gốc t�
 ## Format & proof (dồn từ [[email-marketing]] về đây 2026-07-03)
 - **Testimonial-SMS** ([[maxwellcopy-sms-4-templates-ecom]]): SMS hiện **ngay cạnh tin nhắn bạn bè/gia đình** → testimonial đọc như recommendation cá nhân, không như ad — context tự thuyết phục hộ. (Post chỉ lộ template #4/4; #1-3 không công khai.) Tie [[personas]] social-proof.
 - **Scale proof chi tiết:** $12.1M email+SMS/30 ngày → **$9.4M từ SMS (77%)** ([[maxwellcopy-12m-email-sms-30days]]; grain of salt: last-click over-attribute, nhưng hướng rõ). Welcome flow email-only $887K → thêm SMS series song song = **+$109K (+12%) incremental** vì SMS reach đúng người KHÔNG mở email — khác kênh, khác moment ([[maxwellcopy-sms-welcome-flow-109k]]). *"One of the simplest and easiest lifts you can make to your core flows."*
+- **Channel-purpose (Gruns, [[rubiinov-gruns-100m-funnel-teardown]]):** phân vai rõ **email = education, SMS = conversion thuần**. Gruns chạy welcome-SMS high-frequency trong **72h đầu** sau opt-in (cửa sổ intent cao nhất), message tối giản: offer · code · CTA — không gì khác. Lý do SMS ≠ email: **98% open, không spam folder, chạm trong vài phút** → window hành động tức thì. Củng cố luật "SMS chỉ cho launch/sale/flow" ở trên — **đừng nhồi education vào SMS**.
 
 ## 5 nguyên tắc nền (mọi flow)
 1. **Exclusion filter đặt ở TRIGGER, không giữa flow** — kéo người đã convert ra khỏi phần còn lại của flow.

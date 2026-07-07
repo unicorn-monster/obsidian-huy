@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems]
-updated: 2026-07-06
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos]
+updated: 2026-07-07
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -22,6 +22,13 @@ Nguồn: [[alexgoughcooper-static-ads-8-rules]] (X thread, oversee 50+ ad accoun
 - **Product-image** (ảnh product + headline+benefit, thường lấy review làm headline). **Nhiều winner nhất** — format MaxPro đang thiếu, nên thêm.
 - **Organic** (publication, press, post-it, native, comment-response) — trông như post thật = 7 format ugly-native dưới.
 - **Offer-based** (offer, bundle). Vớt demand sẵn, ít incremental nhưng đừng bỏ. → [[offer-and-cta]].
+
+## Creative TYPE × funnel STAGE — match format to stage ([[dtcmidas-creative-per-funnel-stage]])
+DTCMidas: không phải mọi format hợp mọi stage — map creative-type theo nơi buyer đứng:
+- **TOF** (cold, chưa biết): VSL · AI animation · podcast-format · **long-form native statics** · "yapper" (talking-head). = attention + educate ([[native-ads]], educational-VSL trên).
+- **MOF** (đang cân nhắc): **native UGC & creator vids** — unboxing, GRWM, testimonial, content **nhúng tự nhiên vào content thường của creator** (không giống ad). = trust/consideration.
+- **BOF** (sắp mua): **offer statics + FOMO statics**. = chốt bằng deal/urgency ([[offer-and-cta]]).
+→ Tie [[creative-testing]] R2 (format nào carry angle) + 4-category ở trên: cùng static nhưng chọn format theo stage. MaxPro: TOF long-form native static (ugly-problem) → MOF UGC couch-grind demo → BOF "$45 groomer vs once" offer static.
 
 ## Prime directive
 Phải trông như post organic 1 người chủ thật chụp, KHÔNG ad. Không studio polish, không logo brand (chạy từ persona), nền nhà thật, khung lệch nhẹ kiểu điện thoại, ánh sáng tự nhiên. Ratio **4:5 hoặc 1:1**. Font xấu/plain. Caption echo hook, KHÔNG echo brand (brand chỉ ở destination).
@@ -91,6 +98,8 @@ Nguồn: [[orisilver-ai-storyboard-contact-sheet]]. Khó nhất của AI video n
 → Khớp Resilia AI-production ([[fotw-resilia-12-pages-advertorial]]): AI avatar/voice/B-roll gỡ bottleneck UGC, 544 ad/30 ngày. (Google flag ảnh AI → [[compliance]]; Meta OK.)
 
 **Speed benchmark — V3 AI video ([[0xroas-v3-ugc-15min-stitch]]):** @0xROAS (media buyer) báo cáo video AI (Veo 3 / "V3") generate xong trong **<15 phút**, khâu hậu kỳ duy nhất = stitch. Data point về tốc độ AI production hiện tại — phù hợp với contact-sheet approach ở trên: generate fast → stitch → publish, không cần full post-production.
+> [!note] V3 workflow reinforcement (0xROAS, 07/2026 — 3 post) — bizopp hype, 0 mechanism mới
+> [[0xroas-v3-ai-ugc-infinite-scale]] · [[0xroas-v3-ai-video-broll-automation]] · [[0xroas-v3-consistent-character-videos]]: cùng luận điểm đã có ở trên — V3 (Seedance 2.0) cho **infinite duration/characters/products**, **auto broll không edit tay**, **generate character → nhiều video consistent** (đã dùng bởi 9-fig brand). Là marketing-mafia bizopp promo (tự nhận), giữ như signal *"AI video velocity + character-consistency đang thành table-stakes"*, KHÔNG có tactic mới ngoài contact-sheet ([[orisilver-ai-storyboard-contact-sheet]]) + story-first ([[0xroas-ai-animation-tof-story-required]]) đã ghi. Đừng theo hype tool — bám story-engine.
 
 ## 5 pre-write check (avcanthony — chạy TRƯỚC khi viết 1 chữ)
 [[avcanthony-copy-that-prints-fundamentals]]: copy fail vì bỏ fundamentals, không vì thiếu trick.
