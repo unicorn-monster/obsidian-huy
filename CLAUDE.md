@@ -24,14 +24,19 @@ Next milestone:
   - **Routing khi /ingest:** cách-làm-lại-được → `method/<domain>/`; fact 1 sản phẩm cụ thể → `products/<slug>/`; cách vận hành vault/AI-workflow → `method/meta/`. Sản phẩm mới = tạo folder + prefix page bằng slug. Domain business mới (finance…) = `method/<domain>/`.
 - `briefs/` = output của bạn (brief + synthesis), có ngày. KHÔNG ingest.
 - `projects/` = việc đang chạy, mỗi campaign/client 1 folder.
+- `.brain/` = lớp retrieval deterministic (ẩn khỏi Obsidian): `catalogue.tsv` (1 dòng/file toàn vault) + `topic-map.tsv` (heading→trang chủ quản) + scripts. **Brain-first rule: câu hỏi tri thức về vault → chạy `node .brain/scripts/recall.mjs "<câu hỏi>"` TRƯỚC, mở file SAU. KHÔNG grep/đọc lan man.** Semantic fallback (Việt↔Anh): `qmd query`. Ladder đầy đủ: `/ask`.
 
 ## Quy ước (chốt 1 lần)
 - `domain`: encode bằng FOLDER (`method/<domain>/`), KHÔNG tag frontmatter. Business domain đang mở: marketing. Trục đặc biệt `method/meta/` = vận hành vault (ko phải business).
 - `type`: clip (article/thread/sale page) | swipe (ad/hook đối thủ) | learning (kết quả test của tôi) | idea (suy nghĩ của tôi)
-- `/ingest` : inbox -> sources + cập nhật wiki + index
+- `/ask`    : hỏi brain — ladder 2 lớp: recall.mjs (deterministic, 0 token) → qmd query (semantic). Trả lời cite [[wikilink]] + "Brain chưa biết" + stale warning.
+- `remember`: lưu fact 1 phát, 0 model — `.brain/scripts/remember.sh "fact"` (ghi sources/note-* + append catalogue).
+- `/ingest` : inbox -> sources + cập nhật wiki + index + rebuild catalogue + qmd update/embed
 - `/brief`  : đọc wiki -> 3 mục sáng, lưu briefs/
 - `/synthesis` : tổng hợp tuần, lưu briefs/
-- `/lint`   : dọn wiki — mâu thuẫn / claim cũ / orphan / broken-link (ACTIVE)
+- `/lint`   : dọn wiki — mâu thuẫn / claim cũ / orphan / broken-link (ACTIVE). Broken-link/orphan đọc metadataCache qua `obsidian-cli` skill (chính xác hơn grep), lệnh sẵn trong lint.md.
+- Dashboard `.base` (mở trong Obsidian): `projects.base` (việc ì) · `sources.base` (source theo type, swipe, mồ côi) · `wiki.base` (trang stale >45d 🔴, mồ côi, số nguồn/trang).
+- URL thô trong inbox → `/ingest` dùng `defuddle` skill kéo bản markdown sạch làm body source.
 
 ## Tôi muốn gì ở bạn
 - Surface hook / angle lặp trong swipe mà tôi chưa thấy.

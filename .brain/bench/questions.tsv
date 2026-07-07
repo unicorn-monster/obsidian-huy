@@ -1,0 +1,11 @@
+# id	question	expect_regex	note
+q1	lệnh deploy 4pawsreview funnel là gì	wrangler pages deploy	fact chôn trong projects/
+q2	cấu trúc CBO chuẩn theo DTCMidas	1 cbo per product per geo	fact trong source swipe
+q3	refund rate pet brand của eCom_Amin bao nhiêu	2-3%	fact chôn giữa trang google-ads dài
+q4	5 avatar của maxpro, avatar nào lead	avatar	product truth
+q5	hook nào đang lặp trong swipe kittysupps	hairball|taurine|kidney	đa file swipe bank
+q6	kill keep window meta như thế nào	ngày 3-4|day 3-4|verdict	media-buying guardrail
+q7	test gì tiếp cho maxpro trên google ads	google	pair mode product×method
+q8	free shipping badge có tác dụng gì trong google shopping	embarrass	google-shopping detail
+q9	khách chê đắt thì xử lý sao	value gap	semantic VN→EN (không có keyword trùng)
+q10	mystery discount so với flat discount trong email	46%|2×|2x	email-marketing data point
