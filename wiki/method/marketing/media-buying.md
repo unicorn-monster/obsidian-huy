@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure]
-updated: 2026-07-06
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics]
+updated: 2026-07-07
 ---
 
 # Media buying + testing (Meta 2026)
@@ -195,6 +195,24 @@ DTCMidas: quy trình **2-window** để quyết định kill hay giữ ad:
 Bổ sung cho §CBO active-ad pruning (tắt ads trên CPA target) và §Decision matrix ngày 1 (ATC-based). Cả 3 dùng cùng lúc: ngày 1 đọc ATC (demand signal), ngày 3-4 đọc upper funnel KPIs (engagement quality), ngày 7 final verdict. Topspender exception = layer thứ 4 — context từ account level override adset-level metric.
 
 → MaxPro: khi đủ data để identify topspender (ad ăn nhiều spend nhất với CPM thấp), đừng kill dựa trên ROAS adset đơn lẻ — pull account-level performance trước.
+
+## NC KPI dashboard — 7 số cốt lõi DTC ([[dtcmidas-kpi-list-nc-metrics]])
+DTCMidas: 7 KPI bắt buộc track trong media buying DTC — không phải blended, phải tách NC (new customer):
+
+| KPI | Ý nghĩa |
+|---|---|
+| **Revenue** | Tổng doanh thu |
+| **NC Revenue** | Doanh thu từ khách mới — thước đo acquisition thật |
+| **Adspend / channel** | Chi phí theo kênh (Meta / Google / native…) |
+| **NC ROAS** | ROAS tính trên khách mới (không lẫn repeat buyer) |
+| **NC CAC** | Cost to acquire 1 new customer — số quyết định scale hay không |
+| **AOV** | Average Order Value — đòn bẩy CPA |
+| **CM3** | Contribution Margin sau tất cả chi phí variable (ad + COGS + ship + returns) |
+
+> [!note] Tại sao tách NC
+> Blended ROAS che repeat buyer quay lại organic/email → thấy "7x" nhưng cold acquisition thật có thể đang 2x hoặc dưới 1. Tách NC ROAS + NC CAC → thấy cost-to-grow thật. Khớp lỗi #1 trong [[google-ads]] §7-mistakes (blended ROAS che branded).
+
+→ MaxPro: track 7 số này song song, đừng dùng 1 số blended làm thước đo scale. CM3 đặc biệt quan trọng giai đoạn bootstrapped.
 
 ## $100k/day scaling — fundamentals proven, gap là budget boldness ([[jforjacob-100k-day-budget-boldness]])
 jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pretty easy for anyone with half decent ads and a ok product."*

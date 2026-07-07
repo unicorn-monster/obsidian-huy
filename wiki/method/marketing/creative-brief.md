@@ -1,5 +1,5 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos]
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs]
 updated: 2026-07-07
 ---
 
@@ -159,3 +159,27 @@ Ngược lại, AI usage cho **systems + analytics** tăng mạnh: họ build an
 - ⚠️ **Mâu thuẫn với volume-thesis:** 0xROAS / flood-50-ads đều giả định AI copy đủ tốt để test. maxwellcopy là counter-signal từ agency-level data. Reconcile: **AI copy đủ cho volume test** (chỉ cần pass hook scan), nhưng **angle thắng rồi → human-craft** final version để convert cold traffic. Test bằng AI volume, close bằng human copy.
 
 → MaxPro: khi test angle/hook ở R1 ([[creative-testing]]) — AI copy OK. Khi scale winner dài hạn (advertorial, VSL, long-form native) → viết tay hoặc edit nặng, không phụ thuộc AI output thô.
+
+## ⚠️ AI design fatigue đang đến — giống AI copy fatigue trước đó ([[maxwellcopy-ai-design-fatigue]])
+maxwellcopy (2026-07-07): *"You can now easily tell if something is designed by Claude Design. It all looks the fuckin same but different colors."* Prediction: **AI design fatigue** sẽ hit market giống AI copy fatigue đã hit (xem §trên).
+
+**Hàm ý:** AI-generated design (layouts, banner, landing page) đang trở nên nhận ra được, y như AI copy. "Looks the same" = uncanny valley của design → sceptic reflex của buyer. Đặc biệt nguy hiểm với DR ads — ad trông AI-made mà không genuine = friction trước khi đọc 1 chữ.
+
+**Reconcile với strategy hiện tại:**
+- **AI image generation (ảnh):** vẫn đúng — raw-problem-photo (candid, ugly, no logos) vốn trông NOT like AI-designed. "Ugly" là moat. Không áp dụng fatigue rule cho archetype #1/#2 ở trên.
+- **AI layouts/page design:** đây là nguy cơ. Tránh dùng AI-generated DTC landing page template mà không chỉnh nặng → trông giống mọi brand khác.
+- **Action:** ugly/candid ads (MaxPro raw-problem-photo style) né được vì không "designed". Long-form native text ads — vẫn human-authored là winner (khớp §AI copy plateau ở trên).
+
+→ Mâu thuẫn surface: "AI design đang đến" vs "cartoon creatives outperforming". Reconcile: cartoon = **intentionally illustrated/artistic** (distinctly NOT "Claude Design" aesthetic) — mỗi style khác biệt. Risk là **generic AI page design + AI template layout**, không phải intentional art direction.
+
+## AI talking character — ElevenLabs + Adobe Express ($10k saved) ([[0xroas-talking-char-elevenlabs]])
+0xROAS: workflow tạo **talking character ad** có voice mà không cần animation studio:
+1. ElevenLabs → generate voice
+2. Adobe Express → Animate Character → select Dr. Applesmith
+3. Upload voice → generate
+
+*"Congrats, you just saved $10k on animation studios."*
+
+Format này = **talking character với voice sync** trong <30 phút, 0 animation skill cần. Fit với [[media-buying]] "drama ads + doctor/authority format" đang ăn spend 2026. Character "Dr. Applesmith" = authority persona sẵn có trong Adobe Express — không cần tạo custom.
+
+→ MaxPro: test dạng "vet/authority character" nói về nail quick health — ngắn gọn, authority voice, cost ~$0. Tie [[ugly-ads-method]] §mechanism-reveal-as-dialogue (authority character reveal mechanism). ⚠️ AI voice character = check NY disclosure + FTC guideline về AI representation trước khi scale ([[compliance]]).

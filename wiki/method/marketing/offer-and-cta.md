@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy]
-updated: 2026-07-03
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing]
+updated: 2026-07-07
 ---
 
 # Offer + CTA mechanics
@@ -76,6 +76,19 @@ Nguồn: [[scalabilityschool-50-angle-strategy]] (Zach/Hollow). Đa số brand k
 [[advertising-jan-5-stage-funnel]]: job DUY NHẤT của upsell = **tăng AOV**. AOV cao hơn → outspend đối thủ ở CPA → scale dễ hơn (đối thủ không dám bid cao bằng). Tiered bundle (trên) + post-purchase upsell phục vụ chính cái này, không phải "nhồi thêm SKU cho vui". Đây là stage cuối của 5-stage funnel → [[funnel-and-landing]].
 
 **OTO sequencing (Resilia $30→$83, [[fotw-resilia-12-pages-advertorial]]):** OTO phải **hoàn tất kết quả vừa mua**, không nhồi catalog. OTO1 mạnh nhất = bổ sung logic (*"softgels là đòn tấn công, drops là quét dọn"* — không phải quyết định mới, là tiếp nối). OTO yếu = trùng promise front-end (đã mua oregano softgel, sao mua oregano drops nữa). Hỏi: *"khách cần GÌ TIẾP để hoàn tất result vừa trả tiền?"*
+
+## ⚠️ Giveaway timing — dùng làm attention grab, KHÔNG email drip dài ([[maxwellcopy-giveaway-offer-timing]])
+maxwellcopy: *"stop running giveaways the wrong way."* Lỗi phổ biến: chạy giveaway 30 ngày → người opt-in ngày 5 chờ kết quả, không mua gì 4 tuần → đến cuối không thắng → đã là **cold lead** (mất momentum + mất cơ hội bán).
+
+**Fix: giveaway = attention grab → push thẳng vào special offer ngay.**
+- Giveaway lấy click + opt-in (low barrier attention).
+- Ngay sau khi opt-in → đưa họ vào special offer (không phải "chờ xem mình có thắng không").
+- Email sequence sau opt-in KHÔNG phải "thông báo winner" mà là **offer-forward** ngay: cách Grüns làm (từ §gamification pick-card dưới).
+
+> [!warning] Áp MaxPro
+> Nếu test giveaway (VD: "win a free MaxPro grinder") → redirect về quiz funnel hoặc special bundle offer ngay sau opt-in, đừng nurture 30 ngày rồi announce winner. Mỗi ngày delay = colder lead.
+
+Khớp §Urgency (4. Urgency that's real) ở trên: giveaway dài = fake urgency giả tạo, không thúc ép quyết định mua. Liên kết [[quiz-funnels]] (redirect từ attention-grab vào quiz → personalized offer = cơ chế tốt nhất sau opt-in).
 
 ## ⚠️ Gamified offer (spin-to-win / sweepstakes)
 [[maxwellcopy-sweepstakes-offer-legal]]: spin-wheel/sweepstakes "prints" nhưng **rủi ro pháp lý** — hợp pháp (US) cần **free-entry (no purchase necessary) + TOS**; thiếu = vi phạm anti-lottery. Làm đúng luật hoặc né → [[compliance]].

@@ -1,5 +1,5 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes]
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp]
 updated: 2026-07-07
 ---
 
@@ -205,6 +205,30 @@ Cơ chế: paid structure feed clean, intent-matched traffic vào pages built đ
 **Compounding ROAS (reinforcement):** ROAS tháng 6 > ROAS tháng 2 — không có campaign mới, không creative mới, chỉ thêm budget vào cấu trúc đã tồn tại. Account compound trên chính data của nó. Minh chứng cụ thể nhất cho claim *"a Google account permanently better"* ([[ecomamin-pet-brand-1m-google-at-19]]): hiệu quả tăng theo thời gian (ngược Meta — fatigue compound).
 
 Điều kiện để byproduct này xảy ra: intent-tier isolation nghiêm (TOF problem-aware → advertorial, brand-aware → PDP, không share landing page giữa 2 intent) + pages built để answer first, sell second. = 7-campaign structure + landing-page strategy ([[blvckledge-5-brands-1m-google-ads]]) áp đúng.
+
+## AI media buyer — Fable 5 + Google Ads MCP ([[ecomamin-fable5-google-ads-mcp]])
+eCom_Amin (2026-07-07, $10M+ Google ads): kết nối **Fable 5** vào **Google Ads MCP** để tạo AI media buyer tự động hoá:
+
+**Cái nó làm:**
+- Scrape search terms / campaigns / audiences / keywords 24/7
+- Flag losers → scale winners (tự động đề xuất)
+- Comprehensive reports + bid tweaks + weekly check-in
+
+**Safety layer (quan trọng):** mọi thay đổi (bid, kill campaign, scale budget) = **draft trước, không live** cho đến khi bạn approve. Không có gì tự chạy blind.
+
+**5 component cốt:**
+1. MCP setup → kết nối Fable 5 live vào Google Ads account (safety draft layer)
+2. Account audit skill → pull campaign structure, bid strategy, PMax cannibalization, negative keyword gaps
+3. Prompt structure → Fable 5 như media buyer hàng ngày: adjust bids, kill underperformers, scale winners
+4. Safety protocol → mọi change = draft pending approval
+5. Weekly check-in skill → compare 7 ngày vs 7 ngày trước, flag new negatives, đưa 3 action items mỗi thứ Hai
+
+*"$10k/mo media buyer while you sleep."* — backed by $10M+ Google ads revenue.
+
+> [!note] Liên kết với Manus AI workflow ([[ecomamin-manus-ai-google-ads-funnel]])
+> Manus = build funnel + copy (2-3 ngày vs 2-3 tuần). Fable 5 MCP = ongoing optimization sau khi funnel live. 2 tool bổ trợ: Manus build → Fable 5 optimize + monitor.
+
+→ MaxPro: khi Google ads đã có data (sau 30-50 conversion đầu), setup Fable 5 MCP theo playbook Amin để tự động audit + weekly action items. Ưu tiên **sau** khi account structure + feed đã solid (7-mistakes checklist ở trên).
 
 ## Ecosystem 3 kênh: Google (capture) + YouTube (nuôi) + Bing (pool song song) ([[ecomamin-google-bing-youtube-ecosystem]])
 Đa kênh kiểu agency = parallel campaigns không nói chuyện với nhau → blended CPA đứng im. Ecosystem = **output kênh này thành input kênh kia**, compound theo thời gian:
