@@ -21,6 +21,13 @@ const APPLICATIONS = [
   'X / Twitter', 'YouTube', 'Meta Ad Library', 'Amazon / Chewy', 'Whisper (Groq)',
 ];
 
+// Routines = CHỈ scheduled task chạy tự động (định nghĩa của Huy — lệnh chạy tay
+// không tính, chúng nằm ở vòng SKILLS). Thêm routine mới = thêm dòng.
+const ROUTINES = [
+  { name: 'x-farm-ingest', cadence: 'Daily' },
+  { name: 'Meta Ads daily Telegram report', cadence: 'Daily' },
+];
+
 export function collectInfra() {
   const infraCache = path.join(VAULT, '.brain/infra.json');
   const skills = [];
@@ -31,17 +38,17 @@ export function collectInfra() {
       if (e.isDirectory() && !e.name.endsWith('-workspace')) skills.push(e.name);
     }
   }
-  const routines = [];
+  // slash-commands + agents + hooks = capability được invoke → vòng SKILLS
   const cmdDir = path.join(VAULT, '.claude/commands');
   if (fs.existsSync(cmdDir)) {
-    for (const f of fs.readdirSync(cmdDir)) if (f.endsWith('.md')) routines.push('/' + f.replace('.md', ''));
+    for (const f of fs.readdirSync(cmdDir)) if (f.endsWith('.md')) skills.push('/' + f.replace('.md', ''));
   }
   const agentDir = path.join(VAULT, '.claude/agents');
   if (fs.existsSync(agentDir)) {
-    for (const f of fs.readdirSync(agentDir)) if (f.endsWith('.md')) routines.push('⟳ ' + f.replace('.md', ''));
+    for (const f of fs.readdirSync(agentDir)) if (f.endsWith('.md')) skills.push('⟳ ' + f.replace('.md', ''));
   }
-  routines.push('⟳ session-sync');
-  const infra = { applications: APPLICATIONS, skills: [...new Set(skills)].sort(), routines };
+  skills.push('⟳ session-sync');
+  const infra = { applications: APPLICATIONS, skills: [...new Set(skills)].sort(), routines: ROUTINES };
 
   if (fs.existsSync(homeSkills)) {
     // máy local: cache lại để build trên Vercel (không có ~/.claude) dùng đủ list
@@ -96,13 +103,14 @@ export function readLinksFromFiles() {
 // ---------- memory zones ----------
 
 // 5 khu Memory (META đã gộp vào PERSONAL — sơ đồ gốc không có khu vận hành
-// hệ thống trong Memory: cách vận hành sống ở CLAUDE.md/SKILLS/ROUTINES)
+// hệ thống trong Memory: cách vận hành sống ở CLAUDE.md/SKILLS/ROUTINES).
+// Thứ tự trong object = thứ tự sector quanh đĩa (bắt đầu từ hướng trên, theo chiều kim đồng hồ).
 const ZONES = {
-  marketing: { label: 'MARKETING', color: '#ff7bd0', angle: 3.40 },
-  product:   { label: 'PRODUCT',   color: '#4dd6e8', angle: 5.80 },
-  business:  { label: 'BUSINESS',  color: '#b48cff', angle: 0.70 },
-  personal:  { label: 'PERSONAL',  color: '#ffd84d', angle: 1.90 },
-  briefs:    { label: 'BRIEFS',    color: '#94a3b8', angle: 4.70 },
+  product:   { label: 'PRODUCT',   color: '#4dd6e8' },
+  personal:  { label: 'PERSONAL',  color: '#ffd84d' },
+  business:  { label: 'BUSINESS',  color: '#b48cff' },
+  marketing: { label: 'MARKETING', color: '#ff7bd0' },
+  briefs:    { label: 'BRIEFS',    color: '#94a3b8' },
 };
 
 function zoneOfAxis(axis, p) {
@@ -165,29 +173,58 @@ export function buildMapData() {
   for (const targets of Object.values(resolved))
     for (const [t, c] of Object.entries(targets)) indeg[t] = (indeg[t] || 0) + 1;
 
-  // đặt member theo golden-spiral quanh anchor r=390
-  for (const [z, zc] of Object.entries(ZONES)) {
-    const ax = Math.cos(zc.angle) * 390, ay = Math.sin(zc.angle) * 390;
-    add({ id: `zone:${z}`, kind: 'zone', label: zc.label, x: ax, y: ay, s: 9, color: zc.color });
-    // wiki pages trước (to hơn, gần anchor), sources sau
-    const members = zoneMembers[z].sort((a, b) => (a.axis.startsWith('source-') ? 1 : 0) - (b.axis.startsWith('source-') ? 1 : 0));
-    members.forEach((e, i) => {
-      const r = 26 + 7.5 * Math.sqrt(i + 1);
-      const th = (i + 1) * 2.39996323; // golden angle
-      add({
-        id: e.path, kind: e.axis.startsWith('source-') ? 'source' : 'page',
-        label: path.basename(e.path, '.md'),
-        x: ax + Math.cos(th) * r, y: ay + Math.sin(th) * r,
-        s: e.axis.startsWith('source-') ? 2.2 + Math.min(Math.sqrt(indeg[e.path] || 0) * 1.6, 6) : 4 + Math.min(Math.sqrt(indeg[e.path] || 0) * 2, 9),
-        color: zc.color, zone: z, axis: e.axis, in: indeg[e.path] || 0,
-      });
-    });
-  }
+  // ---- layout SECTOR VÒNG CUNG (như sơ đồ gốc): mỗi zone = 1 sector góc,
+  // member xếp thành các hàng cung đồng tâm toả từ trong ra; wiki pages
+  // (to, quan trọng) hàng trong cùng → sources nhỏ dần ra ngoài.
+  const R0 = 250, ROW_GAP = 17, DOT_SPACE = 15, SECTOR_GAP = 0.10, MIN_SPAN = 0.45;
+  const zoneKeys = Object.keys(ZONES);
+  // span ∝ sqrt(count): khu to vẫn to nhưng không nuốt cả vòng (marketing ~200 item)
+  const weights = zoneKeys.map((z) => Math.sqrt(zoneMembers[z].length || 0.5));
+  const totalW = weights.reduce((a, b) => a + b, 0);
+  const usable = Math.PI * 2 - SECTOR_GAP * zoneKeys.length;
+  let spans = weights.map((w) => Math.max(MIN_SPAN, usable * w / totalW));
+  const norm = usable / spans.reduce((a, b) => a + b, 0);
+  spans = spans.map((s) => s * norm);
 
-  // ROUTINES ring r=575
+  let a0 = -Math.PI / 2; // sector đầu bắt đầu từ đỉnh
+  zoneKeys.forEach((z, zi) => {
+    const zc = ZONES[z];
+    const span = spans[zi];
+    const mid = a0 + span / 2;
+    add({ id: `zone:${z}`, kind: 'zone', label: zc.label, x: Math.cos(mid) * (R0 - 26), y: Math.sin(mid) * (R0 - 26), s: 7, color: zc.color });
+
+    const members = zoneMembers[z].sort((a, b) => {
+      const sa = a.axis.startsWith('source-') ? 1 : 0, sb = b.axis.startsWith('source-') ? 1 : 0;
+      if (sa !== sb) return sa - sb; // pages trước
+      return (indeg[b.path] || 0) - (indeg[a.path] || 0); // rồi theo backlink giảm dần
+    });
+
+    let placed = 0, row = 0;
+    while (placed < members.length) {
+      const rk = R0 + row * ROW_GAP;
+      const cap = Math.max(3, Math.floor(((span - 0.05) * rk) / DOT_SPACE));
+      const n = Math.min(cap, members.length - placed);
+      for (let j = 0; j < n; j++) {
+        const e = members[placed + j];
+        const th = a0 + 0.025 + (span - 0.05) * ((j + 0.5) / n);
+        add({
+          id: e.path, kind: e.axis.startsWith('source-') ? 'source' : 'page',
+          label: path.basename(e.path, '.md'),
+          x: Math.cos(th) * rk, y: Math.sin(th) * rk,
+          s: e.axis.startsWith('source-') ? 2.2 + Math.min(Math.sqrt(indeg[e.path] || 0) * 1.6, 6) : 4 + Math.min(Math.sqrt(indeg[e.path] || 0) * 2, 9),
+          color: zc.color, zone: z, axis: e.axis, in: indeg[e.path] || 0,
+        });
+      }
+      placed += n;
+      row++;
+    }
+    a0 += span + SECTOR_GAP;
+  });
+
+  // ROUTINES ring r=575 — chỉ scheduled task thật, kèm cadence
   infra.routines.forEach((r, i) => {
-    const a = (i / infra.routines.length) * Math.PI * 2 - Math.PI / 2 + 0.15;
-    add({ id: `routine:${r}`, kind: 'routine', label: r, x: Math.cos(a) * 575, y: Math.sin(a) * 575, s: 7, color: '#facc15' });
+    const a = (i / infra.routines.length) * Math.PI * 2 - Math.PI / 2 + 0.4;
+    add({ id: `routine:${r.name}`, kind: 'routine', label: r.name, cad: r.cadence, x: Math.cos(a) * 575, y: Math.sin(a) * 575, s: 8, color: '#facc15' });
   });
 
   // APPLICATIONS ring r=655
@@ -241,9 +278,12 @@ export function renderHtml(data, { live = false } = {}) {
 let D=${JSON.stringify(data)};
 const cv=document.getElementById('c'),ctx=cv.getContext('2d'),tip=document.getElementById('tip');
 let W,H,dpr=devicePixelRatio||1,scale=0.62,ox=0,oy=0,hover=-1,picked=-1,nb=[];
+let scaleInit=false;
 function rebuildNb(){nb=D.nodes.map(()=>new Set());D.links.forEach(([a,b])=>{nb[a].add(b);nb[b].add(a)})}
 rebuildNb();
-function resize(){W=innerWidth;H=innerHeight;cv.width=W*dpr;cv.height=H*dpr;cv.style.width=W+'px';cv.style.height=H+'px';draw()}
+function resize(){W=innerWidth;H=innerHeight;cv.width=W*dpr;cv.height=H*dpr;cv.style.width=W+'px';cv.style.height=H+'px';
+  if(!scaleInit&&W>100&&H>100){scale=Math.max(0.2,Math.min(W,H)/(2*720));scaleInit=true} // auto-fit 4 vòng (guard: lần resize đầu viewport có thể =0)
+  draw()}
 addEventListener('resize',resize);
 function hexPath(x,y,r){ctx.beginPath();for(let i=0;i<6;i++){const a=Math.PI/6+i*Math.PI/3;i?ctx.lineTo(x+r*Math.cos(a),y+r*Math.sin(a)):ctx.moveTo(x+r*Math.cos(a),y+r*Math.sin(a))}ctx.closePath()}
 function diamondPath(x,y,r){ctx.beginPath();ctx.moveTo(x,y-r);ctx.lineTo(x+r,y);ctx.lineTo(x,y+r);ctx.lineTo(x-r,y);ctx.closePath()}
@@ -285,12 +325,14 @@ function draw(){
   for(let i=0;i<D.nodes.length;i++){
     const n=D.nodes[i];
     const always=n.kind==='center'||n.kind==='zone'||n.kind==='routine'||n.kind==='app';
-    if(!(always||i===focus||(n.kind==='page'&&n.in>=10)))continue;
+    // label trang wiki chỉ hiện khi zoom vào (tránh chồng chữ ở default view)
+    if(!(always||i===focus||(n.kind==='page'&&n.in>=10&&scale>1.15)))continue;
     if(focus>=0&&i!==focus&&!nb[focus].has(i)&&!always)continue;
     ctx.fillStyle=n.kind==='zone'?n.color:'#d5d5e0';
     ctx.font=(n.kind==='center'?'bold 13':n.kind==='zone'?'bold 12':'10')+'px sans-serif';
     if(n.kind==='center'){ctx.fillStyle='#f59e0b';ctx.fillText('CLAUDE.MD',n.x,n.y+4)}
     else ctx.fillText(n.label,n.x,n.y-n.s-5);
+    if(n.cad){ctx.fillStyle='#8a8a55';ctx.font='9px sans-serif';ctx.fillText(n.cad,n.x,n.y+n.s+11)}
   }
 }
 function pick(mx,my){

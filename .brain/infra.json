@@ -24,6 +24,12 @@
   "Whisper (Groq)"
  ],
  "skills": [
+  "/ask",
+  "/brain-map",
+  "/brief",
+  "/ingest",
+  "/lint",
+  "/synthesis",
   "build-wiki",
   "caveman",
   "defuddle",
@@ -45,16 +51,18 @@
   "obsidian-markdown",
   "plain-text-email",
   "skill-creator",
-  "top-5"
+  "top-5",
+  "⟳ session-sync",
+  "⟳ x-accounts-farmer"
  ],
  "routines": [
-  "/ask",
-  "/brain-map",
-  "/brief",
-  "/ingest",
-  "/lint",
-  "/synthesis",
-  "⟳ x-accounts-farmer",
-  "⟳ session-sync"
+  {
+   "name": "x-farm-ingest",
+   "cadence": "Daily"
+  },
+  {
+   "name": "Meta Ads daily Telegram report",
+   "cadence": "Daily"
+  }
  ]
 }
