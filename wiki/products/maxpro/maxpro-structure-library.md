@@ -41,7 +41,7 @@ Index 72: Peer 32 · Institution 20 · Expert 15 · Cause 5. Seed ≥60d: 29.
 | **ks_headline** | "Trusted by 200,000+ cat parents" |
 | **proven_days** | **139** (evergreen, top-3 longevity toàn corpus) |
 | **ks_note** | 2 hook active / 2 ảnh now — long-runner ổn định. Pattern "tested 11 in a lab" còn được tái dùng làm **proof-module** giữa bài ở structure khác (North Valley CKD). |
-| **maxpro_persona** | [[Carol the Honest Groomer]] (Expert) |
+| **maxpro_persona** | [[maxpro-pages|Carol the Honest Groomer]] (Expert) |
 | **verdict** | **PORT** ✅ (sạch — 0 death/disease). RE-STAGE nhẹ 1 chỗ: proof-vehicle "independent lab" → "15 năm + 11 máy trên bàn groom" (Carol không chạy lab được, nhưng field-test thật = defensible). |
 
 ### Skeleton (17 beat, phần lõi 93–100% giữ nguyên giữa các hook)
@@ -225,6 +225,6 @@ Index 72: Peer 32 · Institution 20 · Expert 15 · Cause 5. Seed ≥60d: 29.
 | S01 | D1 | Carol the Honest Groomer | D — "You think the grinder dying in your drawer was your fault. It wasn't" | #1 (shared) | 4 |
 | S01 | D1 | Carol the Honest Groomer | E — "The pet store told you any grinder will do. They're wrong" | #1 (shared) | 4 |
 
-> **Tổng hôm nay: 5 hook × 4 ảnh RIÊNG = 20 ad — TẤT CẢ trên 1 page [[Carol the Honest Groomer]]** (structure dính 1 page, không rải persona). **Mỗi hook 4 ảnh KHÁC NHAU (KS: 0% share ảnh giữa hook) → 20 file ảnh distinct/ngày**; 5 theme = công thức, render 4×/theme. Headline default share #1, có thể A/B #2–#7. Link đích: `https://maximutt.com/products/maxpro-grinder`.
+> **Tổng hôm nay: 5 hook × 4 ảnh RIÊNG = 20 ad — TẤT CẢ trên 1 page [[maxpro-pages|Carol the Honest Groomer]]** (structure dính 1 page, không rải persona). **Mỗi hook 4 ảnh KHÁC NHAU (KS: 0% share ảnh giữa hook) → 20 file ảnh distinct/ngày**; 5 theme = công thức, render 4×/theme. Headline default share #1, có thể A/B #2–#7. Link đích: `https://maximutt.com/products/maxpro-grinder`.
 
 > [!note] §QA chạy trong chat (không nhồi vào file). Full body + headline + ảnh đã rà checklist [[ugly-ads-method]] §QA + format gate.

@@ -7,7 +7,7 @@ date: 2026-06-20
 # Casfuy VOC — avatar map & verdict "grandma"
 
 > Câu hỏi gốc: *grandma có đủ lớn/đủ riêng để làm 1 pre-sale page riêng cho native ads không?*
-> Nguồn chính: **Apify 252 review (full 1-5★, gộp variants)** → [apify-casfuy-B07W85ZPL1.json](../../sources/_review-dumps/apify-casfuy-B07W85ZPL1.json). Corroborate: Chewy 170, Amazon aggregate 100,624. Cách cào: [[scrape-amazon-reviews]].
+> Nguồn chính: **Apify 252 review (full 1-5★, gộp variants)** → `sources/_review-dumps/apify-casfuy-B07W85ZPL1.json`. Corroborate: Chewy 170, Amazon aggregate 100,624. Cách cào: memory `scrape-amazon-reviews` (Apify actor, wrapper ở ~/Downloads/amazon-review-scraper/).
 
 Phân bố sao (n=252): 5★ 200 · 4★ 34 · 3★ 7 · 2★ 7 · 1★ 4 (avg 4.6).
 
