@@ -34,7 +34,10 @@ Bạn farm post mới từ các X/Twitter account vào `inbox/` của vault này
    ---
    ```
    Body = nội dung tweet/thread NGUYÊN VĂN (gộp cả thread nếu là chuỗi). Dọn nhiễu ("1/", "🧵", emoji rác). KHÔNG tóm tắt, KHÔNG diễn giải.
-6. **KHÔNG tự `/ingest`. KHÔNG commit.** (Routine cloud chạy `/ingest` + commit sau.) Xong → báo cáo: số file mới + tiêu đề.
+6. **KHÔNG tự `/ingest`. KHÔNG commit.** (Routine cloud chạy `/ingest` + commit sau.) Xong → báo cáo, **DÒNG ĐẦU BẮT BUỘC = actor-health** (để routine set Telegram đúng, tránh chết âm thầm):
+   - `ACTOR: OK` — MỌI handle gọi actor trả **status SUCCEEDED** (kể cả dataset rỗng). Rồi: `farmed: <N> new` + per-handle count + tiêu đề file mới.
+   - `ACTOR: ERROR — <handle(s)> · <error verbatim>` — BẤT KỲ handle nào lỗi (actor-not-found / run failed / timeout sau retry). Đây là tín hiệu **ĐƯỜNG ỐNG GÃY**.
+   ⚠️ **Phân biệt tuyệt đối:** *"0 farmed vì actor lỗi"* ≠ *"0 farmed vì không tweet nào qua 48h/quality"*. Actor chạy xong trả dataset rỗng = **OK** (handle ế hôm nay); actor trả error = **ERROR** (phải báo động). ĐỪNG gộp cả hai thành "none in 48h" — chính sự nhập nhằng này từng giấu 1 actor chết suốt 2 tuần.
 
 ## Classification — chỉ lấy đồ có chất
 - **GIỮ:** tactic cụ thể, teardown, framework, data/số, hook/copy swipe, case study.
