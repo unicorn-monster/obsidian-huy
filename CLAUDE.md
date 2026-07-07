@@ -21,7 +21,7 @@ Next milestone:
   - `wiki/method/<domain>/` = cách làm, **SOURCE OF TRUTH**, dùng cho mọi sản phẩm (rút từ post X chuyên gia). Domain đang mở (= các khu Memory trên brain-map): **`marketing`** (ads, funnel, creative — khu đậm nhất) · **`business`** (finance, customer support, fulfillment, ops) · **`personal`** (mindset, focus, vận hành bản thân + học về second-brain/AI-workflow). Mở sau: `sourcing`.
   - `wiki/products/<slug>/` = sự thật từng sản phẩm (cross-domain), mỗi trang prefix `<slug>-`. Sản phẩm #1: `maxpro` (nail grinder). = khu PRODUCT trên map.
   - **Routing khi /ingest:** cách-làm-lại-được → `method/<domain>/` (marketing / business / personal); fact 1 sản phẩm cụ thể → `products/<slug>/`. **Tri thức vận hành HỆ THỐNG (kiến trúc 4 vòng, học từ video):** learning/lý thuyết về second-brain → `method/personal/`; còn thay đổi ACTIONABLE cho vault → sửa thẳng CLAUDE.md / `.claude/commands/` / skills — hệ vận hành sống ở hạ tầng, KHÔNG phải Memory. Sản phẩm mới = tạo folder + prefix page bằng slug.
-- `briefs/` = output của bạn (brief + synthesis), có ngày. KHÔNG ingest.
+- `briefs/` = output đặc biệt: `/synthesis` tuần + report lớn (VOC, benchmark). KHÔNG ingest. (`/brief` hằng ngày đã TẮT 07/07 — user không đọc; brief cũ nằm `archive/briefs/`.)
 - `archive/` = execution cũ (plans, creative packs, daily logs). KHÔNG index vào brain, KHÔNG ingest. Projects mới = folder code riêng NGOÀI vault — brain thuần lưu trữ + query.
 - `.brain/` = lớp retrieval deterministic (ẩn khỏi Obsidian): `catalogue.tsv` (1 dòng/file toàn vault) + `topic-map.tsv` (heading→trang chủ quản) + scripts. **Brain-first rule: câu hỏi tri thức về vault → chạy `node .brain/scripts/recall.mjs "<câu hỏi>"` TRƯỚC, mở file SAU. KHÔNG grep/đọc lan man.** Semantic fallback (Việt↔Anh): `qmd query`. Ladder đầy đủ: `/ask`.
 
@@ -31,8 +31,7 @@ Next milestone:
 - `/ask`    : hỏi brain — ladder 2 lớp: recall.mjs (deterministic, 0 token) → qmd query (semantic). Trả lời cite [[wikilink]] + "Brain chưa biết" + stale warning.
 - `remember`: lưu fact 1 phát, 0 model — `.brain/scripts/remember.sh "fact"` (ghi sources/note-* + append catalogue).
 - `/ingest` : inbox -> sources + cập nhật wiki + index + rebuild catalogue + qmd update/embed
-- `/brief`  : đọc wiki -> 3 mục sáng, lưu briefs/
-- `/synthesis` : tổng hợp tuần, lưu briefs/
+- `/synthesis` : tổng hợp tuần (thesis + mâu thuẫn + gap + 1 hành động), lưu briefs/
 - `/lint`   : dọn wiki — mâu thuẫn / claim cũ / orphan / broken-link (ACTIVE). Broken-link/orphan đọc metadataCache qua `obsidian-cli` skill (chính xác hơn grep), lệnh sẵn trong lint.md.
 - Dashboard `.base` (mở trong Obsidian): `sources.base` (source theo type, swipe, mồ côi) · `wiki.base` (trang stale >45d 🔴, mồ côi, số nguồn/trang).
 - URL thô trong inbox → `/ingest` dùng `defuddle` skill kéo bản markdown sạch làm body source.

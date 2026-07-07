@@ -110,7 +110,9 @@ const ZONES = {
   personal:  { label: 'PERSONAL',  color: '#ffd84d' },
   business:  { label: 'BUSINESS',  color: '#b48cff' },
   marketing: { label: 'MARKETING', color: '#ff7bd0' },
-  briefs:    { label: 'BRIEFS',    color: '#94a3b8' },
+  // CHƯA NỐI = sources mồ côi (chưa trang wiki nào link tới) — signal hành động,
+  // khu này càng rỗng càng tốt. Briefs KHÔNG lên map (output phái sinh, không phải memory).
+  unfiled:   { label: 'CHƯA NỐI',  color: '#8b93a5' },
 };
 
 function zoneOfAxis(axis, p) {
@@ -118,7 +120,7 @@ function zoneOfAxis(axis, p) {
   if (axis === 'wiki-business') return 'business';
   if (axis === 'wiki-personal' || axis === 'wiki-meta') return 'personal';
   if (axis === 'wiki-product') return 'product';
-  if (axis === 'brief') return 'briefs';
+  if (axis === 'brief') return null; // briefs = output, không vẽ vào Memory
   if (axis === 'wiki') return null; // index.md = hạ tầng (bản đồ), không vẽ vào Memory
   return null; // sources → gán theo backlink
 }
@@ -163,9 +165,9 @@ export function buildMapData() {
   }
   for (const e of sourceEntries) {
     const counts = inbound[e.path];
-    const z = counts ? Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0] : 'briefs';
-    zoneMembers[counts ? z : 'briefs'].push(e);
-    pathZone[e.path] = counts ? z : 'briefs';
+    const z = counts ? Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0] : 'unfiled';
+    zoneMembers[z].push(e);
+    pathZone[e.path] = z;
   }
 
   // in-degree cho size
