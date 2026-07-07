@@ -10,10 +10,15 @@ import { VAULT, loadCatalogue } from './lib.mjs';
 
 // ---------- vòng hạ tầng ----------
 
-// Applications = connector thật đang dùng (ring khá tĩnh — cập nhật tay khi thêm)
+// Applications = MỌI thứ hệ thống chạm vào: MCP connector + CLI + service.
+// Ring khá tĩnh — thêm connector mới thì thêm dòng ở đây.
 const APPLICATIONS = [
-  'Obsidian', 'GitHub', 'Klaviyo', 'Apify', 'Shopify', 'Chrome',
-  'Google Drive', 'Cloudflare', 'Context7', 'Computer Use', 'X / Twitter', 'Vercel',
+  // MCP connectors
+  'Klaviyo', 'Apify', 'Shopify', 'Chrome', 'Chrome DevTools', 'Google Drive', 'Computer Use', 'Context7',
+  // CLI tools
+  'Obsidian', 'qmd', 'Cloudflare', 'GitHub', 'Vercel', 'defuddle', 'yt-dlp / ffmpeg', 'Playwright', 'Node / npm',
+  // Services hệ thống đọc/scrape
+  'X / Twitter', 'YouTube', 'Meta Ad Library', 'Amazon / Chewy', 'Whisper (Groq)',
 ];
 
 export function collectInfra() {
@@ -90,23 +95,23 @@ export function readLinksFromFiles() {
 
 // ---------- memory zones ----------
 
+// 5 khu Memory (META đã gộp vào PERSONAL — sơ đồ gốc không có khu vận hành
+// hệ thống trong Memory: cách vận hành sống ở CLAUDE.md/SKILLS/ROUTINES)
 const ZONES = {
   marketing: { label: 'MARKETING', color: '#ff7bd0', angle: 3.40 },
-  product:   { label: 'PRODUCT',   color: '#4dd6e8', angle: 5.70 },
-  business:  { label: 'BUSINESS',  color: '#b48cff', angle: 0.55 },
-  personal:  { label: 'PERSONAL',  color: '#ffd84d', angle: 1.60 },
-  meta:      { label: 'META',      color: '#2dd4bf', angle: 2.55 },
-  briefs:    { label: 'BRIEFS',    color: '#94a3b8', angle: 4.60 },
+  product:   { label: 'PRODUCT',   color: '#4dd6e8', angle: 5.80 },
+  business:  { label: 'BUSINESS',  color: '#b48cff', angle: 0.70 },
+  personal:  { label: 'PERSONAL',  color: '#ffd84d', angle: 1.90 },
+  briefs:    { label: 'BRIEFS',    color: '#94a3b8', angle: 4.70 },
 };
 
 function zoneOfAxis(axis, p) {
   if (axis === 'wiki-method') return 'marketing';
   if (axis === 'wiki-business') return 'business';
-  if (axis === 'wiki-personal') return 'personal';
-  if (axis === 'wiki-meta') return 'meta';
+  if (axis === 'wiki-personal' || axis === 'wiki-meta') return 'personal';
   if (axis === 'wiki-product') return 'product';
   if (axis === 'brief') return 'briefs';
-  if (axis === 'wiki') return 'meta'; // index.md
+  if (axis === 'wiki') return null; // index.md = hạ tầng (bản đồ), không vẽ vào Memory
   return null; // sources → gán theo backlink
 }
 

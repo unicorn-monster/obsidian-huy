@@ -43,11 +43,9 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 ## 💼 method/business/ — vận hành business (finance, CS, fulfillment)
 _Mở 07/07 — chưa có trang. Insight về finance / customer support / fulfillment / ops route vào đây._
 
-## 🧘 method/personal/ — mindset & vận hành bản thân
+## 🧘 method/personal/ — mindset, focus & vận hành bản thân + công cụ
 - [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
-
-## 🛠️ method/meta/ — cách vault tự bồi đắp
-- [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành, **Dataview query cho `/lint` (orphan/stale-project/pipeline/decision-log)**. Nguồn: cyrilXBT + engkhairallah.
+- [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành, **Dataview query cho `/lint` (orphan/stale-project/pipeline/decision-log)**. Nguồn: cyrilXBT + engkhairallah. _(Cách vận hành hệ thống ACTIONABLE → sửa thẳng CLAUDE.md / commands / skills, không lưu wiki — theo kiến trúc 4 vòng.)_
 
 ---
 

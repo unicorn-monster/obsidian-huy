@@ -32,9 +32,9 @@ Với mỗi file trong `inbox/`:
    |---|---|
    | Tactic marketing lại được, dùng cho MỌI sản phẩm (ads, funnel, creative, email…) | `wiki/method/marketing/` → vd `hooks.md`, `angles.md`, `offer-and-cta.md` |
    | Vận hành business: finance, customer support, fulfillment, ops | `wiki/method/business/` |
-   | Mindset, focus, vận hành bản thân | `wiki/method/personal/` |
+   | Mindset, focus, vận hành bản thân; learning/lý thuyết về second-brain & AI-workflow | `wiki/method/personal/` |
    | Sự thật của 1 SẢN PHẨM cụ thể (spec / avatar / competitor / VOC / page / funnel-ops) | `wiki/products/<slug>/`, mỗi trang prefix `<slug>-` → vd `wiki/products/maxpro/maxpro-avatars.md` |
-   | Cách vận hành CHÍNH cái vault / AI+Obsidian workflow (KHÔNG phải tactic business) | `wiki/method/meta/` |
+   | Thay đổi ACTIONABLE cho cách vault vận hành | KHÔNG lưu wiki — đề xuất sửa thẳng CLAUDE.md / `.claude/commands/` / skills (kiến trúc 4 vòng: hệ vận hành = hạ tầng, không phải Memory) |
 
    - Sản phẩm mới → tạo `wiki/products/<slug>/` + prefix trang bằng slug. Domain mới (sourcing…) → `wiki/method/<domain>/`.
    - 1 khái niệm = 1 trang: đã có trang gần đúng thì BỒI vào, đừng tạo trùng.

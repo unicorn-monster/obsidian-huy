@@ -1,17 +1,27 @@
 {
  "applications": [
-  "Obsidian",
-  "GitHub",
   "Klaviyo",
   "Apify",
   "Shopify",
   "Chrome",
+  "Chrome DevTools",
   "Google Drive",
-  "Cloudflare",
-  "Context7",
   "Computer Use",
+  "Context7",
+  "Obsidian",
+  "qmd",
+  "Cloudflare",
+  "GitHub",
+  "Vercel",
+  "defuddle",
+  "yt-dlp / ffmpeg",
+  "Playwright",
+  "Node / npm",
   "X / Twitter",
-  "Vercel"
+  "YouTube",
+  "Meta Ad Library",
+  "Amazon / Chewy",
+  "Whisper (Groq)"
  ],
  "skills": [
   "build-wiki",
