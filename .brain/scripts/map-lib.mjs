@@ -273,7 +273,7 @@ export function renderHtml(data, { live = false } = {}) {
 <div id="hud"><b>🧠 second brain</b> · ${data.counts.memory} memories · ${data.counts.skills} skills · ${data.counts.routines} routines · ${data.counts.apps} apps <span id="live">● live</span><div style="margin-top:2px;color:#666">built ${data.built}</div>
 <input id="find" placeholder="tìm file… (Enter = nhảy tới)" style="margin-top:8px;width:100%;background:#0a0a0f;border:1px solid #1e1e2e;color:#e0e0e0;padding:5px 8px;border-radius:5px;font:12px sans-serif;outline:none"></div>
 <div id="tip"></div>
-<div id="hint">scroll = zoom · kéo = pan · hover = tên · click = soi neighbor · <b>double-click = mở file trong Obsidian</b></div>
+<div id="hint">scroll = zoom · kéo = pan · hover = tên · click = soi neighbor · <b>double-click = mở file trong Obsidian</b> · Esc = bỏ chọn · / = tìm</div>
 <canvas id="c"></canvas>
 <script>
 let D=${JSON.stringify(data)};
@@ -348,15 +348,26 @@ function pick(mx,my){
 let drag=null;
 cv.onmousedown=e=>{drag={x:e.clientX,y:e.clientY,ox,oy,moved:false};cv.style.cursor='grabbing'};
 addEventListener('mouseup',e=>{if(drag&&!drag.moved){const p=pick(e.clientX,e.clientY);picked=p===picked?-1:p;draw()}drag=null;cv.style.cursor='grab'});
-// double-click = mở file thật (map thay thế Finder — cơ chế lõi từ video)
+addEventListener('mousemove',e=>{
+  if(drag){ox=drag.ox+e.clientX-drag.x;oy=drag.oy+e.clientY-drag.y;if(Math.abs(e.clientX-drag.x)+Math.abs(e.clientY-drag.y)>3)drag.moved=true;draw();return}
+  const p=pick(e.clientX,e.clientY);
+  if(p!==hover){hover=p;draw()}
+  if(p>=0){const n=D.nodes[p];tip.style.display='block';tip.style.left=e.clientX+14+'px';tip.style.top=e.clientY+14+'px';
+    tip.innerHTML='<b>'+(n.id.includes(':')?n.label:n.id)+'</b><br>'+n.kind+(n.zone?' · '+n.zone:'')+(n.in!=null?' · '+n.in+' backlink':'')}
+  else tip.style.display='none';
+});
+// double-click = mở file thật trong Obsidian (map thay thế Finder)
 cv.ondblclick=e=>{
   const p=pick(e.clientX,e.clientY);
   if(p<0)return;
   const n=D.nodes[p];
-  if(n.id.endsWith('.md')&&!n.id.startsWith('skill:')&&!n.id.startsWith('app:')&&!n.id.startsWith('routine:')){
+  if(n.id.endsWith('.md')&&!n.id.includes(':'))
     location.href='obsidian://open?vault=brain&file='+encodeURIComponent(n.id.replace(/\\.md$/,''));
-  }
 };
+addEventListener('keydown',e=>{
+  if(e.key==='Escape'){picked=-1;draw()}
+  else if(e.key==='/'&&document.activeElement!==find){e.preventDefault();find.focus()}
+});
 // search: gõ tên → Enter nhảy tới node (Enter tiếp = match kế)
 const find=document.getElementById('find');
 let fIdx=0;
@@ -373,14 +384,6 @@ find.onkeydown=e=>{
   draw();
 };
 find.oninput=()=>{fIdx=0;find.style.borderColor='#1e1e2e'};
-addEventListener('mousemove',e=>{
-  if(drag){ox=drag.ox+e.clientX-drag.x;oy=drag.oy+e.clientY-drag.y;if(Math.abs(e.clientX-drag.x)+Math.abs(e.clientY-drag.y)>3)drag.moved=true;draw();return}
-  const p=pick(e.clientX,e.clientY);
-  if(p!==hover){hover=p;draw()}
-  if(p>=0){const n=D.nodes[p];tip.style.display='block';tip.style.left=e.clientX+14+'px';tip.style.top=e.clientY+14+'px';
-    tip.innerHTML='<b>'+(n.id.startsWith('skill:')||n.id.startsWith('app:')||n.id.startsWith('routine:')?n.label:n.id)+'</b><br>'+n.kind+(n.zone?' · '+n.zone:'')+(n.in!=null?' · '+n.in+' backlink':'')}
-  else tip.style.display='none';
-});
 cv.onwheel=e=>{e.preventDefault();const f=Math.exp(-e.deltaY*0.0015);
   const mx=e.clientX-W/2,my=e.clientY-H/2;
   ox=mx-(mx-ox)*f;oy=my-(my-oy)*f;scale*=f;draw()};
