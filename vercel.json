@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node .brain/app/build.mjs",
+  "outputDirectory": ".brain/app/dist",
+  "framework": null
+}

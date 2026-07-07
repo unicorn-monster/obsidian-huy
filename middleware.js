@@ -1,6 +1,6 @@
-// Basic auth cho brain map trên Vercel (edge middleware — chạy được ở hobby plan).
-// Set env BRAIN_MAP_PASSWORD trong Vercel project → user: huy / pass: <env>.
-// Không set env = không khoá (đừng quên set).
+// Basic auth cho brain map trên Vercel (edge middleware, chạy được ở hobby plan).
+// Set env BRAIN_MAP_PASSWORD trong Vercel project → login: user `huy` / pass = env.
+// File này chỉ Vercel dùng — không liên quan vault.
 export const config = { matcher: '/(.*)' };
 
 export default function middleware(req) {
