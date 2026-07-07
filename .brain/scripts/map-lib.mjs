@@ -83,7 +83,12 @@ export function readResolvedLinks() {
 export function readLinksFromFiles() {
   const catalogue = loadCatalogue();
   const byBasename = {};
-  for (const e of catalogue) byBasename[path.basename(e.path, '.md')] = e.path;
+  for (const e of catalogue) {
+    byBasename[path.basename(e.path, '.md')] = e.path;
+    // hỗ trợ wikilink dạng path ([[kittysupps-adlib-images/index]]) khi basename trùng
+    byBasename[e.path.replace(/\.md$/, '')] = e.path;
+    byBasename[e.path.replace(/^sources\//, '').replace(/\.md$/, '')] = e.path;
+  }
   byBasename['CLAUDE'] = 'CLAUDE.md';
   const resolved = {};
   const scan = [...catalogue.map((e) => e.path), 'CLAUDE.md'];

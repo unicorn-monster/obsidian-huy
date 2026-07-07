@@ -29,7 +29,7 @@ Quiz replicate cùng logic: câu hỏi thu thập trigger → result page speak 
 ## Quiz = pre-purchase data collection (không chỉ warm-up) ([[dtcquizbuilder-quiz-prepurchase-data-validation]])
 Reframe mục đích quiz: ngoài việc warm-up + micro-commitment, quiz là **instrument thu thập dữ liệu khách hàng trước mua** — bổ sung (không thay) post-purchase survey. Câu hỏi thiết kế: **"What do I want to know about this customer?"** → liệt kê những thứ cần biết (pain trigger, solution-tried, goal, context) → đó là question bank.
 
-Hệ quả thực tiễn: mỗi câu hỏi phải kiếm được chỗ vì nó trả lời 1 điều bạn chưa biết về khách, chứ không chỉ để "emotional charge" hoặc "micro-commitment". Khi cả 2 mục đích gộp lại → quiz hoạt động như **live angle-validator ở quy mô**: câu nào khách trả lời xong rồi convert → bạn biết signal nào quyết định.
+Hệ quả thực tiễn: mỗi câu hỏi phải kiếm được chỗ vì nó trả lời 1 điều bạn chưa biết về khách, chứ không chỉ để "emotional charge" hoặc "micro-commitment". Khi cả 2 mục đích gộp lại → quiz hoạt động như **live angle-validator ở quy mô** ([[dtcquizbuilder-quiz-angle-validation-pre-purchase]]): câu nào khách trả lời xong rồi convert → bạn biết signal nào quyết định.
 
 > Tie [[angles]] (angle-to-quiz pipeline bên dưới) + "Segment & retarget bằng câu trả lời" cuối trang: zero-party data đó là output có giá trị kể cả khi khách không mua.
 

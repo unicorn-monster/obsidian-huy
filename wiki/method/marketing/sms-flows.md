@@ -5,7 +5,7 @@ updated: 2026-07-03
 
 # SMS flows — Klaviyo setup playbook (6 core flows)
 
-Owned-channel, lane song song với email ([[email-marketing]]). SMS đắt + dễ lạm dụng → chỉ dùng cho **launch, sale lớn, automated flows**. Scale proof: SMS có thể chiếm tới **77%** tổng email+SMS revenue ([[maxwellcopy-12m-email-sms-30days]]) và welcome-SMS song song = **+12% incremental** ([[maxwellcopy-sms-welcome-flow-109k]]).
+Owned-channel, lane song song với email ([[email-marketing]]). Setup gốc từng-flow: [[klaviyo-sms-flows-setup-guide]]. SMS đắt + dễ lạm dụng → chỉ dùng cho **launch, sale lớn, automated flows**. Scale proof: SMS có thể chiếm tới **77%** tổng email+SMS revenue ([[maxwellcopy-12m-email-sms-30days]]) và welcome-SMS song song = **+12% incremental** ([[maxwellcopy-sms-welcome-flow-109k]]).
 
 ## Format & proof (dồn từ [[email-marketing]] về đây 2026-07-03)
 - **Testimonial-SMS** ([[maxwellcopy-sms-4-templates-ecom]]): SMS hiện **ngay cạnh tin nhắn bạn bè/gia đình** → testimonial đọc như recommendation cá nhân, không như ad — context tự thuyết phục hộ. (Post chỉ lộ template #4/4; #1-3 không công khai.) Tie [[personas]] social-proof.

@@ -66,7 +66,7 @@ Bid cap = trần cứng; Meta chỉ vào auction tới giá đó. Để spend d�
 ## ⚠️ Algorithm trust decay — manual intervention signal (2026) ([[jforjacob-meta-manual-beats-algorithm]])
 
 > [!warning] Mâu thuẫn với "flood ads, Meta tự lọc" ở trên
-> jforjacob (DR/ecom, 2026-06-25): *"Meta is in a place where I trust it less than ever to spend on the right ads. Near 100% failure rate."* Surf scaled 2 ads Meta deprioritised → **top spenders in account at 50× the budget, CPA 4× lower than average**. Kết quả: càng manually intervene (tắt ads Meta ưu ái, push spend tay vào ads Meta không chọn) → kết quả càng tốt.
+> jforjacob (DR/ecom, 2026-06-25): *"Meta is in a place where I trust it less than ever to spend on the right ads. Near 100% failure rate."* Surf scaled 2 ads Meta deprioritised → **top spenders in account at 50× the budget, CPA 4× lower than average**. Kết quả: càng manually intervene (tắt ads Meta ưu ái, push spend tay vào ads Meta không chọn) → kết quả càng tốt. (Bản manual-override chi tiết: [[jforjacob-meta-manual-override-algo]].)
 
 Đây là **counter-signal** trực tiếp với thesis "flood + let algorithm decide winner" của nkecom. Không có đủ data để kill thesis cũ, nhưng là tín hiệu quan trọng cần theo dõi:
 

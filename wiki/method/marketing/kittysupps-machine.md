@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match]
-updated: 2026-06-30
+sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, kittysupps-adlib-families-index, kittysupps-adlib-verbatim-litter, kittysupps-adlib-verbatim-vomiting, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match, therapetmd-dog-funnel-research-2026-06]
+updated: 2026-07-07
 ---
 
 # KittySupps machine — case study long-form VSL ($500k/mo)
@@ -52,6 +52,13 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 
 ## CTA = rescue + warning + deny-the-sale
 "Tự cứu mèo đi, nhưng ĐỪNG mua trên Amazon — toàn counterfeit." EDIT giả vô tình ("quên gắn link"). Dual **P.S./P.P.S.** recap mechanism + số + villain + lặp link. → [[offer-and-cta]] · funnel proof-evaporation [[funnel-and-landing]].
+
+## Kho swipe đính kèm (raw, đọc khi cần verbatim)
+- [[kittysupps-adlib-families-index]] — 240 creative family distinct (bản đồ toàn corpus)
+- [[kittysupps-adlib-verbatim-litter]] — verbatim ad #1 re-upload (litter-clump/kidney, Margaret Rose)
+- [[kittysupps-adlib-verbatim-vomiting]] — verbatim skeleton chuẩn nhất (vomiting/pate, Shelter Vet)
+- Image bank top-50 winner: [[kittysupps-adlib-images/index|kittysupps-adlib-images]]
+- **Case song song ngành chó:** [[therapetmd-dog-funnel-research-2026-06]] — diffuser pheromone ~$1M+/tháng, 323 active ads / 6 page đổ về 1 domain; cùng playbook census, khác species + mechanism. Đối chiếu khi cần angle chó cho MaxPro.
 
 ## → Bê sang MaxPro grinder (actionable)
 
