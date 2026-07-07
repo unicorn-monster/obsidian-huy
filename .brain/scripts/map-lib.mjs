@@ -270,9 +270,10 @@ export function renderHtml(data, { live = false } = {}) {
   #hint{position:fixed;bottom:12px;left:14px;color:#555;z-index:2}
   #live{color:#22c55e;display:none}
 </style>
-<div id="hud"><b>🧠 second brain</b> · ${data.counts.memory} memories · ${data.counts.skills} skills · ${data.counts.routines} routines · ${data.counts.apps} apps <span id="live">● live</span><div style="margin-top:2px;color:#666">built ${data.built}</div></div>
+<div id="hud"><b>🧠 second brain</b> · ${data.counts.memory} memories · ${data.counts.skills} skills · ${data.counts.routines} routines · ${data.counts.apps} apps <span id="live">● live</span><div style="margin-top:2px;color:#666">built ${data.built}</div>
+<input id="find" placeholder="tìm file… (Enter = nhảy tới)" style="margin-top:8px;width:100%;background:#0a0a0f;border:1px solid #1e1e2e;color:#e0e0e0;padding:5px 8px;border-radius:5px;font:12px sans-serif;outline:none"></div>
 <div id="tip"></div>
-<div id="hint">scroll = zoom · kéo = pan · hover = tên · click = soi neighbor</div>
+<div id="hint">scroll = zoom · kéo = pan · hover = tên · click = soi neighbor · <b>double-click = mở file trong Obsidian</b></div>
 <canvas id="c"></canvas>
 <script>
 let D=${JSON.stringify(data)};
@@ -347,6 +348,31 @@ function pick(mx,my){
 let drag=null;
 cv.onmousedown=e=>{drag={x:e.clientX,y:e.clientY,ox,oy,moved:false};cv.style.cursor='grabbing'};
 addEventListener('mouseup',e=>{if(drag&&!drag.moved){const p=pick(e.clientX,e.clientY);picked=p===picked?-1:p;draw()}drag=null;cv.style.cursor='grab'});
+// double-click = mở file thật (map thay thế Finder — cơ chế lõi từ video)
+cv.ondblclick=e=>{
+  const p=pick(e.clientX,e.clientY);
+  if(p<0)return;
+  const n=D.nodes[p];
+  if(n.id.endsWith('.md')&&!n.id.startsWith('skill:')&&!n.id.startsWith('app:')&&!n.id.startsWith('routine:')){
+    location.href='obsidian://open?vault=brain&file='+encodeURIComponent(n.id.replace(/\\.md$/,''));
+  }
+};
+// search: gõ tên → Enter nhảy tới node (Enter tiếp = match kế)
+const find=document.getElementById('find');
+let fIdx=0;
+find.onkeydown=e=>{
+  if(e.key!=='Enter')return;
+  const q=find.value.trim().toLowerCase();
+  if(!q)return;
+  const matches=D.nodes.map((n,i)=>({n,i})).filter(({n})=>n.id.toLowerCase().includes(q)||n.label.toLowerCase().includes(q));
+  if(!matches.length){find.style.borderColor='#ef4444';return}
+  find.style.borderColor='#22c55e';
+  const {n,i}=matches[fIdx++%matches.length];
+  picked=i;
+  ox=-n.x*scale;oy=-n.y*scale; // căn node vào giữa màn hình
+  draw();
+};
+find.oninput=()=>{fIdx=0;find.style.borderColor='#1e1e2e'};
 addEventListener('mousemove',e=>{
   if(drag){ox=drag.ox+e.clientX-drag.x;oy=drag.oy+e.clientY-drag.y;if(Math.abs(e.clientX-drag.x)+Math.abs(e.clientY-drag.y)>3)drag.moved=true;draw();return}
   const p=pick(e.clientX,e.clientY);
