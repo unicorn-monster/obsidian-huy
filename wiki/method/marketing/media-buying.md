@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics]
-updated: 2026-07-07
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons]
+updated: 2026-07-08
 ---
 
 # Media buying + testing (Meta 2026)
@@ -232,3 +232,31 @@ jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pret
 
 > [!note] MaxPro hiện tại
 > Còn xa $100k/tháng → bài học **chưa** áp dụng trực tiếp về budget. Nhưng insight đúng ngay: khi fundamentals proven (CPA ổn định, CVR confirm, pixel seasoned), đừng để sợ hãi là lý do không scale. Tập trung prove fundamentals trước.
+
+## Scaling seasons — biết khi NÀO không scale ([[dtcmidas-scaling-seasons]])
+
+DTCMidas: hit 7-fig/month bootstrapped bằng cách biết khi nào **KHÔNG** scale.
+
+**Ecom tăng trưởng KHÔNG tuyến tính.** Có 2 mùa:
+
+| Mùa | Dấu hiệu | Hành động |
+|---|---|---|
+| **Scaling season** | Mọi ad đều ăn, budget + revenue tăng hàng ngày | Go hard — scale mạnh khi thị trường + algorithm đang hỗ trợ |
+| **Slow season** | Ad launch là lỗ, efficiency tank toàn bộ | Giảm spend, bảo vệ margin — không cố force scale |
+
+**Cash flywheel:** giảm spend slow season → preserve margin → deploy nhiều hơn khi scaling season quay lại → baseline tăng mỗi cycle → long-term compounding. *"Each scaling season should increase your baseline."*
+
+**Trong slow season — focus inputs, không spend:**
+- Test creative mới
+- Test offer mới
+- Launch sản phẩm mới
+→ Khi market quay lại, có đủ đạn để tận dụng
+
+> [!warning] Slow season ≠ nghỉ
+> Đừng dùng slow season làm cope. Tiếp tục inputs thực sự — không phải "đợi thị trường tốt." Slow season là giai đoạn đầu tư chuẩn bị, không phải dừng.
+
+**Reconcile với thesis flood-ads / manual scaling:** không mâu thuẫn. "Scale hard" vẫn dùng surf scaling + kill-criteria + CBO pruning (§§ trên). Scaling seasons là **macro timing layer** — biết khi nào bỏ gas. Micro ad-management (flood, surf, prune) vẫn áp dụng trong mùa scale.
+
+Tie [[dtcmidas-dont-copy-funded-brands]] — funded brand có thể ignore slow season (dùng raise); bootstrapped phải protect margin. Tie §Bootstrapped brand creative edge (phải thắng bằng craft, bukan budget).
+
+→ MaxPro: khi mọi ad launch đều không ăn một cách systematic (không phải 1-2 creative fail) → likely slow season → reduce spend, redirect energy sang creative/offer testing. Đừng giải thích bằng "creative tệ" khi vấn đề là market timing.

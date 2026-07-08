@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown]
-updated: 2026-07-07
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow]
+updated: 2026-07-08
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -126,3 +126,26 @@ Gruns gửi **3-4 campaign/tuần** (frequency không lạ ở tầm $100M) — 
 
 ---
 **Áp dụng MaxPro / pet store ($100k goal):** ưu tiên #1 (mystery discount abandonment) vì có data + dùng Klaviyo sẵn; **#6 founder winback** = easy-win tuần này trên list chưa-mua (chạy bằng skill `plain-text-email`); **SMS welcome +12%** → setup bên [[sms-flows]], mở khi list ~500+ subscriber; #3/#4 là format swipe cho broadcast; #2/#5 là free tweak (#2 giờ 2-nguồn). Subscription (onboarding / metrics / rebill) để DÀNH → [[subscription-retention]]. Tất cả thuộc lever **owned/retention** — bổ trợ, không thay paid creative của [[ugly-ads-method]].
+
+## Welcome flow — setup + 7-email structure ([[maxwellcopy-email-welcome-flow]])
+
+**Setup TRƯỚC khi động vào bất kỳ email nào** (nếu sai ở đây, email viết tốt đến đâu cũng vô dụng):
+- Turn double opt-in **off**
+- Fire email #1 **ngay lúc signup** (không delay)
+- Time delay giữa các email: **1-2 ngày**
+- Nhắc discount **trong mọi email** trong flow
+
+**7 email, mỗi email 1 job:**
+
+| Email | Job | Ghi chú |
+|---|---|---|
+| **#1 Welcome** | Giao discount + link ngay | Code + button ở top, 1 dòng về brand. Không hơn. |
+| **#2–5 Trust builders** | Top of mind khi khách đang so sánh đối thủ | Pick 3-4: story · FAQ · how it works · ingredients · social proof · differentiation · bestsellers. Nhắc discount mỗi email. |
+| **#6 Last chance** | Pure urgency — không gì khác | "Code sắp hết hạn" + button. Simple nhất thường ăn nhất. |
+| **#7 Founder text** | Win back người còn do dự | Plain-text từ founder: "Saw you didn't use your code, extended 24h, reply nếu có câu hỏi." Đọc như tin nhắn người thật → consistently top converter trong flow. |
+
+Email #7 cùng tư duy với §6 (founder winback plain-text) — raw/human beats designed. Tie [[offer-and-cta]] (FOMO ở #6) + [[personas]] (founder presence = trust anchor ở #7).
+
+**Compounding tactic:** lấy campaign đang rips, thêm 1 dòng nhắc welcome discount, swap vào vị trí email yếu nhất trong flow → flow tự mạnh lên không viết email mới. Cùng tinh thần #5 (resend top performer) + Chase Dimond §10 lessons (swap campaign winner vào flow).
+
+→ MaxPro: nếu chưa có welcome flow, đây là setup #1 trước mọi tactic khác. Email #1: giao code + "quiet grinder không làm chó đau"; #2-4: story + FAQ noise + testimonials; #6: "code hết 24h"; #7: founder note tay.

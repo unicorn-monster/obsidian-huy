@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock]
-updated: 2026-07-06
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules]
+updated: 2026-07-08
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -135,3 +135,24 @@ Cùng nguyên lý với bootstrap-vs-funded ([[media-buying]] §bootstrapped edg
 
 > [!note] Cho MaxPro hiện tại
 > Grinder chưa phải sub brand. Nhưng tín hiệu này đúng ngay bây giờ: **đừng thuê agency pitch "we handle your email flows"** — cái đó AI làm được rẻ hơn. Khi đủ revenue mở sub/consumable: tìm agency hiểu retention health + biết đọc Shopify cohort data, không chỉ Klaviyo dashboard.
+
+## 11 unspoken rules — 9-figure sub brands ([[maxwellcopy-subscription-11-rules]])
+
+Bổ sung + xác nhận các framework trên. **Rule 8** là insight MỚI chưa có chỗ nào trong trang này.
+
+| # | Rule | Link trang này |
+|---|---|---|
+| 1 | Không quá **3 email/tháng** cho active subscribers | — |
+| 2 | **Aggressively test billing reminders** — transactional-looking → push cancel | §Day-30 + billing A/B −33% |
+| 3 | **Không dùng Klaviyo placed order revenue** — gồm rebills. Custom metric exclude chúng | §4 metric (SUB-1) |
+| 4 | **Cadence = product usage** — quá nhiều product = #1 lý do cancel | §5 nguyên tắc onboarding |
+| 5 | **Sub-maxx PDP:** auto-select sub · 30+90 day option · aggressive discount | §take-rate (SUB-1) |
+| 6 | **Onboarding = habit + educate + community** — không push upsell sớm | §21-day framework |
+| 7 | **Không hứa kết quả nhanh** — sell 90+ day commitment trước khi thấy gì | §Phase-1 pre-frame |
+| 8 | **Không cho pause — chỉ delay hoặc cancel** ⭐ MỚI | — |
+| 9 | **Cancel incentives theo lý do:** too-much-product → skip/delay · price-worry → discount | §recovery 15-20% |
+| 10 | **Take rate ≠ win** nếu cancel trước Order 3 — track O-series | §4 metric O2/O4/O6 |
+
+**Rule 8 — no-pause policy (insight mới):** không ai bao giờ un-pause subscription; pause chỉ delay churn trong khi làm hỏng metric cohort. Thay bằng 2 lựa chọn: "delay X tuần" (giữ sub active) hoặc "cancel với incentive phân nhánh" (rule 9). → khi mở sub: remove pause từ đầu, không phải sửa sau.
+
+Rule 3 xác nhận §4 metric (SUB-1) về custom Klaviyo metric. Rule 7 confirm §Phase-1 pre-frame 90 ngày. Rule 2 confirm §billing A/B. Rules 1-10 cùng nhau tạo operating checklist cho sub brand mới.
