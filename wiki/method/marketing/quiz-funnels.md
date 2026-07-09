@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown]
-updated: 2026-07-07
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis]
+updated: 2026-07-09
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -68,6 +68,24 @@ Quiz viết CUỐI, không phải đầu. Process từ @DTC_Quizbuilder:
 [[dtcquizbuilder-javvy-quiz-solution-aware]]: audience solution-aware → quiz ngắn (**9-step**, ko cần educate nhiều). Step 1-5 micro-commitment low-threat → step 6 full-screen agitation (*"what's REALLY in your coffee?"*) → step 7-9 close. 2 trick:
 - **Shameful-no:** đáp án "No" = identity nhục ai cũng né (*"No, I love overpaying for coffee"*) → forcing function, fence-sitter convert vì inaction tệ hơn action.
 - **Self-prescribed quantity anchoring:** hỏi "mấy ly/ngày? mấy scoop?" TRƯỚC khi show offer → bundle price trên result page = *"khách tự kê đơn"*, không phải pitch. Để quiz tự upsell.
+
+## Diagnostic benchmarks — start rate & completion-to-purchase ([[dtcquizbuilder-quiz-funnel-diagnosis]])
+Framework đọc quiz funnel từ "shit" → top performer. 2 metric cốt yếu:
+
+**1. Start rate (người bắt đầu quiz / người vào trang)**
+- 17% = kém · 31% = tốt
+- Driven by: **ad-to-Q1 alignment** — ad nói gì, câu hỏi đầu tiên phải nối đúng chỗ đó
+- Fix: *"What is the ad saying? What is the first question saying?"* — offer/positioning phải khớp, đủ promising để tiếp tục
+
+**2. Completion-to-purchase rate (người complete quiz / người mua)**
+- **15-25%** = quiz đang xây intent thật (selling them)
+- **<15%** = quiz chỉ là cái barricade, không bán được gì
+- Driven by: **intent-building** — quiz có thật sự làm customer cảm thấy họ có vấn đề không? Có cho họ lý do logic để mua hôm nay không?
+
+**Root cause:** positioning của quiz. Khi outcome rõ ràng + khớp message trong ad account → almost 3× revenue từ 1 fix đơn giản.
+
+> [!note] Liên hệ benchmarks với các section khác
+> Start rate 31% vs 17% = hệ quả trực tiếp của congruency (§Congruency = câu hỏi #1). Completion-to-purchase 15-25% = kết quả của question-charge đúng (§Question-charge), không phải luck. → MaxPro: measure 2 số này TRƯỚC khi change gì — biết đang fail ở đâu (acquisition vs conversion) mới chọn đúng lever.
 
 ## Drop-off diagnosis — tối ưu completion
 Mỗi câu có drop-off riêng; tìm câu chảy máu nhất → split-test tới khi về bình thường. Case: Q4 "What solutions tried?" options quá dài + nhiều → rút còn **4 options + "None of the above"** → drop 22% → 9%, completion 19% → 25%.

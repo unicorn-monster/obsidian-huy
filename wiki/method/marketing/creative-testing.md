@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown]
-updated: 2026-07-07
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent]
+updated: 2026-07-09
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -52,6 +52,13 @@ Cần đủ spend/creative để con số đáng tin. Test 15 thứ × $5 = mua 
 @maxwellcopy (agency, 100+ clients): **10+ A/B tests/client/month** = 1,000+ data point mỗi tháng. Cơ chế lan truyền: mọi **conclusive result** đổ vào 1 Slack channel company-wide → ai cũng "steal" winner. *"We get a SHIT TON of data and that's how we find winning concepts and angles."*
 
 Solo insight: không phải về quy mô — mà về **closing the loop**: winner PHẢI có chỗ sống sau khi test xong. Tracker (§ naming+tracker ở trên) là Slack channel cá nhân. Không đủ "chạy test", cần "hệ thống hấp thụ kết quả test". Tie [[email-marketing]] § resend-top-performer: winner không chết — được replay.
+
+## AI-assisted ad production — early signal ([[0xroas-ai-ads-agent]])
+@0xROAS (2026-07-09): GPT 5.6 Sol + Seedance 2.0 agent for end-to-end ad creation from a single prompt — brolls, talking head, character-doing-actions. Signal = AI creative production đang reach "one prompt → full ad" threshold.
+
+Hàm ý cho testing regime: production cost/ad tiếp tục giảm → barrier để flood volume (Gruns 900+ ad) giảm theo. Nhưng **isolate-one-layer vẫn đúng**: AI chạy nhiều asset nhanh hơn không có nghĩa là bỏ signal discipline — vẫn cần tag đúng để extract pattern. Tie [[market-awareness]] §unaware pool: AI giỏi copy "fast ad" format nhưng vẫn cần operator input để viết unaware creative không flat.
+
+> Theo dõi Seedance 2.0 + GPT Sol agent khi production budget cho MaxPro mở rộng — có thể thay thế costly UGC production cho B-roll/talking-head format.
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.

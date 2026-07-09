@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow]
-updated: 2026-07-08
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow]
+updated: 2026-07-09
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -68,6 +68,14 @@ Insight cao độ nghịch-lý (từ $250M+ ecom email marketing):
 - **Abandonment flow: split by cart value.** Cart nhỏ = reminder; cart lớn có thể cần discount (bảo vệ margin theo threshold).
 - **Replenishment email: theo rebuy cycle thật, không "day 30" round.** Gửi khi người ta thực sự rebuy — đa số brand đang đoán. (Sub context → [[subscription-retention]] driver 7.)
 - **AI tốt nhất trong retention = VOC mining.** Đào review + support ticket lấy exact language khách dùng, không phải "viết email". Tie [[creative-brief]] (VOC-mining prompt).
+
+## Quiz pop-up → welcome flow segmentation ([[maxwellcopy-quiz-popup-welcome-flow]])
+Easy conversion lift most brands skip: brands run quiz pop-ups but do nothing with the answers. Fix in 3 steps:
+1. Run a quiz pop-up (AliaPopups = recommended tool, high converting)
+2. Tag subscribers by their answer in Klaviyo
+3. Customize first 1-2 emails in the welcome flow to match what they chose
+
+Cơ chế = relevance at the moment of highest intent (just subscribed). Ngay cả 1 biến thay đổi (quiz angle vs generic discount angle) trong email #1-2 đã tăng conversion. Tie [[quiz-funnels]] (quiz pop-up = quiz-style pop-up 15-20% opt-in §Gruns) + §Welcome flow 7-email structure (email #1-2 = chỗ can thiệp). → MaxPro: quiz Q1 = "size chó bạn?" hoặc "đã từng làm chảy máu?"; welcome #1 chia nhánh: large-breed → doorway power, "đã chảy máu" → safety/quick-guard angle.
 
 ## Popup personalization at scale — Prism AI ([[maxwellcopy-prism-ai-popup-personalization]])
 Popup đọc context visitor (first-visit / returning / gender / segment) → rebuild nội dung tương ứng → machine học cái nào convert → serve nhiều hơn. Sofa Club (ecom): **+21% email signups, +15% SMS, +17% attributed orders** từ cùng 1 popup vị trí. Cơ chế tương tự quiz funnel ([[quiz-funnels]]) — personalization tăng relevance → conversion. → MaxPro trigger: khi list ~1k+ subscriber, test 2 variant popup (first-visit vs returning customer) trước khi đầu tư AI. Khởi đầu bằng Klaviyo conditional block hoặc Privy segment-based display.
