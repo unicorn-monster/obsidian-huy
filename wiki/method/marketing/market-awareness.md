@@ -1,9 +1,14 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications]
-updated: 2026-07-09
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages]
+updated: 2026-07-10
 ---
 
 # Market awareness + sophistication (grinder)
+
+> [!warning] 3 khái niệm KHÁC NHAU hoàn toàn — đừng dùng lẫn ([[dtcmidas-awareness-sophistication-funnel-stages]])
+> **Awareness levels** (Schwartz: Unaware → Problem → Solution → Product → Most Aware) · **Sophistication levels** (market đã NGHE gì — L1 simple claim → L5 hyper, xem ladder dưới) · **Funnel stages** (TOF/MOF/BOF — vị trí trong hành trình mua). Ba chiều độc lập: 1 prospect có thể là Product-Aware (awareness) ở sophistication L3 nhưng vẫn đang TOF (funnel stage = chưa thêm giỏ). Dùng lẫn = sai copy và sai page.
+
+
 
 Nguồn: [[heusom-silent-groom-research]] (Schwartz framing). Reusable cho mọi grinder.
 
