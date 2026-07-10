@@ -11,6 +11,18 @@ Với mỗi file trong `inbox/`:
 1. Đọc nội dung. Suy ra `type`: clip (article/thread/sale page) | swipe (ad/creative/hook đối thủ) | learning (kết quả test của tôi) | idea (suy nghĩ của tôi).
    **URL thô:** nếu file chỉ là link (body rỗng hoặc mỗi cái URL — clipper không kéo được nội dung) → dùng kepano `defuddle` skill kéo bản markdown sạch: `npx defuddle-cli parse "<url>" --md`. Output làm body source ở bước 3 (ngoại lệ DUY NHẤT được thay body, chỉ tại thời điểm ingest — vào `sources/` rồi thì bất biến như thường). Ghi bằng **Write tool**, không shell redirect. URL gốc giữ vào frontmatter `source:`. Defuddle lỗi (paywall, JS-render) → giữ nguyên URL làm body + ghi chú trong summary.
    (Hiện CHỈ 1 mảng marketing nên KHÔNG dùng `domain`. Tới khi mở mảng 2 — finance/fulfillment — mới thêm `domain`.)
+
+1b. **ĐỌC ẢNH CÓ CHỌN LỌC (BẮT BUỘC — với clip/swipe hay có screenshot annotate, 80% insight nằm trong ảnh, KHÔNG được bỏ qua):**
+   Quét MỌI `![](...)` / `![[...]]` / `<img>` trong body. Với mỗi ảnh, phân loại bằng URL/context xung quanh:
+   - **BỎ QUA (rác trang trí):** `.gif` (tenor/giphy), "page icon"/favicon/logo, avatar, spacer, ảnh `width` rất nhỏ (<300px nếu URL có param width), emoji-image. Đừng tải.
+   - **PHẢI ĐỌC (mang insight):** screenshot có annotate (mũi tên/khoanh/highlight), ảnh UI/dashboard (Google Ads, Shopify, FB Ads Manager…), sơ đồ/flow/funnel, bảng số liệu, ví dụ ad/creative/landing page, before/after. Đây là loại mà caption text quanh nó chỉ mỏng.
+   Cách đọc (unattended-friendly, KHÔNG here-doc/redirect):
+   a. Tải ảnh candidate về temp bằng `curl -sL "<img-url>" -o "/tmp/ingest-img-<n>.<ext>"` (absolute path, KHÔNG `cd`). Notion URL proxy vẫn tải được trực tiếp.
+   b. **Read tool** (vision) từng file đã tải → trích chữ trong ảnh + insight (layout, con số, keyword list, cấu trúc funnel, góc ad…).
+   c. Fold insight từ ảnh vào wiki ở bước 4 **NGANG HÀNG với insight từ text** — đừng phân biệt nguồn text vs ảnh. Nếu 1 ảnh là toàn bộ 1 tactic (vd screenshot 5 comparison-keyword) → tactic đó phải vào wiki đầy đủ.
+   d. curl lỗi / ảnh hỏng / paywall → ghi chú trong summary ("N images unreadable"), tiếp tục. Body source `sources/` giữ NGUYÊN link ảnh (bất biến) — ta chỉ đọc để trích, KHÔNG nhúng ảnh vào source.
+   Cuối: xoá temp `rm -f /tmp/ingest-img-*`. Trong summary ghi rõ: `<đọc>/<tổng>` ảnh đã vision-read + 1 dòng insight chính rút từ ảnh (nếu có).
+
 2. Thêm/chuẩn hoá frontmatter (clipper điền `created` → đổi thành `date`; giữ `author`/`title` nếu clipper có):
    ```
    ---
@@ -72,4 +84,4 @@ Quy tắc:
 - `wiki/` bạn sở hữu hoàn toàn: viết, sửa, tái cấu trúc thoải mái.
 - Theo kepano `obsidian-markdown` skill cho cú pháp.
 
-End: print a short summary **in English** — files ingested + type, wiki pages created/updated, open-question impact + proposed actions (≤3 each), and the commit/push result (hash or "no-op").
+End: print a short summary **in English** — files ingested + type, **images vision-read (`<read>/<total>` per file + key insight pulled from images)**, wiki pages created/updated, open-question impact + proposed actions (≤3 each), and the commit/push result (hash or "no-op").
