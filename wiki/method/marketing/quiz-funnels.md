@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis]
-updated: 2026-07-09
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, ecom-amin-5-google-ads-funnels-13m]
+updated: 2026-07-10
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -160,6 +160,8 @@ Gruns chạy **full-page quiz-style pop-up** convert **15-20% opt-in** (industry
 
 ## Build nhanh (tool)
 Shopify: **Octane AI** (native, sync answer → Klaviyo), RevenueHunt, hoặc Typeform/custom Liquid+JS. **Progress bar +20-30% completion.** Image-based answer > text-only. Quiz = 1 trong 4 format presell → so sánh & benchmark ở [[presell-pages]].
+
+Builder khác hay được nêu cho quiz-as-Google-funnel ([[ecom-amin-5-google-ads-funnels-13m]], từ ảnh): **Involve.me · Heyflow · UseKinetic · Woobox · Gozen** (no-code, có tracking drop-off/completion built-in). Cùng nguồn xác nhận benchmark: **completion >65%**, results→purchase **>5%**; câu #1 = "the decider" phải hiện above-fold trên mobile; **show-the-logic** ở results (giải thích vì sao recommend product này theo zero-party data họ vừa nhập — đừng dump thẳng ra PDP).
 
 ## Cho MaxPro? (đánh giá thật)
 Quiz mạnh nhất cho supplement/health (diagnostic triệu chứng). Grinder = tool vật lý → quiz yếu hơn nhưng làm được: *"Tình trạng móng chó bạn?"* → breed/size (route theo size; large-breed = doorway power thật ~150lb, **KHÔNG** qualify-out — [[maxpro-product-truth]]) → đã thử clipper/groomer? → sợ gì nhất → data feed retarget + email. **Nhưng:** listicle pre-sell ([[funnel-and-landing]]) khả thi & rẻ hơn nhiều cho v0 — cân nhắc cái đó TRƯỚC quiz.
