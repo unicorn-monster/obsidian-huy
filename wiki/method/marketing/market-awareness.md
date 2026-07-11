@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages]
-updated: 2026-07-10
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide]
+updated: 2026-07-11
 ---
 
 # Market awareness + sophistication (grinder)
@@ -8,7 +8,17 @@ updated: 2026-07-10
 > [!warning] 3 khái niệm KHÁC NHAU hoàn toàn — đừng dùng lẫn ([[dtcmidas-awareness-sophistication-funnel-stages]])
 > **Awareness levels** (Schwartz: Unaware → Problem → Solution → Product → Most Aware) · **Sophistication levels** (market đã NGHE gì — L1 simple claim → L5 hyper, xem ladder dưới) · **Funnel stages** (TOF/MOF/BOF — vị trí trong hành trình mua). Ba chiều độc lập: 1 prospect có thể là Product-Aware (awareness) ở sophistication L3 nhưng vẫn đang TOF (funnel stage = chưa thêm giỏ). Dùng lẫn = sai copy và sai page.
 
+## 3 chiều = "property of" khác nhau ([[dtcmidas-awareness-sophistication-funnel-stage-guide]]) ⭐
+Full article giải thích rõ vì sao 3 khái niệm KHÔNG interchangeable — mỗi cái là thuộc tính của 1 đối tượng khác nhau:
+- **Awareness** = thuộc tính của **1 NGƯỜI** với **1 vấn đề**. VD ngủ: "lúc nào cũng mệt" = problem aware (thấy đau nhưng chưa nối ra giải pháp) → "magnesium có thể fix" = solution aware (biết loại giải pháp, chưa chọn sản phẩm) → "muốn magnesium hãng X, đợi giảm giá" = most aware (không cần thuyết phục gì thêm, chỉ cần 1 lý do hành động NGAY). Awareness càng thấp = càng cần educate TRƯỚC KHI giới thiệu sản phẩm; pitch discount cho người còn chưa biết mình có vấn đề = nhảy cóc hết cả đoạn hội thoại.
+- **Sophistication** = thuộc tính của **CẢ THỊ TRƯỜNG** với **các lời hứa (claims)** đã nghe — KHÔNG phải của 1 cá nhân, mà là "scar tissue" cộng dồn toàn thị trường. Market mới: 1 claim đơn giản đủ bán (quảng cáo giảm cân đầu tiên chỉ cần "Now! Lose ugly fat!"). Hàng ngàn diet/pill sau: cùng lời hứa đó bị lướt qua, không ai tin nữa → cần proof + mechanism MỚI. GLP-1 là ví dụ sophistication cao nhất vẫn bán chạy: vì mang **mechanism hoàn toàn mới** (hormone tắt cảm giác thèm ăn) + clinical proof + kết quả nhìn thấy bằng mắt.
+- **Funnel stage** = thuộc tính của quan hệ người đó với **BRAND của bạn** (TOF = chưa từng biết bạn · MOF = biết nhưng chưa tin đủ để mua · BOF = gần mua). Funnel stage KHÔNG nói gì về mức độ họ hiểu vấn đề/giải pháp/category — chỉ nói họ "ấm" với brand bạn tới đâu.
 
+**2 combo dễ làm sai (khi gộp 3 trục):**
+1. **Most aware + sophistication L1:** startup phát minh máy teleport tiêu dùng đầu tiên thế giới, chưa ai từng thấy quảng cáo loại này (= sophistication gần như 0, không ai từng bị "đốt" bởi lời hứa vỡ). Một tech enthusiast đã theo dõi 6 tháng, biết brand, biết máy, chỉ đợi link pre-order → most aware trong 1 market sophistication cực thấp.
+2. **Solution aware + TOF + sophistication cao:** người bị hangover nặng biết mình cần electrolyte powder nhưng chưa từng nghe Liquid IV, và thị trường đã có hàng chục brand cùng claim "hydrate nhanh" → claim đơn thuần không thuyết phục nổi ai ở mức sophistication này.
+
+**3 câu hỏi trước khi viết copy:** (1) Reader aware tới đâu → set lượng education cần TRƯỚC pitch. (2) Market sophisticated tới đâu → set lượng proof cần + có cần mechanism mới không. (3) Họ ấm với BRAND tới đâu → set giới thiệu bản thân hay đẩy thẳng offer. Ảnh minh hoạ nguồn: đầu người với 3 thanh trượt (slider) độc lập, mỗi trục 1 vị trí riêng — đúng ẩn dụ "3 dial tách biệt trong đầu khách", không cái nào kéo theo cái nào.
 
 Nguồn: [[heusom-silent-groom-research]] (Schwartz framing). Reusable cho mọi grinder.
 
