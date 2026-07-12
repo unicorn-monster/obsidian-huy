@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing]
-updated: 2026-07-07
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages]
+updated: 2026-07-12
 ---
 
 # Offer + CTA mechanics
@@ -63,6 +63,15 @@ Khi offer đã mạnh, phủ KHẮP NƠI: social proof (review/UGC) · authority
 ## Kể STORY của offer — tease xuyên trang, đừng chôn ⭐
 Nguồn: [[scalabilityschool-50-angle-strategy]] (Zach/Hollow). Đa số brand kể offer quá dở: nhét vào top-bar (khách scroll qua mất) / callout tí xíu ở hero / hoặc tận đáy trang. Đòn đã test gần đây, giúp nhiều: **kéo offer language ra forefront + tease rải khắp trang** để giữ người đọc "compelled" TRONG lúc educate. Cấu trúc đan xen: *"bạn học được cái này, cái này — ALSO bạn được offer này TRONG LÚC học cái này — rồi shop now."* Không reveal offer 1 phát ở cuối, mà nhắc offer ở từng beat education.
 → Mở rộng §Persuasion-stack-ở-mọi-page trên: không chỉ social-proof/authority rải khắp, **OFFER cũng rải**. MaxPro: nhắc 99-day company-paid + bundle giá + *"1 lần skip groomer là hoàn vốn"* xen giữa các section education, đừng dồn hết xuống offer-block cuối.
+
+## Subscription offer-stack — "NOT subscribing feels stupid" ($1B DTC) ⭐
+Nguồn: [[maxwellcopy-1b-dtc-funnel-6-stages]] (AG1/Grüns/IM8 teardown). Không còn thời "10% off first order". Các brand $100M-1B **stack offer nặng tới mức one-time = lựa chọn của thằng ngốc** — offer xịn CHỈ có ở subscription:
+- **AG1:** $79/mo = 20% off + **$43 gifts** + free ship; one-time = 0 gift + $99 + $9 ship.
+- **IM8:** $78/mo = 30% off + **$72 gifts** + 90-day transformation program; one-time gần như giấu, $112 (đắt hơn $34).
+- **Grüns:** $40.80 = **up to 52% off** + free ship; one-time $54.40 + ship.
+- **Vì sao go-hard:** first-order-là-subscription có LTV **~50-100% cao hơn** first-order-one-time ở mốc 6 tháng, **~2×** ở 12 tháng. → đáng hy sinh margin đơn đầu để ép first order thành sub. **Test acquisition offer tới khi tìm cái convert cold tốt nhất** — đây là Stage 1, nền của cả funnel (*"nothing works unless you have a banger offer"*).
+- **Pop-up = highlight offer SẴN CÓ, không thêm discount:** pop-up nói "get 52% off" nhưng 52% đã có trên site cho ai cũng được → lấy được email **không tốn thêm 1 đồng margin**; "52% off" opt-in tốt hơn "10% off". Ask-question-trước-rồi-email (commitment bias) + zero-party data. (= §popup framing loss-aversion [[email-marketing]], thêm cơ chế "existing-offer không extra-discount".)
+→ MaxPro (khi mở dòng consumable/sub — bit/balm refill): stack sub-offer (refill + bonus + free-ship) sao cho one-time-only trông thiệt; đây là biến thể "bundle construction" của §6 rubinov + tiered dưới, áp cho subscription model.
 
 ## Tiered bundle (price anchoring, từ research OEM)
 | Tier | Gồm | Giá | Anchor | Logic |

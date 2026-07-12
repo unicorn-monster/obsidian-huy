@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent]
-updated: 2026-07-09
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages]
+updated: 2026-07-12
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -25,6 +25,10 @@ Creative đã prove → đổ phần lớn budget **iterate nó** (hook mới, f
 > DTCMidas tinh chỉnh con số 70-80/20-30 ở trên: tỉ lệ net-new vs iteration **không nên tĩnh** — có kỳ **20% iteration / 80% net-new** (đang đi tìm winner), có kỳ **50/50** (vừa tìm được thứ đáng vắt). Luật: *"whenever you find something that works, iterate the shit out of it until it stops working"* → rồi mới dồn về net-new. Về volume: launch nhiều **nhất có thể mà không giảm chất** — nhưng ưu tiên **ít mà high-conviction** hơn nhiều mà nhạt (chất ≠ production-quality, mà = độ sắc angle/hook). Vị trí trong cycle quyết định ratio, không phải 1 số cố định.
 
 **Creative velocity = biến số scale (Gruns proof, [[rubiinov-gruns-100m-funnel-teardown]]):** Gruns giữ **900+ meta ad active** cùng lúc (brand $30-80k/mo điển hình chỉ 5-20), mix UGC + static + AI. Nguyên lý: nhiều asset in-market = nhiều data nhanh hơn = nhận diện winning angle trong **30 ngày thay vì 90**. Đây là mặt "volume" bổ trợ isolate-layer: velocity **tìm** winner, isolate **giải thích** vì sao thắng để copy. (Cùng flood-thesis [[media-buying]].)
+
+**Xác nhận ở tầng $1B (AG1/Grüns/IM8, [[maxwellcopy-1b-dtc-funnel-6-stages]]):** ad-count active — **AG1 530 · Grüns 910 · IM8 1,300** (IM8 founder nói đang push **2,500 live cùng lúc**). Lý do cơ học: **Meta Andromeda update thưởng library nhiều creative đa dạng** → newness kéo CPM xuống + tăng conversion. Luật vận hành: *pump creative mới mỗi TUẦN + kill loser mỗi tuần*. Mix **~50/50 static ↔ video**. Corroborate Gruns velocity — không phải outlier, là chuẩn của brand scale lớn.
+- **Static chỉ cần 2 loại:** (1) **educational infographic** (ingredient / benefit / what's inside) · (2) **direct-offer ad** (acquisition offer + welcome kit). Phần lớn static **gen bằng AI** để pump volume rẻ. → MaxPro static: infographic "vì sao chó sợ clipper / grind-and-release" + direct-offer "99-day + bundle".
+- **White-label / collab ad (net-new format, ~50% video của các brand này) ⭐:** chạy ad **TỪ account của influencer**, brand tag làm **collaborator** → target follower của influencer + **trông 100% native** ("người bạn đã follow đang dùng", không phải brand lạ trong feed). Đây là đòn media-buy chưa có ở wiki — tie [[media-buying]] (creative format) + [[personas]] (borrowed authority ở tầng ad-account). → MaxPro: collab với micro-groomer/pet-creator, chạy ad từ account họ, MaxPro là collaborator.
 
 ## Naming + tracker = nơi pattern hiện ra
 - Tag mọi creative: `ANGLE_HOOK_FORMAT_VERSION` (vd `GUT-HEALTH_CURIOSITY_BEFOREAFTER_v3`). Giữ sạch là vấn đề naming, ko phải willpower.

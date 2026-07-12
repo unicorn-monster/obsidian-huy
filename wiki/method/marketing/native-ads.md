@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k]
-updated: 2026-07-06
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint]
+updated: 2026-07-12
 ---
 
 # Native ads (kênh open-web)
@@ -58,6 +58,17 @@ Rules: byline + publication frame thật, 2-3 ảnh "stock editorial" (không pr
 
 > [!note] Hai trường phái advertorial (ngược register)
 > Jan (true native) = **editorial-informational** ~600-900 từ, byline/publication, calm, mechanism-education. KittySupps native-style FB ([[ugly-ads-method]]) = **unhinged-personal-confession** ~3,110 từ, persona page, raw/chửi, emotional story. Cùng tên "advertorial" nhưng **ngược register** — vì khác audience state: article-reader calm vs feed-scroller emotional. Chọn register theo kênh. (Lưu ý: Jan tự mâu thuẫn số từ — "600-900" ở 2 chỗ, "1000-1800" ở 1 chỗ; native vẫn ngắn hơn FB long-form nhiều.)
+
+## 3 trigger tâm lý của advertorial (vì sao nó phá) — amin ⭐
+Nguồn: [[amin-1m-advertorial-blueprint]] (amin, $10M+ ecom). Advertorial work KHÔNG chỉ vì "education" — mà vì **3 trigger chạy TUẦN TỰ**, đây là khung tâm lý gọn nhất cho 6-piece ở trên:
+1. **Pattern interrupt** — reader click ad, não chờ **sale page** (màu chói, "BUY NOW", countdown). Thay vào đó đáp xuống thứ **trông như bài báo y khoa** (nền trắng, byline, ngày đăng) → não chuyển từ *"đang bị bán"* sang *"đang đọc để học"* → **sales resistance tắt**. (= editorial-register + "no brand signal" đã có ở trên; đây là *lý do* tâm lý.)
+2. **Authority transfer** — đọc tiếp, bạn systematically dựng mình thành expert (cite study, giải mechanism, thể hiện deep knowledge). Khi product hiện ở cuối, nó KHÔNG phải "thứ chúng tôi bán" mà là **"giải pháp chúng tôi recommend theo khoa học"** — frame hoàn toàn khác.
+3. **Belief shifting** (mạnh nhất) — xuyên bài, phá belief cũ + cài belief mới ("đau lưng không phải do nệm → do muscle imbalance + inflammation"). Tới product, belief-system đã rewire → reader **không cần thuyết phục nữa, chỉ cần biết mua ở đâu**. (= piece 3 Mechanism + [[angles]] belief-shift; khớp mechanism-rewrite §dưới.)
+
+**Simplicity = attribution sạch (amin):** funnel chỉ **3 trang — ad → advertorial → product page** (không quiz/upsell chồng 8 trang). Lợi thế chẩn đoán: **không click ad = ad problem · không đọc hết advertorial = content problem · không mua ở PDP = offer problem**. 1 trang để optimize thay vì 8. (Khớp [[funnel-and-landing]] — cold bỏ funnel phức tạp.)
+
+> [!note] Window-of-opportunity — advertorial còn ~18-24 tháng (amin timeline)
+> amin đóng khung lịch sử format: native 2015-17 (rồi bão hoà) → long-form VSL 2017-19 (fatigue) → quiz funnel 2020-22 (commoditize) → **advertorial 2023-25 (đang thống trị, CVR 8-15%)**. Dự phóng: ~2 năm nữa advertorial về **4-6% CVR** (vẫn tốt, không còn điên). Ý nghĩa: đây là format-của-lúc-này, đừng chờ hoàn hảo. (Đọc như motivation-CTA của amin — vẫn giữ readiness-gate ở đầu trang cho Huy: nguyên lý transfer ngay cho native-style FB, chưa phải tín hiệu mở Taboola.)
 
 ## Mechanism rewrite = nơi sale thật sự xảy ra (1 section → profitable 48h) ⭐
 [[advertising-jan-advertorial-rewrite-48h-profitable]]: campaign joint-brand lỗ 3 tuần, founder định kill về Meta. Jan **rewrite ĐÚNG 1 section** advertorial → profitable trong **48h**. Đây là bằng-chứng cụ-thể nhất cho **piece 3 (Mechanism)** của 6-piece + new-mechanism rule — đáng nội-hoá nguyên văn:
