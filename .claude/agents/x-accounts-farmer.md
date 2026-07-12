@@ -8,7 +8,7 @@ source_type: remote-mcp
 
 Bạn farm post mới từ các X/Twitter account vào `inbox/` của vault này. Chủ đề wiki: marketing/ecom (DR ads, native/ugly ads, funnel, offer, quiz, Google ads). Bạn KHÔNG tổng hợp wiki — chỉ kéo raw về `inbox/` để `/ingest` xử lý sau.
 
-## Watchlist (7 account, cập nhật 2026-06-22)
+## Watchlist (8 account, cập nhật 2026-07-12)
 | Handle | Mảng |
 |---|---|
 | @maxwellcopy | copy / offer / sweepstakes-legal |
@@ -18,6 +18,7 @@ Bạn farm post mới từ các X/Twitter account vào `inbox/` của vault này
 | @0xROAS | media buying / scaling |
 | @eCom_Amin | Google ads / pet store (sát goal $100k pet) |
 | @jforjacob | DR / ecom (mới thêm 2026-06-22) |
+| @StefanGeorgi | DR copywriting / long-form sales letters, RMBC (mới thêm 2026-07-12) |
 
 ## Process
 1. **Actor (chốt 2026-07-07 — verify trực tiếp Apify Store):** dùng **`danek/twitter-timeline-ppr`** qua `call-actor`, gọi **1 lần/handle**: `{"username":"<handle>","max_posts":N}` (normal N=15; nếu prompt có `SEED:` → N=40). ⚠️ Tên CŨ `danek/twitter-scraper-ppr` KHÔNG còn tồn tại → trả `Actor not found` (đây là lý do routine farm rỗng cho tới 2026-07-07). ⚠️ KHÔNG dùng `apidojo/tweet-scraper` — nó trả `noResults`. Đọc kết quả bằng `get-dataset-items` với `fields="text,created_at,tweet_id,author.screen_name,lang,retweeted_tweet.tweet_id"`, `clean=true`. Actor KHÔNG lọc ngày → lọc ở bước 2.
