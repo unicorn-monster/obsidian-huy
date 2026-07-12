@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand]
-updated: 2026-07-10
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing]
+updated: 2026-07-12
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -157,6 +157,17 @@ Email #7 cùng tư duy với §6 (founder winback plain-text) — raw/human beat
 **Compounding tactic:** lấy campaign đang rips, thêm 1 dòng nhắc welcome discount, swap vào vị trí email yếu nhất trong flow → flow tự mạnh lên không viết email mới. Cùng tinh thần #5 (resend top performer) + Chase Dimond §10 lessons (swap campaign winner vào flow).
 
 → MaxPro: nếu chưa có welcome flow, đây là setup #1 trước mọi tactic khác. Email #1: giao code + "quiet grinder không làm chó đau"; #2-4: story + FAQ noise + testimonials; #6: "code hết 24h"; #7: founder note tay.
+
+## AI trong email — 3 vai trò đúng ([[maxwellcopy-ai-email-copy-briefing]])
+maxwellcopy (100+ email clients): đừng "fire team và giao cho AI." Họ thử → results giảm, clients churn. 3 chỗ AI thực sự work:
+
+1. **Analysis** — dump số liệu flow/campaign vào AI, để nó flag broken + rank cơ hội theo dollar impact. "Catches leaks you'd never find scrolling through Klaviyo yourself." → chạy tối thiểu hàng tháng.
+2. **Campaign calendar** — AI map cả tháng: send volume đúng, balance educational/social proof/sales, bắt cả holiday bỏ sót. **Từ khoá: TRAINED** — raw ChatGPT quá generic; phải feed actual past campaign data + real framework trước.
+3. **Copy briefing (quan trọng nhất)** — không phải prompt "write me an email." Là context, context, context: knowledge + brief + brand voice nạp vào AI → output dùng được. Copywriter vẫn oversee vì AI chưa đủ để generate-and-ship. Maxwellcopy xây cả system thành Claude skill: không viết cho tới khi có đủ context → QA output vs brief → self-check for hallucination.
+
+**Rule:** AI = analysis · calendar · briefing. Human = oversight, tone, final call. Đừng thay thế — augment.
+
+→ MaxPro: bắt đầu bằng vai trò 1 (analysis) — dump Klaviyo campaign results + flow metrics hàng tháng vào Claude, yêu cầu rank top-3 cơ hội theo estimated revenue impact. Vai trò 3 (copy briefing) = framework [[lp-copy-prompts]] đang dùng, extend sang email brief.
 
 ## 3 gap audit phổ biến — brand 35% rev từ email vẫn rỉ tiền ([[maxwellcopy-email-audit-300k-brand]])
 Brand $300k/tháng, 35% store rev từ email — "looks great on the surface" nhưng thực tế để lại tens of thousands of $$ mỗi tháng. 3 gap hay gặp:
