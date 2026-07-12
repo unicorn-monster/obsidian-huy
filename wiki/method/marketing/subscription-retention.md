@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test]
-updated: 2026-07-09
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker]
+updated: 2026-07-12
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -50,6 +50,26 @@ Job đảo chiều: không còn là convince nữa — là build habit + belongi
 3. **Day 7 nudge** — recommit TRƯỚC khi rebill đầu hit
 
 Tie [[offer-and-cta]] churn-as-value-gap.
+
+## Daily usage streak tracker — gamified habit + churn defense ([[maxwellcopy-subscription-streak-tracker]])
+Root cause: *"Customers having too much product is what kills most subscriptions. People forget to take it, so it piles up, and they cancel."* — maxwellcopy (2026-07-12). Cùng driver #1 churn trong §onboarding (quá nhiều hàng tồn + không dùng).
+
+**Cơ chế:** build custom tracker — khách log in hàng ngày, check off "tôi đã dùng hôm nay." Streak reset nếu bỏ 1 ngày. Reach milestone → reward unlock.
+
+**Tier structure mẫu:**
+
+| Milestone | Reward |
+|---|---|
+| 50% of days | Small free gift in next order |
+| 75% | Bigger offer |
+| 90% | Even bigger offer |
+| 100% | Premium reward |
+
+**Tại sao hoạt động:** không phải ai cũng log in hàng ngày — nhưng cơ chế này drill vào nhận thức **1 việc duy nhất giữ sub: dùng sản phẩm mỗi ngày.** Streak reset + tiered reward tạo loss-aversion + milestone-pull song song.
+
+**Pair với:** daily reminder email → recovery email (khi streak sắp reset) → celebration email (khi đạt milestone) = retention engine toàn diện. Tie [[sms-flows]] D3/D7 nudge (§21-day onboarding SMS layer).
+
+→ MaxPro: chưa phải sub brand — dùng được khi mở consumable (bits/balm). **Trước tracker:** build habit-survey 3 câu trước (§survey → habit → LTV). Tie driver #3 trong §10 driver LTV (education + habit building).
 
 ## Day-30 rebill = highest churn day — Klaviyo reframe fix ([[maxwellcopy-day30-rebill-klaviyo-reframe]]) ⭐
 *"The HIGHEST CHURN day for almost any subscription brand is day 30."* Đây là ngày rebill đầu tiên — khách thấy charge, stomach drops, cancel ngay. Trigger: **default Shopify order confirmation email** — bare, no framing, no value.
