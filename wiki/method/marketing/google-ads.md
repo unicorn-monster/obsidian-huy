@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads]
-updated: 2026-07-12
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand]
+updated: 2026-07-13
 ---
 
 # Google Ads (kênh search-intent)
@@ -24,6 +24,30 @@ Nguồn: [[ecomamin-15m-high-intent-google-funnels]] (@eCom_Amin, $15M+ tracked 
 
 > [!warning] Căng với rented-vs-built (đối chiếu 2 niềm tin)
 > [[ecomamin-pet-brand-1m-google-at-19]] (cùng tác giả, version origin) khuyên **bỏ Meta** chạy Google-only. Bài $15M này lại nói **Meta + Google bổ trợ** (Meta sinh demand, Google bắt). Ko mâu thuẫn về Google — mâu thuẫn về Meta: "Google-only từ desperation" (brand nhỏ, ko đủ sức nuôi 2 kênh) vs "full-funnel" (brand 8-figure, Meta đã chạy). MaxPro/pet giai đoạn đầu → nghiêng Google-first (rented-vs-built ở trên); khi Meta đã có spend ổn → áp demand-capture (đừng để intent Meta-gieo rơi vào đối thủ vì thiếu branded/Shopping).
+
+## 24-hour demand-capture playbook (3 layer, cùng session) ⭐ actionable
+Nguồn: [[ecom-amin-meta-generates-google-demand]] (@eCom_Amin). Bản thực thi cụ thể của mental-model demand-capture ở trên — *"your Meta ads are generating Google searches right now"*: mỗi impression IG/FB gieo 1 hạt; 3 ngày sau 1 câu chuyện/vấn đề trigger memory → họ gõ brand / category / problem vào Google. Không bắt được thì mất về **1 trong 3 chỗ**: (a) đối thủ bid brand name mình đứng trên, (b) marketplace/review site chặn giữa đường, (c) khách quên luôn → impression Meta = 0 return.
+
+**Layer 1 — Branded search (setup ~1h):**
+- Keyword: brand exact + brand phrase + brand+product type + brand+review + brand+discount + brand+buy + **misspellings**.
+- Ad copy: H1 = brand · H2 = core benefit <30 ký tự · H3 = trust signal mạnh nhất (rating / #review / free ship) · Desc1 = làm gì + khác biệt · Desc2 = risk-reversal (money-back / free returns).
+- Đích = homepage hoặc đúng PDP mà Meta đang đẩy (match destination với campaign Meta).
+- Bid: **maximize clicks** lúc đầu → chuyển tCPA/max-conv sau **30+ conversions** (thường 2-3 tuần). Budget $20-30/ngày (CPC branded thấp). Negative: mọi generic category term không phải brand.
+- **Vì sao CPA branded thấp nhất account:** intent cực specific → Google rank top gần như tức thì, **không learning phase** như broad; CVR branded thường **3-8× cold traffic**.
+
+**Layer 2 — Non-branded search (cùng session, chạy khi L1 đang review):**
+- Keyword: category ("magnesium supplement", "dog anxiety supplement") + problem-oriented ("best supplement for sleep") + comparison ("X vs Y", "best ... 2026"). Phrase match để mở đầu.
+- **Landing page = khác biệt sống-còn với branded:** non-branded lạnh hơn → **KHÔNG gửi thẳng PDP** (lỗi phổ biến nhất). Dựng **advertorial 800-1,200 chữ**: mở bằng problem của keyword → vì sao giải pháp thường thất bại → giới thiệu product là đáp án → social proof → CTA về PDP. = [[presell-pages]], [[comparison-page-playbook-3rd-party]], khớp funnel 4pawsreview của MaxPro ([[maxpro-top5-review-funnel]]). Budget $30-50/ngày.
+
+**Layer 3 — Google Shopping (cùng session):** xem [[google-shopping]] — title front-load non-branded keyword ở 60 ký tự đầu, lifestyle image, connect Google customer reviews. Standard shopping (KHÔNG PMax) + maximize clicks, để chạy 2-3 tuần trước khi đổi bid.
+
+> [!warning] Branded search KHÔNG phải "set-and-forget" — 3 cái bẫy (từ ảnh callout của post)
+> Đọc từ 3/4 ảnh vision-read của source (ảnh 4). Branded = CPA thấp nhất nhưng:
+> - **Learning phase reset:** đổi budget/bid trên smart-bidding (tCPA/max-conv) làm reset learning → dao động tạm thời. Đừng nghịch bid liên tục.
+> - **Cost fluctuation:** branded term rất nhạy Quality Score + competitor bidding — **đối thủ bid tên mình → CPC nhảy vọt** (đây chính là lý do phải giữ L1 sống).
+> - **"Zero conversion" trap:** account mới / low-volume → branded campaign có thể kẹt **"Learning (limited)"**, tiêu tiền mà không thoát được cho tới khi đủ conversion data. → brand nhỏ (MaxPro giai đoạn đầu) đừng kỳ vọng smart-bid ngay; ở maximize-clicks tới khi tích đủ 30+ conv.
+
+**Vì sao "99% success rate":** không phải creative test / algorithm bet — bạn **capture demand đã tồn tại** (Meta tạo ra rồi). Incremental revenue từ Google gần như pure profit vì đã trả tiền awareness bên Meta. Áp thẳng cho MaxPro: pixel/tracking đã live ([[maxpro-top5-review-funnel]]) → branded search MaxPro là món rẻ nhất chưa bật.
 
 ## Prospecting-first account + SERP domination (blvckledge)
 Nguồn: [[blvckledge-5-brands-1m-google-ads]] (@blvckledge, portfolio 200+ brand, nhiều brand 7-figure/tháng Google). 2 loại account: **branded-focused** (đa số spend về branded traffic) vs **prospecting-focused**. Branded-only = chỉ chạm **~20%** tiềm năng platform vì pool branded **bị cap** (chỉ ngần ấy người search brand/tháng; capture xong là hết).

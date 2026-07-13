@@ -42,6 +42,8 @@ Còn lại **trước khi đốt tiền ad**:
 
 **Gotcha deploy:** token OAuth wrangler KHÔNG có scope DNS → 2 CNAME (`@` + `www` → `4pawsreview.pages.dev`, Proxied) phải thêm tay ở dashboard. Redeploy = chạy lại lệnh deploy ở trên (ảnh cache theo hash, upload tức thì).
 
+**Traffic vào funnel này:** creative test + campaign structure Google Demand Gen Discover đã chốt ở [[maxpro-demand-gen-discover]] (campaign `23867277482`, batch 8-12 grid-ad raw iPhone, ngưỡng CTR ~5%, đích = funnel này).
+
 ## Guardrails
 - **IP:** badge/seal tái dựng (brand 4Paws, "4PAWS #1 PICK"), KHÔNG bê file seal "Top5 Choices" của họ. Ảnh sản phẩm = ảnh MaxPro/đối thủ tự chụp-tải, không hotlink file của họ.
 - **Compliance:** disclosure rõ + mọi claim chê đối thủ phải có bằng chứng review thật, không bịa study. Claim "large-breed ~150lb" để modest. Xem [[compliance]].

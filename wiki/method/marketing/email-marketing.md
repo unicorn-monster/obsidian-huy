@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable]
-updated: 2026-07-12
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient]
+updated: 2026-07-13
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -68,6 +68,12 @@ Insight cao độ nghịch-lý (từ $250M+ ecom email marketing):
 - **Abandonment flow: split by cart value.** Cart nhỏ = reminder; cart lớn có thể cần discount (bảo vệ margin theo threshold).
 - **Replenishment email: theo rebuy cycle thật, không "day 30" round.** Gửi khi người ta thực sự rebuy — đa số brand đang đoán. (Sub context → [[subscription-retention]] driver 7.)
 - **AI tốt nhất trong retention = VOC mining.** Đào review + support ticket lấy exact language khách dùng, không phải "viết email". Tie [[creative-brief]] (VOC-mining prompt).
+
+## RPR — diagnostic 30 giây + cái fix thật ⭐ (Chase Dimond, độc lập)
+Nguồn: [[ecomchasedimond-revenue-per-recipient]] (Chase Dimond, X). Củng cố + đẩy sâu RPR ở §10 trên. Chase: nhìn **1 số duy nhất đoán được brand đang bỏ bao nhiêu tiền trên bàn trong ~30 giây = revenue per recipient** (đô-la mỗi subscriber sinh ra/lần gửi), KHÔNG phải open/click. Pull trên mọi audit → phần lớn brand **RPR phẳng suốt 2 năm**.
+- **Nguyên nhân gần như luôn giống nhau:** cả 50,000+ người trong list nhận **CÙNG một email** — one hero, one angle, one CTA, viết cho một *"average subscriber who doesn't exist"*.
+- **Cái fix KHÔNG phải volume:** *"You can't out-send that with more volume. That number only moves when the email itself changes per person."* → RPR chỉ lên khi **nội dung biến thiên theo từng người** (subject / hero / copy / offer / CTA test live per-subscriber). Chase pitch @getallanai (AI serve mỗi subscriber version convert họ nhất) — tactic dùng được kể cả không xài tool đó: bắt đầu bằng **segment + conditional block** (Klaviyo) như quiz-popup segmentation ở dưới, hoặc A/B từng element thay vì blast đồng nhất.
+- → MaxPro: khi list đủ lớn, đừng đo campaign bằng open rate. Đo **RPR**; nếu phẳng → nguyên nhân là "1 email cho tất cả" chứ không phải "gửi ít quá". Đối chiếu [[maxwellcopy-reach-beats-segmentation]] (reach > segmentation ở giai đoạn nhỏ) — 2 luận điểm căng nhau: **list nhỏ → reach thắng; list lớn/RPR phẳng → per-person variation thắng.**
 
 ## Quiz pop-up → welcome flow segmentation ([[maxwellcopy-quiz-popup-welcome-flow]])
 Easy conversion lift most brands skip: brands run quiz pop-ups but do nothing with the answers. Fix in 3 steps:

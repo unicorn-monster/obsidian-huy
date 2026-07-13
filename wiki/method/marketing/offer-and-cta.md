@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages]
-updated: 2026-07-12
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad]
+updated: 2026-07-13
 ---
 
 # Offer + CTA mechanics
@@ -132,3 +132,11 @@ Nguồn: [[advertising-jan-hearing-aid-advertorial-evergreen]] ($99, profit 6 th
 - **Volume-price justify bằng lý do dùng/y khoa**, không discount: "uống 60 ngày, 2 scoop/ngày" → 6 hũ = nghe bác sĩ. (MaxPro yếu hơn vì 1 tool, nhưng bit/balm bundle theo "đủ dùng cả năm".)
 - **CTA = confirm, không re-sell:** sau advertorial/listicle dài, sales page chỉ xác nhận + gỡ rào; framing "fork in the road" rồi mới thả giá — story đã bán xong. → [[presell-pages]].
 - **Trust-stack thứ tự:** **media → clinical → peer review → video** (rộng→chuyên gia→cá nhân→undeniable, mỗi lớp gia cố lớp trước).
+
+## Self-verification CTA — "let the numbers prove it" (swipe) ⭐
+Nguồn: [[ecomchasedimond-omnisend-switch-ad]] (Chase Dimond, short-form switch ad — đổi email platform). Kết cấu CTA khác họ "buy now" / "deny the sale": **giao cho khách tự chứng minh trên dữ liệu của CHÍNH họ**, hạ mọi rào.
+- **8-Mile preempt objection ngay đầu:** *"Your bill went up again. Yet you still haven't switched. I get it. The tool is fine. Everything's wired into it. Re-platforming during busy season sounds like a nightmare. So you eat the increase. AGAIN."* → gọi tên đúng lý do trì hoãn (= [[copywriting]] §12 "8 Mile move" + failed-solution absolve).
+- **Relatability lock:** *"I did the same thing for way too long."* (founder cũng từng kẹt y vậy).
+- **CTA = self-proof, không claim:** *"Open the pricing page. Plug in your actual contact count. Pull your current invoice at that same list size. Look at them side by side... Let the numbers prove it on your list, not mine."* → không bắt tin lời quảng cáo, bắt khách tự tính = trust cao hơn tuyên bố.
+- **Risk-reversal + friction-killer:** *"And migration? They handle it."* + *"Check your numbers. Takes less than 60 seconds."* → gỡ nỗi sợ chuyển đổi + micro-commit (60s = yes-ladder tí hon, [[copywriting]] §12).
+- **Cơ chế = value-gap self-discovery:** thay vì mình nói "rẻ hơn", để khách tự thấy con số → đối chiếu deny-the-sale + "just go look at the price" (§Price-anchor). MaxPro áp: thay vì "grinder này êm hơn", đóng khung *"đếm xem 1 năm bạn trả groomer bao nhiêu lần $45 — cộng lại, rồi so với $39.95 một lần"* = để phép tính tự bán.

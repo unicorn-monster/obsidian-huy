@@ -17,6 +17,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 - [[presell-pages]] — build guide 4 format: wireframe, **listicle why+build (Reason-Why/Bencivenga/Primal Vikings)**, **comparison 2 sub-genre — honest-breakdown vs conquest-listicle "N ways we win" (Grüns/AG1: switcher-proof/lý-do, lật strength→weakness, price-per-day footnote, laddering past number)**, **3rd-party review DOMAIN (criteria-funnel + borrowed-authority + verified stack GoHighLevel/Shopify-GemPages/refdomain, halo khách quan)**, **3rd-party comparison page anatomy 9-block + 4 swipe (soft/non-dealbreaker cons · buyer-guide reverse-engineered from USP · expert persona matched to niche · price-anchor+seasonal in ranked block)**, story-arc, CTA system, congruence, speed
 
 ### Building blocks (lắp vào mọi strategy)
+- [[copywriting]] — DR fundamentals (Sam Parr masterclass + Chase Dimond): **slippery slope (Sugarman) · AIDA · headline = 80% ngân sách · curiosity-gap/open-loop stack ~8s · rhythm (lớp-7, 1 ý/câu, cắt 1/3×2) · story (customer=hero, but/therefore) · copywork (chép tay word-for-word + retention-graph) · objection 8-Mile move + yes-ladder · reframe bằng hình ảnh sốc (toilet-bowl E.coli) · weak/good/great copy = tả khoảnh khắc họ nhận ra nó work**
 - [[hooks]] — 10 pattern scroll-stopper + footer mini-hook + swipe vet-whistleblower
 - [[hook-swap-method]] — lấy hook proven (KS/đối thủ) đổi sang sản phẩm mình: tách **ENGINE (cảm xúc+nhịp, giữ) vs SKIN (danh-từ/số/tên, thay)** + swap library KS→MaxPro + hook↔body khớp
 - [[angles]] — matrix angle x avatar x persona, winning trio, Life Force 8 + reason-name, urgency defensible, native angle test, **belief-shift diagnosis ("cái họ tin KHÔNG phải nguyên nhân")**, **50-angle strategy — 1 product bán 50 góc, angle-TAM/positioning-TAM = trục scale bị bỏ quên**
@@ -64,6 +65,7 @@ _Mở 07/07 — chưa có trang. Insight về finance / customer support / fulfi
 - [[maxpro-image-prompt-system]] — AI image prompt library phase-0
 - [[maxpro-structure-library]] — 17-beat ugly-ads structure library (S01, S02…)
 - [[maxpro-top5-review-funnel]] — funnel ops 4pawsreview.com: status LIVE, lệnh deploy wrangler, design tokens, pixel checklist
+- [[maxpro-demand-gen-discover]] — creative test Google Demand Gen Discover bơm traffic vào 4pawsreview: campaign structure (Max-Conv no-target, Discover-only, batch 8-12), ngưỡng CTR (~5% baseline, verdict 7/5/3), grid raw-iPhone prompts, 2 hệ creative đừng lẫn
 
 _Sản phẩm mới: tạo `products/<slug>/`, prefix mỗi trang bằng `<slug>-`._
 
