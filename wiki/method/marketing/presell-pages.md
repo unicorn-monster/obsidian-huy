@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party]
-updated: 2026-07-10
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation]
+updated: 2026-07-13
 ---
 
 # Presell pages — build guide (4 format)
@@ -97,6 +97,11 @@ Nguồn: [[comparison-page-playbook-3rd-party]]. Đây là sub-genre "borrowed-a
 - **Awareness progression trên 1 trang:** Problem-aware → Mechanism-aware → Solution-aware → Product-aware (product page chỉ CHỐT, không educate lại).
 - **Launch sequence:** 1 broad page → ads nhiều angle → angle hứa hẹn nhất → build 1 page tailored riêng (= "new angle = new page").
 - **Segmented variants, same USP:** Jones Road 4 biến thể (general/mature/minimalist/busy-mom) · HollowSocks gendered — cùng USP, đổi reason nào nhấn theo persona → [[angles]], [[market-awareness]].
+
+## Review rating automation — 3rd-party validation stack ([[dtcquizbuilder-trustpilot-review-automation]])
+Trước khi dựng review-domain, Trustpilot rating phải ở mức đủ tin: **low-3⭐ = credibility killer**. Fix: **clarflow.com** — automated review collection, 2 phút setup, took Trustpilot low-3 → mid-4 + gathered 100s of reviews (DTC_Quizbuilder, 2026-07-13, live case). Nhanh hơn nhiều so với xây review thủ công.
+
+**Vị trí trong stack:** build social proof pool TRƯỚC khi đặt review-domain live → không cần fake-review tactic, Trustpilot rating thật đủ mạnh để trust halo hold. Tie §Proof block advertorial (step 6: "banner 4.8/5 từ 2,847 review") + §comparison block (khen pros mỗi bên cần proof thật đứng sau). → MaxPro: setup clarflow ngay khi có ~20+ orders để build Trustpilot rating trước khi scale review-domain.
 
 ## 3rd-party review DOMAIN (nơi listicle SỐNG — tầng hay bị bỏ quên)
 Nguồn: [[reviewscout-3rd-party-review-domain-teardown]]. Có **2 tầng "3rd party"**, đừng lẫn:

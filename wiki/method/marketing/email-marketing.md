@@ -1,5 +1,5 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt]
 updated: 2026-07-13
 ---
 
@@ -28,6 +28,15 @@ Cơ chế = **curiosity gap**, cùng họ với [[offer-and-cta]] (deny-the-sale
 
 ## 3. Pattern interrupt "1 banner" — email không-giống-email
 Email siêu tối giản, **1 banner duy nhất, không trông giống email**. Best performer khi resend. Ví dụ swipe: brand **Willie's Remedy** dựng email giả **màn hình cuộc gọi đến iPhone** ("Weekend is calling… / Slide to answer" + ảnh sản phẩm). Liên hệ [[hooks]] — pattern-interrupt visual là scroll-stop trong inbox y như trong feed.
+
+**5-step build framework ([[maxwellcopy-email-pattern-interrupt]]):**
+1. **One idea** — chọn 1 message duy nhất, cắt mọi thứ không phải nó. Không stack section, không nhiều product.
+2. **Mimic phone notification** — AirDrop, cuộc gọi đến, Notes screenshot. Email phải *feel* như notification khách thật sự check — không phải email brand.
+3. **Match subject ↔ visual** — "Incoming call" → slide-to-answer screen; "Incoming AirDrop" → accept/decline. Subject line = open, visual = giữ attention. **Stand out twice.**
+4. **One action** — hero + 1 nút, không wall of copy. "Here's what's happening, click here."
+5. **Use sparingly** — mix vào, không phải mọi send. Toàn bộ sức mạnh = novelty; every send là pattern interrupt → không còn interrupting gì nữa.
+
+→ MaxPro: AirDrop "MaxPro đang muốn chia sẻ với bạn" + accept/decline visual → offer flash sale / restock. Dùng 1 lần/tháng tối đa.
 
 ## 4. SMS-style email — text trơn như tin nhắn
 "Người ta lười đọc" → email **plain-text ngắn như SMS** nổi bật hơn email thiết kế. Ví dụ swipe: **Breatheeze** subject "Try Risk Free", body 1 dòng *"Max, by the way, we offer a full money-back guarantee… Try risk free >> — Manny, Founder."* Giống mail cá nhân từ founder → cảm giác 1-1, không "blast". Cùng tinh thần raw/under-designed của [[ugly-ads-method]] + founder-template ở §6 dưới.

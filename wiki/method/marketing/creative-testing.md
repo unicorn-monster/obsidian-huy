@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages]
-updated: 2026-07-12
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video]
+updated: 2026-07-13
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -60,9 +60,11 @@ Solo insight: không phải về quy mô — mà về **closing the loop**: winn
 ## AI-assisted ad production — early signal ([[0xroas-ai-ads-agent]])
 @0xROAS (2026-07-09): GPT 5.6 Sol + Seedance 2.0 agent for end-to-end ad creation from a single prompt — brolls, talking head, character-doing-actions. Signal = AI creative production đang reach "one prompt → full ad" threshold.
 
+**AI UGC dưới $1 — RN V3 system ([[0xroas-ai-ugc-under-dollar-infinite-video]]):** 2026-07-12 update từ cùng tác giả: **RN V3** cho infinite-length UGC realistic với chi phí **<$1/video** — realistic voice + human movements + consistent length + all-in-one workflow. Barrier production UGC nay thấp hơn bất kỳ UGC actor trả phí nào.
+
 Hàm ý cho testing regime: production cost/ad tiếp tục giảm → barrier để flood volume (Gruns 900+ ad) giảm theo. Nhưng **isolate-one-layer vẫn đúng**: AI chạy nhiều asset nhanh hơn không có nghĩa là bỏ signal discipline — vẫn cần tag đúng để extract pattern. Tie [[market-awareness]] §unaware pool: AI giỏi copy "fast ad" format nhưng vẫn cần operator input để viết unaware creative không flat.
 
-> Theo dõi Seedance 2.0 + GPT Sol agent khi production budget cho MaxPro mở rộng — có thể thay thế costly UGC production cho B-roll/talking-head format.
+> Theo dõi RN V3 + Seedance 2.0 + GPT Sol agent khi production budget cho MaxPro mở rộng — RN V3 đặc biệt hấp dẫn cho UGC "talking pet owner" format dưới $1/clip thay thế actor thuê ngoài.
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.
