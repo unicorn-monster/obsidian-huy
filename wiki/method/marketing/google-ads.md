@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand]
-updated: 2026-07-13
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x]
+updated: 2026-07-14
 ---
 
 # Google Ads (kênh search-intent)
@@ -92,6 +92,16 @@ Start simple (3 campaign, £100/day), add complexity khi có data. KHÔNG build 
 - **Geo arbitrage:** city CVR khác nhau (Adelaide 4.2% vs Sydney 2.1%) → bid +60% chỗ cao, -20% chỗ thấp → +18% ROAS.
 - **Margin-based bidding:** tag product theo margin (supplemental feed) → high-margin bid aggressive, low-margin target ROAS cao hơn → +$200k/mo same spend.
 - Compounding: CAC tháng 1 $66 → tháng 9 $22 (−67%) nhờ feed sạch + negative + landing tốt.
+
+## Market-specific CRO — đừng chỉ copy US playbook ([[ecomamin-google-ads-7step-ecosystem-21x]])
+Trong case $57k→$1.21M AU (21x ROAS), một trong 7 đòn quyết định là **market-specific CRO research** — đặc điểm mua AU khác US đủ để tạo delta đáng kể:
+- **Buy-now-pay-later:** tích hợp **Afterpay + Zip** → **+30% CVR**. AU market BNPL adoption rate cực cao (1 trong 3 transaction). US tương đương: Klarna / Affirm / Sezzle. → Không phải tính năng "nice-to-have" ở market này — đây là friction-remover lớn nhất.
+- **Pricing format: $40 flat > $39.99.** Charm pricing quen thuộc US/EU không map 1-1 sang AU; round number "honest & fair" tạo trust tốt hơn .99 trong segment mid-market AU pet/health.
+- **"GST inclusive" labeling:** thêm "GST inclusive" vào giá hiển thị → instant CVR bump (AU buyer ngại "hidden tax" bẫy) — không cần giảm giá, chỉ cần visible clarity.
+
+**Framework transfer:** trước khi launch sang market mới, audit 3 thứ: (1) payment rails phổ biến nhất (BNPL? bank transfer? installment?) → tích hợp, không chỉ card · (2) pricing convention (round vs .99 vs anchored) · (3) tax hiển thị (inclusive vs exclusive). Mỗi market lệch 1 trong 3 = có quick win.
+
+→ MaxPro nếu expand AU: BNPL + GST-inclusive là 2 checkbox bắt buộc trước khi scale spend.
 
 ## Đã test & GIẾT
 YouTube action cho high-ticket (1.2x) · broad match (google match "free pain relief", ROAS 6→2.8) · PMax không exclude brand (ăn thịt brand campaign 18x) · auto-bid từ ngày 1 (0.8x). **Lesson: manual CPC lấy data → RỒI mới target ROAS** (algorithm cần data mới chạy).

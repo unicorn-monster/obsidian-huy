@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker]
-updated: 2026-07-12
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026]
+updated: 2026-07-14
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -138,6 +138,15 @@ Kết quả khi plug vào customer data: khách uống creatine **cùng cà phê
 > MaxPro = tool vật lý, không sub. Nhưng câu 3 ("how do you actually use it?") áp thẳng: khách nào dùng grinder khi nào? Sau bath? Xem TV? Trước vet visit? Nếu correlate với review 5★ / repurchase → đó là habit để làm front-end message. "Grind while they dry off." "Sunday afternoon routine." Không cần sub mới dùng methodology này — chỉ cần post-purchase survey + review mining.
 
 Tie driver #3 (onboarding + education đúng cách = habit building) trong §10 driver LTV ở trên. Survey là công cụ đơn giản nhất để **tìm habit nào cần build vào onboarding** — không đoán.
+
+## Agency benchmarks — what healthy retention looks like at scale ([[maxwellcopy-agency-stats-june-2026]])
+Maxwell (Well Copy, June 2026 update — 118 brands on retainer):
+- **Agency churn rate: 1.89%/month** — mức tốt cho retention agency (≈77% giữ agency sau 12 tháng). Benchmark: nếu bạn đang thuê agency email/retention, ≥1.89% là dấu hiệu agency đang giữ được client vì performance thật.
+- **WelLTV** — Maxwell vừa launch platform retention analytics độc quyền cho client (sau nhiều tháng build). Tín hiệu: agency tier cao 2026 đang **build proprietary data layer** thay vì chỉ dựa Klaviyo dashboard. Tie back §2026-market-shift: đây là ví dụ cụ thể về "data + expertise không-ai-có" như differentiator.
+- **Subscription specialization đang tăng:** "Lots of subscription brands coming in, that's been a real focus." → Với brand DTC, email agency chuyên sub đang có backlog; không phải chỉ generalist agency nữa.
+
+> [!note] Cho MaxPro (non-sub)
+> Grinder chưa cần đội retention agency. Nhưng khi scale sub/consumable: benchmark này cho biết agency nào là tốt → hỏi thẳng churn rate của agency đó (nên <3%/mo với portfolio $1M+/mo).
 
 ## 2026 market shift: AI commoditizes execution → depth wins ([[maxwellcopy-ai-shifts-retention-value]])
 maxwellcopy (Well Copy, 70+ người, một trong những retention agency lớn nhất 2025): *"AI made pure execution way less valuable."*
