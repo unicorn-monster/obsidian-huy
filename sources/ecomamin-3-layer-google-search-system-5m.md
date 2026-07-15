@@ -1,12 +1,9 @@
 ---
-title: "The 3-Layer Google Search System - $5M+ Ecom Breakdown"
+type: clip
+date: 2026-07-15
 source: "https://cream-group-bf6.notion.site/The-3-Layer-Google-Search-System-5M-Ecom-Breakdown-35c71e5695088102b368d9297b9a0dd4"
-author:
-published:
-created: 2026-07-15
-description: "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps."
-tags:
-  - "clippings"
+author: "eCom_Amin (ad-imperium)"
+title: "The 3-Layer Google Search System - $5M+ Ecom Breakdown"
 ---
 ![Page icon](https://cream-group-bf6.notion.site/image/attachment%3A14496700-d164-4803-84d9-aa805564004b%3AScreenshot_2026-05-10_162111.png?id=35c71e56-9508-8102-b368-d9297b9a0dd4&table=block&spaceId=7d4453f3-8b02-4863-bcb2-c44b07459bd7&width=250&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
 

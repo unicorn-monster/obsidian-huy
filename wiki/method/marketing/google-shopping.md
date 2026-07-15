@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet]
-updated: 2026-07-03
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads]
+updated: 2026-07-15
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -42,3 +42,30 @@ Nguồn: [[ecomamin-shopping-masterclass]]. *"Mọi brand có Shopping CAMPAIGN;
 - Cùng triết lý "70% từ feed, làm TRƯỚC campaign" đầu trang — nhưng mở rộng từ title/desc/image ra **toàn bộ attribute schema**. MaxPro: điền đủ size/breed-compatibility (3-port cap S/M/L), material (diamond drum), noise level, pet type — mọi field GMC cho phép.
 
 → Impression-share headroom (winner ROAS cao nhưng IS thấp → tách campaign riêng) + 7-campaign + optimization + seasonal: [[google-ads]].
+
+## Priority-laddering + PMax coexistence + custom-labels schema (Vysta 48 Laws) ⭐ how-to
+Nguồn: [[vysta-48-laws-google-ads]] (Vysta, checklist 48-law Google Ads ecom). Phần Shopping có **3 cơ chế net-new** không có ở masterclass trên:
+
+**1. Campaign PRIORITY laddering — route intent bằng High/Med/Low (Law 24-25).** Standard Shopping priority quyết campaign nào vào auction TRƯỚC → "ladder" traffic theo intent:
+- **High-priority Non-Brand** + brand negatives → bắt query generic/category (siết tROAS looser cho volume).
+- **Med-priority Category** (optional) cho mid-intent term + competitor/low-intent negatives.
+- **Low-priority Brand** + **KHÔNG** brand negatives → hứng brand query (tROAS chặt hơn vì conv-probability cao).
+- **Tách Brand vs Non-Brand Standard Shopping** (tối thiểu 2 campaign): trộn brand demand vào non-brand **giấu CAC thật** + ép sai bid. Đây là cách làm rõ CAC mà §Shopping-masterclass chưa nói.
+
+**2. PMax ↔ Standard coexistence + anti-cannibalization (Law 23/29/35).** PMax thường **thắng Shopping auction by design** → muốn Standard gánh SKU cụ thể thì phải chủ động:
+- Chọn SKU nào sống ở Standard vs PMax bằng item filter (custom labels). Standard cho line mà **query-intent + margin control** quan trọng; PMax cho discovery/coverage.
+- **2 cách chặn PMax nuốt Standard SKU:** (a) trong PMax dùng listing-group filter **exclude** Item ID/label đã giao Standard; hoặc (b) set PMax **tROAS cao hơn** + Standard **tROAS thấp hơn** → Standard thắng auction cho SKU của nó.
+- **PMax Hero vs Tail** (Law 35): PMax-Hero (bestseller/high-margin) tROAS thấp / Max-Conv-Value; PMax-Tail tROAS cao gánh experiment. Exclude poor-performer khỏi Hero. (Bồi §7-campaign PMax feed-only + brand-EXCLUDED ở [[google-ads]].)
+
+**3. Custom-labels 5-chiều (Law 15)** — bidding-to-the-mean giấu outlier; label để Smart Bidding thấy từng lớp:
+`label0 = price_tier` (0-25 / 25-50 / 50-100 / 100+) · `label1 = margin` (low/med/high) · `label2 = role` (hero/evergreen/seasonal/clearance) · `label3 = lifecycle` (new/growth/mature/sunset) · `label4 = inventory_risk` (overstock/normal/low). Sâu hơn 3-tier bid ở §masterclass — cho phép cross-cut (vd high-margin × overstock → đẩy mạnh).
+
+**Product-group granularity (Law 26):** break out **Item ID** cho hero/high-margin; nhóm phần còn lại theo custom label (margin/price-tier/role); exclude chronic loser xuống Tail-PMax/clearance với tROAS chặt. Đừng item-ID-hoá mọi thứ — chỉ SKU **swing** kết quả.
+
+> [!tip] Standard Shopping Starter Blueprint (copy/paste)
+> - `Shopping-Brand-Exact-LowPriority` — no brand negatives, tROAS chặt.
+> - `Shopping-NonBrand-HighPriority` — brand negatives, tROAS looser cho volume.
+> - (optional) `Shopping-Category-MedPriority` cho top 1-3 category.
+> - Routing: High + brand-negatives → generic; Low + no-negatives → brand/SKU term.
+> - Coexist PMax: exclude Standard-SKU khỏi PMax bằng listing-group filter, HOẶC PMax tROAS cao hơn.
+> Áp MaxPro: khi feed đủ chuẩn ([[google-shopping]] đầu trang) → tách Brand-Low / NonBrand-High priority là đòn control CAC rẻ nhất; label margin/role để Smart Bidding không dồn budget về SKU low-margin.

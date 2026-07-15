@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x]
-updated: 2026-07-14
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads]
+updated: 2026-07-15
 ---
 
 # Google Ads (kênh search-intent)
@@ -346,3 +346,73 @@ Nguồn: [[comparison-page-playbook-3rd-party]]. 3rd-party comparison page = tra
 2. **"Review" image ads (Discover):** angle best-of / expert-rec ("Physical therapists calling these 6 massagers a game-changer after 40") / consumer-review ("we tested 10 skincare tools, here's what works for women over 50"); image style editorial-flatlay / lifestyle-eval / side-by-side; description = credibility ("evaluated across 500+ options") / research / curiosity ("one option outperformed products 2× the price").
 3. **"Editorial" video (YouTube):** benefit→raise-stakes→educate(quality-difference)→set-criteria→payoff.
 - **Swipe tactic chi tiết (soft-cons / persona-match / buyer-guide-reverse) → chuyển sang [[presell-pages]].** Ops: trước khi dựng mới, **check page đang ngủ** — Shopify Analytics → Sessions by Landing Page → filter "custom" → range 12 tháng (nhiều brand có comparison page convert tốt trên Meta mà chưa đẩy lên Google).
+
+## 4-layer search system — benchmark reference ($5M+ account) ⭐ số liệu
+Nguồn: [[ecomamin-3-layer-google-search-system-5m]] (Amin, ad-imperium, $5M+ ecom rev). **Bồi số liệu định lượng** cho §24-hour demand-capture + §7-campaign ở trên — cùng mental model (mỗi query = 1 awareness layer, tách campaign riêng thì mỗi layer compound; trộn thì triệt tiêu nhau) nhưng đây là **bảng target cụ thể per layer**. 4 query type: **TOF** problem-aware · **MOF** solution-aware (chia 3) · **BOF** branded · **Conquesting** competitor-aware.
+
+**Revenue attribution (từ account $5M+):**
+| Layer | % revenue | ROAS profile |
+|---|---|---|
+| MOF transactional | 35-40% | ROAS cao nhất (relative) |
+| MOF category | 25-30% | vừa, **volume-growth tiềm năng lớn nhất** |
+| BOF branded | 15-20% | ROAS tuyệt đối cao nhất, **trần thấp** |
+| TOF problem-aware | 5-10% direct | nhiều hơn nhiều qua branded-lift + chất lượng remarketing pool |
+| Conquesting | 5-10% | biến động theo độ cạnh tranh category |
+
+→ *"Brand chỉ chạy BOF + MOF-transactional bỏ lại **40-50% revenue** trên bàn"* — củng cố §prospecting-first (branded-only = cap).
+
+**Per-layer target (SIS / QS / bid):**
+| Layer | SIS target | QS target | Bid strategy |
+|---|---|---|---|
+| BOF branded | **95%+** | 8-10 | **Manual CPC LUÔN** — smart bidding overpay cho conv algorithm vốn bắt được rẻ hơn. IS-lost-to-budget phải = 0 (branded ko bao giờ cap budget) |
+| MOF category | 50-70% | 6-8 | Max-conv-cap → tCPA (set tCPA **20% trên** actual CPA hiện tại) |
+| MOF comparison | 50-70% | 6-8 | Max-conv → tCPA |
+| MOF transactional | 50-70% | 6-8 | Max-conv → tROAS (revenue signal mạnh) |
+| TOF | varies | 5-7 (advertorial khớp tốt đẩy 7+) | Max-conv → tROAS **set 30-40% DƯỚI target MOF** |
+| Conquesting | — | 3-5 (đừng chase cao hơn) | Manual CPC / tROAS thấp — CPC structurally cao, manual chống overpay |
+
+**MOF chia 3 sub-type** (mỗi cái LP + bid khác): (1) **category** ("magnesium for sleep") → advertorial/comparison, lead absorption/form/testing; (2) **comparison** ("bisglycinate vs glycinate") → comparison article lead-with-answer, doubles as SEO; (3) **transactional** ("buy magnesium free shipping") → **thẳng PDP** (advertorial ở đây = thêm friction, giết CVR). Transactional CVR phải **2-3× category CVR** — nếu ko, page đang thêm friction.
+
+**Conquesting economics khác mọi layer:** CVR = **50-70% của MOF**, nhưng **LTV thường cao hơn** (buyer đã commit với category) → đo **CAC vs LTV, KHÔNG phải first-purchase ROAS**. Competitor name trong page copy **tăng Quality Score** trên conquesting kw (+ doubles SEO). Dedicated campaign riêng, exact+phrase, ko broad trên tên brand đối thủ.
+
+**Competitor defense protocol (branded SERP):** pull auction insights branded → xem ai bid tên mình; check **ads transparency centre** (search brand mình) → thấy headline/desc chính xác của đối thủ; đối thủ dùng **price-comparison angle** → thêm counter-message vào branded ad rotation; đối thủ **để tên brand mình trong headline** → file **trademark complaint** qua Google policy tool. (Bồi §control-narrative.)
+
+**QS → tiền thật:** ở $10k/day, cải thiện QS **1 điểm** trên TOF campaigns = **10-15% giảm CPC** = ở $300k/mo là **$30-45k/mo tiết kiệm**. 3 thành phần QS fix độc lập: expected-CTR + ad-relevance + landing-page-experience — fix component yếu nhất TRƯỚC, đừng nâng bid mù.
+
+**Bid-management + RSA testing (bồi §Optimization + §"đã test & GIẾT"):**
+- **Switching trigger = conversion volume, KHÔNG phải thời gian:** 30 conv / 30 ngày = ngưỡng tối thiểu để smart bidding hoạt động. Khớp mistake #7 (§7-sai-lầm).
+- Chuyển sang tROAS → set target **TRÊN** performance hiện tại (campaign chạy 4x max-conv → set tROAS 3x). Siết sớm = bóp algorithm trước khi nó học.
+- Scale bid: tăng target **10-15%/2 tuần**. Nhảy mạnh → algorithm cắt spend, mất auction learning.
+- **Black Friday/promo: NỚI target** (campaign chạy tROAS thường vào peak = underbid traffic giá-trị-cao nhất năm).
+- **RSA:** 2-3 RSA/ad group, **vary H2 + H3** (đó là chỗ test sống); description = 1 benefit-led / 1 proof-led / 1 urgency-led; min **1,000 impression/RSA** trước khi đánh giá; **primary metric = CVR ko phải CTR** (high-CTR ko convert < low-CTR có convert); ad group low-volume cho **4-6 tuần**; winner giữ, thay loser bằng challenger góc khác → cải tiến liên tục.
+
+**Diagnostics (SIS if-below / if-above):** BOF <95% = action ngay (budget/bid/QS); MOF <50-70% = build conv data + push bid trên theme đã proven; TOF sub-20% + data tốt = tăng budget, 80% + data kém = **pause + rebuild page**. IS-lost-to-budget = tăng budget campaign lãi; IS-lost-to-rank = vấn đề QS, fix component yếu nhất đừng nâng bid mù. Áp MaxPro: branded SIS 95%+ là món rẻ nhất chưa bật; đo conquesting bằng LTV:CAC ([[maxpro-competitors]]).
+
+## Fable 5 advertorial workflow — 6-block prompt architecture (eCom_Amin) ⭐ actionable
+Nguồn: [[ecomamin-fable5-advertorial-workflow]] (@eCom_Amin, X). Engine **sản xuất** TOF advertorial mà Layer-1 (§4-layer) và §Full-funnel-advertorial cần. Từ 4-6h/trang thủ công → **<30 phút** với Claude Fable 5, output tốt hơn. Biến số quyết định convert/flop: **awareness level của traffic** — hầu hết AI advertorial fail vì viết cho product-aware trong khi traffic là problem-aware (search "why do i wake up at 3am"). = [[market-awareness]].
+
+**Step 1 — keyword → awareness mapping** (làm TRƯỚC khi mở AI): "why do i wake up at 3am" = problem-aware · "best magnesium for sleep" = solution-aware · "brand X vs Y" = most-aware. Mỗi level = structure advertorial khác.
+
+**Step 2 — prompt 6 block** (templated, chỉ swap keyword/brand/mechanism per client):
+1. **Traffic context** — reader đến từ google search "[keyword]", awareness = [problem/solution/most-aware], chưa từng vào site.
+2. **Brand + product context** — brand, product, USP/mechanism, price, differentiator vs đối thủ, demographic.
+3. **Advertorial structure (6 section):** ① validate struggle (chạm đúng pain sau query, "make them feel seen") → ② explain real cause (mechanism ít người biết, cite study) → ③ introduce solution **CATEGORY, ko phải product** (vì sao giải pháp cũ fail) → ④ product = best implementation của mechanism (how it works, backing, USP) → ⑤ social proof → ⑥ **soft CTA + risk reversal**, giữ tone educational.
+4. **Tone/voice** — editorial ko commercial, viết như bài magazine health/lifestyle; ko hype word ("revolutionary"/"game-changing"); câu ngắn, nhịp hội thoại.
+5. **Banned patterns** — ko lead bằng product; **ko nhắc brand trong 3 đoạn đầu**; ko dấu chấm than; ko từ "imagine"; ko transition generic ("but here's the thing"); ko gì làm nó đọc như FB ad. (Ad-blindness word cần né: *discover / transform / unlock*.)
+6. **Output format** — format mobile, đoạn max 2-3 câu, subheading mỗi 150-200 từ, chèn `[IMAGE: mô tả]` + `[PRODUCT INTRO]` marker.
+
+**Revision loop (nơi Fable 5 ăn tiền — draft 1 mới 80%):** (1) **hook audit** — "đọc 3 câu đầu, người đến từ query [keyword] sẽ đọc tiếp hay bounce? bounce thì viết lại opening khớp mental-state lúc gõ query" (thường **gấp đôi** chất lượng mở bài); (2) **mechanism clarity** — "người 35 tuổi ko nền khoa học có hiểu + tin nó KHÁC cái đã thử ko? nếu ko, đơn giản hoá + thêm 1 analogy"; (3) **CTA audit** — "CTA cảm thấy được *earn* bởi phần education hay bị *bolt-on*? viết lại nếu như 1 pitch". 3 revision = 10-15 phút.
+
+**Angle multiplication (vũ khí scale):** mỗi product → 3-5 ICP angle, mỗi angle = problem-cluster + keyword-set + emotional entry khác → 1 advertorial riêng (cùng product, cùng mechanism, khác entry). VD magnesium: sleep / stress / muscle-cramp / energy / general. 5 advertorial trong ~2h (thủ công = 20-30h, "economics ko make sense" → nên ko ai làm). Đây là cách **phá trần PDP-only account**: more angle → more entry point. Rồi nhân across product line / market / language.
+
+> [!note] Fable 5 = creative director, KHÔNG phải strategist
+> AI viết copy + match tone + self-correct qua revision. **Bạn** vẫn quyết keyword / awareness level / mechanism / angle nào test. Brand bị burn = dùng AI **thay** tư duy chiến lược ("write me ad copy"). Brand thắng = AI làm **production accelerator trong framework tự build từ kinh nghiệm**. Kết quả claim: 4x-21x ROAS từ campaign trước chạy PDP ở 1.5-2x. Cross-link: [[lp-copy-prompts]] (bộ prompt LP), [[copywriting]] (DR craft), [[presell-pages]] (build advertorial), [[market-awareness]] (map awareness).
+
+## 48 Laws of Google Ads — audit checklist + bidding/PMax deltas (Vysta) ⭐ reference
+Nguồn: [[vysta-48-laws-google-ads]] (Vysta). 48-law reference doc phủ tracking → feed → search → shopping → PMax → YouTube/DG → audience → bidding → landing/policy. Đa số khớp các section trên (dùng làm **audit checklist** cho account MaxPro). **Shopping-specific → [[google-shopping]]** (priority-laddering, custom-labels 5-chiều, PMax coexistence). Net-new cho account/bidding:
+
+- **Bidding threshold hợp nhất (Law 7/45/46):** Max-Conversion-**Value** trước → tROAS sau khi đủ **30-50 conv/tuần**; set tROAS ban đầu chỉ **10-15% trên** hiện tại, chỉ chỉnh mỗi **7-14 ngày** (hoặc 3 conversion-cycle). Budget: tCPA = **10-20× target CPA/ngày**; tROAS = đủ để đạt **30-50 purchase/tuần/campaign** (tránh "Limited by budget" = bóp learning). Đổi **1 dial 1 lần** (budget HOẶC target HOẶC structure — ko cả 3). Chi tiết hơn ngưỡng ở §"đã test & GIẾT" + mistake #7.
+- **PMax Hero vs Tail (Law 30/35):** launch PMax **sau** khi feed + signal chuẩn (Law 11-16); PMax-Hero (hero/high-margin SKU) tROAS thấp/Max-Conv-Value, PMax-Tail tROAS cao gánh experiment; **upload video riêng** (≥1 landscape + 1 square/asset-group — auto-gen video underperform); 1 asset-group/category map tới collection LP. Anti-cannibalization SKU-routing → [[google-shopping]].
+- **New Customer Acquisition (Law 8/44):** bật **NCA tag** (weight first-order LTV) + exclude purchaser **365 ngày** khỏi MỌI prospecting (Search / Non-Brand Standard Shopping / PMax / YouTube) → track new-customer share. Bồi §prospecting-first.
+- **Attribution/measurement:** chuyển account sang **DDA** (last-click under-credit upper-funnel); đo **MER = Total Rev / Total Spend** hằng tuần + holdout test lift từng kênh (platform number ≠ business impact). Optimize tới **Purchase-with-value** (Primary), micro-event (ATC/checkout) = Secondary; bật Enhanced Conversions + Customer Match + server-side tag.
+- **RSA (Law 20):** 8-12 headline (3 chứa core keyword) + 4 description, **minimal pinning** (chỉ legal/compliance), 2 RSA/ad-group, rotate hook/offer theo quý. (Chi tiết H2/H3-test-slot ở §4-layer.)

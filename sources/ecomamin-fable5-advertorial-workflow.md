@@ -1,13 +1,9 @@
 ---
-title: "how i cook KILLER google ads advertorials with fable 5"
+type: clip
+date: 2026-07-14
 source: "https://x.com/eCom_Amin/status/2076724912937750754"
-author:
-  - "[[@eCom_Amin]]"
-published: 2026-07-14
-created: 2026-07-14
-description: "i used to spend 4-6 hours writing one advertorial for a google ads campaign.research the keyword intent. map the awareness level of the traf..."
-tags:
-  - "clippings"
+author: "@eCom_Amin"
+title: "how i cook KILLER google ads advertorials with fable 5"
 ---
 ![Image](https://pbs.twimg.com/media/HNIBwn8bYAA1I7M?format=jpg&name=large)
 
