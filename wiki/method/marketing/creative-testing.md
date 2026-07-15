@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video]
-updated: 2026-07-13
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months]
+updated: 2026-07-15
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -65,6 +65,28 @@ Solo insight: không phải về quy mô — mà về **closing the loop**: winn
 Hàm ý cho testing regime: production cost/ad tiếp tục giảm → barrier để flood volume (Gruns 900+ ad) giảm theo. Nhưng **isolate-one-layer vẫn đúng**: AI chạy nhiều asset nhanh hơn không có nghĩa là bỏ signal discipline — vẫn cần tag đúng để extract pattern. Tie [[market-awareness]] §unaware pool: AI giỏi copy "fast ad" format nhưng vẫn cần operator input để viết unaware creative không flat.
 
 > Theo dõi RN V3 + Seedance 2.0 + GPT Sol agent khi production budget cho MaxPro mở rộng — RN V3 đặc biệt hấp dẫn cho UGC "talking pet owner" format dưới $1/clip thay thế actor thuê ngoài.
+
+## DTC scale playbook — $0→$500k/mo trong 4 tháng ([[dtcmidas-500k-month-4months]])
+DTCMidas case xác nhận những gì DID vs DIDN'T move needle ở giai đoạn scale early:
+
+**DID (thực sự làm):**
+- Tăng creative output — onboard creator mới mỗi tuần, thuê creative agency
+- Đọc review + ad comment + CS ticket thủ công để hiểu khách (*"đọc thủ công — không delegate"*)
+- Làm ad drive **real TOF** (net new visitor, không chỉ retarget)
+- Test giá và offer — kể cả **tăng giá + tăng phí ship** (CVR không rớt)
+- Đàm phán giá tốt hơn với nhà máy/3PL khi volume tăng
+
+**DIDN'T (không làm):**
+- Thêm kênh marketing mới
+- Bàn về cấu trúc ad account
+- Build dashboard phức tạp
+- Launch sản phẩm mới (quá sớm)
+- Gọi vốn
+
+**Hàm ý cho testing regime:** creative velocity (thuê agency, onboard creators) + TOF real creative là đòn bẩy #1. Confirm cùng Gruns 900+ ad velocity ở trên. "Không thêm kênh" = focus đào sâu 1 kênh trước.
+
+> [!note] MaxPro
+> Giai đoạn $0→$100k: ưu tiên **output creative + hiểu khách thủ công** trước khi nghĩ đến dashboard/automation. Test giá táo bạo hơn — $39.95→$44.95 rất có thể không rớt CVR (xem [[offer-and-cta]] §raise price sau khi raise value).
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.

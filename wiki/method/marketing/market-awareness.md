@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide]
-updated: 2026-07-11
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months]
+updated: 2026-07-15
 ---
 
 # Market awareness + sophistication (grinder)
@@ -112,6 +112,13 @@ Khi thị trường **super aware** (mọi đối thủ đều claim "best quali
 
 > [!note] MaxPro (pet grooming — "tech/gadget" gần nhất)
 > Lộ trình: (1) Submit Red Dot hoặc CES "innovation" category, hoặc tìm pet-specific awards (Pet Business Magazine, APPA). (2) Khi có badge → đặt ngay trong ad frame ("Red Dot winner") + hero LP. Cùng logic UMS/UMS (§UMP/UMS trên) nhưng verified bởi bên thứ 3 thay vì self-claim.
+
+## VOC research: đọc thủ công, không delegate ([[dtcmidas-500k-month-4months]])
+DTCMidas $500k/mo playbook xác nhận: **đọc review + ad comment + CS ticket thủ công** để thực sự hiểu khách — không giao cho team, không dùng AI tóm tắt ngay lập tức. Lý do: nuance và ngôn ngữ thật của khách nằm trong từng comment cụ thể, AI-summary làm phẳng mất.
+
+Tie [[email-marketing]] §AI trong email vai trò 1 (VOC mining từ review + support ticket) và Nick Theriot §checklist unaware ad (đọc 1★+3★, Reddit upvoted, YouTube comment). Cùng pattern: **direct exposure to raw customer voice** → insight angle không thể đến bằng cách khác.
+
+→ MaxPro: dành 30-60 phút/tuần đọc thủ công: Amazon review đối thủ + FB ad comment của MaxPro + CS inbox. Không tóm tắt ngay — ghi verbatim quote vào [[maxpro-voc-insights]].
 
 ## Native cold traffic = ngược (L1-2)
 Khi mở [[native-ads]] (open-web): cold native = **Unaware / Problem-aware**, KHÔNG L3-4 như grinder buyer trên Meta. Targeting native rộng → **funnel tự qualify** thay cho targeting. Cùng 1 product có thể cần register awareness khác nhau theo kênh.
