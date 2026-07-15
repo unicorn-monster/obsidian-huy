@@ -1,0 +1,20 @@
+---
+type: clip
+date: 2026-07-15
+source: "https://x.com/iamgalba/status/2077121963307499667"
+author: Ruslan Galba
+title: "AI video model pricing matrix — per-second math + shot-routing"
+---
+## Post
+
+## Conversation[Ruslan Galba](https://x.com/iamgalba)[@iamgalba](https://x.com/iamgalba)
+
+Every AI video model comparison on X compares vibes. Not one of them compares invoices. So I pulled the actual per-second math on every current model, and the "cheap" models aren't cheap, the "premium" ones aren't premium, and the best deal on the market is hiding inside a billing unit nobody bothers to divide. The full breakdown is in the screenshot and at the end of the post. Bookmark it if you'd like. Now the three findings that make this table worth money: 1. Per-video billing is arbitrage. Per-second models punish long clips. Per-video models reward maxing the clip length. If your b-roll beats are authored at exactly 8 seconds, Veo Lite undercuts everything. Structure your shot list around the billing unit, not the other way around. 2. The audio surcharge is a tax most people pay for nothing. Native audio adds up to 40% per second on some models. If you're laying one continuous voiceover over the footage anyway (you should be), you're paying for audio you delete. Render silent. Pay the surcharge only on the beat where the sound IS the ad. 3. There is no winner in this table. That's the point. - The proof shot goes to Kling. - The talking head goes to Sora or Seedance. - The wallpaper goes to Mini. - The 8 second b-roll goes to Veo Lite. - The revision goes to Omni. A single production should touch four of these models. Anyone running everything through one model is either overpaying on 60% of their seconds or under-delivering on the 5% that carry the trust. The model wars are content for spectators. The billing table is content for operators. Bookmark the table. The prices will drift, the logic won't: normalize to per-second, route by shot, never pay for audio you'll replace, and let the per-video models subsidize your b-roll. KLING 3.0 $0.07/sec silent, $0.10/sec with audio 15 sec max. The physics king. Weak lipsync (~22%). SEEDANCE 2.0 $0.10/sec with video input, $0.165 cold 12 sec max. Real lipsync. Multi-shot consistency is its whole pitch. SEEDANCE 2.0 MINI $0.03 to $0.06/sec The cost floor. Your background shots do not need more than this. VEO 3.1 LITE $0.175 PER VIDEO for an 8 sec 1080p clip. Do the division: $0.022/sec. That's the cheapest quality-per-second in the entire market, and it's invisible because it's billed per clip instead of per second. This is the single most valuable row in this table. HAILUO 2.3 $0.15 per 6 sec clip. About $0.025/sec. Same trick, second cheapest. WAN 2.7 $0.08 to $0.12/sec. Solid middle. No audio. SORA 2 PRO $0.045/sec at 720p. The only model that holds a 25 second continuous take, and the best lipsync available. Somehow also one of the cheapest. Nobody talks about this. GEMINI OMNI $0.84 per generation WITH video input. It's not a generator, it's an editor. Feed it a finished clip and change one element with a sentence, instead of re-rendering the whole scene. This is a different product category and almost nobody has noticed it shipped.
+
+[![Every AI video model comparison on X compares vibes. Not one of them compares in](https://pbs.twimg.com/media/HNNratuacAEv37k?format=jpg&name=medium)](https://x.com/iamgalba/status/2077121963307499667/photo/1)
+
+read image description
+
+Post your reply
+
+Per-second pricing is the right baseline. The production comparison gets even more useful when it adds resolution/duration multipliers, retry or failure rate, and queue latency. A “cheap” first attempt gets expensive fast after two failed generations.[3](https://x.com/routerbase_com/status/2077320204678492563/analytics)

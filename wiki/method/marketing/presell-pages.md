@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation]
-updated: 2026-07-13
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel]
+updated: 2026-07-15
 ---
 
 # Presell pages — build guide (4 format)
@@ -88,6 +88,26 @@ Nguồn: [[comparison-page-playbook-3rd-party]]. Đây là sub-genre "borrowed-a
 3. **Expert persona KHỚP niche** (congruent authority, [[personas]]): shoes → *"I Asked an Elite Marathon Coach — Coach Marcus, 500 miles across 40 pairs"*; rugged watches → *"From a Plumber's Perspective — Mike, plumber 25 years"*. Persona = đúng người-đáng-tin của ngách đó, không phải "reviewer" chung. → MaxPro/pet: groomer 15 năm HOẶC vet tech, không phải "expert" mờ.
 4. **Ranked #1 block = price-anchor + seasonal offer:** regular price gạch ($299.99) → sale kèn seasonal ("International Women's Week Sale: $229.99") ngay trong block review (không đợi PDP). Anchor + lý-do-giảm defensible ([[offer-and-cta]]).
 **Ops:** trước khi dựng mới, check page đang ngủ — Shopify Analytics → Sessions by Landing Page → filter "custom" → 12 tháng (comparison page convert tốt trên Meta thường chưa được đẩy lên Google). 3 kênh chạy 1 page (Search comparison-kw / Discover review-image-ad / YouTube editorial-video) → [[google-ads]]. Proof: ROAS 3.15 Search / 2.54 Demand Gen.
+
+### Editorial ad → comparison page = 1 funnel (Demand Gen play) ⭐
+Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] (agency scale Demand Gen $10-20k/ngày). Comparison page ở trên là **back-end**; đây là **front-end ad** feed nó — cặp này chạy như 1 funnel trên **Demand Gen (YouTube/Discover)**, không phải Meta. Ý tưởng: giúp người ta "chọn brand nào đáng mua" → hạ sales resistance vì cả 2 mảnh **đọc như content giáo dục, không như ad**.
+
+**Editorial ad — 5 beat (format-agnostic: UGC / podcast-style / AI animation / VSL, chọn cái hợp category):**
+1. **Benefit người ta muốn** + product giải nó ra sao (mở bằng thứ họ đang tìm, không mở bằng brand).
+2. **Vì sao chọn ĐÚNG product/brand quan trọng đến vậy** (nâng stakes của quyết định).
+3. **Dạy cái gì tách "high-quality" khỏi "average"** — ingredients / formula / sourcing / quality standards đổi kết quả *massively*. Đây là beat build hiểu-biết, tạo tiêu chí trong đầu reader.
+4. **Người ta nên TÌM GÌ** (list tiêu chí họ vừa được dạy để tự chấm).
+5. **Show product mình check đúng các ô đó** → click sang comparison page.
+→ Beat 3-4 chính là **buyer's-guide-reverse-engineer** (swipe #2 trên) nhưng đặt trong AD: dạy tiêu chí = đúng spec sản phẩm mình sở hữu. Mạnh nhất ở **sophisticated market** (buyer skeptical) — format editorial lowers resistance. Hợp mọi product kể cả "boring" (blanket, sofa, furniture): lấy 1 USP rồi *"bang on about it"*.
+
+**Layout swipe từ ảnh (comparison page "6 Best Face Oils for Men", đọc từ screenshot):**
+- **Badge trên headline:** *"⭐ Our #1 Pick Has 4.9/5 Based On 1,571+ Reviews"* (proof lên trước cả headline).
+- **Headline formula:** *"The [N] Best [Category] for [Avatar] Without [Villain] in [Year], Lab-Tested Buyer's Guide"* — nhét avatar + villain + year + authority-tag vào 1 dòng. (Vd villain = "Without Synthetics".)
+- **Subhead pain-stack:** *"We tested the top [A, B, C] to find which one actually [benefit], without [pain1], without [pain2], without [pain3]."*
+- **Dual CTA:** *"See Our #1 Pick"* (solid, skip cho người đã tin) + *"Compare all 6 options ↓"* (outline, cho người muốn cân nhắc).
+- **3-icon trust bar:** *Researched by [Avatar]* · *Reviewed by Independent Editors* · *Backed by Third-Party Lab Testing* (3 trục authority: peer / editorial / lab).
+- **Editor's Choice #1 block:** tên product + Overall Rating (4.9/5) + **sub-rating theo dimension** — mỗi cái ★ riêng + 1 đoạn: *Purity & Ingredients ★★★★★ · Absorption & Feel ★★★★★ · Quality & Sourcing ★★★★☆*. (1 dimension để 4★ = tăng độ tin.)
+→ MaxPro: dựng đúng khung này cho [[maxpro-top5-review-funnel]] (nail-clipper angle cụ thể ở đó).
 
 ## Listicle — vì sao convert + build mechanics
 **Vì sao convert** ([[fotw-listicle-reason-why-1904]] + [[fotw-bencivenga-listicle-collagen]]): listicle = "Reason-Why advertising" (Kennedy 1904 → Reeves USP → Schwartz mechanism), mỗi reason = `name reason → explain mechanism → prove → lặp tới hết objection`. Nền persuasion = **Bencivenga**: `Urgent Problem + Unique Promise + Unquestionable Proof + User-Friendly Proposition`, đóng **5 Exit of Escape** (no time/interest/difference/belief/decision) trước khi reader dùng được. **CrackerJack Secret:** ad phải đáng đọc như content ("7 Reasons Everyone Over 50 Should Be Taking This Protein", KHÔNG "Buy our collagen"). Stat: bài dạng article pull **+81% response** vs cùng copy dạng ad (Ogilvy +500% readership) → format editorial > polished. Headline template: `[N] Reasons Everyone Over [age] Should [X]`.

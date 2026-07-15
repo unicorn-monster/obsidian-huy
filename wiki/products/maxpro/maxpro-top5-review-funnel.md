@@ -44,6 +44,15 @@ Còn lại **trước khi đốt tiền ad**:
 
 **Traffic vào funnel này:** creative test + campaign structure Google Demand Gen Discover đã chốt ở [[maxpro-demand-gen-discover]] (campaign `23867277482`, batch 8-12 grid-ad raw iPhone, ngưỡng CTR ~5%, đích = funnel này).
 
+## Editorial ad angle (creative feed funnel này)
+Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] — chính bài này lấy **pet nail clipper** làm ví dụ mẫu cho funnel "editorial ad → comparison page". Method 5-beat ở [[presell-pages]] (§Editorial ad → comparison). Angle cụ thể cho grinder MaxPro (clipper = villain, grinder = giải):
+- **Beat 1-2 (stakes):** nail-trim SAI gây **đau · chảy máu · joint issues dài hạn** — không phải chuyện nhỏ, chọn đúng dụng cụ mới quan trọng.
+- **Beat 3 (dạy tiêu chí = villain clipper):** clipper guillotine rẻ **crush móng TRƯỚC khi cắt** → **splits & damages the quick** theo thời gian (kể cả trim đúng cách). Dụng cụ thiết kế tệ → chó phát triển **fear response** → mỗi lần trim = **màn vật lộn 2 người**. → dạy reader: thứ tách "tốt" khỏi "tệ" = grind-and-release nhẹ, quiet, không crush.
+- **Beat 4 (what to look for):** = 5 criteria funnel (safe-on-quick · quiet · no-vibration · thick-nail · black-nail).
+- **Beat 5 (product checks boxes):** MaxPro grind-and-release → không crush quick → không tạo fear-loop.
+- **Cost frame ([[offer-and-cta]]):** dụng cụ đúng rẻ hơn về lâu vs **vet bill** fix cut-quick + chi phí sửa behavioural (chó ghét đụng chân). Dồn năm > groomer $45/lần.
+- **Format:** UGC / podcast-style / AI animation / VSL — chọn cái hợp, chạy Demand Gen (khớp [[maxpro-demand-gen-discover]]). ⚠️ chỉ claim quan-sát-được, không bịa bệnh ẩn ([[compliance]]).
+
 ## Guardrails
 - **IP:** badge/seal tái dựng (brand 4Paws, "4PAWS #1 PICK"), KHÔNG bê file seal "Top5 Choices" của họ. Ảnh sản phẩm = ảnh MaxPro/đối thủ tự chụp-tải, không hotlink file của họ.
 - **Compliance:** disclosure rõ + mọi claim chê đối thủ phải có bằng chứng review thật, không bịa study. Claim "large-breed ~150lb" để modest. Xem [[compliance]].
