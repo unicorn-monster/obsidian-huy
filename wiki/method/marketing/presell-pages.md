@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel]
-updated: 2026-07-15
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed]
+updated: 2026-07-16
 ---
 
 # Presell pages — build guide (4 format)
@@ -137,6 +137,8 @@ Nguồn: [[reviewscout-3rd-party-review-domain-teardown]]. Có **2 tầng "3rd p
 **Landmine (cao nhất trong các presell):** FTC soi fake-review-site + endorsement không disclose; Google flag *(giả định — chưa có trang [[compliance]] riêng review-domain)*. Bản defensible = analog domain-level của "đừng bịa doctor giả, partner thật" ([[personas]]): **disclosure affiliate rõ + criteria/citation defensible, KHÔNG bịa study** → [[compliance]].
 > [!tip] MaxPro ăn liền
 > "Top 5 Best Dog Nail Grinders (2026)" trên 1 review-domain riêng, MaxPro #1; ranking 4 đối thủ từ [[maxpro-competitors]]; criteria-funnel set đúng spec MaxPro (3-port cap S/M/L · low-dB · diamond drum · 99-day return) để 4 đối thủ rớt 1-2 tiêu chí. Khen thật 3 pros mỗi bên (luật comparison trên).
+
+**Case confirm 2026 — Drivse "Home-Insider" ([[everyone-in-their-industry-got-crushed]]):** copy layout Y HỆT Hike's "Foot Insider" (cùng công thức site-chrome ấn phẩm). Chi tiết cụ thể quan sát được: byline tác giả "Sarah King, Beauty Enthusiast Writer" + badge "Verified"; sản phẩm mang tên riêng trên trang khác brand mẹ (**IonDrops™**, không phải "Drivse") — tách brand-thương-mại khỏi ấn-phẩm-đánh-giá rõ hơn nữa; claim "10 triệu units sold" + ảnh khách hàng thật dạng lưới (không stock photo) + Trustpilot inline "4.9/7,000+ reviews" ngay cạnh headline, không đợi xuống cuối trang. 800k visit/tháng traffic cho template này — xác nhận layout Hike/Drivse là 1 công thức lặp lại được, không phải may mắn 1 brand.
 
 ## CTA system (gấp đôi CTR)
 Đừng để 1 CTA ở đáy (đa số không cuộn tới). Placement: **~40%** (sau mechanism) · **~65%** (sau proof) · **~85%** (sau offer) · **sticky mobile** (sau 30% scroll).

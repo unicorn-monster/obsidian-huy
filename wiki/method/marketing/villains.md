@@ -1,5 +1,5 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire]
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed]
 updated: 2026-07-16
 ---
 
@@ -35,6 +35,9 @@ Tác dụng: externalize blame -> "bạn không ngu, bạn bị lừa".
 ## Villain vô hình / villain là chính sản phẩm-đã-thử (2 kiểu mới)
 - **Invisible/gradual-gap** ([[gruns-quiz-funnel-breakdown-2026-re-teardown]]): quiz-result cần buộc tội mà KHÔNG được đổ lỗi trực tiếp cho người ra quyết định (phụ huynh, chủ vật nuôi…) → villain = "a fiber gap that's built up **quietly over time**" — tự đến, không ai lường được, không phải Big X hay chuyên gia. Dùng khi lớp 1-2 (Big X / chuyên gia) không hợp bối cảnh (không có ngành để đổ lỗi, không có chuyên gia trung gian) nhưng vẫn cần né tội "bạn làm sai" — gán cho 1 quá trình mơ hồ, chậm, không ai nhìn thấy.
 - **Every failed alternative đã thử** ([[viasox-turned-socks-into-a-pain-relief-empire]]): villain không phải 1 đối thủ cụ thể mà **toàn bộ category sản phẩm cũ đã làm khách thất vọng** — "47 pairs of failed diabetic socks." 1 câu làm 3 việc: validate frustration ("tôi cũng từng vậy"), externalize blame (không phải bạn, là mấy đôi tất đó), position-for-solution ("cái này khác"). Không cần incumbent cụ thể để đập — cần khách TỰ LIỆT KÊ được list thất bại của chính họ.
+
+## Case textbook — đổ lỗi lên 1 thứ vô hình khách chưa từng nghi ngờ (Drivse showerhead, [[everyone-in-their-industry-got-crushed]])
+Toàn bộ chiến lược Drivse gói trong 1 câu: **"It's not your skin or hair. It's your water."** Khách đã thử shampoo mới, serum đắt, gặp da liễu — không ăn thua — vì đánh sai kẻ thù. Villain KHÔNG phải sản phẩm đối thủ, mà 1 thứ khách dùng mỗi ngày không nghi ngờ (nước máy). 800k visit/tháng chỉ từ 1 reframe. Cùng cấu trúc §Framework 3 lớp Big X trên nhưng villain ở đây rộng hơn "ngành" — là **hạ tầng nền (nước, không khí, ánh sáng…)** mà mọi đối thủ cùng dùng, nên khi thắng villain này thì thắng CẢ category, không chỉ 1 SKU. Kèm 2 kỹ thuật thực thi: **name villain cụ thể bằng tên** ("Amazon knockoffs" bị gọi thẳng, không để khách tự đoán — kiểm soát luôn phép so sánh) + **visualize thay vì claim** (vòi nước yếu-nhỏ giọt vs mạnh, đặt cạnh nhau — tie [[creative-brief]] §Visual proof).
 
 ## 5 villain grinder (1 attack line/villain)
 1. **Clipper truyền thống** = crush/pinch quick, "crime scene", yelp. "The crime scene wasn't your fault. It was the tool."
