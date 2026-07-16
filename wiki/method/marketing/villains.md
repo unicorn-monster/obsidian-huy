@@ -1,5 +1,5 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown]
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown, the-villain-framework]
 updated: 2026-07-17
 ---
 
@@ -41,6 +41,9 @@ Bổ sung "tại sao villain work" ở cấp nguyên lý, áp cho cả 3 kiểu 
 
 ## Case textbook — đổ lỗi lên 1 thứ vô hình khách chưa từng nghi ngờ (Drivse showerhead, [[everyone-in-their-industry-got-crushed]])
 Toàn bộ chiến lược Drivse gói trong 1 câu: **"It's not your skin or hair. It's your water."** Khách đã thử shampoo mới, serum đắt, gặp da liễu — không ăn thua — vì đánh sai kẻ thù. Villain KHÔNG phải sản phẩm đối thủ, mà 1 thứ khách dùng mỗi ngày không nghi ngờ (nước máy). 800k visit/tháng chỉ từ 1 reframe. Cùng cấu trúc §Framework 3 lớp Big X trên nhưng villain ở đây rộng hơn "ngành" — là **hạ tầng nền (nước, không khí, ánh sáng…)** mà mọi đối thủ cùng dùng, nên khi thắng villain này thì thắng CẢ category, không chỉ 1 SKU. Kèm 2 kỹ thuật thực thi: **name villain cụ thể bằng tên** ("Amazon knockoffs" bị gọi thẳng, không để khách tự đoán — kiểm soát luôn phép so sánh) + **visualize thay vì claim** (vòi nước yếu-nhỏ giọt vs mạnh, đặt cạnh nhau — tie [[creative-brief]] §Visual proof).
+
+## 3-bước tìm villain (method luận, [[the-villain-framework]])
+Bổ sung METHOD (không chỉ danh mục villain) cho toàn trang: (1) **liệt kê MỌI thứ khách đã thử** trước khi tới bạn — villain gần như luôn nằm trong danh sách thất bại đó. (2) **Hỏi ai HƯỞNG LỢI nếu vấn đề khách KHÔNG được giải quyết** — theo dòng tiền: ngành ăn theo tái khám, thuốc ăn theo đơn dài hạn, agency ăn theo phụ thuộc khách hàng — villain là bên hưởng lợi từ vấn đề TIẾP TỤC tồn tại, không phải bên gây ra nó trực tiếp. (3) **Gọi tên "lời nói dối"** — 1 mảnh "ai cũng biết" (conventional wisdom) mà khách tin nhưng KHÔNG đúng — gọi tên nó ra định vị brand thành người nói sự thật. 2 luật cứng: KHÔNG BAO GIỜ gọi tên 1 CÁ NHÂN cụ thể (tấn công hệ thống/ngành nghe chính đáng, tấn công người nghe nhỏ mọn) + villain PHẢI LÀ THỨ khách đã tự cảm thấy bực — không phải bịa ra kẻ thù mới, chỉ gọi tên đúng cái đã có sẵn (villain không cộng hưởng ngay = sai villain, đổi cái khác).
 
 ## 5 villain grinder (1 attack line/villain)
 1. **Clipper truyền thống** = crush/pinch quick, "crime scene", yelp. "The crime scene wasn't your fault. It was the tool."
