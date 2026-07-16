@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed]
-updated: 2026-07-16
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown]
+updated: 2026-07-17
 ---
 
 # Villain stack + landmines
@@ -31,6 +31,9 @@ Tác dụng: externalize blame -> "bạn không ngu, bạn bị lừa".
 
 > [!note] Incumbent = villain (listicle anchor)
 > Listicle ([[presell-pages]]) dựng villain bằng **comparison table đầu trang** đập thứ khách ĐANG dùng: beef organs ([[dtcquizbuilder-primalvikings-listicle-10reasons]]), calcium myth ([[fotw-bencivenga-listicle-collagen]]), clipper. Không phá "cách cũ có tốt không" mà *"bạn chọn sai loại"* → redirect belief sang mechanism mới. MaxPro: table MaxPro vs clipper/Dremel/Casfuy = villain #1-2-5 cùng lúc.
+
+## Villain làm ĐÚNG 3 việc — khung tổng quát (GlucoTrust, [[my-favorite-vsl-breakdown]])
+Bổ sung "tại sao villain work" ở cấp nguyên lý, áp cho cả 3 kiểu villain trong trang này: (1) **giải thích vì sao khách chưa từng nghe** — không phải vì nó không hiệu quả, vì có bên mạnh hơn không muốn khách biết; (2) **chuyển hướng cơn giận** — khách hết tự trách bản thân, chuyển sang giận "hệ thống/villain"; (3) **biến việc mua thành hành động nổi loạn**, không phải quyết định tiêu dùng đơn thuần — mua = "chơi lại" kẻ đã lợi dụng nỗi đau của họ. *"A good villain turns a transaction into a cause."* Dùng khung 3-việc này để TEST villain mới trước khi viết: nếu villain không làm được cả 3, nó chưa đủ mạnh.
 
 ## Villain vô hình / villain là chính sản phẩm-đã-thử (2 kiểu mới)
 - **Invisible/gradual-gap** ([[gruns-quiz-funnel-breakdown-2026-re-teardown]]): quiz-result cần buộc tội mà KHÔNG được đổ lỗi trực tiếp cho người ra quyết định (phụ huynh, chủ vật nuôi…) → villain = "a fiber gap that's built up **quietly over time**" — tự đến, không ai lường được, không phải Big X hay chuyên gia. Dùng khi lớp 1-2 (Big X / chuyên gia) không hợp bối cảnh (không có ngành để đổ lỗi, không có chuyên gia trung gian) nhưng vẫn cần né tội "bạn làm sai" — gán cho 1 quá trình mơ hồ, chậm, không ai nhìn thấy.

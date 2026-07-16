@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed]
-updated: 2026-07-16
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system]
+updated: 2026-07-17
 ---
 
 # Presell pages — build guide (4 format)
@@ -139,6 +139,15 @@ Nguồn: [[reviewscout-3rd-party-review-domain-teardown]]. Có **2 tầng "3rd p
 > "Top 5 Best Dog Nail Grinders (2026)" trên 1 review-domain riêng, MaxPro #1; ranking 4 đối thủ từ [[maxpro-competitors]]; criteria-funnel set đúng spec MaxPro (3-port cap S/M/L · low-dB · diamond drum · 99-day return) để 4 đối thủ rớt 1-2 tiêu chí. Khen thật 3 pros mỗi bên (luật comparison trên).
 
 **Case confirm 2026 — Drivse "Home-Insider" ([[everyone-in-their-industry-got-crushed]]):** copy layout Y HỆT Hike's "Foot Insider" (cùng công thức site-chrome ấn phẩm). Chi tiết cụ thể quan sát được: byline tác giả "Sarah King, Beauty Enthusiast Writer" + badge "Verified"; sản phẩm mang tên riêng trên trang khác brand mẹ (**IonDrops™**, không phải "Drivse") — tách brand-thương-mại khỏi ấn-phẩm-đánh-giá rõ hơn nữa; claim "10 triệu units sold" + ảnh khách hàng thật dạng lưới (không stock photo) + Trustpilot inline "4.9/7,000+ reviews" ngay cạnh headline, không đợi xuống cuối trang. 800k visit/tháng traffic cho template này — xác nhận layout Hike/Drivse là 1 công thức lặp lại được, không phải may mắn 1 brand.
+
+**Case confirm 2 — Hollow Socks 10-Reasons comparison-listicle ([[hollow-socks-alpaca-compression-listicle-breakdown]]):** cùng công thức byline giả ("David C. ✓Verified, updated 2 days ago") + pull-quote testimonial ngay dưới headline + comparison-table 2 cột (Hollow vs Regular) đúng format Primal Vikings — xác nhận template này chạy được ở category CỰC bình thường (tất) không riêng supplement. Headline pattern tái dùng: *"10 Reasons Why [nhóm lớn] Is Ditching Their [giải pháp cũ] For [mechanism mới]"* — làm 3 việc cùng câu: định vị đối đầu giải pháp hiện tại, tạo category mới, ngụ ý mass-adoption. Scarcity gắn THẲNG vào mechanism (Peru chỉ có 4 triệu con alpaca, nước gần nhất chỉ bằng 1/10) — không phải "sale kết thúc Chủ Nhật" chung chung mà là khan hiếm CÓ LÝ DO trong chính câu chuyện sản phẩm — mạnh hơn urgency giả vì không thể phản bác.
+
+**Workflow build nhanh — Claude Code + Vercel + Higgsfield ([[i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system]]):** setup thực tế build 1 domain fake-authority từ đầu trong ~4-5 giờ:
+1. FB page ẩn danh kiểu "authority info site" (vd "The Tooth Blog") + domain riêng KHÁC domain chính (vd `dentistdiary.com`) — track riêng sessions/bounce/CTR/postback từng trang.
+2. Đưa 3 advertorial/listicle mẫu thích (kể cả của mình) + brand data vào Claude, yêu cầu build **1 Claude Code skill** trích layout/outline làm template tái dùng — mỗi lần chat mới chỉ cần đổi copy + ảnh, không dựng lại từ đầu.
+3. Trong Claude Code terminal, hỏi cách connect Vercel → làm theo prompt nó đưa (~5 phút) → mỗi trang mới publish được ngay dưới domain (`dentistdiary.com/root-canal`).
+4. Nối Higgsfield API (hoặc bất kỳ image-gen API nào có doc) vào Claude — dán doc từng trang, tạo API key (~5 phút) → kéo 1 ad đang chạy tốt vào, Claude tự sinh ra landing page mới theo góc đó + gắn domain.
+→ Tie trực tiếp §Case confirm ở trên: đây là CÁCH DỰNG kỹ thuật cho chính pattern Drivse/Hollow đã note — trước đây tốn agency/dev, giờ 1 buổi chiều với Claude Code.
 
 ## CTA system (gấp đôi CTR)
 Đừng để 1 CTA ở đáy (đa số không cuộn tới). Placement: **~40%** (sau mechanism) · **~65%** (sau proof) · **~85%** (sau offer) · **sticky mobile** (sau 30% scroll).
