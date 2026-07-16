@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months]
-updated: 2026-07-15
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven]
+updated: 2026-07-16
 ---
 
 # Market awareness + sophistication (grinder)
@@ -112,6 +112,8 @@ Khi thị trường **super aware** (mọi đối thủ đều claim "best quali
 
 > [!note] MaxPro (pet grooming — "tech/gadget" gần nhất)
 > Lộ trình: (1) Submit Red Dot hoặc CES "innovation" category, hoặc tìm pet-specific awards (Pet Business Magazine, APPA). (2) Khi có badge → đặt ngay trong ad frame ("Red Dot winner") + hero LP. Cùng logic UMS/UMS (§UMP/UMS trên) nhưng verified bởi bên thứ 3 thay vì self-claim.
+
+**Biến thể rẻ hơn award thật — tên trường, không logo** ([[9-figure-quiz-breakdown-liven]]): Liven không có badge/award thật nào — chỉ 1 slide "developed using scientific practices, decades of research" kèm 3 khối chữ serif học thuật **Harvard / Oxford / Cambridge**, KHÔNG logo, KHÔNG trích dẫn cụ thể nào liên kết trực tiếp. Ngụ ý pedigree mà không claim sai — rẻ hơn nhiều so với theo đuổi award/certification thật (0 submission, 0 chờ), nhưng yếu hơn (dễ bị soi nếu compliance siết). Dùng làm bước đệm trước khi có award thật, không thay thế lâu dài — compliance risk cao hơn badge verified.
 
 ## VOC research: đọc thủ công, không delegate ([[dtcmidas-500k-month-4months]])
 DTCMidas $500k/mo playbook xác nhận: **đọc review + ad comment + CS ticket thủ công** để thực sự hiểu khách — không giao cho team, không dùng AI tóm tắt ngay lập tức. Lý do: nuance và ngôn ngữ thật của khách nằm trong từng comment cụ thể, AI-summary làm phẳng mất.

@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire]
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days]
 updated: 2026-07-16
 ---
 
@@ -46,6 +46,12 @@ Nguồn: [[scalabilityschool-50-angle-strategy]] (Scalability School). Câu hỏ
 
 ## Reposition commodity quanh PAIN, không quanh feature ([[viasox-turned-socks-into-a-pain-relief-empire]])
 Sock = sản phẩm bị commoditize nhất có thể (Amazon/mẹ ai cũng bán). Viasox không cạnh tranh giá/pattern/material — tách thành **6 vấn đề y-tế cụ thể** rồi bán "giải pháp" chứ không "đôi tất": EasyStretch™ → swelling/wide-calf; non-binding → neuropathy/circulation; compression → varicose-vein/đứng cả ngày; triple-padded → neuropathy comfort. Insight: **"you don't need a new product, you need a new problem to solve."** Socks = commodity; pain relief = không. Cùng nguyên lý §50-angle ở trên (1 sản phẩm bán nhiều pillar) nhưng lật hướng: 50-angle nhân SỐ LƯỢNG angle trên 1 product đã differentiated; đây là dùng angle để **tự differentiate 1 commodity trước khi nhân**. MaxPro: máy mài móng cũng gần-commodity (Casfuy/LuckyTail cùng dạng) — hỏi "vấn đề cụ thể nào" thay vì "máy tốt hơn" (quick chảy máu / chó ồn-sợ / móng đen không thấy quick / large-breed dày / groomer $45 dồn năm — đã có ở matrix trên, giờ thêm khung "đây LÀ sản phẩm cho vấn đề X" thay vì "1 máy đa năng").
+
+## Niche xuống tới cảm xúc, không dừng ở demographic ([[99-98-cogs]])
+PrayerSong (AI tạo bài hát, Suno API, <$1 COGS) không dừng ở "songs for people" — xuống tới **"Christian Music for someone you love."** Không phải chọn niche demographic (Christians) rồi dừng — mà chọn ĐÚNG khoảnh khắc cảm xúc trong niche đó (tặng ai đó 1 bài hát) rồi bán chính cảm xúc: *"They aren't selling AI music. They're printing selling tears and memories."* ~1,600 active ads chạy cùng lúc, launched T12/2025. Bài học transferable: hỏi không chỉ "ai" mà "khoảnh khắc cảm xúc cụ thể nào" trong đời avatar sản phẩm này chạm vào — angle nằm ở khoảnh khắc, không ở demographic.
+
+## Mystery/quest engagement = angle-mechanic thay thế cho twist-the-knife ([[0-400-000-site-visitors-in-60-days]])
+Hungry Minds (sách "rebuild a civilisation" — TAM apocalypse-survival) dùng USP khác hẳn pain-agitation quen thuộc: **trang bí ẩn dẫn tới website bí mật, không hướng dẫn, chỉ 1 mật khẩu** giấu trong sách → giải được nhận quà thật. Không bán "sách sinh tồn" — bán 1 trò chơi/nhiệm vụ có phần thưởng vật lý thật. Tác giả chê ads hiện tại "không twist-the-knife đủ mạnh" dù TAM lớn — tức: mystery-mechanic thắng được ENGAGEMENT (visitor/session) dù copy chưa tối ưu pain. Dùng khi sản phẩm có thể gắn 1 "easter egg" thật (mã, quà, unlock) — làm người mua thành người chơi, lan truyền tự nhiên hơn ad thường.
 
 ## Native angle test (3 tiêu chí, 1 angle/campaign)
 Từ [[native-ads]]: angle phải **specific** đủ để thấy mới · **broad** đủ cho mass audience · **defensible** đủ để product giao được. 1 angle/campaign — đừng cố thắng bằng 3. Khớp guardrail defensible của [[compliance]] + symptom-doorway ở trên (mỗi cửa ngõ = 1 angle test được).

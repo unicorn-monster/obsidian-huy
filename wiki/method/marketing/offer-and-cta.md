@@ -1,5 +1,5 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire]
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven]
 updated: 2026-07-16
 ---
 
@@ -86,6 +86,12 @@ Nguồn: [[maxwellcopy-1b-dtc-funnel-6-stages]] (AG1/Grüns/IM8 teardown). Khôn
 
 ## Multi-buy bundle — AOV không cần subscription/upsell-maze
 [[viasox-turned-socks-into-a-pain-relief-empire]]: cho sản phẩm consumable/nhiều biến thể (màu/size) mà KHÔNG cần ép subscription, dùng **"Buy 2 Get 3 Free" / "Buy 3 Get 5 Free"** — không phễu OTO phức tạp, không confusing sub-flow. Vì sao work cho category này: sản phẩm hao mòn (khách biết sẽ cần thêm) + variety matters (màu/size khác cho dịp khác) + gift potential (dễ chia cho người thân) + "free" pairs = cảm giác thắng rõ ràng hơn "% off". Đối lập §Tiered bundle (build quanh feature-tier) và §Subscription offer-stack (build quanh sub-vs-onetime gap) — dùng multi-buy khi sản phẩm **không có tier tự nhiên và chưa sẵn sàng cho sub**: toán đơn giản, giá trị rõ ràng, không maze.
+
+## Artificial delay = perceived-realness + upsell tự nhiên ([[99-98-cogs]])
+PrayerSong (AI song, COGS <$1, delivery THẬT SỰ tức thời qua API) cố tình đặt delivery time **7 ngày** dù làm ra trong vài giây. 2 tác dụng cùng lúc: (1) khiến sản phẩm cảm giác THẬT hơn — output AI tức thời dễ bị nghi "quá dễ, chắc không xịn"; (2) tạo LUÔN 1 upsell tự nhiên — "rush delivery" $50 (= giá FE $50, x2 AOV). Delay không phải bug cần fix — với sản phẩm COGS gần-0 và delivery tức thời, delay là **1 lever thiết kế được**, biến tốc-độ thành thứ bán được thêm.
+
+## Daily-price làm số HERO trên bảng tier (Liven, [[9-figure-quiz-breakdown-liven]])
+Bổ sung §Tiered bundle: thay vì tổng-tiền là số to nhất, Liven làm **giá/ngày** thành số lớn nhất trên mỗi card ($1.50 · $0.66 · $0.38), tổng-tiền gạch ngang nhỏ bên cạnh — não neo vào con số nhỏ nhất nhìn thấy trước. Tier GIỮA pre-select mặc định (không phải rẻ nhất/đắt nhất) + nhãn "MOST POPULAR" kép social-proof. Áp cho MaxPro nếu build bundle-selector: hiển thị $/lần-grind hoặc $/tháng thay vì $ tổng, tier giữa default-checked.
 
 ## Upsells = vũ khí CPA (stage 5)
 [[advertising-jan-5-stage-funnel]]: job DUY NHẤT của upsell = **tăng AOV**. AOV cao hơn → outspend đối thủ ở CPA → scale dễ hơn (đối thủ không dám bid cao bằng). Tiered bundle (trên) + post-purchase upsell phục vụ chính cái này, không phải "nhồi thêm SKU cho vui". Đây là stage cuối của 5-stage funnel → [[funnel-and-landing]].
