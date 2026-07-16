@@ -68,6 +68,25 @@ Cụm FOR-SUBS (21-day onboarding 2-phase với SMS D0/D3/D7 · 5 nguyên tắc 
 
 Banger angle *"pokes you in the chest"*; weak angle = fact without intent. MaxPro ví dụ: "Grinder êm cho chó" (boring) → "Hôm qua lại bỏ cuộc giữa chừng vì nó giãy" (pain) → "Công cụ cắt móng bạn dùng có thể là vấn đề" (tension) → "Có 1 grinder chó không sợ tiếng — và nó chưa ở nhà bạn" (special sauce). Tie [[angles]] (emotional pain layer) + #4 SMS-style email (đọc như người nói, không như brand).
 
+## Subject line + preview text — 11 công thức swipe ecom ([[maxsturtevant-ecom-subject-preview-formulas]])
+Swipe file công thức SB + preview text (PT) ecom, Max Sturtevant test live. **Nguyên tắc chọn: front-load hook vào ~3 từ đầu (mobile cắt ~40 ký tự); PT phải NỐI TIẾP curiosity, không lặp lại SB.** Tie §5 curiosity gap [[copywriting]], §7 twist phrase, [[hooks]].
+
+| Công thức | Mẫu | Dùng cho |
+|---|---|---|
+| Order ready | `Your Order Is Ready To Ship 📦` | Abandoned cart/checkout — AB test thắng "you left your cart" |
+| **Empty PT** | *(để trống)* | Mọi email — trông personal, ép mở, 1 click trong Klaviyo text editor |
+| Quick question | `Quick Question {first.name}` | Cold email — "always rips"; headline dạng câu hỏi |
+| Intrigue | `Didn't Plan On This` | Product drop / secret sale |
+| **Số / list** | `3 Reasons XYZ` | Bất kỳ — người ta mê số/list (odd number > even) |
+| Scare | `Beware` (1 từ hoặc cả câu) | Cảnh báo, tạo tò mò |
+| **Kết `...`** | SB/PT kết bằng `...` | Đã test → luôn tăng open + build intrigue |
+| Owe you | `We Owe You [XYZ]` | Offer/BOGO — "we owe you a t-shirt" → phải mở |
+| POV | `POV:` | Audience trẻ |
+| Countdown | `3. 2. 1...` | Sale — số nổi bật trong inbox |
+| Unlocked | `Unlocked: [gift]` | Cảm giác personal, "I unlocked this" |
+
+**Format SB: viết hoa chữ cái đầu MỖI từ (Title Case)** như swipe gốc ("Your Order Is Ready To Ship", "Didn't Plan On This") — không viết thường giữa câu. → MaxPro / bag funnel: listicle Top-N khớp thẳng công thức **Số/list** ("5 Sling Bags. 1 Actually Worth It..."), combine **kết `...`** (tested) + **Empty PT** (ép mở). Discount đừng nhét vào SB (spam trigger) — dùng tò mò. Đối chiếu §1 mystery discount (data-backed) cho abandonment; §12 objection [[copywriting]] cho "Quick Question" yes-ladder.
+
 ## 10 lesson từ $250M email — Chase Dimond ([[maxwellcopy-10-email-lessons-chase-dimond]])
 Insight cao độ nghịch-lý (từ $250M+ ecom email marketing):
 - **Welcome flow: 4-6 email, không 12.** Quá 12 = vô nghĩa; mở bằng core points, không "welcome to the family."

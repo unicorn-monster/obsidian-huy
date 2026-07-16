@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen]
-updated: 2026-06-22
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire]
+updated: 2026-07-16
 ---
 
 # Villain stack + landmines
@@ -31,6 +31,10 @@ Tác dụng: externalize blame -> "bạn không ngu, bạn bị lừa".
 
 > [!note] Incumbent = villain (listicle anchor)
 > Listicle ([[presell-pages]]) dựng villain bằng **comparison table đầu trang** đập thứ khách ĐANG dùng: beef organs ([[dtcquizbuilder-primalvikings-listicle-10reasons]]), calcium myth ([[fotw-bencivenga-listicle-collagen]]), clipper. Không phá "cách cũ có tốt không" mà *"bạn chọn sai loại"* → redirect belief sang mechanism mới. MaxPro: table MaxPro vs clipper/Dremel/Casfuy = villain #1-2-5 cùng lúc.
+
+## Villain vô hình / villain là chính sản phẩm-đã-thử (2 kiểu mới)
+- **Invisible/gradual-gap** ([[gruns-quiz-funnel-breakdown-2026-re-teardown]]): quiz-result cần buộc tội mà KHÔNG được đổ lỗi trực tiếp cho người ra quyết định (phụ huynh, chủ vật nuôi…) → villain = "a fiber gap that's built up **quietly over time**" — tự đến, không ai lường được, không phải Big X hay chuyên gia. Dùng khi lớp 1-2 (Big X / chuyên gia) không hợp bối cảnh (không có ngành để đổ lỗi, không có chuyên gia trung gian) nhưng vẫn cần né tội "bạn làm sai" — gán cho 1 quá trình mơ hồ, chậm, không ai nhìn thấy.
+- **Every failed alternative đã thử** ([[viasox-turned-socks-into-a-pain-relief-empire]]): villain không phải 1 đối thủ cụ thể mà **toàn bộ category sản phẩm cũ đã làm khách thất vọng** — "47 pairs of failed diabetic socks." 1 câu làm 3 việc: validate frustration ("tôi cũng từng vậy"), externalize blame (không phải bạn, là mấy đôi tất đó), position-for-solution ("cái này khác"). Không cần incumbent cụ thể để đập — cần khách TỰ LIỆT KÊ được list thất bại của chính họ.
 
 ## 5 villain grinder (1 attack line/villain)
 1. **Clipper truyền thống** = crush/pinch quick, "crime scene", yelp. "The crime scene wasn't your fault. It was the tool."

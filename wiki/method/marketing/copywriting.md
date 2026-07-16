@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment]
-updated: 2026-07-13
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche]
+updated: 2026-07-16
 ---
 
 # Copywriting — DR fundamentals
@@ -78,6 +78,14 @@ Nguồn: [[sam-parr-repurpose-bad-ads]] (đoạn swipe-worthy nhất). Ad dở t
   - Kids clothing: *"Bạn có bỏ sữa con vào cốc nhựa rồi quay lò vi sóng không? Tất nhiên không. Nhưng đó chính xác là điều bạn làm khi mua pyjama polyester rồi bỏ vào máy sấy."* → organic cotton.
   - "Bắp rang có 150g chất béo" = vô cảm → **đổ đầy 1 cốc mỡ** / cầm 1 tảng mỡ "đây là lượng mỡ trong 1 bịch bắp" → ám ảnh. "Deconstructed Coke": tách ra *"40% chỗ này là đường."*
 - **AIDA rewrite (AG1 sleep):** Attention *"có lý do khoa học vì sao sau 35 tuổi, 75% đàn ông tỉnh giấc lúc 2-3h sáng"* → Interest (mô tả đúng cảm giác họ đang trải) → Desire + "not your fault" (thiếu vitamin D, dễ fix) → Social proof *"Trusted by 100,000 dads just like you."* Chỉ show 1 ảnh whoop/sleep-score before-after, KHÔNG show sản phẩm.
+
+## 3 tầng "depth" — mind / body / psyche ([[mark-copy-depth-levels-mind-body-psyche]])
+Phản biện rule kinh điển *"enter the conversation already happening in prospect's mind"* — Mark: rule đó nông, vì **95% suy nghĩ là subconscious**, khách không nghĩ bằng câu chữ sạch sẽ như "I am dissatisfied with my current identity." 3 tầng nói tới khách, sâu dần:
+1. **The mind** — chuẩn khuyên (mirror lại đúng từ khách đang nghĩ, VOC). Vẫn work nhưng chỉ chạm phần khách TỰ GIẢI THÍCH được — thường không phải phần điều khiển quyết định.
+2. **The body** — người ta mua bằng cảm xúc, biện minh bằng logic. Target trạng thái cảm xúc trong cơ thể (fear / shame / desire / hope / relief) thay vì từ ngữ trong đầu. Gần hơn nhưng chưa đủ.
+3. **The psyche** — mượn thang ý thức David Hawkins (shame → guilt → apathy → fear → desire → anger → pride → courage → lên cao hơn). Khác emotion: emotion là cảm giác vật lý (body, tầng 2); consciousness là **lăng kính** người đó đang nhìn chính họ và thế giới qua đó — 2 người CÙNG 1 emotion vẫn có thể calibrate ở 2 mức ý thức khác nhau → cùng message kéo người này về phía mua, đẩy người kia ra xa.
+
+Việc thật của marketer không phải biết khách nghĩ gì hay cảm gì — là **định vị được họ đang calibrate ở mức ý thức nào**, rồi build message từ đó: biết mức đó nghe được gì, sẽ reject gì, đang với tới gì. Sâu hơn nhiều so với "dùng từ trong review Amazon." (Không có case-number/test cụ thể trong nguồn — framework triết học, dùng làm lăng kính chẩn đoán khi viết long-form/VSL đã "đủ tốt về mặt kỹ thuật" (đúng VOC, đúng structure) mà vẫn chưa move — nghi ngờ message đang nhắm sai tầng.)
 
 ## Meta-note (Sam về chính mình)
 *"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần [[direct-response-copy skill]]: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.

@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy]
-updated: 2026-07-03
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire]
+updated: 2026-07-16
 ---
 
 # Angles
@@ -43,6 +43,9 @@ Nguồn: [[scalabilityschool-50-angle-strategy]] (Scalability School). Câu hỏ
 - **= generalization của Symptom-doorway (§trên):** symptom-doorway là bản *mechanism-level* (1 UMP → nhiều triệu chứng-cửa-ngõ, giữ 1 SKU); 50-angle là bản *product-selection-level* (chọn product bản thân nó chịu được nhiều pillar). Cùng 1 nguyên lý: **nhân angle, giữ 1 offer.**
 - **Ràng buộc congruency:** 50 angle = 50 cặp ad↔page congruent, KHÔNG phải 1 page gánh hết — mỗi angle land trên trang khớp ([[funnel-and-landing]] §landing-page-stack, [[scalabilityschool-landing-page-stack-diversify]]).
 - **MaxPro (angle-TAM có sẵn):** grinder bán được nhiều pillar cùng đổ về 1 máy — sợ cắt quick chảy máu · chó anxious/ồn → calm · móng đen không thấy quick · large-breed móng dày máy rẻ bó tay · groomer $45/lần dồn năm · móng quặp đâm đệm (senior observable). Mỗi pillar = 1 angle batch để test ([[maxpro-avatars]], §Symptom-doorway, [[creative-testing]] R1).
+
+## Reposition commodity quanh PAIN, không quanh feature ([[viasox-turned-socks-into-a-pain-relief-empire]])
+Sock = sản phẩm bị commoditize nhất có thể (Amazon/mẹ ai cũng bán). Viasox không cạnh tranh giá/pattern/material — tách thành **6 vấn đề y-tế cụ thể** rồi bán "giải pháp" chứ không "đôi tất": EasyStretch™ → swelling/wide-calf; non-binding → neuropathy/circulation; compression → varicose-vein/đứng cả ngày; triple-padded → neuropathy comfort. Insight: **"you don't need a new product, you need a new problem to solve."** Socks = commodity; pain relief = không. Cùng nguyên lý §50-angle ở trên (1 sản phẩm bán nhiều pillar) nhưng lật hướng: 50-angle nhân SỐ LƯỢNG angle trên 1 product đã differentiated; đây là dùng angle để **tự differentiate 1 commodity trước khi nhân**. MaxPro: máy mài móng cũng gần-commodity (Casfuy/LuckyTail cùng dạng) — hỏi "vấn đề cụ thể nào" thay vì "máy tốt hơn" (quick chảy máu / chó ồn-sợ / móng đen không thấy quick / large-breed dày / groomer $45 dồn năm — đã có ở matrix trên, giờ thêm khung "đây LÀ sản phẩm cho vấn đề X" thay vì "1 máy đa năng").
 
 ## Native angle test (3 tiêu chí, 1 angle/campaign)
 Từ [[native-ads]]: angle phải **specific** đủ để thấy mới · **broad** đủ cho mass audience · **defensible** đủ để product giao được. 1 angle/campaign — đừng cố thắng bằng 3. Khớp guardrail defensible của [[compliance]] + symptom-doorway ở trên (mỗi cửa ngõ = 1 angle test được).

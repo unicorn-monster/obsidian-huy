@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months]
-updated: 2026-07-15
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire]
+updated: 2026-07-16
 ---
 
 # Offer + CTA mechanics
@@ -83,6 +83,9 @@ Nguồn: [[maxwellcopy-1b-dtc-funnel-6-stages]] (AG1/Grüns/IM8 teardown). Khôn
 | 2 | 1 máy + 3 bit | $49.95 | $96.60 | +$10 lấy consumable -> ép lên tier giữa |
 | 3 | máy + 9 bit + balm + glove + mystery gift | $64.95 | $169.45 | max AOV bằng item margin cao + "mystery gift" |
 + eBook "9 grooming mistakes" = perceived value 0 chi phí + dựng authority trước khi hàng tới.
+
+## Multi-buy bundle — AOV không cần subscription/upsell-maze
+[[viasox-turned-socks-into-a-pain-relief-empire]]: cho sản phẩm consumable/nhiều biến thể (màu/size) mà KHÔNG cần ép subscription, dùng **"Buy 2 Get 3 Free" / "Buy 3 Get 5 Free"** — không phễu OTO phức tạp, không confusing sub-flow. Vì sao work cho category này: sản phẩm hao mòn (khách biết sẽ cần thêm) + variety matters (màu/size khác cho dịp khác) + gift potential (dễ chia cho người thân) + "free" pairs = cảm giác thắng rõ ràng hơn "% off". Đối lập §Tiered bundle (build quanh feature-tier) và §Subscription offer-stack (build quanh sub-vs-onetime gap) — dùng multi-buy khi sản phẩm **không có tier tự nhiên và chưa sẵn sàng cho sub**: toán đơn giản, giá trị rõ ràng, không maze.
 
 ## Upsells = vũ khí CPA (stage 5)
 [[advertising-jan-5-stage-funnel]]: job DUY NHẤT của upsell = **tăng AOV**. AOV cao hơn → outspend đối thủ ở CPA → scale dễ hơn (đối thủ không dám bid cao bằng). Tiered bundle (trên) + post-purchase upsell phục vụ chính cái này, không phải "nhồi thêm SKU cho vui". Đây là stage cuối của 5-stage funnel → [[funnel-and-landing]].

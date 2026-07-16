@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman]
-updated: 2026-06-22
+sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman, viasox-turned-socks-into-a-pain-relief-empire]
+updated: 2026-07-16
 ---
 
 # Persona-network strategy
@@ -64,6 +64,9 @@ Nguồn thứ 3 chốt "đừng chạy từ brand page": ~**50% ad spend qua 3rd
 
 ## Resilia: persona-network ở quy mô công nghiệp
 [[fotw-resilia-12-pages-advertorial]]: **12 page** = doctor (Dr. Anna Reyes 634 ad) · nutritionist (Allison Langford PhD 495) · brand (Nutravive, TryResilia) — *"same desire, entered through different doors"* (Schwartz). 3 payoff: (1) **risk-split** (health claim bị restrict liên tục; mất 1 page, 11 page chạy tiếp), (2) **creative flexibility** (doctor=authority, nutritionist=personal protocol), (3) **anti-saturation** (5,900 ad / 12 page → mỗi audience thấy ít ad/source). Đa số brand chạy 50-500 ad TỔNG; Resilia 2 bậc cao hơn nhờ persona infra.
+
+## Viasox: 1 sản phẩm, 6 avatar-lander (không cần content ngành phức tạp như Resilia)
+[[viasox-turned-socks-into-a-pain-relief-empire]]: cùng nguyên lý persona-network của Resilia (§trên) nhưng multi-lander KHÔNG cần persona-content khác nhau (không cần "doctor page" vs "nutritionist page") — chỉ cần **đổi problem-framing per avatar**: The Diabetic (seamless toe, non-binding cuff) · Neuropathy Sufferer (triple padding) · Swelling/Edema (wide stretch, no marks) · Worker On Feet All Day (compression) · Senior Mobility (easy on/off) · Wide-Calf Shopper (stretch không siết). Same sock, different pain đứng đầu trang, different conversion rate mỗi lander. Rẻ hơn Resilia-style (không cần build authority-character riêng từng trang) — chỉ cần biết avatar nào cần nghe "vấn đề" nào trước.
 
 > [!note] Persona discovery từ quiz answer + gender-buy heuristic
 > Quiz ([[quiz-funnels]]) tự phân persona: mỗi đáp án gắn buying-intent → sort user vào avatar bucket ([[dtcquizbuilder-mars-men-quiz-funnel]]), qua self-label / agree-statement ([[dtcquizbuilder-clickmaxx-quiz-5stage]]). Data thật để refine avatar, mạnh hơn đoán. **Gender-buy** (Primal Vikings): đàn ông mua = **proof + trust**; phụ nữ mua = **CẢM outcome** → match register theo skew avatar ([[maxpro-avatars]] nữ → emotional, [[linafahizul-pet-buyer-is-a-woman]]). Avatar "1 người thật, không census" → [[creative-brief]] pre-write #2.
