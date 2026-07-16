@@ -49,6 +49,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 ## 🧘 method/personal/ — mindset, focus & vận hành bản thân + công cụ
 - [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)
 - [[second-brain-system]] — second-brain chạy-khi-ngủ: skill stack (brief/capture/**connection-finder gap**/review), identity-file = đòn bẩy (beliefs ledger), nguyên tắc vận hành, **Dataview query cho `/lint` (orphan/stale-project/pipeline/decision-log)**. Nguồn: cyrilXBT + engkhairallah. _(Cách vận hành hệ thống ACTIONABLE → sửa thẳng CLAUDE.md / commands / skills, không lưu wiki — theo kiến trúc 4 vòng.)_
+- [[execution-mindset]] — audit execution trước khi pivot strategy: blame-strategy = low-performer signal; checklist 3 câu tự hỏi trước khi đổi approach. Nguồn: DTCMidas.
 
 ---
 
