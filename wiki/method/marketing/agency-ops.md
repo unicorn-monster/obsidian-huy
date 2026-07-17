@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure]
-updated: 2026-07-05
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever]
+updated: 2026-07-17
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -28,3 +28,11 @@ maxwellcopy (2026-07-05), tự chạy email agency: cập nhật structure sau 1
 - Hướng đi tiếp: tiếp tục raise prices để pod xuống còn **3-4 client** = highest-touch model.
 
 **Takeaway cho người thuê agency:** pod-ratio là proxy tốt cho service depth. Hỏi agency *"bao nhiêu client mỗi AM?"* — nếu > 6 là red-flag service bandwidth. Structure trên cũng là blueprint nếu Huy mở dịch vụ marketing sau này.
+
+## Founder tự làm audit = market research tốt nhất ([[maxwellcopy-audits-market-research-lever]])
+maxwellcopy (2026-07-16): dù đã có team, vẫn tự làm mọi audit — **6-10 audit/tuần, mỗi tuần**. Lý do kép:
+
+1. **Market research thời thực:** mỗi audit của brand 7-figure+ cho thấy cái đang work, chỗ stuck, và vấn đề thật — feed thẳng về nội dung + ads để có thêm client. *"Best market research there is."* Không cần survey hoặc tool phức tạp — làm việc thật = biết mình đang làm việc gì.
+2. **Trust signal không thể clone:** khi khách vào từ content rồi thấy ĐÚNG founder chạy audit cho họ — trải nghiệm khác hoàn toàn so với bị giao cho người lạ. Conversion rate khác nhau rõ rệt.
+
+**Hàm ý:** 2 lý do này cộng hưởng — audit thật sự tốt nhất *vừa* là research *vừa* là sales. Không phải overhead mà là revenue-generating activity cao nhất. Tie [[email-marketing]] §AI trong email vai trò 1 (analysis) — format audit tương tự nhưng ở cấp business development.

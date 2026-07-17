@@ -1,5 +1,5 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months]
 updated: 2026-07-17
 ---
 
@@ -246,6 +246,15 @@ Brand $300k/tháng, 35% store rev từ email — "looks great on the surface" nh
 3. **Retention flows và campaigns thiếu chiều sâu** → xem §5 (resend top performer) + §8 headline angle framework (angle = lever lớn hơn copy) + §entertain-first Gruns (infographic, bold/màu skim-path, consistent offer anchor).
 
 > [!note] Diagnostic nhanh: nếu email account "trông ổn" (open rate 30%+, click rate bình thường) nhưng rev/email thấp — check 3 gap này trước. Đa số fix không cần viết campaign mới: đổi frame pop-up + swap mystery discount vào abandonment + rotate format hero. Tie §Reach >> segmentation (đừng over-segment sớm trước khi fix nền).
+
+## 3 tactic → 151% YoY email revenue — 8-figure brand 14 tháng ([[maxwellcopy-email-revenue-2x-14-months]])
+maxwellcopy (2026-07-16): case ngắn gọn nhất về lever thực sự dịch chuyển email revenue. 3 thay đổi, đúng thứ tự:
+
+1. **Rebuild pop-up thành no-brainer acquisition offer** — không phải tweak copy; đổi cả offer/frame. Tie §3-gap audit (gap #1 = pop-up frame sai) + [[quiz-funnels]] §quiz-style pop-up (15-20% opt-in vs 3-4% industry).
+2. **Mở rộng mọi flow từ 3 email → 8-10** — phần lớn brand để email ở 3 vì "không muốn spam", nhưng đang bỏ tiền trên bàn. Tie §welcome flow 7-email (structure tham khảo) + Chase Dimond §10 lessons ("đừng rewrite flow yếu — lấy campaign crush, swap vào").
+3. **0 → 3 campaigns/tuần với long-form educational angle** — frequency đủ cao + educational (không thuần promotional) giữ deliverability + engagement. Tie §Reach >> segmentation (frequency beats relevance) + §entertain-first Gruns (education = value ngay cả khi không mua ngay).
+
+**Chuẩn hoá:** 151% YoY = ~2.5× trong 14 tháng. Không có 1 "hack" — là 3 lever vận hành cùng nhau. Thứ tự đúng: fix acquisition (pop-up) → deepen retention (flow) → raise frequency (campaigns). → MaxPro: nếu email chưa dùng đủ, bước 1 là đây — không phải tìm tactic mới.
 
 ## Workflow Claude Code cho production + mining data ([[is-this-the-end-of-email-agencies]])
 Case brand tự vận hành email (không agency), copy tốt = **+40% rev khi đang scale**. Không phải mẹo mới về COPY — là quy trình VẬN HÀNH bằng Claude Code, bổ sung cho §AI trong email ở trên:

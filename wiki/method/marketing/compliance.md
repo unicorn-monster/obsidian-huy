@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures, dtcmidas-shopify-payments-not-banned]
-updated: 2026-06-22
+sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures, dtcmidas-shopify-payments-not-banned, 0xroas-rented-accounts-ops-rules]
+updated: 2026-07-17
 ---
 
 # Compliance: defensible vs fabricated
@@ -39,6 +39,15 @@ DTC Midas: *"It's not that hard to not get banned from Shopify payments"* — pa
 3. **Customer service tốt** (giảm dispute trước khi thành chargeback).
 4. **Sub phải cancel DỄ** — không bắt qua flow lằng nhằng. (Khớp [[email-marketing]] SUB-2: cancel khó = churn + resentment + dispute; cả 2 đều thắng khi cancel dễ.)
 → Làm đúng = "easier and more fun, focus on growth thay vì cãi nhau với payment processor". MaxPro: 99-day **company-paid** return + grind-and-release dễ + giao hàng thật = đã đứng đúng phía. Chargeback-rate là KPI sống-còn ẩn (Google refund-rate [[google-ads]] cùng tinh thần: sản phẩm/CS thật bảo vệ cả ad-account lẫn payment-account).
+
+## Rented BM ops — 3 rule tối thiểu ([[0xroas-rented-accounts-ops-rules]])
+0xROAS (2026-07-17): nếu đang dùng rented Business Manager:
+
+1. **Không launch campaign mới** trên rented BM — rủi ro bị flag tăng theo mọi hành động mới.
+2. **Không login nếu không cần** — mỗi login là tín hiệu hoạt động, giữ im là tốt nhất.
+3. **Không add người mới vào BM** — thay đổi access pattern = red flag.
+
+Cùng tinh thần "đừng mọc ra" — rented account càng nhạt càng sống lâu. Tie [[compliance]] §platform-ban (Shopify Payments: don't overpromise / don't draw attention). → MaxPro: nếu ever use rented BM để warm up traffic, chiến lược là không bao giờ touch nó ngoài mục đích ban đầu.
 
 ## Teardown đỏ — claim mạnh học cấu trúc, KHÔNG bê claim
 3 teardown native ([[advertising-jan-hearing-aid-advertorial-evergreen]] · [[fotw-bencivenga-listicle-collagen]] · [[advertising-jan-derila-ergo-native-funnel]]) xài stack claim hung: "As Advertised On ABC/FOX/NBC", "70% increase in bone mineral density", Johns Hopkins, doctor-voice, fear cognitive-decline. Học **cấu trúc** (belief-shift, proof-stack, format editorial), KHÔNG bê claim — đúng loại false-evidence / health-claim Meta+FTC soi. **Native quality-score rule** ([[advertising-jan-7-native-headline-structures]]): headline hứa gì advertorial PHẢI giao — clickbait không match → Taboola/Outbrain **bóp reach**. Cùng tinh thần "1 UMP keystone defensible" của [[market-awareness]].

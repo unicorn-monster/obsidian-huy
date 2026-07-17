@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026]
-updated: 2026-07-14
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn]
+updated: 2026-07-17
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -139,11 +139,37 @@ Kết quả khi plug vào customer data: khách uống creatine **cùng cà phê
 
 Tie driver #3 (onboarding + education đúng cách = habit building) trong §10 driver LTV ở trên. Survey là công cụ đơn giản nhất để **tìm habit nào cần build vào onboarding** — không đoán.
 
+## In-email subscription management — giữ khách xa portal cancel ([[maxwellcopy-zaymo-in-email-subscription-churn]])
+maxwellcopy (2026-07-17): trend lớn nhất trong 8-9 figure sub brands — email cho phép **swap sản phẩm, delay subscription, upsell NGAY TRONG EMAIL** mà không cần rời email để vào portal.
+
+**Kết quả:** giảm **33% billing-reminder churn** cho brand 8-figure — cùng con số với §Day-30/SUB-2 billing A/B ở trên nhưng mechanism khác. **Cơ chế:** portal = chỗ có nút Cancel nổi bật, khách vào để "chỉ delay 1 tháng" rồi thấy Cancel → churn. In-email management = khách không bao giờ thấy cancel button vì không cần vào portal.
+
+**Tool:** Zaymo (tên tool embed subscription management vào email). Không phải tool duy nhất làm được — điểm cốt là **embed actionable buttons ngay trong email** (Klaviyo + Zaymo hoặc equivalent).
+
+**Tie §Day-30:** billing-reminder A/B giảm 33% cancel bằng cách ĐỔI FRAME email (không đặt cancel button cao). In-email subscription management giảm thêm 33% churn bằng cách **loại bỏ hẳn lý do vào portal**. 2 lever cùng hướng, khác điểm can thiệp — ghép lại = churn giảm mạnh hơn nhiều từng cái riêng lẻ.
+
+→ Khi mở sub consumable: setup in-email subscription management là tuần-1 priority, ngay sau billing reframe. Nếu Klaviyo thuần (không Zaymo) → tối thiểu deep-link thẳng tới delay/swap page trong subscription platform, KHÔNG vào portal tổng.
+
 ## Agency benchmarks — what healthy retention looks like at scale ([[maxwellcopy-agency-stats-june-2026]])
 Maxwell (Well Copy, June 2026 update — 118 brands on retainer):
 - **Agency churn rate: 1.89%/month** — mức tốt cho retention agency (≈77% giữ agency sau 12 tháng). Benchmark: nếu bạn đang thuê agency email/retention, ≥1.89% là dấu hiệu agency đang giữ được client vì performance thật.
-- **WelLTV** — Maxwell vừa launch platform retention analytics độc quyền cho client (sau nhiều tháng build). Tín hiệu: agency tier cao 2026 đang **build proprietary data layer** thay vì chỉ dựa Klaviyo dashboard. Tie back §2026-market-shift: đây là ví dụ cụ thể về "data + expertise không-ai-có" như differentiator.
+- **WellTV** — Maxwell vừa launch platform retention analytics độc quyền cho client (sau nhiều tháng build). Tín hiệu: agency tier cao 2026 đang **build proprietary data layer** thay vì chỉ dựa Klaviyo dashboard. Tie back §2026-market-shift: đây là ví dụ cụ thể về "data + expertise không-ai-có" như differentiator.
 - **Subscription specialization đang tăng:** "Lots of subscription brands coming in, that's been a real focus." → Với brand DTC, email agency chuyên sub đang có backlog; không phải chỉ generalist agency nữa.
+
+## WellTV — analytics layer bên dưới Klaviyo, dữ liệu brand bỏ sót ([[maxwellcopy-welltv-ltv-retention-analytics]])
+maxwellcopy (2026-07-17): sau khi deploy WellTV trên nhiều account, những gì lộ ra là dữ liệu mà Klaviyo + Shopify dashboard bình thường không thấy:
+
+- **Reorder window theo từng sản phẩm:** biết CHÍNH XÁC ngày nào khách có nhiều khả năng mua lại, phân tách theo SKU — không phải "khoảng 30 ngày" mà là window cụ thể theo mỗi sản phẩm.
+- **LTV delta theo sản phẩm đầu tiên:** "Product A buyer is worth double a Product B buyer over 12 months" — biết SKU nào acquire khách có LTV cao nhất → feed lại acquisition team để tập trung đúng sản phẩm.
+- **Campaign attribution thật vs Klaviyo attribution mặc định:** Klaviyo cho thấy revenue, nhưng KHÔNG phân biệt được campaign nào thật sự TẠO RA repeat customer (LTV) vs chỉ tạo first-time revenue. WellTV tách được 2 loại này.
+- **Funnel-to-LTV mapping:** ad funnel nào (angle nào, sản phẩm landing page nào) produce khách có LTV cao nhất → acquisition team biết nên scale cái gì, không chỉ nhìn ROAS.
+
+**Hàm ý khi chưa có WellTV (proxy thủ công cho MaxPro):**
+1. **Reorder window:** chạy report Shopify "days between orders" theo sản phẩm → tìm modal (ngày phổ biến nhất) → set replenishment email + SMS đúng ngày đó, không gửi theo "30 ngày tròn".
+2. **LTV delta by first product:** cohort analysis Shopify (tạo manually hoặc dùng Lifetimely/Triple Whale) — nhóm khách theo sản phẩm đầu tiên mua → so sánh 12-month LTV. Kết quả: biết hero SKU nào tốt nhất về LTV, không phải về volume.
+3. **Campaign attribution thật:** [[email-marketing]] §RPR (revenue per recipient theo từng campaign) là proxy tốt nhất khi không có analytics layer riêng — flat RPR = không phân biệt được campaign nào build retention thật.
+
+Tie §agency benchmarks ở trên (WellTV = differentiator agency tại 2026) + [[email-marketing]] §RPR diagnostic + driver #7 trong §10 driver LTV (replenishment theo rebuy cycle thật).
 
 > [!note] Cho MaxPro (non-sub)
 > Grinder chưa cần đội retention agency. Nhưng khi scale sub/consumable: benchmark này cho biết agency nào là tốt → hỏi thẳng churn rate của agency đó (nên <3%/mo với portfolio $1M+/mo).
