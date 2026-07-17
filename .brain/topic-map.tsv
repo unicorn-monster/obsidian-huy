@@ -9,6 +9,14 @@ products su that tung san pham	wiki/index.md
 maxpro nail grinder san pham 1	wiki/index.md
 archive execution cu khong phai memory	wiki/index.md
 domain mo sau kepano tao khi co note	wiki/index.md
+4 cap do dung ai khung tu danh gia	wiki/method/business/ai-agent-automation-stack.md
+context engineering thay prompt engineering	wiki/method/business/ai-agent-automation-stack.md
+kien truc 4 lop	wiki/method/business/ai-agent-automation-stack.md
+mau agent theo chuc nang 3 cap moi cai advisor assistant automation	wiki/method/business/ai-agent-automation-stack.md
+mau master-prompt tai dung duoc cau truc chung moi agent	wiki/method/business/ai-agent-automation-stack.md
+chi phi claim minh hoa pitch ban hang khong phai case-study da kiem chung doc lap	wiki/method/business/ai-agent-automation-stack.md
+loi thuong gap tac gia tu neu	wiki/method/business/ai-agent-automation-stack.md
+trinh tu rollout goi y	wiki/method/business/ai-agent-automation-stack.md
 3 tieu chi cot loi dtcmidas dtcmidas-product-selection-criteria	wiki/method/business/product-selection.md
 lien ket	wiki/method/business/product-selection.md
 red-flags 21 diem bo loc nguoc khi nghe pitch maxwellcopy-agency-red-flags-list	wiki/method/marketing/agency-ops.md
@@ -31,6 +39,18 @@ native angle test 3 tieu chi 1 angle campaign	wiki/method/marketing/angles.md
 urgency act-now-or-consequence defensible reusable	wiki/method/marketing/angles.md
 desire selection life force 8 reason-name bank	wiki/method/marketing/angles.md
 belief-shift diagnosis cai ho tin khong phai nguyen nhan	wiki/method/marketing/angles.md
+vi sao bing senior bi dinh gia thap	wiki/method/marketing/bing-ads.md
+hanh trinh mua khac han	wiki/method/marketing/bing-ads.md
+setup 3-campaign khoi dong khong hon	wiki/method/marketing/bing-ads.md
+keyword rong don gian khong ky thuat	wiki/method/marketing/bing-ads.md
+ad copy formula	wiki/method/marketing/bing-ads.md
+landing page khac han lp cho audience tre	wiki/method/marketing/bing-ads.md
+bidding 3 pha	wiki/method/marketing/bing-ads.md
+budget theo giai doan	wiki/method/marketing/bing-ads.md
+roadmap scale 5 pha	wiki/method/marketing/bing-ads.md
+kinh te hoc toi 1m nam	wiki/method/marketing/bing-ads.md
+niche hop khong hop	wiki/method/marketing/bing-ads.md
+claim ve cua so co hoi giu nguyen nhu tuyen bo tac gia khong coi la fact chac chan	wiki/method/marketing/bing-ads.md
 ranh gioi	wiki/method/marketing/compliance.md
 2 landmine double-confirmed boi ca 2 research	wiki/method/marketing/compliance.md
 guarantee trap heusom dinh maxpro phai tranh	wiki/method/marketing/compliance.md
@@ -128,10 +148,13 @@ build page nhanh clone template thang	wiki/method/marketing/funnel-and-landing.m
 trust recession vi sao cvr rot toan thi truong legitimacy stack 5 diem ecomamin-trust-recession-legitimacy-stack	wiki/method/marketing/funnel-and-landing.md
 pre-sell layer ho hang trang warmup cho cold traffic	wiki/method/marketing/funnel-and-landing.md
 listicle pre-sell 7 reasons cau truc carl	wiki/method/marketing/funnel-and-landing.md
+day-0 starter system 2 campaign khong phai 47 loai ecom amin ebook actionable	wiki/method/marketing/google-ads.md
+google bao hiem chong meta-ban cong thuc phan bo theo doanh thu ecom amin	wiki/method/marketing/google-ads.md
 khac meta google thuong san pham tot	wiki/method/marketing/google-ads.md
 google demand-capture meta demand-generation mental model	wiki/method/marketing/google-ads.md
 24-hour demand-capture playbook 3 layer cung session actionable	wiki/method/marketing/google-ads.md
 prospecting-first account serp domination blvckledge	wiki/method/marketing/google-ads.md
+structure strategy khong phai algorithm case 740 doanh thu 90 ngay qua rebuild kien truc account ecomamin-google-ads-7 …	wiki/method/marketing/google-ads.md
 market arbitrage danh cho it canh tranh	wiki/method/marketing/google-ads.md
 problem-aware angle product-focused	wiki/method/marketing/google-ads.md
 shopping feed listing bid depth trang rieng	wiki/method/marketing/google-ads.md
@@ -167,6 +190,9 @@ feed duplication 1 san pham nhieu listing	wiki/method/marketing/google-shopping.
 shopping masterclass feed image proof bid depth amin	wiki/method/marketing/google-shopping.md
 attribute completeness matching signal dung dung o title rudra-shopping-feed-attributes-signal	wiki/method/marketing/google-shopping.md
 priority-laddering pmax coexistence custom-labels schema vysta 48 laws how-to	wiki/method/marketing/google-shopping.md
+1m 30 ngay qua 5 listing that pattern chung campaign-structure theo tier ecom amin swipe how-to	wiki/method/marketing/google-shopping.md
+ai image-prompt cho shopping pmax 5 concept theo don tam ly gemini nano banana swipe	wiki/method/marketing/google-shopping.md
+gtin item group id product studio feed tooling lop ky thuat chua ai note ecomamin-google-shopping-feed-optimization-pla…	wiki/method/marketing/google-shopping.md
 nguyen ly 1 hook engine giu skin thay	wiki/method/marketing/hook-swap-method.md
 3 buoc decompose lam voi bat ky hook nao	wiki/method/marketing/hook-swap-method.md
 worked decompose danh dau tung phan	wiki/method/marketing/hook-swap-method.md
@@ -201,6 +227,7 @@ hard rule xuyen suot moi prompt trong kit	wiki/method/marketing/lp-copy-prompts.
 5 value props 2 buoc tach biet	wiki/method/marketing/lp-copy-prompts.md
 6 primary cta 5 variation service-oriented zero-pressure framing	wiki/method/marketing/lp-copy-prompts.md
 khi nao dung kit nay	wiki/method/marketing/lp-copy-prompts.md
+prompt build full page theo type manus ai khac kit tren section-by-section	wiki/method/marketing/lp-copy-prompts.md
 3 chieu property of khac nhau dtcmidas-awareness-sophistication-funnel-stage-guide	wiki/method/marketing/market-awareness.md
 awareness solution aware product aware	wiki/method/marketing/market-awareness.md
 sophistication level 3-4	wiki/method/marketing/market-awareness.md
@@ -261,6 +288,17 @@ iterate tu long-form thang 2 format nhanh dtcmidas-native-ad-iterations	wiki/met
 verticals native an nhat	wiki/method/marketing/native-ads.md
 data point moi 100k 280k impressions 2 thang advertising-jan-advertorial-100k-280k	wiki/method/marketing/native-ads.md
 ugly creative xac nhan o scale native advertising-jan-ugly-ads-1m-advertorial	wiki/method/marketing/native-ads.md
+nguyen ly goc bao hoa demand da validate khong phai het cua	wiki/method/marketing/obvi-market-domination.md
+tam ly hoc chuyen doi fix van de vui va tinh co hieu qua	wiki/method/marketing/obvi-market-domination.md
+stacked-benefit product nhan 3 segment trong 1 sku	wiki/method/marketing/obvi-market-domination.md
+ltv aov con hao canh tranh that	wiki/method/marketing/obvi-market-domination.md
+demographic chon theo economics cua ltv khong phai an toan	wiki/method/marketing/obvi-market-domination.md
+trust-signal phai khop demographic	wiki/method/marketing/obvi-market-domination.md
+creative volume data advantage khong phai lam nhieu hon 40x	wiki/method/marketing/obvi-market-domination.md
+first-mover timing dung luc cua so mo khong phai den dau tien	wiki/method/marketing/obvi-market-domination.md
+long-form landing page nguoc best practice cho san pham high-consideration	wiki/method/marketing/obvi-market-domination.md
+blueprint 10 buoc vao bat ky market bao hoa nao	wiki/method/marketing/obvi-market-domination.md
+bang so sanh tu doc goc	wiki/method/marketing/obvi-market-domination.md
 too expensive value gap khong phai price objection	wiki/method/marketing/offer-and-cta.md
 offer toan bo perceived value khong chi bundle	wiki/method/marketing/offer-and-cta.md
 6-component offer framework rubinov engineer dung them discount	wiki/method/marketing/offer-and-cta.md
@@ -285,6 +323,10 @@ footer link-caption bank moi cai mini-hook xem hooks	wiki/method/marketing/offer
 price-anchor playbook kittysupps	wiki/method/marketing/offer-and-cta.md
 anchor guarantee close native teardowns	wiki/method/marketing/offer-and-cta.md
 self-verification cta let the numbers prove it swipe	wiki/method/marketing/offer-and-cta.md
+vi sao khong copy brand dang thang	wiki/method/marketing/opportunity-research-ai-workflow.md
+5 buoc cau truc prompt	wiki/method/marketing/opportunity-research-ai-workflow.md
+buoc tiep theo sau khi co y tuong san pham	wiki/method/marketing/opportunity-research-ai-workflow.md
+5 vi du output minh hoa chi de hieu hinh dang output khong phai so lieu da kiem chung	wiki/method/marketing/opportunity-research-ai-workflow.md
 4 archetype match voi lead type	wiki/method/marketing/personas.md
 voice signature per page khoa congruency reusable moi product	wiki/method/marketing/personas.md
 nguyen tac	wiki/method/marketing/personas.md
@@ -300,6 +342,7 @@ advertorial 10-section wireframe layout-level	wiki/method/marketing/presell-page
 advertorial 8 phan carl weische 100m nua sau first-cta la cho khac biet	wiki/method/marketing/presell-pages.md
 comparison page intent cao nhat maxpro an lien	wiki/method/marketing/presell-pages.md
 2 sub-genre comparison honest breakdown balanced vs n ways we win conquest listicle	wiki/method/marketing/presell-pages.md
+sub-genre thu 3 neutral-domain 1-v-1 vs doi thu cu the nham thang branded search cua ho ecomamin-full-comparison-page-b…	wiki/method/marketing/presell-pages.md
 3rd-party comparison page anatomy 9-block 4 swipe tactic tu anh	wiki/method/marketing/presell-pages.md
 editorial ad comparison page 1 funnel demand gen play	wiki/method/marketing/presell-pages.md
 listicle vi sao convert build mechanics	wiki/method/marketing/presell-pages.md
@@ -352,6 +395,7 @@ build nhanh tool	wiki/method/marketing/quiz-funnels.md
 ads mo thang take the quiz bien the khac disguised-landing-page the-worst-quiz-funnel	wiki/method/marketing/quiz-funnels.md
 skinnyfit post-purchase 4-oto aov stacking skinny-fit-post-purchase-flow	wiki/method/marketing/quiz-funnels.md
 case resilia 20m mo v1 mvp quanh 1 niem tin chung khong multi-fork resilia-scaled-to-20m-pm	wiki/method/marketing/quiz-funnels.md
+traffic-to-quiz theo platform ad phai khac quiz giu nguyen ecomamin-quiz-funnel-playbook	wiki/method/marketing/quiz-funnels.md
 cho maxpro danh gia that	wiki/method/marketing/quiz-funnels.md
 format proof don tu email-marketing ve day 2026-07-03	wiki/method/marketing/sms-flows.md
 5 nguyen tac nen moi flow	wiki/method/marketing/sms-flows.md
@@ -391,6 +435,15 @@ case textbook do loi len 1 thu vo hinh khach chua tung nghi ngo drivse showerhea
 3-buoc tim villain method luan the-villain-framework	wiki/method/marketing/villains.md
 5 villain grinder 1 attack line villain	wiki/method/marketing/villains.md
 2 landmine hard-avoid	wiki/method/marketing/villains.md
+6 prerequisite bat buoc truoc khi tieu 1 dong	wiki/method/marketing/youtube-ads.md
+phase 1 4 tuan test co cau truc	wiki/method/marketing/youtube-ads.md
+3 kich ban doc ket qua sau 4 tuan	wiki/method/marketing/youtube-ads.md
+phase 2 scale chi khi da dat kich ban a	wiki/method/marketing/youtube-ads.md
+format creative native youtube khac adapt-tu-meta	wiki/method/marketing/youtube-ads.md
+ecosystem 6 manh quanh youtube de khong mat nguoi thay nhung chua mua ngay	wiki/method/marketing/youtube-ads.md
+lop ltv post-purchase ly do cac cao tren youtube van co loi	wiki/method/marketing/youtube-ads.md
+benchmark tong hop	wiki/method/marketing/youtube-ads.md
+shorts tai che winner meta thay vi dung creative moi ecomamin-youtube-shorts-repurposing-blueprint ecom amin	wiki/method/marketing/youtube-ads.md
 core principle	wiki/method/personal/execution-mindset.md
 checklist tu hoi truoc khi pivot	wiki/method/personal/execution-mindset.md
 ung dung voi maxpro	wiki/method/personal/execution-mindset.md

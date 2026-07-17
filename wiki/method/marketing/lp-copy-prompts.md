@@ -1,6 +1,6 @@
 ---
-sources: [lp-copy-generation-prompts]
-updated: 2026-07-11
+sources: [lp-copy-generation-prompts, ecomamin-manus-ecom-landing-page-machine]
+updated: 2026-07-17
 ---
 
 # LP copy-generation prompt kit (headline → subhead → PAS pain → value props → CTA)
@@ -64,3 +64,17 @@ Giọng: service-oriented, tiếp cận được, không pressure/risk — CTA l
 
 ## Khi nào dùng kit này
 Toàn bộ 6 prompt map đúng thứ tự đọc của 1 landing page: hero → subhead → pain (PAS) → pain-to-proof bridge → value props → CTA. Có thể chạy tuần tự cho 1 LP mới, hoặc chạy lẻ từng prompt để refresh 1 section đang yếu. Cross-check output với [[hooks]] (pattern hook) và [[market-awareness]] (đúng tầng awareness của audience) trước khi ship.
+
+## Prompt build FULL PAGE theo type (Manus AI) — khác kit trên (section-by-section)
+Nguồn: [[ecomamin-manus-ecom-landing-page-machine]] (@eCom_Amin). Kit trên viết TỪNG SECTION cho 1 LP; đây là prompt build NGUYÊN TRANG theo đúng 1 trong 5 type ([[presell-pages]], [[funnel-and-landing]] đã có bảng match-theo-intent) — dùng khi cần ra page nhanh để test, không cần polish thủ công từng đoạn.
+- **Comparison:** feed data 2 sản phẩm → headline "X vs Y" khách quan → intro → bảng side-by-side (giá/feature/guarantee/ship/rating/best-for) → **"honest assessment" bắt buộc nhượng 2-3 điểm mạnh thật của đối thủ TRƯỚC** khi nêu 3-4 điểm mình hơn → CTA + trust badge. Design: nền trắng, bảng so sánh là hero-element.
+- **Advertorial:** feed sản phẩm + vấn đề khách → headline dạng câu hỏi nêu đúng vấn đề → mở bài empathize → đoạn "problem explanation" 300-400 từ (nguyên nhân + vì sao cách thường dùng fail + nên tìm gì thay) → giới thiệu mechanism/sản phẩm → proof (2-3 testimonial) → risk-reversal → soft CTA. Tone: giáo dục, không sales.
+- **Quiz funnel:** feed các variant sản phẩm + use-case mỗi cái hợp → intro "chưa biết chọn cái nào? làm quiz 2 phút" → 5-8 câu (goal/tình huống/kinh nghiệm, single-select) + progress bar → trang kết quả PHẢI giải thích VÌ SAO sản phẩm khớp đúng câu trả lời (không chỉ nêu tên) + testimonial từ người tình huống tương tự.
+- **Listicle:** feed sản phẩm mình + 3-4 đối thủ thật → headline "Top 5 X cho Y, [Year] Tested" → intro nêu methodology → mỗi entry (tên/ảnh/rating/tóm tắt/review 150-200 từ/pros/cons THẬT/best-for/giá/CTA), mình xếp #1-#2 với rating thật 4.5-4.8★ (KHÔNG 5.0 — trông giả) → bảng tóm tắt → kết luận nêu winner.
+- **Product page:** tác giả khuyên KHÔNG dùng AI build trang này — tối ưu trực tiếp template Shopify/Woo sẵn có (ảnh lifestyle hero, bullet benefit không phải feature, ảnh UGC, 50-200+ review, FAQ, chi tiết guarantee).
+
+**Kinh tế bulk-build:** thay vì 1 LP, extract 50+ góc/pain-point/use-case từ 1 sản phẩm (prompt: feed product page cho LLM, xin list 50+ góc đáng làm LP riêng) → phân theo type → build hàng loạt trong Manus (validate 3 trang đầu, rồi "tạo N trang còn lại theo đúng format") → mỗi ad-group Google Ads trỏ 1:1 vào đúng page khớp intent. Chi phí minh hoạ: 50 page qua dev ~$15k/3 tuần vs ~$0/vài giờ qua AI.
+
+**Test/kill:** ≥100 visitor/page mới đánh giá. >8% = winner, scale traffic. 4-8% = iterate (headline/CTA/ảnh/vị trí social-proof). <4% sau iterate = kill hoặc build lại góc khác, đừng tiếp tục đổ ad spend.
+
+**Toán funnel-stacking (mô hình minh hoạ, KHÔNG phải benchmark mặc định đạt được):** layer 1 advertorial cold-traffic 6% convert ngay → layer 2 email-sequence cho người chưa mua 30% convert trong 14 ngày → layer 3 retargeting cho người còn lại 20% convert trong 30 ngày → cộng dồn: 6% + (94%×30%) + (66%×20%) = **47.4% tổng conversion cuối cùng** từ cùng 1 pool cold-traffic ban đầu — CHỈ nếu dựng đủ cả 4 lớp (advertorial → email-capture+sequence → retargeting → comparison-page chốt cho traffic ấm). Đây là minh hoạ phép nhân các lớp, không phải con số kỳ vọng ngay lần đầu.
