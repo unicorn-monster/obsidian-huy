@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix]
-updated: 2026-07-15
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown]
+updated: 2026-07-18
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -35,6 +35,18 @@ Giá sẽ trôi; **logic thì không**. Chuẩn: normalize về per-second → r
    - **Wallpaper / background** → **Seedance Mini** (cost floor, $0.030/s)
    - **B-roll 8s** → **Veo Lite** (per-video subsidize)
    - **Revision** → **Gemini Omni** — nó là **editor không phải generator**: feed clip đã xong, đổi 1 element bằng 1 câu, thay vì re-render cả scene.
+
+## Veo — consumer subscription vs API pricing ([[0xroas-veo-ai-cost-breakdown]])
+Bảng ở trên là **API pricing**. Nếu đã trả Google Ultra $200/tháng, billing model khác:
+
+| Plan | Cost | Credits | Per 10s clip | Per 6 clips (60s) |
+|---|---|---|---|---|
+| Google Ultra | $200/tháng | 25,000 credits | 20 credits = **$0.16** | 120 credits = **$0.96** |
+| Veo 3.1 Lite API | per clip | — | **$0.175** (1080p) | $1.05 |
+
+→ Nếu đã là Google Ultra subscriber: Veo qua consumer plan **rẻ hơn API ~9%** cho 1080p. Quan trọng hơn: không phải trả API key riêng, không overhead integration. Dùng consumer UI trực tiếp cho iteration nhanh → khi pipeline đã ổn định mới shift sang API để automate.
+
+**Rule nhỏ:** 1 Google Ultra plan = 25k credits = ~1,250 clip 10s/tháng nếu xài hết — tương đương ~$200 API cost. Không có cost advantage lớn; lợi thế là **friction thấp hơn** (UI Gemini, không cần key).
 
 ## Caveat khi tính chi phí thật (reply @routerbase)
 Per-second chỉ là baseline. Chi phí thật còn cộng: **resolution/duration multiplier** (bảng trên: 1080p/4K đắt gấp bội 720p), **retry/failure rate**, **queue latency**. Một attempt "rẻ" thành đắt nhanh sau **2 lần gen hỏng** → tính CPM-per-usable-clip, đừng tính giá list.

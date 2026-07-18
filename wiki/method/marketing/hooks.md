@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook]
-updated: 2026-07-07
+sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock]
+updated: 2026-07-18
 ---
 
 # Hooks
@@ -60,3 +60,26 @@ Swipe (eCom_Amin, gốc B2B): *"pov: you've been torching your google ads budget
 Test 3-4 hook trên CÙNG body → tìm scroll-stopper → rồi test hook thắng across persona.
 
 → Lấy 1 hook proven (KS/đối thủ) đổi sang MaxPro mà không mất sức: [[hook-swap-method]] (giữ ENGINE cảm xúc + nhịp, chỉ thay SKIN danh-từ/số/tên).
+
+## Storytelling = next unlock sau khi direct-sell hit ceiling ([[dtcmidas-storytelling-ads-scale-unlock]])
+Nguồn: @DTCMidas. Khi direct-sell đã khai thác hết in-market pool, storytelling là đòn mở cửa colder audiences — với **lower CPM**.
+
+**Cơ chế tâm lý (không phải lý thuyết — có hóa học):**
+- Người scroll = guard UP; nhận ra ad format quen → skip tức thì (đã trả tiền, không nhận được gì).
+- Story định dạng *native với platform* → bypass guard → đặt narrative vào đầu họ.
+- Thay vì bảo "sản phẩm này tốt nhất" (bị resist) → story dẫn họ TỰ ra kết luận đó.
+- **Dopamine** (attention + memory) + **oxytocin** (trust) = 2 hóa chất story kích hoạt, hard-sell không làm được.
+
+**Lợi thế phân phối:**
+- Story hold attention → engagement cao → algorithm đọc là "content người muốn xem" → push vào colder audiences tự động.
+- CPM thấp hơn hard-sell vì nền tảng thưởng retention.
+- Người xem xong story **vào funnel đã tin vào solution** — không cần thuyết phục ở landing page từ đầu.
+
+**Formats đang thắng (per DTCMidas):**
+1. **AI Animation Ads** — nhiều format sáng tạo; khi đã dial-in messaging, test nhiều variation.
+2. **Yapper Ads** — talking-head style, native/conversational.
+3. **Native statics + long-form copy** — ảnh tĩnh + primary text dài kể story (cùng cơ chế "Primary text = story" bên trên).
+
+**Cách viết story:** đi bộ không nhạc/podcast, brainstorm story idea xung quanh *angle đang thắng hiện tại*, viết xong thì chạy. Lặp lại. Skill này tích lũy.
+
+→ Liên kết: format AI Animation video → [[ai-video-production]]; angle hiện tại → [[angles]]; story structure dài → [[presell-pages]] §advertorial.
