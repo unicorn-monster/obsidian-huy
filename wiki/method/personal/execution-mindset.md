@@ -1,6 +1,6 @@
 ---
-sources: [dtcmidas-strategy-blame-execution]
-updated: 2026-07-16
+sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics]
+updated: 2026-07-19
 ---
 
 # Execution mindset
@@ -30,3 +30,16 @@ updated: 2026-07-16
 - Ugly ad ROAS thấp? Hỏi: có đúng hook format, có đủ social proof, landing page có match promise trong ad không.
 
 *Source: [[dtcmidas-strategy-blame-execution]]*
+
+---
+
+## Business as mosaic — không copy nguyên playbook brand khác ([[maxwellcopy-business-mosaic-proven-tactics]])
+maxwellcopy (2026-07-19): *"You're literally going to get fucked if you just copy other brands shit."*
+
+**Lý do:** khi brand lớn nổi, họ đã có first-mover advantage và economics tốt đến mức outspend bạn mãi. Đến khi bạn copy model của họ, race đã thua từ đầu. Nhiều brand cố theo 9-figure playbook khi đang bán sản phẩm khác hoàn toàn — không works.
+
+**Nhưng:** vẫn cần quan sát. Điểm khác biệt là *"watch what other fast growing companies are doing and take **little pieces** here and there."*
+
+**Formula:** *"Your business should be a mosaic of a ton of other proven tactics, mixed with your own judgment and whatever's unique about you."* → Tổng hợp nhiều tactic đã proven từ nhiều nguồn + layer trên đó judgment riêng và USP riêng = something that becomes its own.
+
+Tie [[media-buying]] §Don't model funded brands ([[dtcmidas-dont-copy-funded-brands]]) — cùng principle từ góc tactic cụ thể hơn: copy funnel của brand funded = copy strategy built on advantages bạn không có. Bổ sung: kể cả bootstrapped brand cùng ngành cũng không nên copy nguyên — lấy piece, không lấy model.

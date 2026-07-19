@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons]
-updated: 2026-07-08
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions]
+updated: 2026-07-19
 ---
 
 # Media buying + testing (Meta 2026)
@@ -139,6 +139,15 @@ Hàm ý: dù AOV cao hay không "care about CVR", CVR vẫn là lever Meta dùng
 
 ## Off-peak budget push — exploratory tactic ([[jforjacob-budget-timing-observation]])
 jforjacob: *"sometimes, for no reason whatsoever you just need to send the budgets at 7pm on a random Tuesday night and see wtf happens."* Thin observation (anecdotal, no CPA cited) but compatible with manual-intervention thesis ([[jforjacob-meta-manual-beats-algorithm]]): Meta delivery can lock into ruts; an off-peak budget push breaks the pattern and occasionally surfaces latent audience segments. Low cost: pick an off-peak hour on a slow day, monitor CPM + CPA vs 7-day baseline for 24h.
+
+## Low spend: switch to 7-day decision window ([[dtcquizbuilder-low-spend-7day-decisions]])
+DTC_Quizbuilder (2026-07-18): *"Low ad spend — you don't have enough spend to view day to day data. Make decisions on 7 day basis."*
+
+Cùng logic với §Low-budget regime (1 ad set + lowest-cost) — khi budget thấp, daily data quá noisy để ra quyết định có ý nghĩa thống kê. Nếu đang tiêu $20-40/day, 1 ngày = 20-40 clicks — không đủ để kết luận bất kỳ thứ gì. Decision threshold: chờ đủ 7 ngày (= 140-280 clicks ở $20/day) rồi mới đọc trend.
+
+**Reconcile với §Decision matrix ngày 1 (ATC rate trong 24h):** ngày-1 read vẫn đúng ở thang **quá tệ** (ATC <5% = kill rõ ràng). Nhưng nếu ATC trong vùng carry (5-8%) → đừng kill trong 24h; đọc lại ở ngày 7. Ngày-1 là "death threshold", không phải "winner signal" khi budget thấp.
+
+→ MaxPro giai đoạn launch: set reminder xem data thứ 2 hàng tuần, không check Ads Manager hàng ngày.
 
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].

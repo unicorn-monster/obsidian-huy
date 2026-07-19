@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months]
-updated: 2026-07-17
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset]
+updated: 2026-07-19
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -255,6 +255,13 @@ maxwellcopy (2026-07-16): case ngắn gọn nhất về lever thực sự dịch
 3. **0 → 3 campaigns/tuần với long-form educational angle** — frequency đủ cao + educational (không thuần promotional) giữ deliverability + engagement. Tie §Reach >> segmentation (frequency beats relevance) + §entertain-first Gruns (education = value ngay cả khi không mua ngay).
 
 **Chuẩn hoá:** 151% YoY = ~2.5× trong 14 tháng. Không có 1 "hack" — là 3 lever vận hành cùng nhau. Thứ tự đúng: fix acquisition (pop-up) → deepen retention (flow) → raise frequency (campaigns). → MaxPro: nếu email chưa dùng đủ, bước 1 là đây — không phải tìm tactic mới.
+
+## Owned channel under-investment — ad spend vs email/SMS bias ([[maxwellcopy-ad-spend-email-sms-mindset]])
+maxwellcopy (2026-07-17): brands will increase ad spend thousands of dollars without blinking, but *"freak out over any retention, email, and sms investments even a few hundred dollars."* Pattern thường gặp: brands over-index trên acquisition (paid ads) và under-invest vào retention (owned channels) dù CPM của owned channel = $0.
+
+**Hàm ý:** email/SMS không phải "nice to have" thêm sau paid — là kênh giảm CAC hiệu quả nhất vì mọi khách giữ được qua owned → giảm nhu cầu re-acquire. Cả 3 lever trong [[maxwellcopy-email-revenue-2x-14-months]] (pop-up → flow mở rộng → 3 campaign/tuần) đều là retention investment tương đối nhỏ. Tie [[agency-ops]] (cost của agency email vs cost của acquisition ad — thường mất cân đối ngược nhau).
+
+→ MaxPro: nếu đang do dự tăng Klaviyo plan hoặc thuê email help, so sánh với số daily ad spend — nếu ad spend hơn 10× email invest, cần rebalance.
 
 ## Workflow Claude Code cho production + mining data ([[is-this-the-end-of-email-agencies]])
 Case brand tự vận hành email (không agency), copy tốt = **+40% rev khi đang scale**. Không phải mẹo mới về COPY — là quy trình VẬN HÀNH bằng Claude Code, bổ sung cho §AI trong email ở trên:
