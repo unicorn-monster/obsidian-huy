@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown]
-updated: 2026-07-17
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward]
+updated: 2026-07-20
 ---
 
 # Copywriting — DR fundamentals
@@ -52,6 +52,7 @@ Không có "quá dài", chỉ có **"quá chán"**. Cách interesting nhất = b
 - **Customer = HERO, brand = GUIDE** (Hero's journey / StoryBrand) — WSJ là người dẫn cậu bé thành công. Đừng để brand làm hero.
 - **"But / therefore" (Trey Parker/South Park):** mỗi beat nối bằng *but* hoặc *therefore*, KHÔNG phải *"and then"* (and-then = liệt kê rời rạc, chán). = động cơ nhịp của [[long-form-native-ads-copy skill]].
 - **Failed solution / absolve guilt:** thay vì nhồi benefit, gỡ tội cho người xem — *"Bạn đã thử giải quyết bằng X nhưng không được. Đó không phải lỗi của bạn, chỉ là thiếu đúng nguyên liệu."* Bắc cầu sang phần sau. → = "not your fault" ở [[angles]], [[market-awareness]].
+- **Vì sao story bypass được "guard" của cold traffic** ([[dtcmidas-storytelling-ads-algorithm-reward]]): não người tiến hoá để hiểu thế giới qua story (Hy Lạp cổ giải thích sấm sét bằng Zeus), không phải fact — nên 1 ad kể chuyện tránh được phản xạ "trông giống ad → lướt qua ngay." Cơ chế hoá học: story kích **dopamine** (giữ chú ý + trí nhớ) + **oxytocin** (xây trust) — kể "sản phẩm tôi tốt nhất cho X" thì bị resist, nhưng để reader TỰ đi tới kết luận đó qua story thì không. **Hệ quả thuật toán (không chỉ tâm lý):** story giữ chú ý + engagement cao → platform coi là content người ta MUỐN xem → đẩy vào audience LẠNH hơn (không chỉ pool đã in-market) + CPM thấp hơn — ad bán cứng chỉ với tới pool nhỏ đã sẵn sàng mua. Reader vào funnel qua story đã tự tin vào giải pháp trước khi thấy trang bán. **3 format story đang chạy tốt nhất (2026-07):** AI Animation Ads (nhiều biến thể/style khi message đã chốt) · Yapper Ads (talking-head kể chuyện) · Native statics + long-form copy ([[native-ads]], [[ugly-ads-method]]).
 
 ## 11. Copywork — cách LÊN TAY nhanh nhất
 Nguồn: [[sam-parr-copywork]]. Tìm đoạn writing hay → **CHÉP TAY word-for-word**, ngồi cả tiếng. Chép nhiều tháng → thấy RULES + TEXTURE cách người khác làm, rồi "steal cái này, steal cái kia, combine thành của mình". Nguyên tắc: *blindly copy cho đến khi tìm ra rules of the language mình muốn nói* (analogy học nhạc: Jingle Bells → Happy Birthday → Foo Fighters, không ai "ngồi vào piano viết hit" ngay).
