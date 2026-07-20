@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn]
-updated: 2026-07-17
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad]
+updated: 2026-07-20
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -80,6 +80,17 @@ Root cause: *"Customers having too much product is what kills most subscriptions
 3. Khách vẫn bị charge — nhưng **không rage-cancel** vì context đã đổi
 
 **Billing-reminder A/B = −33% cancel (SUB-2, [[maxwellcopy-billing-email-ab-test-cancel]], confirmed [[maxwellcopy-billing-reminder-ab-test]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%** — xác nhận thêm bởi source mới (2026-07-09): *"Every brand we come into, we're able to significantly decrease Day 27 cancellations just by optimizing this one message."* Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. Cơ chế = psych-of-framing (cùng họ mystery-discount [[email-marketing]] §1 — cách *nói* đổi outcome, không phải cái offer). → Khi có subscription: đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
+
+**Good vs Bad billing reminder — framework cụ thể ([[maxwellcopy-billing-reminder-good-bad]]):**
+
+| | Bad | Good |
+|---|---|---|
+| **Mở đầu** | "Bạn sắp bị charge $XX" | Frame đơn hàng như phần thói quen của họ, làm họ excited |
+| **Nội dung** | Không nhắc lại lý do họ subscribe | Reinforces perks của subscriber |
+| **CTA** | Nút Cancel nổi | **Skip / Delay** buttons — họ lùi lại thay vì cancel |
+| **Format** | Email giống nhau cho mọi sản phẩm + mọi order | Cá nhân hoá theo sản phẩm + order cụ thể |
+
+Insight thực thi: **thay nút Cancel thành Skip + Delay** là thay đổi đơn giản nhất, không cần đổi copy. Người muốn lùi lại (chưa hết hàng) sẽ dùng Delay — không phải Cancel. Gộp với §Day-30 reframe: cùng logic "đừng để nút cancel cao" nhưng đây là giải pháp alternative rõ ràng hơn.
 
 ## Quarterly/90-day sub — audit margin TRƯỚC khi defer revenue; seed ở PDP không phải lander ([[scalabilityschool-50-angle-strategy]])
 Zach/Hollow, 2 nuance thực chiến:

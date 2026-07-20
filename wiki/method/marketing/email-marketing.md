@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset]
-updated: 2026-07-19
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand]
+updated: 2026-07-20
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -237,6 +237,18 @@ StefanGeorgi case: list shrinking → team nói *"everything looks good"* → co
 Tie §reach-beats-segmentation (list hygiene bảo vệ reach) + §AI trong email vai trò 1 (analysis — extend sang LIST HEALTH audit, không chỉ Klaviyo campaign metrics).
 
 → MaxPro: khi list đạt 1k+, chạy Fable hoặc Claude + Klaviyo export audit 1 lần/tháng — check auto-unsubscribes, suppression, forgotten automation. Reactivation value tuyến tính theo list size.
+
+## Character emails — sender name là pattern interrupt mạnh nhất ([[maxwellcopy-character-emails-brand]])
+"Character emails are crushing right now." Thay vì gửi mọi email từ brand name → gửi từ **nhân vật thật trên team** (có tên + personality). 3 lý do work:
+1. **Humanize brand** — người mua từ người, không mua từ brand vô hồn. Sender name = cảm giác 1-1.
+2. **Pattern interrupt** — tên người lạ nổi bật trong inbox đầy brand-name. Cùng cơ chế §3 (pattern interrupt "1 banner") nhưng ở tầng sender, không tầng body.
+3. **Mở voice mới** — nhân vật có thể nói chuyện personal, "cheeky", không nằm trong brand voice chuẩn: stories, heads-up nội bộ, discount kiểu cướp account.
+
+**Ai làm nhân vật:** Alex from warehouse (gần hết hàng alert) · Megan from CS (heads-up email) · Alice from marketing (cướp account discount cheeky). Mỗi nhân vật có 1 role rõ → readers expect, không feel random.
+
+**Cách setup:** chọn 2-3 nhân vật, đặt tên + personality brief → tạo sender alias trong Klaviyo → mix vào broadcast, không replace hoàn toàn brand-name sends. Dùng sparingly (cùng nguyên tắc §3 pattern-interrupt) — hiệu lực = novelty, mọi email thành nhân vật → không còn là pattern-interrupt nữa.
+
+→ MaxPro: "Sam from the groomery team — just packed your order" (pre-ship excitement) · "Leo from QC — caught something about your order" (urgency). Dùng khi launch flash sale hoặc restock.
 
 ## 3 gap audit phổ biến — brand 35% rev từ email vẫn rỉ tiền ([[maxwellcopy-email-audit-300k-brand]])
 Brand $300k/tháng, 35% store rev từ email — "looks great on the surface" nhưng thực tế để lại tens of thousands of $$ mỗi tháng. 3 gap hay gặp:

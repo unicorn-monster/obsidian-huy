@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions]
-updated: 2026-07-19
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience]
+updated: 2026-07-20
 ---
 
 # Media buying + testing (Meta 2026)
@@ -105,6 +105,15 @@ DTCMidas: most visible big DTC brands are funded → **completely different unit
 **Rule: model bootstrapped brands scaling quickly**, not funded names. A brand burning a raise at 0.5 ROAS is not proof their funnel works — it's proof they have runway you don't. Spy targets: $500k-$2M bootstrapped brands converting cold traffic profitably. → Spy tool: Meta Ad Library sorted by impressions on same-scale accounts (§Spy + persona-gap above).
 
 Reinforces [[jforjacob-bootstrapped-creatives-landing-pages]] (must win on craft, not budget) — now extends: also win by *studying the right peers*. Funded brand funnel as reference = misleading data.
+
+## Creator selection — match creator demographics to buyer ([[dtcmidas-creator-match-audience]])
+Rule đơn giản nhưng phổ biến vi phạm: **creator phải trông như audience, không trông như founder.**
+
+> *"If you're a 23 year old founder selling a lifestyle change product to boomer women, it makes no sense to film ads yourself. A good creator that actually looks like your audience will almost always outperform you."*
+
+Cơ chế: người xem video ad match bản thân mình với người trong video — nếu demographics lệch (tuổi/gender/style), message không "feel like me" → không click. Founder tự quay có thể thắng **nếu** founder demographics khớp audience. Không khớp = chi phí opportunity cao hơn chi phí hire creator.
+
+**Áp MaxPro:** audience = chủ chó (phổ biến nhất nữ 35-55, có chó nhỏ-vừa). Nếu founder không khớp profile đó → test creator phù hợp, đặc biệt khi làm UGC-style hay "pet parent testimonial". Tie [[personas]] (avatar research → biết demographics đúng để chọn creator) + §Record-month (lever 4: creator seeding = volume UGC).
 
 ## Record-month validation — 6 levers DTC brand đang dùng ([[dtcmidas-june-record-month-levers]])
 DTCMidas báo record June 2026. 6 lever đã move needle — không phải 1 thứ, là combination:

@@ -1,11 +1,30 @@
 ---
-sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06]
-updated: 2026-06-22
+sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06, dtcmidas-ugly-ads-research-not-design]
+updated: 2026-07-20
 ---
 
 # Long-form "ugly native" advertorial method
 
 Playbook DR chứng minh trên KittySupps (cat supplement, ~1,600 ad active), clone sang MaxPro grinder. Nguồn: [[kittysupps-ugly-ads-teardown]], [[kittysupps-swipe-lines]], [[maxpro-operating-system]], [[maxpro-skeleton-and-banks]].
+
+## Tại sao ugly win — research > design ([[dtcmidas-ugly-ads-research-not-design]])
+Ugly ads không thắng vì *trông xấu* — thắng vì người tạo chúng **dành thời gian nghiên cứu khách thay vì thiết kế đẹp**. Đây là phân tích cơ chế chính xác nhất:
+
+> *"They perform better because the person who made them wasn't spending his time on designing the most beautiful ad or page, but on research so that he's writing copy and making content that resonates with his audience."*
+
+**Checklist nghiên cứu tối thiểu cần làm TRƯỚC khi design:**
+- Họ nghĩ gì / dùng ngôn ngữ gì để mô tả vấn đề?
+- Đã thử gì rồi mà không hiệu quả?
+- Điều gì làm họ hoài nghi?
+- Dream outcome họ dùng chữ gì để mô tả?
+
+**Minimum viable design** (đủ để convert, không cần mỹ thuật — [[dtcmidas-ugly-ads-research-not-design]]):
+- Font dễ đọc, **to hơn bạn nghĩ**
+- Nền tương phản với chữ (high contrast)
+- **1 màu nhấn** (không nhiều hơn)
+- Design = tối ưu *tốc độ đọc copy* + dẫn tới bước tiếp theo (click/swipe)
+
+**Ngưỡng $10M/năm:** trước mốc này, đừng focus vào design. Sau $10M mới blend design + conversion. Trước đó: research + copy = toàn bộ thời gian. → Tie §Voice register (raw/blunt = ưu tiên copy, không ưu tiên polished presentation) + [[jforjacob-canva-7fig-static-ad]] (3 phút Canva → 7 figures spend).
 
 ## Non-negotiables
 - Chạy từ **persona xoay vòng**, KHÔNG brand page. Tên Page = congruency cue đầu tiên. Chi tiết: [[personas]].
