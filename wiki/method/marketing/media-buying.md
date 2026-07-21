@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience]
-updated: 2026-07-20
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics]
+updated: 2026-07-21
 ---
 
 # Media buying + testing (Meta 2026)
@@ -105,6 +105,19 @@ DTCMidas: most visible big DTC brands are funded → **completely different unit
 **Rule: model bootstrapped brands scaling quickly**, not funded names. A brand burning a raise at 0.5 ROAS is not proof their funnel works — it's proof they have runway you don't. Spy targets: $500k-$2M bootstrapped brands converting cold traffic profitably. → Spy tool: Meta Ad Library sorted by impressions on same-scale accounts (§Spy + persona-gap above).
 
 Reinforces [[jforjacob-bootstrapped-creatives-landing-pages]] (must win on craft, not budget) — now extends: also win by *studying the right peers*. Funded brand funnel as reference = misleading data.
+
+## CAC is not fixed — execution drops it even in competitive markets ([[dtcmidas-cac-scale-unit-economics]])
+DTCMidas: *"'You can only scale if you can afford $100+ CACs' is cope."*
+
+Great margins + high LTV make a high-CAC ceiling easier, but they're not prerequisites. Most bootstrapped brands can't sustain $100+ CAC anyway — they don't have the cash. More importantly: **your CAC is not set in stone.**
+
+By dialing in creatives and funnels, CAC drops significantly even in saturated, high-competition markets. DTCMidas operates in a super-competitive niche with one of the priciest products yet keeps CAC **lower than most competitors** — not because their spend ceiling is higher, but because marketing execution was built and trained from day 1.
+
+**The formula: great marketing execution + great unit economics = outscale competitors.** Not out-spending them.
+
+This is the active counterpart to §Don't model funded brands: funded brands accept high CAC because investors subsidize acquisition. Bootstrapped brands who build the marketing muscle can reach *lower* CAC than funded competition — a more durable advantage than a bigger budget.
+
+→ MaxPro: CAC isn't set by niche or competition; it's set by how sharp creative + funnel are. Tie [[creative-testing]] (execution quality lowers CPA) + [[funnel-and-landing]] (CVR lever on cost) + [[angles]] (angle quality is what actually moves the needle).
 
 ## Creator selection — match creator demographics to buyer ([[dtcmidas-creator-match-audience]])
 Rule đơn giản nhưng phổ biến vi phạm: **creator phải trông như audience, không trông như founder.**
