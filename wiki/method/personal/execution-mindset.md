@@ -1,6 +1,6 @@
 ---
-sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics]
-updated: 2026-07-19
+sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics, maxwellcopy-ai-vs-real-bottleneck]
+updated: 2026-07-22
 ---
 
 # Execution mindset
@@ -43,3 +43,18 @@ maxwellcopy (2026-07-19): *"You're literally going to get fucked if you just cop
 **Formula:** *"Your business should be a mosaic of a ton of other proven tactics, mixed with your own judgment and whatever's unique about you."* → Tổng hợp nhiều tactic đã proven từ nhiều nguồn + layer trên đó judgment riêng và USP riêng = something that becomes its own.
 
 Tie [[media-buying]] §Don't model funded brands ([[dtcmidas-dont-copy-funded-brands]]) — cùng principle từ góc tactic cụ thể hơn: copy funnel của brand funded = copy strategy built on advantages bạn không có. Bổ sung: kể cả bootstrapped brand cùng ngành cũng không nên copy nguyên — lấy piece, không lấy model.
+
+---
+
+## Know your real bottleneck — AI tinkering vs mastering core ([[maxwellcopy-ai-vs-real-bottleneck]])
+maxwellcopy (2026-07-22): *"You have spent 100+ hours dinking around with AI for getting 10-15% little efficiencies when you could have mastered content or ads in that period."*
+
+**The trap:** AI tools deliver small, visible, measurable gains — easy to feel productive. Mastering ads or content is slower, harder to quantify in the short run, and produces no immediate output. So attention flows to AI tinkering even when the real constraint is craft.
+
+**The test:** 10-15% efficiency gain on a broken thing is still a broken thing. If CVR is low, emails don't convert, or creatives don't hook — no AI workflow saves that. AI amplifies execution quality, doesn't substitute for it (tie §Business as mosaic above — judgment + craft come first, tools layer on top).
+
+**Diagnosis question:** *"What is actually stopping me from making more money right now?"* If the honest answer is "I don't know how to write hooks that stop scroll" or "I don't understand why my ads aren't converting" — that's a skill gap, not a workflow gap. 100h of AI prompt-engineering on top of that = 10-15% on zero.
+
+**When AI IS the right focus:** once core skills are proven (ads convert, content hooks, email sells) → then AI workflow = lever on a working machine. The efficiency gains compound on something real.
+
+→ Huy: if time is going into GPT/Claude workflows before the core marketing machine (creative → funnel → email) is proven — rebalance toward mastering the craft first. Tie [[focus-and-deep-work]] (protect deep work blocks for skill-building, not tool exploration).

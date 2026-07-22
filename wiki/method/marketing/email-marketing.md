@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data]
-updated: 2026-07-21
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types]
+updated: 2026-07-22
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -300,4 +300,31 @@ The right question is not *"what do I cross-sell them next?"* but *"what did the
 
 Tie §SKU-heavy (go broad, but within their demonstrated category first) + §RPR (per-person relevance drives revenue per recipient — "same category" is the highest-relevance signal you have). Tie [[subscription-retention]] §WellTV analytics (same data platform) + §10 driver LTV driver 7 (replenishment by real rebuy cycle, not arbitrary timing).
 
+**Supplements vertical confirm ([[maxwellcopy-cross-sell-supplement-ltv]]):** creatine buyer → upsell flavors, NOT cross-sell to protein. Same logic: *"upselling to other flavors and boosting LTV that way."* Flavors = same-category variant; protein = category jump. The upsell path follows demonstrated behavior, the cross-sell path guesses.
+
 → MaxPro: currently single-SKU, so less urgent. When expanding (bits/balm/consumable): tag all buyers by first product → first re-engagement sequence = variant of what they bought, not new category push. Cross-sell only after retention is established.
+
+## CTA click hacks — 4 micro-tweaks that lift clicks ([[maxwellcopy-email-cta-click-hacks]])
+maxwellcopy (2026-07-22): small copy changes around the button, no design needed.
+
+1. **Short copy, under 10 words** — button stays above the fold and is super clear. More copy = eye wanders before reaching CTA.
+2. **"Click here to activate"** — when running an offer, frame the click as *unlocking* the discount. Taps into action-to-reward expectation.
+3. **"Click for good luck"** — low-commitment curiosity trigger next to the button. People tap just for the novelty; no risk perceived.
+4. **"Magic button"** — appeals to the curious segment who "can't help themselves." No explanation needed; the mystery is the draw.
+
+All 4 = low/no cost. Layer onto existing buttons, test 1 at a time. Tie §1 (mystery discount, curiosity gap) + [[offer-and-cta]] (action-framing).
+
+→ MaxPro: test #2 ("click to activate") on abandonment + flash sale emails first — has clearest offer context. #3/#4 on broadcast where there's no time pressure.
+
+## 3 non-discount email types — top performers without promo ([[maxwellcopy-non-discount-email-types]])
+maxwellcopy (2026-07-22): top-performing non-promo emails from recent months. Use to fill calendar without burning offer-fatigue.
+
+| Type | Mechanic | Why it converts |
+|---|---|---|
+| **Viral video + comments** | Embed a video that "popped off" + include real comment section advocacy | Short-form video = convert anyway; comments = social proof without review widget |
+| **Deep founder newsletter** | Long-form, forward-facing founder voice — not corporate copy | People buy from people; founder narrative = trust at a depth brand copy can't reach |
+| **Elephant in the Room** | Name the biggest hairy objection head-on, label it "the elephant" | Trust signal: acknowledging what customer fears = proves you know them + aren't hiding it |
+
+Tie [[copywriting]] §objection-handling ("elephant" = direct pre-handle) + §6 (founder plain-text winback uses same human-voice mechanic) + [[angles]] (founder angle = "buy from a person, not a brand").
+
+→ MaxPro: "Elephant" email = strongest quick-win — objection is "will this hurt my dog / will it actually work on anxious dogs." Write 1 email that names that fear directly: *"The elephant in the room: most groomers still nick dogs. Here's how MaxPro makes that impossible."* Rotate viral-video email when first UGC/organic hit drops.
