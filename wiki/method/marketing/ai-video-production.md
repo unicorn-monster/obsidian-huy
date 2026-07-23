@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown]
-updated: 2026-07-18
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof]
+updated: 2026-07-23
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -47,6 +47,18 @@ Bảng ở trên là **API pricing**. Nếu đã trả Google Ultra $200/tháng,
 → Nếu đã là Google Ultra subscriber: Veo qua consumer plan **rẻ hơn API ~9%** cho 1080p. Quan trọng hơn: không phải trả API key riêng, không overhead integration. Dùng consumer UI trực tiếp cho iteration nhanh → khi pipeline đã ổn định mới shift sang API để automate.
 
 **Rule nhỏ:** 1 Google Ultra plan = 25k credits = ~1,250 clip 10s/tháng nếu xài hết — tương đương ~$200 API cost. Không có cost advantage lớn; lợi thế là **friction thấp hơn** (UI Gemini, không cần key).
+
+## AI ad format types — TOF + BOF ([[0xroas-ai-ad-formats-tof-bof]])
+Beyond model selection và cost: **4 format types** đang chạy tốt với AI production, "dirt cheap" ([[0xroas-ai-ad-formats-tof-bof]]):
+
+- **AI yappers** — talking-head style (1 voice/face nói thẳng vào camera). High-engagement TOF; ties §Yapper Ads trong [[copywriting]] §10 + §3 format story đang chạy tốt nhất 2026-07.
+- **AI podcast ads** — 2-người nói chuyện (host + guest format), perceived organic. Trust-building TOF.
+- **AI mini VSLs** — condensed video sales letter, 60-120s. TOF-to-mid-funnel bridge (educate + belief-seed).
+- **Ted-talk style** — single authoritative speaker, educational frame. TOF brand-credibility.
+
+Signal từ @0xROAS: cả 4 format giờ sản xuất được với AI với chi phí rất thấp — barrier format đã gần bằng 0, creative strategy (angle, hook, copy) là thứ còn differentiator. **Reminder quan trọng:** BOF cũng là "game changer" — cùng AI toolset phải extend sang retargeting, không chỉ dùng cho prospecting.
+
+Route by funnel stage: yappers + podcast ads = TOF (cold traffic, organic-looking) · mini VSLs + ted-talk = TOF/mid (educate + belief-seed) · short testimonial/demo = BOF (retargeting, already aware). Tie §3 phát hiện đáng tiền ở trên (production economics → route theo shot) + [[creative-brief]] (UGC/broll production) + [[copywriting]] §10 (story formats).
 
 ## Caveat khi tính chi phí thật (reply @routerbase)
 Per-second chỉ là baseline. Chi phí thật còn cộng: **resolution/duration multiplier** (bảng trên: 1080p/4K đắt gấp bội 720p), **retry/failure rate**, **queue latency**. Một attempt "rẻ" thành đắt nhanh sau **2 lần gen hỏng** → tính CPM-per-usable-clip, đừng tính giá list.

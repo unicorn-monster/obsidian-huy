@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward]
-updated: 2026-07-20
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale]
+updated: 2026-07-23
 ---
 
 # Copywriting — DR fundamentals
@@ -107,6 +107,13 @@ Phản biện rule kinh điển *"enter the conversation already happening in pr
 3. **The psyche** — mượn thang ý thức David Hawkins (shame → guilt → apathy → fear → desire → anger → pride → courage → lên cao hơn). Khác emotion: emotion là cảm giác vật lý (body, tầng 2); consciousness là **lăng kính** người đó đang nhìn chính họ và thế giới qua đó — 2 người CÙNG 1 emotion vẫn có thể calibrate ở 2 mức ý thức khác nhau → cùng message kéo người này về phía mua, đẩy người kia ra xa.
 
 Việc thật của marketer không phải biết khách nghĩ gì hay cảm gì — là **định vị được họ đang calibrate ở mức ý thức nào**, rồi build message từ đó: biết mức đó nghe được gì, sẽ reject gì, đang với tới gì. Sâu hơn nhiều so với "dùng từ trong review Amazon." (Không có case-number/test cụ thể trong nguồn — framework triết học, dùng làm lăng kính chẩn đoán khi viết long-form/VSL đã "đủ tốt về mặt kỹ thuật" (đúng VOC, đúng structure) mà vẫn chưa move — nghi ngờ message đang nhắm sai tầng.)
+
+## 15. AI-assisted copy — judgement là nhân tử ([[dtcmidas-ai-copy-judgement-scale]])
+"Bad judgement + AI = scaling waste. Good judgement + AI = scaling wins." Shortcut phổ biến nhất — feed deep-research prompt + format-to-mimic vào AI rồi yêu cầu viết ad tốt — chỉ đưa ra được **40% kết quả**, và đốt tiền khi test nó.
+
+Lý do: để AI viết copy **thực sự chạy được**, bạn phải biết **steeer và feedback chi tiết** cho nó. Và chỉ làm được điều đó khi đã hiểu sâu về audience (họ muốn gì, điều gì resonates), tâm lý con người, và biết viral format nào đang hoạt động + cách adapt chúng. **Judgement đó chỉ xây được bằng cách làm đi làm lại** — không có shortcut (→ §11 Copywork: chép tay là cách lên tay nhanh nhất, builds the pattern recognition để feedback thật được).
+
+**Hệ quả thực tế:** AI là multiplier, không phải replacement. Học viết tay trước → build judgement → dùng judgement đó để steer AI = scale wins. Bỏ qua giai đoạn học → AI output generic → tiêu tiền test thứ không hoạt động.
 
 ## Meta-note (Sam về chính mình)
 *"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần [[direct-response-copy skill]]: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
