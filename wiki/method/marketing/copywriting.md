@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale]
-updated: 2026-07-23
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure]
+updated: 2026-07-24
 ---
 
 # Copywriting — DR fundamentals
@@ -99,6 +99,30 @@ Nguồn: [[sam-parr-repurpose-bad-ads]] (đoạn swipe-worthy nhất). Ad dở t
 - **Curiosity-gap = information debt:** gọi sản phẩm là "30-second ritual" NHIỀU lần TRƯỚC khi hé tên/ingredient/cách hoạt động — não ghét open-loop, phải xem tiếp để "được trả nợ" thông tin. Sau 20+ phút đầu tư chờ, khách không còn đánh giá nữa — chỉ nhẹ nhõm khi cuối cùng biết.
 - **Exit pop-up trap:** rời trang → popup kéo NGƯỢC LẠI đúng chỗ đang xem (không phải về đầu) — ép xem tiếp thay vì bắt đầu lại. Copy verified: *"WAIT! Don't Go Yet, You're Almost There!"* + CTA lặp lại chính "30-second ritual" + countdown vẫn chạy trên popup exit-intent — giữ nguyên áp lực urgency dù đang cố thoát.
 - **2 nguyên tắc meta (đáng nhớ hơn cả tactic):** (1) *"Biết ngưỡng đau của audience"* — không viết cho người tò mò sức khoẻ, viết cho người bác sĩ đã bảo "sẽ chết nếu không đổi" mà vẫn phớt lờ — kịch tính cỡ này (đám cưới sụp đổ, xe lăn, con gái khóc) chỉ hợp với NGƯỠNG ĐAU đó. (2) *"Nếu sản phẩm thật sự giúp được, phải dốc hết sức thuyết phục"* — giữ tay là vô trách nhiệm, không phải đạo đức; sản phẩm chất lượng bền (Clickbank top-seller nhiều năm — scam thì refund giết chết funnel nhanh) thì mới xứng đáng độ mạnh này.
+
+## DTCMidas authority VSL — 18-element running sequence ([[dtcmidas-vsl-ad-structure]])
+Top-spending live ad (2026-07). Format: authority-led VSL, NOT fake AI. Length: **2:14 min**. Xương sống operational (thứ tự beat), pair với emotional-architecture GlucoTrust ở §83:
+
+1. Fear hook
+2. Open loop (big promise)
+3. Authority intro
+4. Failed alternative 1
+5. Failed alternative 2
+6. Failed alternative 3
+7. Hidden root cause
+8. Problem mechanism
+9. Cost of inaction
+10. Product intro
+11. Solution mechanism
+12. Transformation 1 (short term)
+13. Transformation 2 (long term)
+14. Social proof
+15. Price anchoring
+16. Risk reversal
+17. Scarcity
+18. Call to action
+
+**Cross-map với GlucoTrust teardown (§VSL emotional-architecture):** beat 1-3 = Garden of Eden + helplessness play; beat 4-6 = "failed everything" objection killer; beat 7-8 = contrarian mechanism pivot (rename bộ phận); beat 9 = cost of inaction / core wound; beat 10-11 = "buried discovery"; beat 14 = "friends & family beta"; beat 16 = "reluctant entrepreneur" close. **Key decision (not fake AI):** authority-led = người thật nói chuyện trực tiếp → trust bổ sung cho mechanism, không thay thế. → MaxPro: nếu build VSL, map 18 beat này trước, rồi điền emotional depth từ §GlucoTrust vào từng beat.
 
 ## 3 tầng "depth" — mind / body / psyche ([[mark-copy-depth-levels-mind-body-psyche]])
 Phản biện rule kinh điển *"enter the conversation already happening in prospect's mind"* — Mark: rule đó nông, vì **95% suy nghĩ là subconscious**, khách không nghĩ bằng câu chữ sạch sẽ như "I am dissatisfied with my current identity." 3 tầng nói tới khách, sâu dần:

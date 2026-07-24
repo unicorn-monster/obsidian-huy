@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit]
-updated: 2026-07-17
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads]
+updated: 2026-07-24
 ---
 
 # Google Ads (kênh search-intent)
@@ -136,12 +136,34 @@ US = bloodbath, CPC $3-8. **UK / AU / NZ / Ireland**: GDP/capita gần bằng, E
 - **Local trust/payment signal cụ thể:** AU — Afterpay/Zippay tại checkout (+15-20% CVR claim), giá GST-inclusive thắng GST-exclusive, copy "Australian owned"/"ships from Sydney" dù fulfillment qua 3PL vẫn tăng tin tưởng. Saudi — copy Ả-rập ở MỌI điểm chạm trước checkout thắng hẳn English-only kể cả với khách giỏi tiếng Anh (giảm cognitive friction), WhatsApp support tăng trust cho AOV cao. Balkans — hiển thị giá theo tiền tệ địa phương (HRK/RSD) thay vì EUR/USD dù khách quen cả 2, PayPal quan trọng song song thẻ.
 - **5-prompt research library** để research/qualify 1 nước MỚI trước khi chi tiền (market qualification → competitive density → keyword research theo funnel-layer → creative angle adaptation → geographic bid strategy) — chi tiết đầy đủ ở [[ecomamin-geographic-arbitrage-playbook]].
 
+## Localization rule — đừng đi local "nửa vời" ([[dtcmidas-local-market-ads]])
+DTCMidas (xác nhận độc lập eCom_Amin geographic playbook): *"If you go local do it properly."* Ads tiếng Anh reach rất ít người ở market non-English và performance tệ hơn. Nguyên tắc cứng:
+- **Ads:** ngôn ngữ địa phương (không phải dịch máy — bản địa hoá thật)
+- **Funnel + Store:** local currency · local payment methods (BNPL, bank transfer, etc.) · local delivery
+
+"Same holds for the rest of your funnel" = **toàn bộ chuỗi phải nhất quán**, không chỉ ads. Xem chi tiết execution: [[ecomamin-geographic-arbitrage-playbook]] (payment, pricing format, tax labelling per market).
+
 ## Problem-aware angle > product-focused
 Search "my dog pulls on leash" KHÔNG muốn harness — muốn hết bị giật tay mỗi sáng.
 - generic *"no pull harness - durable"* (2-3% CVR) → problem-aware *"does your dog pull? stops pulling in 3 days or full refund"* (**8-12% CVR**).
 - *"vet-recommended bed for dogs with arthritis & hip dysplasia - 60 night trial"*.
 - **Breed-specific clusters** ([[ecomamin-pet-brand-1m-google-at-19]]): `"[product] for [breed]"` convert **~2x** generic — specificity = "thiết kế đúng tình huống của tôi". MaxPro: "nail grinder for large/thick-black-nail dogs", "quiet grinder for anxious [breed]". Build 1 advertorial cho top cluster trong **30 ngày đầu** (mở TOF + organic ranking).
 Bán **outcome, không product**. = UMP [[market-awareness]] (nhớ match sophistication — nail stage 2-3).
+
+## Same product × 3 emotional entry points — multi-segment emotional frame ([[ecom-amin-jewelry-google-ads]])
+eCom_Amin case (jewelry, £30-40k/day consistent, 8-figure): cùng 1 SKU (sunflower necklace), 3 campaign riêng theo động cơ mua:
+
+| Segment | Emotional frame | Note |
+|---|---|---|
+| Boyfriend | Romance + commitment | "telling her this is how I feel about you" |
+| Mother | Lasting family bonds | maternal identity |
+| Friend | Thoughtfulness + personalisation | "they remembered me" |
+
+→ **3 CVR khác nhau, 3 cost-per-conversion khác nhau, same exact product.** Không cần 3 product, chỉ cần 3 emotional hook + 3 landing page/copy riêng. Bài học transfer: khi 1 product có nhiều "buyer type" với motivation khác nhau (không chỉ problem khác nhau) → tách campaign theo motivation, không chỉ theo intent-stage.
+
+**YouTube Shorts repurpose:** reuse winning Meta creatives (UGC unboxing, reaction videos) vào YouTube Shorts cold-traffic — "cheap CPCs, untapped channel." Month-1 CVR 2.1% → Month-6 3.8%: social proof + reviews compound theo thời gian, creative không bị fatigue vì mỗi người nhận nó đều có cảm xúc thật (emotional permanence = vòng lặp tự nhiên). Tie [[ecom-amin-jewelry-google-ads]] tới psychology triggers → [[angles]].
+
+→ MaxPro: test tách campaign theo avatar — "sợ cắt quick chảy máu" (owner lo lắng) vs "chó sợ clipper" (chó anxious) vs "mobile groomer dùng hàng ngày" (groomer pro) — cùng sản phẩm, 3 frame.
 
 ## Shopping feed / listing / bid depth → trang riêng
 Lớp feed Shopping sâu (GMC feed 70%-lift · feed-duplication 1-sản-phẩm-nhiều-listing · Shopping masterclass: title keyword-vs-benefit, custom-labels, image-contrast, review-count proof, promo-anchor, bid 3-tier, search-terms mining) đã tách sang **[[google-shopping]]** để trang này gọn về account-strategy. Làm feed TRƯỚC campaign (70% kết quả từ feed).

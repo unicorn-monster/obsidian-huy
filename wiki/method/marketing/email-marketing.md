@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types]
-updated: 2026-07-22
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements]
+updated: 2026-07-24
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -315,6 +315,16 @@ maxwellcopy (2026-07-22): small copy changes around the button, no design needed
 All 4 = low/no cost. Layer onto existing buttons, test 1 at a time. Tie §1 (mystery discount, curiosity gap) + [[offer-and-cta]] (action-framing).
 
 → MaxPro: test #2 ("click to activate") on abandonment + flash sale emails first — has clearest offer context. #3/#4 on broadcast where there's no time pressure.
+
+## 4 elements of a masterclass email ([[maxwellcopy-email-masterclass-elements]])
+maxwellcopy: "thousands of ecom emails later, this is STILL the best email I've ever received." 4 yếu tố cốt lõi:
+
+1. **Headline & hero catches attention** — không phải đẹp, phải DỪNG scroll.
+2. **Short and snappy** — tối giản; mỗi chữ thừa = friction. Xác nhận live test 2026-07-12 [[maxwellcopy-short-snappy-email-test]]: short/snappy đánh bại emotion-heavy + long graphic.
+3. **Stats that are genuinely interesting** — không liệt kê feature; số liệu phải làm người ta nghĩ "ồ, chưa biết cái này."
+4. **Stats tied to the product** — số liệu phải kết lại ở product, không floating. Tác dụng: stats = curiosity + interest; tie-to-product = relevance + intent.
+
+Cùng xương sống với §Headline angle framework (interest trước, product sau) + §entertain-first Gruns (infographic → 1 lượt lướt thấy hết). → MaxPro: "X% chó bị chảy máu khi cắt móng bằng clipper thông thường → MaxPro loại bỏ rủi ro đó." Số thật + kết về product.
 
 ## 3 non-discount email types — top performers without promo ([[maxwellcopy-non-discount-email-types]])
 maxwellcopy (2026-07-22): top-performing non-promo emails from recent months. Use to fill calendar without burning offer-fatigue.

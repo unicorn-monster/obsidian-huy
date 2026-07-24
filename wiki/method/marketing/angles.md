@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days]
-updated: 2026-07-16
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads]
+updated: 2026-07-24
 ---
 
 # Angles
@@ -52,6 +52,18 @@ PrayerSong (AI tạo bài hát, Suno API, <$1 COGS) không dừng ở "songs for
 
 ## Mystery/quest engagement = angle-mechanic thay thế cho twist-the-knife ([[0-400-000-site-visitors-in-60-days]])
 Hungry Minds (sách "rebuild a civilisation" — TAM apocalypse-survival) dùng USP khác hẳn pain-agitation quen thuộc: **trang bí ẩn dẫn tới website bí mật, không hướng dẫn, chỉ 1 mật khẩu** giấu trong sách → giải được nhận quà thật. Không bán "sách sinh tồn" — bán 1 trò chơi/nhiệm vụ có phần thưởng vật lý thật. Tác giả chê ads hiện tại "không twist-the-knife đủ mạnh" dù TAM lớn — tức: mystery-mechanic thắng được ENGAGEMENT (visitor/session) dù copy chưa tối ưu pain. Dùng khi sản phẩm có thể gắn 1 "easter egg" thật (mã, quà, unlock) — làm người mua thành người chơi, lan truyền tự nhiên hơn ad thường.
+
+## 4 psychology triggers — product built to sell itself ([[ecom-amin-jewelry-google-ads]])
+eCom_Amin case (jewelry, $1M+/mo Google ads, 0.8% refund vs 6.2% avg). 4 trigger baked INTO sản phẩm — không phải copy trick, là product-selection/positioning framework:
+
+1. **Emotional permanence** — sản phẩm mang cảm xúc tại 1 khoảnh khắc cụ thể (tặng). Mỗi lần nhìn thấy/đeo = re-experience khoảnh khắc đó → không thể return. *"You don't return captured emotions."* → Refund ám thị = reject cảm xúc người tặng. Áp: MaxPro gift angle ("first calm trim together = memory").
+2. **Gift loop** — 42% người nhận sản phẩm → trở thành buyer trong 90 ngày (từ nhận sang tự mua / tặng lại). 1 customer generates 1 customer without ad spend. CAC per pair giảm 50%. → MaxPro: gift positioning cho pet-owner tặng nhau.
+3. **Vague personalisation** — cảm thấy personal dù mass-produced. Sản phẩm **create** the relationship dynamic, không reflect nó. Generic đủ để fit ai, specific đủ để feel intentional. → MaxPro: "made for dogs who hate clippers" = vague personal (cảm giác như designed for MY dog).
+4. **Perceived value stacking** — 2 item > 1 item dù item 2 cost pennies (£0.30 thêm vào = justify £67 price). Bundle bổ sung = perception upgrade mà không cần cải tiến gì thật. Tie [[offer-and-cta]] value-gap framing.
+
+**Campaign structure (cùng product × 3 emotional entry points):** segment by buyer motivation → từng campaign riêng với copy/landing riêng → CVR + CPA khác hẳn nhau → tổng profit tăng. Xem execution chi tiết: [[google-ads]] §same-product × 3-emotional-entry-points.
+
+**Compounding creative** (hiếm trigger): sản phẩm trigger cảm xúc thật → người nhận post organic → reviews compound → creative không bị fatigue (CVR 2.1% T1 → 3.8% T6). Ngược hoàn toàn với sản phẩm commodity phải fight creative fatigue liên tục.
 
 ## Native angle test (3 tiêu chí, 1 angle/campaign)
 Từ [[native-ads]]: angle phải **specific** đủ để thấy mới · **broad** đủ cho mass audience · **defensible** đủ để product giao được. 1 angle/campaign — đừng cố thắng bằng 3. Khớp guardrail defensible của [[compliance]] + symptom-doorway ở trên (mỗi cửa ngõ = 1 angle test được).
