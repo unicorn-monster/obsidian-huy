@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling]
-updated: 2026-07-22
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m]
+updated: 2026-07-25
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -53,3 +53,12 @@ maxwellcopy (2026-07-16): dù đã có team, vẫn tự làm mọi audit — **6
 2. **Trust signal không thể clone:** khi khách vào từ content rồi thấy ĐÚNG founder chạy audit cho họ — trải nghiệm khác hoàn toàn so với bị giao cho người lạ. Conversion rate khác nhau rõ rệt.
 
 **Hàm ý:** 2 lý do này cộng hưởng — audit thật sự tốt nhất *vừa* là research *vừa* là sales. Không phải overhead mà là revenue-generating activity cao nhất. Tie [[email-marketing]] §AI trong email vai trò 1 (analysis) — format audit tương tự nhưng ở cấp business development.
+
+## Agency scaling phases — $300k to $1M/mo ([[maxwellcopy-scaling-phases-200k-1m]])
+maxwellcopy (2026-07-25): framework cho 3 giai đoạn sau $200k/mo.
+
+- **Phase 7 — $300k–500k/mo:** Scale marketing aggressively. Xây marketing team (ads, organic). Trở thành "máy kéo lead." Set guardrails on service — clients không walk over you.
+- **Phase 8 — $500k–750k/mo:** Service + offer development. Xây senior team xung quanh. Initiatives cụ thể để reduce churn, stickier service.
+- **Phase 9 — $750k–1M/mo:** Build leaders per department (marketing · sales · fulfillment), scale all 3 cùng lúc. Make a big bet — another big offer hoặc supplementary service.
+
+Tie §Pod structure (service depth scaling) + §International team structure (headcount model khi scale) — 3 phase trên là timeline ÉP buộc upgrade cả ops và offer.

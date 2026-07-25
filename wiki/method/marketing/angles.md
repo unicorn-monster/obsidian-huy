@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads]
-updated: 2026-07-24
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language]
+updated: 2026-07-25
 ---
 
 # Angles
@@ -87,3 +87,14 @@ Nguồn: [[satishdtc-6-diagnosis-questions-belief-shift]]. Native ad chết ở 
 - = engine SINH RA "wrong map" reframe ở **Desire selection** trên ("không phải tai, là cổ" · "không phải calcium"). Diagnosis cho ra cái-họ-blame-sai; mechanism mình thay vào chỗ đó.
 - **Proof economic của reframe** ([[advertising-jan-advertorial-rewrite-48h-profitable]]): joint advertorial lỗ 3 tuần → rewrite ĐÚNG 1 section từ commodity ("glucosamine+turmeric+MSM for healthy joints") sang cause-reframe ("không phải mòn sụn, là dịch khớp mỏng → glucosamine nhắm sai target") → **profitable 48h**. Click luôn có; thiếu là belief. Reframe phải **thật + provable** (BS mechanism không scale dài — [[compliance]]). Before/after đầy đủ + diagnosis ở [[native-ads]].
 - **MaxPro:** chủ tin chó *"untrainable / ghét cắt móng / hết cách"* (tự trách hoặc trách chó) → thật ra **clipper crush/splinter làm đau kể cả khi trim hoàn hảo** (UMP [[market-awareness]]) → *"không phải con bạn hư, là cái kẹp."* ⚠️ Giữ stage 2-3: blame-shift sang **cơ chế quan-sát-được**, KHÔNG bịa bệnh ẩn (joint/hip = senior-mobility KILLED, [[compliance]]).
+
+## Reddit JSON → Claude — steal avatar language in 5 steps ([[0xroas-reddit-json-avatar-language]])
+@0xROAS (2026-07-25): tactic nhanh nhất để lấy exact customer language cho angle research.
+
+1. Add `.json` vào subreddit URL (vd `reddit.com/r/dogs.json`)
+2. Download JSON file
+3. Upload lên Claude (Opus 5)
+4. Prompt: *"analyze and extract exact language patterns, beliefs, and pain points from the subreddit i uploaded"*
+5. Done — exact words customers use, not guessed language.
+
+**Tại sao mạnh:** không đoán avatar language — lấy chính ngôn ngữ họ dùng. Tie §Belief-shift diagnosis ("30 phút diagnosis audience") + [[quiz-funnels]] §Manus AI 4-step (Reddit = step 1 angle research). → MaxPro: r/dogs, r/doggrooming, r/petcare → extract exact phrases về nail grinding, clipper fear, quick bleeding — dùng làm raw material cho copy + quiz question wording.
