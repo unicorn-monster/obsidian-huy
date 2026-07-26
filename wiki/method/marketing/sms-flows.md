@@ -1,6 +1,6 @@
 ---
-sources: [klaviyo-sms-flows-setup-guide, maxwellcopy-sms-4-templates-ecom, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-12m-email-sms-30days, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-sms-timing-data]
-updated: 2026-07-24
+sources: [klaviyo-sms-flows-setup-guide, maxwellcopy-sms-4-templates-ecom, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-12m-email-sms-30days, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-sms-timing-data, maxwellcopy-sms-timing-study]
+updated: 2026-07-26
 ---
 
 # SMS flows — Klaviyo setup playbook (6 core flows)
