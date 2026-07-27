@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements]
-updated: 2026-07-24
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic]
+updated: 2026-07-27
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -325,6 +325,23 @@ maxwellcopy: "thousands of ecom emails later, this is STILL the best email I've 
 4. **Stats tied to the product** — số liệu phải kết lại ở product, không floating. Tác dụng: stats = curiosity + interest; tie-to-product = relevance + intent.
 
 Cùng xương sống với §Headline angle framework (interest trước, product sau) + §entertain-first Gruns (infographic → 1 lượt lướt thấy hết). → MaxPro: "X% chó bị chảy máu khi cắt móng bằng clipper thông thường → MaxPro loại bỏ rủi ro đó." Số thật + kết về product.
+
+## Alia popup — 21.7% opt-in vs 8-10% Klaviyo ([[maxwellcopy-alia-popup-ab-test]])
+maxwellcopy (2026-07-27): switched brand from Klaviyo native popup to **Alia Popups** → jumped from 8-10% opt-in to **21.7%** in the first A/B test weeks. **Doubled** email list growth rate.
+
+Key point: first Alia iteration got 12% (already +25-50% vs Klaviyo) but only reached 21.7% through continued testing. Tool switch is not the gain — **active iteration on the new platform** is. *"Reminder to not just get your brand on Alia and leave it... TEST."*
+
+- **Signal:** this confirms [[email-marketing]] §Quiz pop-up → welcome flow segmentation (same Alia recommendation) and §Popup personalization (Prism AI). Pattern = native Klaviyo popup is a floor, not a ceiling.
+- **MaxPro:** if using Klaviyo native popup currently, test Alia. Even iteration 1 should yield +25-50% opt-in lift before any creative testing begins.
+
+## Secret page — PDP variant exclusive to email/SMS list ([[maxwellcopy-secret-page-pdp-tactic]])
+maxwellcopy (2026-07-27): tactic called the **"secret page"** — take your best PDP, add headline *"you found our secret page"*, and route email + SMS list exclusively to that URL post opt-in.
+
+Mechanism: makes the email/SMS opt-in feel like VIP access, not just a discount-grab. Subscriber's first experience after signing up is a page that exists ONLY for them → reinforces loyalty trigger and makes the channel feel worth subscribing to.
+
+- **Implementation:** duplicate best PDP → swap headline → set that URL as the redirect in Klaviyo form submit (or SMS opt-in). No price change needed — exclusivity is psychological.
+- **Tie:** [[email-marketing]] §Welcome flow email #1 (first touch post-subscribe = highest intent moment); [[offer-and-cta]] (VIP framing as non-discount offer type).
+- **MaxPro:** hero PDP with "you found our secret page — quiet grinder for dogs who hate clippers" as H1 → route all email/SMS subscribers there. Test against standard PDP redirect.
 
 ## 3 non-discount email types — top performers without promo ([[maxwellcopy-non-discount-email-types]])
 maxwellcopy (2026-07-22): top-performing non-promo emails from recent months. Use to fill calendar without burning offer-fatigue.

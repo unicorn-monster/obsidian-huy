@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language]
-updated: 2026-07-25
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor]
+updated: 2026-07-27
 ---
 
 # Angles
@@ -87,6 +87,24 @@ Nguồn: [[satishdtc-6-diagnosis-questions-belief-shift]]. Native ad chết ở 
 - = engine SINH RA "wrong map" reframe ở **Desire selection** trên ("không phải tai, là cổ" · "không phải calcium"). Diagnosis cho ra cái-họ-blame-sai; mechanism mình thay vào chỗ đó.
 - **Proof economic của reframe** ([[advertising-jan-advertorial-rewrite-48h-profitable]]): joint advertorial lỗ 3 tuần → rewrite ĐÚNG 1 section từ commodity ("glucosamine+turmeric+MSM for healthy joints") sang cause-reframe ("không phải mòn sụn, là dịch khớp mỏng → glucosamine nhắm sai target") → **profitable 48h**. Click luôn có; thiếu là belief. Reframe phải **thật + provable** (BS mechanism không scale dài — [[compliance]]). Before/after đầy đủ + diagnosis ở [[native-ads]].
 - **MaxPro:** chủ tin chó *"untrainable / ghét cắt móng / hết cách"* (tự trách hoặc trách chó) → thật ra **clipper crush/splinter làm đau kể cả khi trim hoàn hảo** (UMP [[market-awareness]]) → *"không phải con bạn hư, là cái kẹp."* ⚠️ Giữ stage 2-3: blame-shift sang **cơ chế quan-sát-được**, KHÔNG bịa bệnh ẩn (joint/hip = senior-mobility KILLED, [[compliance]]).
+
+## Non-doctor authority figures by niche ([[dtcmidas-authority-figures-non-doctor]])
+DTCMidas (2026-07-27): licensed professionals (doctors, vets, dermatologists) are the obvious authority play but expensive + hard to sign. A **simpler authority** = someone the customer already trusts on THAT specific problem, or someone who obviously knows a lot about it.
+
+**Category → accessible authority options:**
+| Niche | Non-doctor authorities |
+|---|---|
+| Beauty | Makeup artists, hairstylists, barbers, Sephora employees |
+| Health | Ex pro athletes (cheaper than active pros), coaches, military |
+| Food | Chefs, bakers, butchers, bartenders |
+| Home | Plumbers, electricians, carpenters, interior designers |
+| Tech | YouTubers, photographers, DJs, gamers |
+| **Pet** | Groomers, dog trainers, shelter workers, vet techs (cheaper than vets), pet influencers |
+
+**Why this works:** trust is domain-specific. Customers don't need a PhD — they need evidence the person has lived in the problem space. A professional groomer recommending a nail grinder is MORE credible than a generic vet recommending a grooming product.
+
+- **MaxPro:** groomer testimonial/demo angle = highest credibility ("B1 Groomer" persona in [[angles]] matrix). A groomer saying "this is the only one I use on anxious dogs" = authority without medical claims → safe for [[compliance]]. Ex-groomer turning to MaxPro for home grooming = accessible authority angle.
+- **Tie:** [[angles]] §Matrix grinder row 3 (Groomer demo = LEAD angle, short format) + [[creative-brief]] (authority as one of 5 brief elements) + [[quiz-funnels]] §Quiz authority axis (checklist point 5).
 
 ## Reddit JSON → Claude — steal avatar language in 5 steps ([[0xroas-reddit-json-avatar-language]])
 @0xROAS (2026-07-25): tactic nhanh nhất để lấy exact customer language cho angle research.

@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel]
-updated: 2026-07-26
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, dtcquizbuilder-quiz-iteration-v4-system, dtcquizbuilder-quiz-8point-ad-alignment]
+updated: 2026-07-27
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -417,3 +417,46 @@ eCom_Amin: quiz funnels trên Google = "$10k+/day opportunity" nhưng cũ mất 
 **30-day data loop (unique advantage):** completion rate per branch (pain resonance) · purchase rate per result (segment quality) · ad copy by qualified completion rate → feeds back into Google Ads (sharper targeting), shopping titles (buyer language), remarketing (by quiz result, not page visit). → [[google-ads]] §AI funnel builder.
 
 → MaxPro: Manus ICP research = exact method to find "angle nào convert nhất" trước khi test ad spend. Step 1 output là angle-research gratis.
+
+## Quiz iteration system — beat top PDP on 4th version ([[dtcquizbuilder-quiz-iteration-v4-system]])
+DTC_Quizbuilder (2026-07-27): *"We just beat another 'top performing PDP'. It was on the 4th iteration."* Key: first deliverable will not be the winner — the **iteration system** is what extracts the win.
+
+**Decision tree for each iteration:**
+
+```
+After each quiz version:
+  Find major weak point
+  ↓
+  Obvious weakness? (e.g. wrong positioning)
+    YES → Big swing fix (positioning, mechanism, authority)
+          → Rebuild quiz on that fix
+          → Launch next version
+    NO  → Something missing in messaging
+          → Revisit winning ads (what's working in creative)
+          → Analyse customer answers (what they said in quiz)
+          → Launch v2 split test
+```
+
+**Why this matters at scale:** *"If you're spending more than $10k/day and feeling stuck, the most expensive thing you can do is to not test your funnel."* Iteration speed > perfection at launch.
+
+- **Tie:** [[quiz-funnels]] §Angle-to-quiz pipeline (ads validate angle before building; iteration mirrors the same loop on funnel side) + §8-point ad-to-funnel alignment checklist (use it as diagnostic between versions) + [[creative-testing]] (isolate-one-layer: each quiz rebuild changes 1 major lever, not everything at once).
+- **MaxPro:** v1 quiz = diagnostic baseline; use answer data to find weakest link (drop-off by question = friction map). Apply big-swing only when weak point is obvious (e.g. avatars mis-targeted) vs split-test when signal is weak.
+
+## 8-point ad-to-funnel alignment checklist ([[dtcquizbuilder-quiz-8point-ad-alignment]])
+DTC_Quizbuilder (2026-07-27): *"The first deliverable can be shit... where we stand out is our ability to create feedback loops."* Run this checklist on your winning ad AND your quiz funnel — write both columns, fix the gaps.
+
+| # | Axis | Question to answer |
+|---|---|---|
+| 1 | **Desire** | End-state the ad sold — does the funnel promise the SAME outcome, or a watered-down version? |
+| 2 | **Avatar** | Experiences (tried & failed) · Emotions (how they feel NOW) · Behaviours (doing / avoiding) · Demographics. Same person ad stopped = same person funnel talks to? |
+| 3 | **Angle** | The specific problem framing. Ad sharp → funnel fuzzy = sharpen the funnel. No clear problem in funnel = add one. |
+| 4 | **Mechanism** | Named "why this works / why nothing else did." Ad teaches mechanism → funnel skips it = build the interstitial. *Mechanism is usually the biggest missing piece.* |
+| 5 | **Authority** | Doctor / founder / peer / character. Whatever earns belief in the ad MUST carry through. Mismatched authority = story breaks mid-funnel. |
+| 6 | **Market awareness** | Unaware → Problem → Solution → Product → Most aware. Funnel MUST start where the ad LANDED them — not reset to a lower level. |
+| 7 | **Emotion** | Valence (positive/negative) + intensity (temperature). Funnel opening should meet them at the emotional temperature the ad created — not reset to neutral. |
+| 8 | **Positioning** | The wedge vs every competitor and past attempt. Is the funnel defending the same unique position the ad claimed? |
+
+**How to use:** after each failed iteration → run this 8-axis audit, column A = ad, column B = quiz. Every gap = 1 hypothesis to fix. Fix the highest-impact gap first (usually: mechanism = #4, awareness level = #6).
+
+- **Tie:** [[quiz-funnels]] §Congruency = câu hỏi #1 (same principle, this checklist operationalizes it in 8 specific axes) + [[market-awareness]] (axis 6 = Schwartz awareness stage match) + [[angles]] §Belief-shift diagnosis (axis 3 + 4 mirror belief-shift engine).
+- **MaxPro:** run this on first quiz draft vs winning clipper-trauma ad — most likely gap will be axis 4 (mechanism: "grinding safer than clipping" not carried through quiz questions) and axis 6 (ad = solution-aware, quiz shouldn't re-explain the problem from scratch).
