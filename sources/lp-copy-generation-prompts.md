@@ -1,6 +1,8 @@
 ---
-type: idea
+type: clip
 date: 2026-07-11
+source: https://docs.google.com/document/d/1pH9ccyDGMc3fH7nLJ4pv-Y3RXnh9QqSJycDWU88h3UU/edit
+author: ThrillX Design
 title: Landing Page Prompts
 ---
 

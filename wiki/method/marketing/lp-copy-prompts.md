@@ -5,7 +5,7 @@ updated: 2026-07-17
 
 # LP copy-generation prompt kit (headline → subhead → PAS pain → value props → CTA)
 
-Nguồn: [[lp-copy-generation-prompts]] — bộ prompt AI của Huy, viết copy landing page section-by-section, mỗi section 1 formula cố định + output ép ra bảng (dễ so sánh nhiều variation cùng lúc).
+Nguồn: [[lp-copy-generation-prompts]] — kit prompt của **ThrillX Design** (agency chuyên build LP, bán 30+ LP kèm Figma), viết copy landing page section-by-section, mỗi section 1 formula cố định + output ép ra bảng (dễ so sánh nhiều variation cùng lúc). Không phải prompt tự viết — coi như swipe của agency, đã kiểm chứng trên client work của họ.
 
 ## Hard rule xuyên suốt mọi prompt trong kit
 **Không bao giờ dùng em dash (—) hay en dash (–).** Nối ý chỉ bằng dấu phẩy, "and"/"và", hoặc dấu &. Rule này lặp lại ở HẦU HẾT prompt trong kit — chặn trước dấu hiệu AI-slop kinh điển (AI mặc định spam em dash); áp dụng cho cả copy viết tay.
