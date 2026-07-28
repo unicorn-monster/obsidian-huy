@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-demand-gen-discover-test]
-updated: 2026-07-13
+sources: [maxpro-demand-gen-discover-test, blvckledge-demand-gen-image-ads-playbook]
+updated: 2026-07-28
 ---
 
 # MaxPro — Google Demand Gen Discover creative test
@@ -54,7 +54,13 @@ Use the 5 product images provided as the exact products in the scene. A casual a
 Use the 5 product images provided as the exact products in the scene. A casual amateur photo taken on an iPhone 12/13, NOT professional, NOT photorealistic CGI, looks like a real snapshot someone took on their kitchen counter. Arrange the 5 dog nail grinders/clippers from the provided images standing upright in a loose casual row on a speckled brown granite counter, different sizes, some slightly overlapping. In the blurred background, a real dog sits in the home kitchen watching, softly out of focus. Foreground counter has a few loose grinder sanding-head attachments scattered. Warm indoor lighting with slight phone-flash glare, imperfect framing, shallow phone depth of field, faint grain, real and a little messy. Add a rough hand-drawn red circle around the white 3-port grinder and a red arrow pointing to it, like a casual phone markup. No text, no logos added, no studio look.
 ```
 
+## 2 hiệu chỉnh trước khi launch ([[blvckledge-demand-gen-image-ads-playbook]])
+1. **Exclusion prospecting = việc phải làm TRƯỚC launch, không phải sau.** Exclude **past purchasers + site visitors + email list** khỏi campaign này. Không làm thì campaign "cold" lặng lẽ biến thành remarketing → CTR/ROAS đẹp giả và **NC-CAC không đọc được** (mà NC-CAC mới là thước đo thật của Demand Gen, theo [[vysta-native-image-ads-demand-gen-scale]]). Đây là bước duy nhất của bài mà MaxPro áp được ngay ở mức spend hiện tại.
+2. **Bar CTR: 5% áp cho AD, không áp cho CAMPAIGN.** Screenshot 1 campaign Discover prospecting đã scale thật (30 ngày, $51.9k spend → $133k conv value) chạy **blended 4.89% CTR** — dưới bar 5%. → Đừng hoảng/kill campaign vì blended tụt dưới 5%; verdict CTR ở §Nguyên lý #4 là để phán **từng ad trong batch**.
+3. **Cấu trúc nhiều-campaign của blvckledge (1-2 creative/campaign × ~10 campaign) CHƯA áp ở đây** — đó là cấu trúc giai đoạn SCALE ở mức ~$1,500/ngày. MaxPro ở $100-150/ngày + đang test → giữ 1 campaign / 1 ad group / 8-12 ad. Xem callout hoà giải ở [[google-ads]] §Campaign-count theo BUDGET.
+
 ## Todo còn mở
+- [ ] **Set exclusion prospecting (purchasers + site visitors + email list) trên campaign `23867277482`** — làm trước khi bật.
 - [ ] Chốt style Lifestyle + Side-by-side comparison (chưa ưng).
 - [ ] Gen batch grid v1-v3 (ảnh thật, dùng 5 product image input).
 - [ ] Verify config campaign `23867277482`: Discover-only + Max-Conv no-target + đích URL 4pawsreview.

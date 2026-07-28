@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook]
-updated: 2026-07-17
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild]
+updated: 2026-07-28
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -70,6 +70,9 @@ Nguồn: [[vysta-48-laws-google-ads]] (Vysta, checklist 48-law Google Ads ecom).
 > - Routing: High + brand-negatives → generic; Low + no-negatives → brand/SKU term.
 > - Coexist PMax: exclude Standard-SKU khỏi PMax bằng listing-group filter, HOẶC PMax tROAS cao hơn.
 > Áp MaxPro: khi feed đủ chuẩn ([[google-shopping]] đầu trang) → tách Brand-Low / NonBrand-High priority là đòn control CAC rẻ nhất; label margin/role để Smart Bidding không dồn budget về SKU low-margin.
+
+> [!note] Vì sao custom label là điều kiện để scale, không phải "nice-to-have" ([[blvckledge-2.6m-to-7.1m-4-phase-rebuild]])
+> Case CA$2.6M→7.1M nêu đúng cơ chế đằng sau schema trên: **budget chỉ control được ở cấp CAMPAIGN**. Nhồi nhiều product category vào 1 campaign = **Google tự quyết tiền đi đâu**, category đáng đầu tư không nhận đủ — và càng lệch khi **margin giữa category khác nhau** (margin khác → ROAS target chịu được cũng khác, xem `label1 = margin` ở trên). Trình tự trong case: **custom label để ĐỌC category nào thắng → tách campaign riêng cho category top → mới có full control để scale.** Cùng phase đó, rewrite **title + attribute theo cách khách search** khiến campaign hiện cho nhiều query liên quan hơn ở **cùng mức spend** (= §GMC feed 70% đầu trang + §attribute completeness). → 4 phase đầy đủ: [[google-ads]] §Fix TRƯỚC khi thêm.
 
 ## $1M/30 ngày qua 5 listing thật — pattern chung + campaign-structure theo tier (eCom_Amin) ⭐ swipe + how-to
 Nguồn: [[ecomamin-winning-shopping-ad-copy-paste-formula]] (@eCom_Amin). 5 sản phẩm thật cộng lại ~$1M/30 ngày, **zero creative production**: Polar Dive cold-plunge $949 (~$285k, brand-first title + giá cao lọc tire-kicker) · VeeCleanse suppository $24.99 (~$187k, 4.9★/4k+ review category nhạy cảm) · Personalized Dog Harness $49.95 (~$224k, title dẫn pain-point "No Pull" + warranty) · The Plunge tub $4,990 (~$199k, 4.8★/435 review validate ticket khủng) · Furbo camera $34 từ $210/-84% (~$153k, SALE badge + 4.6★/769 review). **Pattern chung cả 5:** title front-load + ≥4.6★ và ≥400 review hiện rõ + free shipping bắt buộc + ảnh sạch chuyên nghiệp + keyword exact-match cao-intent.

@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare]
-updated: 2026-07-20
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel]
+updated: 2026-07-28
 ---
 
 # Presell pages — build guide (4 format)
@@ -165,6 +165,23 @@ Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] (agency scale Demand Gen 
 - **Awareness progression trên 1 trang:** Problem-aware → Mechanism-aware → Solution-aware → Product-aware (product page chỉ CHỐT, không educate lại).
 - **Launch sequence:** 1 broad page → ads nhiều angle → angle hứa hẹn nhất → build 1 page tailored riêng (= "new angle = new page").
 - **Segmented variants, same USP:** Jones Road 4 biến thể (general/mature/minimalist/busy-mom) · HollowSocks gendered — cùng USP, đổi reason nào nhấn theo persona → [[angles]], [[market-awareness]].
+
+### 4 lander thật đang chạy Google — swipe above-fold (vision-read từ ảnh [[ecom-amin-google-ads-awareness-funnel]]) ⭐ swipe
+amin post 4 ví dụ lander cho awareness-funnel. **Điều đáng chú ý: text của amin mô tả funnel 4 bước (validate struggle → hidden cause → mechanism → product), nhưng CẢ 4 lander thật đều là listicle "N lý do/cách" đánh số** — tức khung §10-reasons ở trên chính là **cách triển khai phổ biến nhất** của 4 bước đó, không phải một format đối thủ. Above-fold pattern chung: **headline đánh số** → hero visual → **thanh proof** (press logo HOẶC review count) → bắt ngay vào `1. [Reason]` có subhead + body ngắn + ảnh riêng cho mỗi reason.
+
+| Brand | Headline | Đòn above-fold | Ghi chú swipe |
+|---|---|---|---|
+| Supply (dao cạo) | *"5 Ways Your Razor Is Secretly Screwing You Over"* + sub *"and why you'll want to switch to this one"* | Dark hero + product macro · **"AS SEEN IN" Men's Health / Shark Tank / Gear Patrol** · nút đôi `GET YOURS` + `LEARN MORE` · "100-Day Trial + Lifetime Warranty" | **Villain-hoá thứ họ ĐANG dùng**, không phải đối thủ cụ thể → hợp mass-market. `1. It's Giving You a Second-Rate Shave` + ảnh người dùng thật đang chật vật (không phải model) |
+| Jones Road | *"5 Reasons Why Every Professional Needs This One Multi-Tasking Beauty Balm"* | ★★★★☆ **"Based on 63,051 Reviews"** đặt TRÊN headline · 2 người dùng cầm sản phẩm | Review-count khổng lồ thay press-logo. `1. It Streamlines Your Morning Routine` = reason theo **use-case/lifestyle**, không theo spec |
+| Onnit | *"Finally, a Productivity Pill that Works"* + sub *"Get into your flow state while juggling multiple priorities"* | **Byline + dateline** ("Wednesday, January 28 · by Tony Miller") · **YouTube embed** (Joe Rogan) · counter follower FB/IG · press bar Men's Health/Forbes/Business Insider · **offer box dính bên phải** (30% OFF + `CHECK AVAILABILITY`) | Editorial register đầy đủ nhất — byline/dateline = pattern-interrupt của [[native-ads]]. Offer box sticky = CTA luôn trong tầm mắt (§CTA system) |
+| Jinx (pet 🐕) | *"7 Reasons Dog Parents Are Switching to Jinx Kibble"* | Hero ảnh chó **đang ăn thật** (không phải chó studio) · 3 bullet spec ngay hero · badge trust góc · `LEARN MORE` | **Gần MaxPro nhất.** `1. Longer Lifespans` = reason mở bằng **outcome cảm xúc lớn**, body mới đưa study. "Switching to" = frame conquest không nêu tên đối thủ |
+
+**4 thứ rút được, áp thẳng:**
+1. **Headline số + động từ chuyển dịch** — "Reasons ... Are Switching to" (Jinx) mạnh hơn "Reasons to Buy": nó báo có **phong trào đang diễn ra**, người đọc sợ bị bỏ lại. Tie [[hooks]] quiet-trend.
+2. **Reason #1 phải là outcome lớn nhất, không phải spec.** Cả 4: "Second-Rate Shave" / "Streamlines Your Morning" / "flow state" / "Longer Lifespans" — spec bị đẩy xuống dưới.
+3. **Proof bar chọn 1 trong 2 theo cái mình có:** press logo (Supply, Onnit) HOẶC review count đồ sộ (Jones Road 63k). Đừng cố cả hai khi cả hai đều mỏng → [[dtcquizbuilder-trustpilot-review-automation]] ở dưới.
+4. **Mỗi reason có ảnh riêng**, và ảnh là **người/vật đang dùng thật** (mặt nhăn khi cạo, chó đang cắm mặt vào bát), không phải product-shot studio. Khớp editorial > polished của [[native-ads]].
+→ **MaxPro:** Jinx là template gần nhất — `7 Reasons Dog Parents Are Switching From Clippers` + reason #1 = outcome cảm xúc ("Your Dog Stops Dreading Your Hands"), UMP quick-crush đẩy xuống reason #2-3. Dựng trên [[maxpro-top5-review-funnel]] domain.
 
 ## Review rating automation — 3rd-party validation stack ([[dtcquizbuilder-trustpilot-review-automation]])
 Trước khi dựng review-domain, Trustpilot rating phải ở mức đủ tin: **low-3⭐ = credibility killer**. Fix: **clarflow.com** — automated review collection, 2 phút setup, took Trustpilot low-3 → mid-4 + gathered 100s of reviews (DTC_Quizbuilder, 2026-07-13, live case). Nhanh hơn nhiều so với xây review thủ công.
