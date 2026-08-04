@@ -1,0 +1,81 @@
+filters:
+  and:
+    - file.inFolder("sources")
+    - file.ext == "md"
+formulas:
+  tuoi_ngay: if(note.date, (today() - date(note.date)).days.round(0), "")
+properties:
+  formula.tuoi_ngay:
+    displayName: Tuổi (ngày)
+  file.name:
+    displayName: Nguồn
+  type:
+    displayName: Loại
+  author:
+    displayName: Tác giả
+  date:
+    displayName: Ngày lưu
+  source:
+    displayName: Link gốc
+views:
+  - type: table
+    name: Tất cả nguồn
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - date
+    summaries:
+      file.name: Filled
+  - type: table
+    name: Swipe đối thủ
+    filters:
+      and:
+        - type == "swipe"
+    order:
+      - file.name
+      - author
+      - date
+      - source
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Mồ côi (chưa nối)
+    filters:
+      and:
+        - file.backlinks.isEmpty()
+    order:
+      - file.name
+      - type
+      - author
+      - date
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Learning (test của tôi)
+    filters:
+      and:
+        - type == "learning"
+    order:
+      - file.name
+      - date
+      - formula.tuoi_ngay
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Idea
+    filters:
+      and:
+        - type == "idea"
+    order:
+      - file.name
+      - date
+      - formula.tuoi_ngay
+    sort:
+      - property: date
+        direction: DESC

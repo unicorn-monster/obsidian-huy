@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("wiki")
+    - file.ext == "md"
+    - file.basename != "index"
+formulas:
+  stale_ngay: if(updated, (today() - date(updated)).days.round(0), (now() - file.mtime).days.round(0))
+  flag: if(updated, if((today() - date(updated)).days > 45, "🔴", if((today() - date(updated)).days > 21, "🟡", "🟢")), if((now() - file.mtime).days > 45, "🔴 (mtime)", if((now() - file.mtime).days > 21, "🟡 (mtime)", "🟢 (mtime)")))
+  so_nguon: if(sources, sources.length, 0)
+properties:
+  file.name:
+    displayName: Trang
+  file.folder:
+    displayName: Trục
+  formula.stale_ngay:
+    displayName: Ngày chưa update
+  formula.so_nguon:
+    displayName: Số nguồn
+  updated:
+    displayName: Update cuối
+views:
+  - type: table
+    name: Stale nhất lên đầu
+    order:
+      - formula.flag
+      - file.name
+      - file.folder
+      - formula.so_nguon
+      - updated
+      - formula.stale_ngay
+    sort:
+      - property: formula.stale_ngay
+        direction: DESC
+  - type: table
+    name: Theo trục
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - formula.flag
+      - file.name
+      - formula.so_nguon
+      - updated
+  - type: table
+    name: Mồ côi (không ai link tới)
+    filters:
+      and:
+        - file.backlinks.isEmpty()
+    order:
+      - file.name
+      - file.folder
+      - updated
+      - formula.stale_ngay
