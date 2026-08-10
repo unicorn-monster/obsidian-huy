@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta]
-updated: 2026-07-17
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising]
+updated: 2026-08-10
 ---
 
 # Funnel + landing congruency
@@ -156,3 +156,29 @@ Adapt theo awareness: problem-aware ≠ product-aware ([[market-awareness]]).
 
 > [!tip] MaxPro map sẵn — gần như viết được ngay (build bằng skill /listical)
 > Headline *"7 reasons 18,000+ dog owners switched to MaxPro"* ([[maxpro-product-truth]] 18,587 review) · table MaxPro vs clipper / Dremel / Casfuy ([[maxpro-competitors]]) · (1) groomer $45/lần dồn năm ([[villains]], [[offer-and-cta]]) · (2) 3-port cap + "see-the-dot" · (3) mọi cỡ móng: nhỏ → dày/đen/large ~150lb (3-port cap S/M/L, [[maxpro-product-truth]]) · (4) fear-free identity + diamond drum quality · (5) quiet → chó ngủ gật, xong trong vài phút · (6) 18,587 review 5★ + charity · (7) 99-day company-paid return. Mechanism nhắc lại ở CTA = UMP crush/splinter ([[market-awareness]]).
+
+## PDP anatomy — 3 trang thật, above-the-fold (vision-read, [[ecomamin-6-google-ads-funnel-types-full-guide]]) ⭐ swipe
+Trang này nói **PDP chỉ chốt, cold đừng vào**; [[google-ads]] có **bar** (>4% branded / >3% shopping). Chỗ trống lâu nay: *PDP chốt tốt trông ra sao*. 3 screenshot: **URO / O Positiv** (supplement $26.99-31.99) · **Elemind** (device **$399**) · **Grüns** (gummy subscription $39.99). 8 beat đọc được:
+1. **Proof leo lên TRÊN tên sản phẩm — khi proof là tài sản mạnh nhất.** Grüns: `★ 4.8/5.0 (100,000) · 1M+ Customers` nằm trên headline. Elemind mới (99 review) → thay bằng **marquee `AS SEEN IN` VentureBeat · CNET · WSJ · Forbes chạy ngang phía trên sản phẩm**. = luật "proof bar chọn 1 trong 2 theo cái mình có" ([[presell-pages]]) áp ở tầng PDP.
+2. **Badge bên-thứ-3 DÁN LÊN ảnh hero**, không phải footer: URO có card `frontrowMD — Clinicians' Choice · 308 clinicians & OB/GYNs share this product` + link *View clinicians* đè góc ảnh. Trust signal đặt trong vùng mắt đang nhìn sản phẩm, không phải nơi phải cuộn tới.
+3. **Thang số lượng có NHÃN DẪN DẮT + lý do dùng, không phải lý do giảm giá.** URO: `1 Bottle SAVE 16%` / `2 Bottles — RECOMMENDED — SAVE 22%` / `3 Bottles — BEST VALUE — SAVE 25%`, ngay dưới là *"We recommend 2-3 months of consistent daily use for best results."* → gói to được biện minh bằng **liệu trình**, discount chỉ là hệ quả. → [[offer-and-cta]].
+4. **Subscribe = lựa chọn MẶC ĐỊNH + giá reframe theo NGÀY.** Grüns: 4-week vs 12-week (`BEST VALUE`), `SAVE $40 TODAY`, `$39.99` gạch `$79.99`, và dòng ăn tiền: **`Just $1.43/day for first month`**; nút ghi **`Start Now`** chứ không phải Add to cart. URO: `1-Month Delivery $26.99` vs `One-Time $31.99` + `Free Shipping Always ($4.99 value)` + **`Easily Edit, Skip, or Cancel Anytime`** + `FREE GIFT ($31.99 Value)`. Cụm cancel-anytime đứng **sát giá** = giết objection cam kết ngay tại điểm do dự. → [[subscription-retention]].
+5. **Hero image gánh luôn việc của copy** (Grüns): banner burn thẳng vào ảnh `🔥 FIRST ORDER EXCLUSIVE OFFER: SAVE $20 🔥` + rail 5 icon benefit (*Full-body health benefits · On-the-go convenience · Supports gut health · Crash-free energy · Great taste*). Người không đọc chữ vẫn nhận đủ lập luận.
+6. **Thumbnail gallery = mini-funnel có thứ tự** (Grüns): hero → Supplement Facts → *1,000,000+ customers* → *What to expect after taking Grüns* → thẻ số liệu (40% / 20.5% / 86% / 67% / 62%) → ảnh dùng thật. = bản PDP của "5 ảnh làm 1 chuỗi tâm lý" ([[google-shopping]]).
+7. **High-ticket chơi ngược** (Elemind $399): giá in **xám nhạt cạnh tên** (de-emphasize), feature gấp trong **accordion** thay vì dàn ra, claim lâm sàng + **tên cơ chế** (`phase-locked neurostimulation`), và `HSA/FSA Eligible` = hạ **tiền thực chi** mà không giảm giá. Job của above-fold ở ticket cao là **hợp thức hoá giá**, không phải bơm urgency.
+8. **Proof có NGÀY, refresh được** (Grüns): `Tested by Light Labs in JUL 2026 · 35 substances tested for quality`.
+→ **MaxPro:** ăn ngay (2) badge groomer/vet-tech dán lên hero · (3) thang `1 grinder` / `+ bộ bit — RECOMMENDED` / `bundle — BEST VALUE` kèm lý do liệu trình (móng mọc lại 2-3 tuần/lần) · (5) burn 3 icon vào hero (dB thấp · 3-port cap S/M/L · 99-day return) · (6) sắp lại gallery theo thứ tự trên ([[maxpro-pages]]). Beat (4) không hợp grinder — tương đương gần nhất là refill bit định kỳ.
+
+## Mỗi trang funnel = 1 audience remarketing + 1 lớp proof KHÁC NHAU ([[ecomamin-6-google-ads-funnel-types-full-guide]], [[ecomamin-48-laws-google-advertising]])
+Hai luật nhỏ nhưng bịt đúng chỗ rò của funnel nhiều trang:
+- ⭐ **Không lặp lại cùng 1 proof point qua 2 trang** (Law 45): người đọc advertorial → comparison → PDP phải gặp **3 lớp proof khác nhau** (vd: story khách ở advertorial → số liệu side-by-side ở comparison → review có ảnh ở PDP), **không phải 1 testimonial dán 3 chỗ**. *"Repetition signals laziness, not authority."* → bổ sung §proof bốc hơi ở trên: lỗi thứ nhất là proof BIẾN MẤT; lỗi thứ hai là proof **lặp y nguyên** — cả hai đều làm reader ngừng cộng dồn niềm tin.
+- **Mỗi trang đẻ 1 audience remarketing riêng** (đa số chỉ build "site visitor" gộp):
+
+| Rời khỏi đâu | Retarget bằng gì |
+|---|---|
+| Đọc advertorial, chưa tới PDP | comparison page **hoặc** quiz (đổi format, đừng đẩy lại cùng bài) |
+| Xong quiz, chưa mua | offer trên **đúng sản phẩm quiz đã recommend** |
+| Vào PDP, ATC, chưa mua | urgency ("giỏ hết hạn trong 24h") |
+| Từ comparison → PDP, chưa mua | testimonial của người **đã chọn đúng sản phẩm đó** |
+
+- **Email capture theo tầng** (mỗi trang 1 mồi khác nhau, không dùng chung popup giảm giá): advertorial → bản đầy đủ/PDF của chính bài đang đọc · quiz → *"save your results"* **trên trang kết quả** (đừng hỏi email giữa chừng, xem [[quiz-funnels]]) · comparison → *"nhận bảng so sánh dạng PDF"* · PDP → exit-intent discount. Chuỗi post-purchase 5 email sau đó → [[email-marketing]].

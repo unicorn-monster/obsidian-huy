@@ -1,13 +1,9 @@
 ---
-title: "Post by @blvckledge on X"
+type: clip
+date: 2026-07-27
 source: "https://x.com/blvckledge/status/2081726328664150239"
-author:
-  - "[[@blvckledge]]"
-published: 2026-07-27
-created: 2026-07-28
-description: "don’t know why more ecom brands aren’t testing this you can get pretty crazy with what you put in your shopping ads images lifestyle & pro"
-tags:
-  - "clippings"
+author: "@blvckledge"
+title: "Ảnh Shopping ads: lifestyle & product shot KHÔNG phải lựa chọn duy nhất (case Musely)"
 ---
 don’t know why more ecom brands aren’t testing this
 

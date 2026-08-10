@@ -1,13 +1,9 @@
 ---
-title: "every winning google ads funnel broken down into 1 article"
+type: clip
+date: 2026-07-29
 source: "https://x.com/eCom_Amin/status/2082476956160037039"
-author:
-  - "[[@eCom_Amin]]"
-published: 2026-07-29
-created: 2026-07-30
-description: "the term \"google ads funnel\" didn't exist three years ago.people ran google ads. they had campaigns. they had landing pages. but nobody was ..."
-tags:
-  - "clippings"
+author: "@eCom_Amin"
+title: "every winning google ads funnel broken down into 1 article (6 funnel type + backend mechanics)"
 ---
 ![Image](https://pbs.twimg.com/media/HOS_yy4aAAADyHX?format=jpg&name=large)
 

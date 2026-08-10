@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel]
-updated: 2026-07-28
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide]
+updated: 2026-08-10
 ---
 
 # Presell pages — build guide (4 format)
@@ -233,5 +233,38 @@ Mandatory advertorial disclosure mọi trang. NEVER: **ảnh AI (ChatGPT/DALL-E/
 
 ## Tech stack
 **Funnelish** (cold presell, quiz native logic, page speed) vs **Shopify + Replo/Liquid** (khi cần SEO organic). Editorial subdomain `reviews.brand.com` cho brand $30k+/day: tách tracking + cô lập policy-risk khỏi store chính.
+
+## 3 advertorial THẬT — anatomy above-the-fold (vision-read, [[ecomamin-6-google-ads-funnel-types-full-guide]]) ⭐ swipe
+3 screenshot advertorial đang chạy: **Nuubu** (foot patch, register "Wellness & Lifestyle") · **Serlino Lab** (anti-aging nam 40+) · **DentalInsider** (vệ sinh hàm giả). Wireframe 10-section §trên là *bố cục dọc*; đây là thứ đọc được **trong màn hình đầu** — 6 beat lặp ở cả 3, trong đó 3 cái wiki chưa có:
+
+| | Nuubu | Serlino Lab | DentalInsider |
+|---|---|---|---|
+| Masthead | không logo brand, giọng tạp chí | countdown bar | **thanh xanh "DENTALINSIDER"** = ấn phẩm giả |
+| Headline | *"Secret Japanese Ingredient Helps People Feel 10 Years Younger"* | *"I spent $1800 testing every anti-aging solution for men over 40 — here's what actually worked"* | *"Top Dentist Reveals Truth: Your Dirty Dentures May Contain Dangerous Bacteria That Could Enter Your Bloodstream"* |
+| Byline | *Dennis Miller, Top Editor Wellness & Lifestyle* + headshot | *James Whitfield, Men's Health Writer, **Austin TX*** + badge ✓Verified | *Jenny Riley* + ngày đầy đủ |
+| Callout dưới byline | *"These patches are shaking up the wellness industry, and **big corporations HATE IT**"* | *"Read this BEFORE you spend another dollar on your face."* | *"read this short article right now before you do anything else"* |
+| Cột phải | offer card + testimonial ✓ + strip before/after 4 mốc | (bảng so sánh chiếm chỗ) | card "Recommended" 4.8 \| 12,132 reviews |
+
+**3 beat net-new (chưa có ở wireframe 10-section / 8-phần Carl):**
+1. **Thanh offer DÍNH TRÊN headline** — Nuubu: `UPDATE - Nuubu are having a LIMITED TIME 4th of July Sale! Save Up To 70% OFF!` là **dòng đầu tiên của trang**, trên cả tiêu đề; Serlino: countdown bar `SUMMER SALE 67% OFF · 00:12:23:08`. ⚠️ Ngược luật §CTA system ("không bao giờ buy-now cho cold"). Hoà giải: thanh này **không bán**, nó cấy lý do **đọc ngay hôm nay** (news-ticker register, không phải nút mua) — và cả 2 trang đều chạy cold native. Nút thật vẫn là CTA mềm ở thân bài. (Countdown giả vẫn là landmine [[compliance]] — chỉ chạy nếu sale có thật.)
+2. **Anti-credential = trust reversal** (Serlino): *"WARNING: I am NOT a dermatologist. I am an average 56-year-old man who's spent the last year trying to stop looking ten years older than he actually is."* — **hạ authority xuống ngang reader** thay vì dựng authority lên. Đây là register **thứ 3**, tách bạch với 2 cái wiki đã có: expert-persona ("groomer 25 năm", §swipe #3) và institution-voice (review-domain). Luật chọn: first-person advertorial → **peer-confessional**; ranked review/listicle → **expert-persona**. Trộn 2 cái trong 1 trang = giọng gãy.
+3. **Bảng so sánh đặt NGAY above-the-fold của 1 advertorial** (Serlino): cột brand nền đậm `9.4/10` vs `Drugstore Cream 2.3` · `Beef Tallow 3.1` · `OTC Retinol 4.5` · `Botox 5.8`; hàng = Score / Collagen Rebuilt? / Side Effects / Routine / Cost / Guarantee. Điểm đáng cướp: **tập đối thủ gồm cả DIY (beef tallow) lẫn thủ thuật lâm sàng (Botox $2,400/năm, mãi mãi)** — không chỉ brand cùng loại → giá thật `$29.90` đọc như quà. = anchor-stack của Carl (§teardown RejuvaCare) nhưng **đặt ở đầu trang thay vì trước lúc lộ giá**, hợp traffic đã comparison-mode.
+
+**3 beat còn lại (xác nhận thứ wiki đã có, giờ có ảnh thật):** hero = **pain vật lý ghê** không phải product (DentalInsider: hàm giả trong cốc nước đục trên bàn ngủ) · opening stat cụ thể (*"roughly 20 million Americans who wear dentures"*) · **strip before/after 4 mốc `Week 0 / Week 2 / Week 4 / Month 2`** (mạnh hơn cặp before/after 2 ảnh vì trả lời luôn "bao lâu thì thấy" — [[offer-and-cta]] risk-reversal).
+→ **MaxPro/4pawsreview:** ăn ngay beat 3 (bảng so sánh above-fold, tập đối thủ = clipper $12 + **groomer $45/lần** + Dremel + Casfuy → anchor "$X một lần vs $45 × 12 lần/năm") và strip 4 mốc (Lần 1 / Tuần 2 / Tuần 4 — chó hết giãy). Beat 2 khớp giọng chủ nuôi thật, KHÔNG dùng chung trang với persona groomer-25-năm.
+
+## Format thứ 6 — long sales copy (2,000-5,000 chữ) ([[ecomamin-6-google-ads-funnel-types-full-guide]])
+Bảng 4-format đầu trang (+ 9 funnel-type ở [[google-ads]]) đã có advertorial/listicle/quiz/comparison/PDP/VSL. Nguồn này tách riêng **long sales copy** như 1 format độc lập — phiên bản viết của VSL, khác advertorial ở **độ sâu mechanism** chứ không chỉ độ dài:
+- **Ngân sách chữ theo section:** hook (claim/kết quả cụ thể) → story founder-hoặc-khách **300-500** → problem **500-800** (nhiều chiều hơn agitation của advertorial) → **mechanism 800-1,500 = section DÀI NHẤT** (đây là chỗ trang kiếm được tiền ở high-ticket; độ sâu chính là tín hiệu authority) → proof stack **500-1,000** → guarantee có điều khoản cụ thể → CTA **mua thẳng, không route qua PDP** (trang này tự đóng vai PDP).
+- **Dùng khi:** ticket **>$100** cần thuyết phục nhiều · mechanism phức tạp cần giải thích dài · bản viết đi kèm/thay VSL. **KHÔNG dùng khi:** impulse <$20 (quá nhiều ma sát) · category so giá · **traffic Shopping** (người đang lướt grid không ở tâm thế đọc 3,000 chữ).
+- → MaxPro (~$40) **không** thuộc nhóm này; ghi lại để khỏi build nhầm. Chỉ đáng nếu sau này có bundle/kit >$100.
+
+## Tìm nguyên liệu funnel TRƯỚC khi dựng — 5 mỏ, mỏ #2 là net-new
+Cùng nguồn. §Ops ở trên mới nói "check page đang ngủ của chính mình"; đây là 5 chỗ moi của **người khác**:
+1. **Google Ads Transparency Center** — mọi ad đang chạy của 1 brand + click xem traffic đáp xuống ĐÂU (nếu non-branded search của họ về advertorial chứ không phải PDP → đó là tín hiệu). Chi tiết đọc được gì → [[google-ads]] §48-laws.
+2. ⭐ **`site:` search — cách tìm trang funnel họ KHÔNG link từ menu:** `site:competitor.com/pages` (thử tiếp `/blogs/`, subdomain riêng). Advertorial / comparison / quiz / listicle gần như luôn nằm dưới các path này và **cố tình không có trong navigation** — đây chính là bộ funnel họ đang đổ tiền vào. Rẻ nhất, chưa có ở wiki.
+3. **Reddit / Quora** — thread hỏi recommendation: ngôn ngữ họ tả vấn đề = ngôn ngữ hook advertorial; objection họ nêu = objection comparison page phải xử; câu hỏi "nên mua cái nào" = câu hỏi quiz nên có.
+4. **Meta Ads Library** — mỗi angle họ chạy trên Meta map thành **1 advertorial/listicle riêng** nên có trên Google (angle đã validate ở kênh khác).
+5. **YouTube search** — title + thumbnail nhiều view nhất = hook đang cộng hưởng ngay lúc này → dùng làm headline advertorial + script Shorts.
 
 **Review-DOMAIN builder** ([[top5choices-seamoss-review-funnel-teardown]], verified): top5-choices chạy review page trên **GoHighLevel** (CDN `leadconnectorhq` + `filesafe.space`), offer trên **Shopify + GemPages** (long-form sale page, không PDP trơ), reviews Judge.me, cả 2 sau Cloudflare. Attribution = params `?refdomain=…&funnelid=…&cmc_vid=…` → 1 offer nhận nhiều review-domain, đo cái nào đẻ đơn = **mô hình media-buy/affiliate**. Domain **rời hẳn** rẻ + disposable + giấu brand tốt hơn `reviews.brand.com` (subdomain vẫn lộ brand).

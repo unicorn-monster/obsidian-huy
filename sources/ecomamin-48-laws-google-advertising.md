@@ -1,13 +1,9 @@
 ---
-title: "the 48 laws of HIGHLY profitable google advertising"
+type: clip
+date: 2026-07-30
 source: "https://x.com/eCom_Amin/status/2082838917498491153"
-author:
-  - "[[@eCom_Amin]]"
-published: 2026-07-30
-created: 2026-07-31
-description: "robert greene wrote about power. these are the rules for printing money on google.some of them are clean. some of them sit in the grey area ..."
-tags:
-  - "clippings"
+author: "@eCom_Amin"
+title: "the 48 laws of HIGHLY profitable google advertising (bản eCom_Amin)"
 ---
 ![Image](https://pbs.twimg.com/media/HOe66yVboAAdOI6?format=jpg&name=large)
 

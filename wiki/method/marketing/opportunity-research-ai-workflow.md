@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-untapped-opportunity-cowork-prompts]
-updated: 2026-07-17
+sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow]
+updated: 2026-08-10
 ---
 
 # Tìm cơ hội untapped bằng AI research (Claude Cowork/browsing)
@@ -27,6 +27,28 @@ Chăm sóc răng miệng pet cao cấp (nước súc miệng enzyme + bàn chả
 
 > [!warning] Cảnh báo tự kiểm chứng
 > Mọi số market-size/growth-rate/search-volume trong nguồn gốc là output minh hoạ CỦA CHÍNH AI research, KHÔNG phải số liệu ngành độc lập đã kiểm chứng — coi là ví dụ về HÌNH DẠNG kết quả quy trình cho ra, phải tự verify lại (Google Trends thật, keyword tool thật) trước khi đặt cược quyết định sản phẩm thật.
+
+## Biến thể 2: audit → KIẾN TRÚC account, chạy TRƯỚC khi tiêu đồng đầu tiên ([[ecomamin-ai-audit-battle-plan-workflow]]) ⭐
+Quy trình 5 bước ở trên tìm **cơ hội sản phẩm/thị trường**; bản này cùng tư duy nhưng áp cho **kiến trúc kênh**: nạp 4 input về business hiện có → xuất ra battle plan Google Ads (funnel nào, ICP nào trước, campaign nào theo mức budget, dựng theo thứ tự nào). Tác giả nêu gap đúng chỗ đau: audit agency thường dừng ở **chẩn đoán** ("feed title cần sửa", "tách branded khỏi non-branded") — đúng nhưng hiển nhiên; nó **không nói phải XÂY gì** cho đúng sản phẩm/margin/thị trường của bạn.
+
+**4 input:** (1) **product + offer** — mechanism, USP, giá, **margin/đơn**, AOV, consumable hay mua-1-lần (quyết định funnel type: hàng $30 consumable margin 70% khác hẳn gadget $300 margin 40%); (2) **AOV + margin tier** — quyết định thứ tự ưu tiên campaign + bid strategy: margin cao → TOF mạnh tay; margin thấp → chỉ high-intent, mỗi click phải đáng; (3) **niche + competitive landscape** — ai đang chạy Shopping trong category, title họ ra sao, landing page họ làm gì, khoảng trống ở đâu; (4) **channel mix hiện tại** — và đây là input quyết định "làm gì TRƯỚC".
+
+**Luật "làm gì trước" theo channel mix (net-new, dùng được ngay không cần AI):**
+| Đang ở đâu | Ưu tiên #1 |
+|---|---|
+| 100% Meta | **branded search protection** (bảo vệ demand Meta vừa sinh ra) |
+| Đã chạy Google nhưng chững | **funnel + YouTube demand gen** (mở cold, hết trần capture) |
+| Chưa từng chạy Bing | **mirror nguyên structure Google** sang → doanh thu incremental gần như tức thì |
+→ Khớp 1:1 §demand-CAPTURE + §5-traffic-leaks ở [[google-ads]] — đây là bản rút gọn thành 1 bảng quyết định.
+
+**Prompt 5 block (dùng lại được cho MỌI account):** ① context injection (product/margin/landscape/channel-mix) → ② **funnel type** → ③ **ICP cluster** 3-5 cụm, xếp hạng theo search volume × mức cạnh tranh × buyer intent × độ khớp USP → ④ **campaign architecture theo bậc budget** → ⑤ timeline 90 ngày: campaign nào launch trước, khi nào chuyển manual → smart bidding, KPI phải chạm trước khi scale tầng kế.
+
+**2 quy tắc cứng rút ra từ block ② và ④:**
+- **Funnel type theo GIÁ:** advertorial cho sản phẩm **dưới ~£100** · **quiz** cho trên £100 · **product-matcher quiz** khi có **3+ SKU**. (Khớp bar "quiz > advertorial khi AOV >£100" đã có ở [[google-ads]] + [[quiz-funnels]] — giờ có thêm nhánh 3+ SKU.)
+- **Bậc budget → campaign được phép có:** `<£5k/tháng` = branded search + non-branded Shopping + **1** search campaign · `£5-15k` = thêm PMax + non-branded search tách theo **ICP angle** + DSA · `£15k+` = thêm YouTube Shorts demand gen + Bing mirror + remarketing. → xác nhận độc lập cho §Day-0 starter system (2 campaign, đừng đẻ 40) ở [[google-ads]]; **MaxPro nằm bậc 1** — mọi thứ ở bậc 2-3 là bẫy phân tán.
+
+> [!warning] Đọc trừ hao phần claim
+> Đây là bài **lead-gen cho dịch vụ audit DFY** ("DM me AUDIT"), câu mở *"20 phút thay cho audit $5,000/2 tuần"* là copy bán hàng. Phần dùng được là **khung 4-input + 5-block + 2 bảng quyết định ở trên**; phần "AI tự tìm ra gap đối thủ" vẫn dính đúng cảnh báo tự-kiểm-chứng ở §trên (output AI ≠ số liệu đã verify). 2/3 ảnh trong bài chỉ là screenshot minh hoạ "agency khác bị đối thủ đứng trên chính tên họ" — không mang cơ chế.
 
 > [!tip] Áp cho "quá nhiều idea, cần nơi sắp xếp"
 > Đây là quy trình NGƯỢC lại brainstorm tự do — bắt đầu từ research có cấu trúc (5 bước, mỗi bước có prompt cụ thể) thay vì từ ý tưởng cá nhân. Có thể dùng để mở rộng ngoài MaxPro (nail grinder) khi cần tìm sản phẩm #2 cho pet store, hoặc để kiểm chứng 1 ý tưởng đã có sẵn bằng bước 2+3+4 (pain-point → segment → competitive-gap) thay vì đoán.

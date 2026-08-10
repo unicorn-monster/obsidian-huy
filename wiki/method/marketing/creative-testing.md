@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months]
-updated: 2026-07-15
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising]
+updated: 2026-08-10
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -87,6 +87,20 @@ DTCMidas case xác nhận những gì DID vs DIDN'T move needle ở giai đoạn
 
 > [!note] MaxPro
 > Giai đoạn $0→$100k: ưu tiên **output creative + hiểu khách thủ công** trước khi nghĩ đến dashboard/automation. Test giá táo bạo hơn — $39.95→$44.95 rất có thể không rớt CVR (xem [[offer-and-cta]] §raise price sau khi raise value).
+
+## Nhịp 10-test/tuần + ngưỡng kill bằng SỐ ([[ecomamin-48-laws-google-advertising]], Law 18/46) ⭐
+Bồi phần **cadence + kill-threshold** mà §isolate-one-layer chưa đóng đinh (trang này mạnh về *test cái gì*, yếu về *bao lâu thì cắt*):
+- **Nhịp:** 10 creative/tuần, **giết 8**. Mỗi cái **7 ngày × $30/ngày**. *"Most brands test 2-3 creatives per month and wonder why nothing scales — the winning creative is hidden inside a volume of tests."*
+- **Ngưỡng kill (video/YouTube-DG):** view-through rate **<40%** HOẶC CTR **<1.5%** → cắt; sống sót → **gấp đôi budget**. (So với bar Discover-image **<3-5% CTR** ở [[google-ads]] §native image ads — khác placement, khác bar; đừng lẫn.)
+- ⚠️ Ngưỡng này giả định **$30/ngày/creative** — đúng regime "budget khá", không phải regime $20-40/day CHO CẢ ACCOUNT ở §hard-constraint. Ở budget MaxPro hiện tại: giữ số creative ít hơn nhưng **giữ nguyên kỷ luật 7 ngày + cắt theo con số**, đừng cắt theo cảm giác ngày thứ 3.
+
+**Law 46 — creative thắng luôn là cái bạn KHÔNG ngờ tới.** *"The creative you spent the most time on will not outperform the one you threw together in 10 minutes."* Tác giả nói thẳng: điều này lặp đủ đều để **phải đổi quy trình sản xuất**, không chỉ để tự an ủi — sinh volume, test nhanh, để data chọn. **Ranh giới rõ:** trực giác creative **hữu ích để đẻ variant**, **không đáng tin để đoán winner**. → chống lại phản xạ đánh bóng 1 concept "chắc thắng"; khớp §budget-split (iterate cái ĐÃ thắng, đừng nuôi cái mình THÍCH) + [[dtcmidas-net-new-vs-iteration-ratio]].
+
+> [!note] Ma trận Jocko Fuel — đọc từ ảnh Transparency Center (vision-read)
+> Screenshot ~20+ ad đang chạy cùng lúc của 1 brand. 2 thứ đọc được mà text không nói:
+> 1. **Đa dạng ANGLE trong cùng 1 thời điểm, không phải nhiều biến thể của 1 angle** — đếm được ~6 họ: product-on-black moody · **founder/đàn ông lớn tuổi talking-head** · text-card claim to (*"FLAVORS TASTE LIKE DESSERT"*, *"2G NATURAL SUGAR"*, *"NO ARTIFICIAL FLAVORS OR SWEETENERS"*) · **social-proof card** (*"2000+ ★★★★★ REVIEWS"*) · ingredient-list card (ALPHA GPC · L-THEANINE · BACOPA · ELECTROLYTES) · UGC nữ cầm sản phẩm / cảnh gym.
+> 2. **Description text GIỐNG HỆT nhau xuyên gần hết bộ** (*"Jocko Milk Protein Shakes. Delicious & Keto Friendly. Fuel Your Workout & Recovery."*) → biến số đang test là **hình + angle**, phần chữ giữ cố định. Đây đúng là isolate-one-layer chạy ở quy mô lớn — và là cách rẻ để đọc ma trận test của bất kỳ đối thủ nào (cách mở Transparency Center → [[google-ads]] §48-laws).
+> → **MaxPro:** ghim 1 description/desc-line cố định rồi đổi hình theo 6 họ angle ([[maxpro-avatars]], [[ugly-ads-method]]) — thay vì đổi cả chữ lẫn hình rồi không đọc được gì.
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.

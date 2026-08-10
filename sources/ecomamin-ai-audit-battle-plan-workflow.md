@@ -1,13 +1,9 @@
 ---
-title: "how to STEAL your competitors customers with google ads"
+type: clip
+date: 2026-07-27
 source: "https://x.com/eCom_Amin/status/2081777287507415375"
-author:
-  - "[[@eCom_Amin]]"
-published: 2026-07-27
-created: 2026-07-28
-description: "i built an AI workflow that does in 20 minutes what a $5,000 google ads audit takes 2 weeks to deliver.you feed it four inputs: your product..."
-tags:
-  - "clippings"
+author: "@eCom_Amin"
+title: "how to STEAL your competitors customers with google ads (AI audit → battle plan, 4 input + 5 block)"
 ---
 ![Image](https://pbs.twimg.com/media/HOP1XumbEAEN7WV?format=jpg&name=large)
 

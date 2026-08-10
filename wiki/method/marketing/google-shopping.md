@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild]
-updated: 2026-07-28
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising]
+updated: 2026-08-10
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -118,3 +118,20 @@ Nguồn giọng SOP-kỹ-thuật, khác hẳn giọng hype các nguồn Amin kh�
 
 > [!tip] Checklist thực thi 17 bước (thứ tự ưu tiên, rút gọn)
 > Critical: diagnostics hàng tuần → audit giá vs đối thủ. High: rewrite title front-load top-seller → mine Search Terms report vào title → verify/thêm GTIN → lifestyle-image top 20-30 SKU → Item Group ID cho variant. Medium: description (SAU title+image) → category assignment → Product Type → Custom Labels → supplementary attributes → campaign structure → bidding strategy → test PMax song song Standard. Khi cần: đánh giá feed-tool lúc catalog vượt ~500 SKU.
+
+## Ảnh Shopping: "lifestyle vs product shot" là câu hỏi SAI — một nửa ảnh thắng không show sản phẩm ([[blvckledge-shopping-image-styles]]) ⭐
+Nguồn: @blvckledge (2026-07-27). §Image ở masterclass trên dừng ở *"lifestyle > white-bg, ngồi vào khoảng trống thị giác"*. Bài này đẩy xa hơn 1 bậc: **Google đã nới rất nhiều về ảnh Shopping** — *"lifestyle & product shots is NOT the only option there"* — và brand dám test giới hạn thường được thưởng.
+- **Case Musely (skincare kê đơn), đọc từ ảnh:** cùng 1 brand chạy song song trong 1 carousel — model **nam**, model **nữ**, ảnh **cả khuôn mặt**, ảnh **zoom sát vùng da đang có vấn đề**, ảnh product trơn, ảnh product + hộp. **Khoảng một nửa không hề có sản phẩm trong khung.**
+- **2 lợi ích (lợi ích 2 mới là cái lớn):** (1) *nổi bật* — cả grid là product-shot na ná nhau, cái khác biệt ăn click; (2) **mở khoá ANGLE** — khi ảnh xây quanh **một con người / một transformation / một outcome**, bạn có nhiều cách bán hơn hẳn. Musely tách hẳn creative nam vs nữ → **mỗi ảnh dẫn về landing page viết riêng cho avatar đó**; ảnh before/after dẫn về trang tập trung vào kết quả. = feed-duplication ([[google-shopping]] §trên) nhưng nhân theo **trục ảnh + landing page**, không chỉ trục title.
+- **6 kiểu ảnh đáng test:** product + props · product + packaging · product + nguyên liệu/linh kiện chính · **before-and-after** (một số vertical) · **close-up lúc đang dùng** · **các avatar khác nhau đang dùng sản phẩm**.
+- **Đọc thêm từ ảnh:** giá trong carousel Musely hiện dạng **`$30.00/mo`** — subscription framing ngay trên listing Shopping, không phải giá 1 lần (đòn hạ ngưỡng giá ở tầng SERP, trước cả click → [[subscription-retention]]); review-count hiện trên vài tile (3k+, 4k+) đúng luật §social-proof-in-feed. Đồng thời SERP branded `musely` của chính họ đang bị **Ro và Curology chen vào carousel** — minh hoạ sống của §control-narrative ([[google-ads]]).
+
+> [!warning] ⚠️ Xung đột với luật ảnh đang ghi ở §masterclass — test có kiểm soát, ĐỪNG bulk-apply
+> §masterclass + §AI image-prompt ghi: primary image **bắt buộc nền trắng #FFFFFF, CẤM text/logo overlay, CẤM before-after, CẤM graphic che product**; chỉ ảnh **secondary (1.91:1, PMax/Display)** mới được overlay ≤20%. Bài này lại nói before/after + ảnh không có sản phẩm chạy được. Ngay dưới post, 1 người trong ngành hỏi thẳng *"isn't this strictly forbidden? when did they change it"* — **tức chính người chạy ads cũng không chắc.**
+> Cách đọc an toàn nhất (**giả định**, chưa có nguồn xác nhận): những ảnh Musely nhiều khả năng là **additional images** (Shopping cho tới 10 ảnh/listing) chứ không phải primary, và policy nới lỏng theo vertical/market. → Giữ **primary sạch đúng luật**, đẩy avatar/before-after/close-up vào **slot ảnh phụ**, theo dõi disapproval. Cần 1 nguồn thứ 2 trước khi coi đây là luật.
+
+→ **MaxPro:** đây là cách rẻ nhất để nhân góc trong Shopping mà không cần thêm SKU — (a) close-up **móng đen dày** (không có grinder trong khung) · (b) tay người + chó nằm yên (outcome, không phải product) · (c) 2 avatar tách riêng: chủ nuôi sợ làm chảy máu vs groomer dùng hằng ngày ([[maxpro-avatars]]) · (d) product + 3-port cap làm props. Mỗi ảnh gắn đúng 1 landing page ([[maxpro-pages]]) thay vì tất cả về 1 PDP.
+
+## 2 delta nhỏ từ 48-laws bản Amin ([[ecomamin-48-laws-google-advertising]])
+- **Urgency STRUCTURAL, không phải COSMETIC (Law 32):** "limited time offer" + countdown trong ad copy = trang trí, buyer bỏ qua. Thứ thật sự đổi CPC/CTR là **promotion feed qua Merchant Center** → listing tự hiện **was/now + badge special offer** ngay trong grid. Bồi §Promotions + pricing ở trên: anchoring không chỉ là con số, nó là **badge do Google render** (tín hiệu bên thứ 3, không phải brand tự nói). ⏱ nhớ lead-time duyệt promo 2 tuần ([[google-ads]] §BFCM).
+- **Feed title xoay theo mùa (Law 31):** nhét keyword mùa (`christmas gift for dad`, `summer …`) vào title Shopping **trong window rồi rút ra sau** — §Seasonal ở [[google-ads]] đã có budget/target/LP nhưng chưa có đòn feed-title này. Deploy qua **supplemental feed** để revert 1 nút (cùng cơ chế §3-từ-đầu-không-branded), đừng sửa feed gốc.
