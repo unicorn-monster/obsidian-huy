@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure]
-updated: 2026-07-24
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability]
+updated: 2026-08-12
 ---
 
 # Copywriting — DR fundamentals
@@ -141,3 +141,35 @@ Lý do: để AI viết copy **thực sự chạy được**, bạn phải biế
 
 ## Meta-note (Sam về chính mình)
 *"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần [[direct-response-copy skill]]: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
+
+## Claim + receipt — mỗi claim tạo 1 câu hỏi, receipt trả lời nó ([[ecomchasedimond-claims-receipts-framework]])
+ecomchasedimond: mọi marketing claim tạo ra câu hỏi trong đầu reader. "Fast" → How fast? "Trusted" → By whom? "Easy" → What do I have to do? "Better" → Compared to what? Copy tốt **trả lời câu hỏi đó TRƯỚC khi reader phải hỏi**.
+
+**3-step process:**
+1. Highlight mọi claim trong draft.
+2. Viết câu hỏi mà mỗi claim tạo ra.
+3. Thêm proof nhỏ nhất có thể trả lời nó.
+
+**Proof formats:** con số cụ thể · customer quote · side-by-side comparison · screenshot · example · demonstration.
+
+Nếu không có proof → revise claim cho đến khi có thể support được. Nếu proof missing → bỏ claim hoặc downgrade thành qualified claim.
+
+> *Claim earns attention. Receipt earns belief.*
+
+→ MaxPro: audit PDP + presell. "Quiet for nervous dogs" → receipt: "55dB — dogs sleep through their session." "Safe grinding" → receipt: "diamond drum + 3-port cap, cannot grind past safe length." "Vet-recommended" → receipt: có hay không? nếu không có thì đừng claim. Tie §5 objection-handling ("Bắn thật") + [[presell-pages]] §Claim vs evidence pyramid.
+
+## Word-of-mouth repeatability test — message giữ nguyên khi người ta kể lại ([[ecomchasedimond-word-of-mouth-repeatability]])
+ecomchasedimond: WOM starts before someone recommends you — it starts when they can **explain** what you do. A strong message keeps its meaning when one person explains it to another.
+
+**5-step Repeatability Test:**
+1. Write what your company does in **1 sentence**.
+2. Replace internal language + acronyms với từ khách đang dùng.
+3. Ask **5 people** in target market đọc 1 lần.
+4. Hide sentence, ask them to explain back in their own words.
+5. Write down what they **remembered / changed / missed**.
+
+Tests 3 thứ: **Clarity** (có thể giải thích không cần bạn?) · **Memory** (phần nào trở lại nhất quán?) · **Transfer** (có thể pass idea sang người khác không?).
+
+Nếu mỗi người trả về 1 idea khác nhau → simplify + test lại. If they can repeat it, they can spread it.
+
+→ MaxPro: test "MaxPro là máy mài móng chó im lặng, không cắt phải mạch máu" với 5 dog owner. Note phần bị miss (im lặng? mài móng? không cắt máu?) → kết quả feed vào ad copy headline + PDP H1.

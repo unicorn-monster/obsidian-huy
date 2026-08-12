@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic]
-updated: 2026-07-27
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding]
+updated: 2026-08-12
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -355,3 +355,61 @@ maxwellcopy (2026-07-22): top-performing non-promo emails from recent months. Us
 Tie [[copywriting]] §objection-handling ("elephant" = direct pre-handle) + §6 (founder plain-text winback uses same human-voice mechanic) + [[angles]] (founder angle = "buy from a person, not a brand").
 
 → MaxPro: "Elephant" email = strongest quick-win — objection is "will this hurt my dog / will it actually work on anxious dogs." Write 1 email that names that fear directly: *"The elephant in the room: most groomers still nick dogs. Here's how MaxPro makes that impossible."* Rotate viral-video email when first UGC/organic hit drops.
+
+## Email copy bắt đầu từ lời khách — 4-step research framework ([[ecomchasedimond-email-copy-customer-words]])
+ecomchasedimond: khi viết email copy, bắt đầu từ lời khách đang dùng. Comb qua reviews, support tickets, post-purchase surveys, call transcripts. Lời họ thường raw và cụ thể — đó chính là giá trị.
+
+**4 thứ customer words tiết lộ:**
+- Điều gì đang xảy ra khi họ bắt đầu tìm kiếm
+- Điều gì gần như ngăn họ mua
+- Điều gì cuối cùng cho họ sự tự tin để mua
+- Họ mô tả kết quả như thế nào
+
+**4-step trước mỗi campaign:**
+1. Pull 15-20 reviews / support tickets / survey responses / call notes.
+2. Highlight bất kỳ điều gì về trigger, hesitation, hoặc result.
+3. Group similar phrases, tìm pattern lặp.
+4. Pick 1 repeated idea → shape subject line + opening + proof + CTA từ đó.
+
+Không copy-paste quote thô vào email — tìm pattern để hiểu điều gì quan trọng với khách và cách họ nói về nó. Kết quả: better starting point than a blank page.
+
+→ MaxPro: review mining từ Amazon/Chewy (competing grinders) + support tickets → highlight: "tại sao chọn grinder thay vì clipper?", "lo ngại gì khi mua?", "kết quả mô tả ra sao?" → feed vào subject line + hero copy của welcome flow + broadcast. Tie [[copywriting]] §VOC + §claim-receipt (customer words = proof sources).
+
+## Welcome flow — segment theo 0 / 1 / 2+ đơn trước khi sửa 1 chữ copy ([[ecomchasedimond-welcome-flow-segmentation]])
+ecomchasedimond: audit 1 welcome flow → repeat customers đang nhận "10% off your FIRST order" — một số đã mua 3 lần. Flow triggered by subscription, không check purchase history. Kết quả: 3 nhóm hoàn toàn khác nhau nhận cùng 1 sequence.
+
+**Trước khi viết lại 1 email nào: check WHO đang nhận nó.**
+
+**3 nhóm → 3 experience khác nhau:**
+- **0 orders:** giới thiệu brand, feature best sellers, welcome offer.
+- **1 order:** help them use what they bought, recommend next product, replenishment reminders khi relevant.
+- **2+ orders:** recognize loyalty, dùng purchase history, offer relevant perks hoặc VIP access.
+
+**Audit 5 phút:**
+1. Mở trigger + flow filters.
+2. Preview profiles với 0, 1, 2+ orders.
+3. Check messages và offers mỗi profile nhận được.
+4. Add "0 lifetime orders" filter hoặc conditional split TRƯỚC bất kỳ first-order offer nào.
+
+*"Better copy cannot fix the wrong person receiving the wrong message. Your welcome flow should know when someone is no longer new."*
+
+→ MaxPro: khi Klaviyo welcome flow live, add conditional split ngay từ đầu — ngay cả single-SKU brand vẫn có repeat buyers (refill bits, gifting). Đừng send "first order discount" cho người đã mua. Tie §Quiz pop-up → welcome flow segmentation + §Repeat buyer (same-product, not cross-sell).
+
+## Dr. Squatch 5-day branded event — dead period → novelty với bất cứ thời điểm nào ([[maxwellcopy-dr-squatch-5day-email-event]])
+maxwellcopy: Dr. Squatch chọn 1 cửa sổ 5 ngày ngẫu nhiên, đặt tên riêng cho event, release 1 free gift mới mỗi ngày.
+
+**3 lý do format này mạnh:**
+1. **Daily drop = open every email.** Mỗi ngày là 1 drop mới → subscribers mở mọi email trong tuần chỉ để xem cái tiếp theo. Anticipation compounding qua 5 ngày.
+2. **Brand value.** Branded 5-day event với tên riêng trông như something really special — nếu brand đúng thì đây có thể là customer event lớn.
+3. **Bất cứ lúc nào.** Không cần seasonal. Không cần lý do. Chạy bất cứ khi nào muốn tạo novelty trong dead period.
+
+→ MaxPro: áp dụng khi có ≥2 SKU hoặc accessories. Pick 1 tuần bất kỳ, tên event (vd "MaxPro Care Week"), drop: day 1 = replacement bits, day 2 = nail guide PDF, day 3 = UGC video compilation, day 4 = bundle deal, day 5 = VIP early access next product. Tie §Non-discount email types (novelty without burning discount budget).
+
+## Email reputation compounds — momentum từ staying in the game ([[ecomchasedimond-email-reputation-compounding]])
+ecomchasedimond (~10 năm email marketing): phần lớn thứ trông như advantage thực ra là momentum từ ở lại đủ lâu.
+
+Ví dụ rõ nhất: được biết đến là "the email guy." Business đến vì người ta đã biết anh làm gì và tin anh làm tốt. Reputation đó mất nhiều năm: làm công việc, chia sẻ những gì học được, cho thời gian để compound.
+
+**Hàm ý:** consistency beats tricks. Brand/expert đã 3-5 năm trong game không có advantage về tactics — họ có advantage về **trust đã tích lũy**. Cách duy nhất để có momentum đó là bắt đầu sớm và không dừng.
+
+→ Huy: email reputation của MaxPro bắt đầu tích lũy từ email đầu tiên gửi đúng, không phải từ khi đạt 10k subscribers. Send consistently, share what you learn, let it compound. Khớp [[focus-and-deep-work]] §thesis (focus dài hạn 1 ưu tiên).

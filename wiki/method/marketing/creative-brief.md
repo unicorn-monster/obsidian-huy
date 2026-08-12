@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed]
-updated: 2026-07-16
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis]
+updated: 2026-08-12
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -201,3 +201,22 @@ maxwellcopy (2026-07-07): *"You can now easily tell if something is designed by 
 Format này = **talking character với voice sync** trong <30 phút, 0 animation skill cần. Fit với [[media-buying]] "drama ads + doctor/authority format" đang ăn spend 2026. Character "Dr. Applesmith" = authority persona sẵn có trong Adobe Express — không cần tạo custom.
 
 → MaxPro: test dạng "vet/authority character" nói về nail quick health — ngắn gọn, authority voice, cost ~$0. Tie [[ugly-ads-method]] §mechanism-reveal-as-dialogue (authority character reveal mechanism). ⚠️ AI voice character = check NY disclosure + FTC guideline về AI representation trước khi scale ([[compliance]]).
+
+## FB statics full-screen khi comments expand — build landing page trong 1 ad ([[dtcmidas-fb-statics-fullscreen-comments]])
+DTCMidas: Facebook statics hiện chiếm toàn màn hình khi user expand comments. Hàm ý: 1 static ad có thể chứa **full landing page structure** — headline, hero, social proof, CTA — tất cả visible trong frame expanded.
+
+**Comments = social proof đặc biệt mạnh** trong format này: viewer có thể click profile của commenter và thấy đó là Facebook user thật (không phải testimonial ảo trên landing page). Verifiability = trust.
+
+→ MaxPro: thiết kế static theo vertical flow (headline → product hero → social proof chip → CTA) thay vì chỉ tối ưu thumbnail feed. Ưu tiên kéo real comments từ customers thông qua seeding / comment outreach sớm. Tie [[media-buying]] §full funnel (social proof = MOF layer).
+
+## Brand insight baked vào image — KitKat case ([[ecomchasedimond-kitkat-brand-ad-analysis]])
+ecomchasedimond: Best ads make you wish you'd thought of them first.
+
+KitKat ad: ảnh bình thường của người đứng quanh nhìn điện thoại. Nhìn kỹ hơn → tất cả cầm KitKat bar thay vì phone. *"Have a Break"* insight của brand baked thẳng vào hình ảnh: breaks hiện đại = nhìn màn hình khác → họ swap màn hình thành break. Takes 2 seconds to get, sau đó muốn nhìn lại.
+
+**3 tiêu chí ad đạt đỉnh:**
+1. **2 giây để decode** — không spoon-fed, nhưng không quá khó.
+2. **Muốn nhìn lại sau khi hiểu** — dopamine từ aha-moment.
+3. **No other brand could run this exact ad** — insight integrated, không phải generic visual.
+
+→ MaxPro: insight nào chỉ MaxPro mới sở hữu? Thử: ảnh chó ngủ trong lúc đang được mài móng (contrast với expectation "đau, giãy") → "Have a Quiet Moment" — brand insight *"quiet enough dogs don't notice"* baked into image thay vì caption. Tie [[angles]] §brand-insight-angle (brand truth visible in image, not explained).

@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big]
-updated: 2026-07-22
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing]
+updated: 2026-08-12
 ---
 
 # Media buying + testing (Meta 2026)
@@ -174,6 +174,17 @@ Cùng logic với §Low-budget regime (1 ad set + lowest-cost) — khi budget th
 
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].
+
+## Meta algo sequences toàn category — full funnel phải live mọi lúc ([[dtcmidas-meta-full-funnel-sequencing]])
+DTCMidas: 1 click vào ad hair growth serum → Meta flood feed với toàn bộ category: cùng brand → derma rollers → shampoos → telehealth finasteride → local hair transplant clinics. 1 click = intent signal cho **category**, không chỉ cho brand.
+
+**Hàm ý:** bạn đang compete không chỉ với direct competitors mà với **toàn bộ category**. Meta đang sequencing buyer qua các layer, brand nào có ad live ở mọi layer thắng. Nếu thiếu BOF: bạn tạo awareness (TOF spend của mình), competitor chạy BOF (urgency + FOMO) → họ scoop conversion dù bạn paid cho initial intent.
+
+**Full funnel structure — phải live đồng thời:**
+- **MOF:** statics loại bỏ objections · UGC show people use it + get results · comparisons vs other category solutions (show why better) · social proof / reviews
+- **BOF:** reason to buy NOW — urgency, FOMO, limited offer. Nếu thiếu BOF trong account → competitor lấy conversion từ awareness bạn đã tạo.
+
+→ MaxPro: đang chạy TOF chưa? MOF/BOF live không? MOF = static "grinder vs clipper — không còn sợ cắt quick" + UGC chó bình tĩnh khi mài móng. BOF = flash offer / bundle / scarcity khi có event. Thiếu BOF = đốt TOF spend cho competitor close.
 
 ## Trust collapse + route-around strategy ([[ecomamin-trust-collapse-route-around]]) ⭐
 eCom_Amin (2026-07-04): cold CVR down across the board — không phải lỗi creative, targeting, hay agency. Vấn đề là **cấu trúc**:

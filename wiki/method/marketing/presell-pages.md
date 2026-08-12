@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide]
-updated: 2026-08-10
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology]
+updated: 2026-08-12
 ---
 
 # Presell pages — build guide (4 format)
@@ -268,3 +268,17 @@ Cùng nguồn. §Ops ở trên mới nói "check page đang ngủ của chính m
 5. **YouTube search** — title + thumbnail nhiều view nhất = hook đang cộng hưởng ngay lúc này → dùng làm headline advertorial + script Shorts.
 
 **Review-DOMAIN builder** ([[top5choices-seamoss-review-funnel-teardown]], verified): top5-choices chạy review page trên **GoHighLevel** (CDN `leadconnectorhq` + `filesafe.space`), offer trên **Shopify + GemPages** (long-form sale page, không PDP trơ), reviews Judge.me, cả 2 sau Cloudflare. Attribution = params `?refdomain=…&funnelid=…&cmc_vid=…` → 1 offer nhận nhiều review-domain, đo cái nào đẻ đơn = **mô hình media-buy/affiliate**. Domain **rời hẳn** rẻ + disposable + giấu brand tốt hơn `reviews.brand.com` (subdomain vẫn lộ brand).
+
+## Advertorial 4-step psychology — logic builds trust, brand inherits it ([[ecomamin-advertorial-4step-psychology]])
+eCom_Amin: cùng keyword · cùng ad copy · cùng người click → 1 landing page cho 1.5× ROAS, cái kia cho 13×. Sự khác biệt duy nhất là **tâm lý sau click**. 80% non-branded Google traffic là problem-aware hoặc solution-aware — biết vấn đề, chưa biết bạn. PDP = ký hợp đồng ngay khi vừa gặp → bounce 3 giây. Advertorial fix bằng 4 bước tuần tự:
+
+1. **Validation** — mô tả struggle chính xác đến mức não đăng ký "người này hiểu mình." *"You fall asleep fine. The 3am wake-up is destroying you."*
+2. **Education** — tiết lộ nguyên nhân ẩn họ chưa biết. Một khi đã đầu tư nhận thức, rời trang = rời với hiểu biết chưa hoàn chỉnh về vấn đề của chính mình.
+3. **Mechanism** — giải thích cơ chế fix ở cấp cấu trúc. *"90% of adults are deficient in a mineral controlling the entire sleep cycle."* Trust chuyển từ tác giả sang logic.
+4. **Product last** — sản phẩm xuất hiện là implementation tốt nhất của mechanism reader đã tin. Sản phẩm thừa hưởng trust từ mechanism — không phải từ brand. *"The reader never trusted the brand. They trusted the logic."*
+
+**Kết quả xác nhận:** $57k spend → $1.21M revenue ở **21× ROAS** trên đúng keyword bất kỳ agency đang target.
+
+**Evergreen vs Meta treadmill:** Meta creative chết sau 14-21 ngày vì audience saturation. Google advertorial in tiền nhiều tháng — intent-based traffic rotate tự nhiên, người search "best collagen for joints" lần đầu hôm nay chưa từng thấy advertorial của bạn. Build một funnel, traffic mới tự đến, psychology compounds thay vì fatigue.
+
+→ MaxPro: 4 bước map vào nail safety: (1) Validate *"bạn sợ cắt phải mạch máu, đưa groomer $30-45/lần vì không tin tay mình"* → (2) Educate về quick anatomy (tại sao dark nails cực khó nhìn quick) → (3) Mechanism *"grinding tiếp cận từ từ = không thể cắt đứt quick"* → (4) MaxPro là implementation tốt nhất của mechanism đó. Tie §3 advertorial anatomy (§above-the-fold) + §Format 1 advertorial 10-section wireframe.

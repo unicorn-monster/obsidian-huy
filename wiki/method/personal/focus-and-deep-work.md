@@ -1,6 +1,6 @@
 ---
-sources: [timdenning-dangerously-focused]
-updated: 2026-06-22
+sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy]
+updated: 2026-08-12
 ---
 
 # Focus & deep work (meta)
@@ -24,3 +24,14 @@ Vấn đề không phải thiếu công cụ mà thiếu **một ưu tiên duy n
 
 ## Cảnh báo cân bằng
 Tim tự mô tả lối sống này "bland, cold, boring, lonely". Đây là quan điểm 1 tác giả, không phải chân lý — lấy phần kỷ luật ưu tiên + make-then-manage, cân với thực tế brand owner (cần nói chuyện supplier/agency, không thể off hẳn liên lạc).
+
+## Founder không nên reply nhanh Slack — 3 lý do ([[maxwellcopy-slack-founder-autonomy]])
+maxwellcopy: phản biện trực tiếp "reply nhanh = tốt." 3 lý do KHÔNG nên reply nhanh:
+
+1. **Không có focused work.** Nếu notification luôn bật và reply ngay lập tức, khi nào làm được việc quan trọng mà không bị interrupt? Important-but-not-urgent (vd mở kênh demand mới) không bao giờ xong vì liên tục bị gián đoạn.
+2. **Train team phụ thuộc vào bạn.** Reply instant → team học thói quen nhắn tin bạn bất cứ khi nào không chắc, thay vì tự giải quyết. Không reply ngay → team học cách tự tìm ra → công ty tự vận hành tốt hơn. Tác giả từng reply mọi tin trong 10 phút → team phụ thuộc hoàn toàn, project lớn đình trệ.
+3. **Phần lớn "urgent" không urgent.** Thế giới sụp đổ nếu reply sau 3 giờ thay vì 60 giây? Gần như không bao giờ — đặc biệt khi team đã có thể tự giải quyết.
+
+Tác giả hiện tắt hẳn Slack notification. **Ngoại lệ:** nếu ai đó tôn trọng trong business **text** (SMS) → reply ngay.
+
+→ Huy: nếu có team/agency chat, set expectation response time 2-4h thay vì ngay. Bảo vệ block sáng cho creation work. Khớp §make-then-manage ở trên: đầu ngày = create, cuối ngày = manage/reply.
