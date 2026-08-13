@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding]
-updated: 2026-08-12
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines]
+updated: 2026-08-13
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -404,6 +404,35 @@ maxwellcopy: Dr. Squatch chọn 1 cửa sổ 5 ngày ngẫu nhiên, đặt tên 
 3. **Bất cứ lúc nào.** Không cần seasonal. Không cần lý do. Chạy bất cứ khi nào muốn tạo novelty trong dead period.
 
 → MaxPro: áp dụng khi có ≥2 SKU hoặc accessories. Pick 1 tuần bất kỳ, tên event (vd "MaxPro Care Week"), drop: day 1 = replacement bits, day 2 = nail guide PDF, day 3 = UGC video compilation, day 4 = bundle deal, day 5 = VIP early access next product. Tie §Non-discount email types (novelty without burning discount budget).
+
+## Order confirmation email — bad vs good breakdown ([[maxwellcopy-order-confirmation-upgrade]]) ⭐ easy win
+
+maxwellcopy: order confirmation là email 100% open rate — mọi người đều mở. Đây là cơ hội bị bỏ phí nhiều nhất.
+
+**Bad (default Shopify):**
+- Default Shopify receipt với zero branding
+- Leads với số tiền bị charge (framing xấu)
+- Không có hướng dẫn dùng sản phẩm hay timeline tiếp theo
+
+**Good:**
+- **Strong branding** — khiến họ cảm giác mình thuộc về cái gì đó
+- **Reaffirm subscription perks** — nhắc lại những gì họ save được, tại sao quyết định đúng
+- **Educate on usage** — hướng dẫn dùng + set results timeline (bao lâu thấy kết quả)
+- **Founder note** + điểm support rõ ràng
+
+Cơ chế: order confirmation không phải receipt — là **first post-purchase touchpoint**. Nó set tone cho toàn bộ customer relationship. Strong branding + education giảm buyer's remorse, tăng retention, tăng review rate.
+
+→ MaxPro: đổi Shopify default receipt sang: branding paw-logo → "bạn vừa tham gia [X]k chủ nuôi không còn sợ cắt móng" → hướng dẫn first use (set speed thấp nhất, 2-3 phút/ngày làm quen) → timeline ("Week 1: quen tiếng; Week 2-3: ngồi yên"; "nếu cần gì, reply email này — tôi tự đọc"). Tie §6 founder plain-text (founder presence = trust anchor).
+
+## Subject line AB test tracking — Hiro Analytics ([[maxwellcopy-hiro-ab-subject-lines]])
+
+maxwellcopy: Hiro Analytics có **AB tests tab** — pull toàn bộ history subject line tests vào 1 view: creative từng variation + winner của mỗi test.
+
+Vấn đề thường gặp: testing subject lines điên cuồng (plain-text emails) nhưng không có chỗ lưu lịch sử → mỗi lần phải mò lại từng campaign report riêng lẻ → testing knowledge bị lost sau khi campaign kết thúc.
+
+**Ý nghĩa hệ thống:** không phải hack email, mà là **testing memory** — để subject line learnings compound theo thời gian thay vì restart từ đầu mỗi lần. Tie §Email reputation compounds (consistency + memory = compound) + §AI trong email vai trò 1 (analysis — Hiro là 1 tool làm vai trò này cho AB data).
+
+→ MaxPro: khi bắt đầu AB testing subject lines, dùng Hiro (hoặc track tay trong 1 sheet: subject, send date, winner, open rate delta) để build body of evidence theo thời gian.
 
 ## Email reputation compounds — momentum từ staying in the game ([[ecomchasedimond-email-reputation-compounding]])
 ecomchasedimond (~10 năm email marketing): phần lớn thứ trông như advantage thực ra là momentum từ ở lại đủ lâu.

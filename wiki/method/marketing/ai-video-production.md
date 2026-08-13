@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof]
-updated: 2026-07-23
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative]
+updated: 2026-08-13
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -19,6 +19,7 @@ Giá sẽ trôi; **logic thì không**. Chuẩn: normalize về per-second → r
 | Kling 3.0 Turbo | per second | $0.09 | $0.1125 | ~15s | cùng family | gen nhanh hơn — **speed premium, KHÔNG phải tier rẻ** |
 | **Seedance 2.0** | per second | $0.100 w/ video input / $0.165 cold | 480p $0.045/$0.0775 | 12s | native audio, **lipsync thật** | connects scenes, fills missing actions |
 | **Seedance 2.0 Mini** | per second | $0.0625 w/input / $0.1025 cold | 480p **$0.030**/$0.0475 | ~12s | family audio | consistent-character — **cost king** |
+| **Seedance 2.5** | per second | pricing tương tự 2.0 family | — | ~12s | native audio + UGC-style | upgrade từ 2.0 — improved quality, chuyên YT Shorts/LF ads + UGC-style với native audio ([[ecomamin-seedance-google-ads-creative]]) |
 | **Veo 3.1 Lite** | **per video** | $0.15 / 8s clip (~$0.019/s) | **$0.175** (Fast $0.325, Quality $1.275) | 8s | native voice+visual; **KHÔNG nhận external VO** | reference-to-video, multi-image ref |
 | Hailuo 2.3 | **per video** | 768p 6s $0.15 (~$0.025/s), 10s $0.26 | 6s $0.26 (không có 10s ở 1080p) | 10s | — | Fast tier rẻ ~50%, pitch cho **batch pipeline** |
 | Wan 2.7 | per second | $0.08 | $0.12 | 10s | không lộ audio | — |

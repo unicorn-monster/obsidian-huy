@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, kittysupps-adlib-families-index, kittysupps-adlib-verbatim-litter, kittysupps-adlib-verbatim-vomiting, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match, therapetmd-dog-funnel-research-2026-06]
-updated: 2026-07-07
+sources: [kittysupps-adlib-census-2026-06, kittysupps-adlib-census-2026-06-23, kittysupps-adlib-families-index, kittysupps-adlib-verbatim-litter, kittysupps-adlib-verbatim-vomiting, fotw-resilia-12-pages-advertorial, avcanthony-sophistication-ump-match, therapetmd-dog-funnel-research-2026-06, dtcquizbuilder-kittysupps-pet-vsl-pdp]
+updated: 2026-08-13
 ---
 
 # KittySupps machine — case study long-form VSL ($500k/mo)
@@ -59,6 +59,18 @@ Peer 581 ad (Anna Rodriguez = workhorse 335) · Expert/Vet 244 (bùng nổ, titl
 - [[kittysupps-adlib-verbatim-vomiting]] — verbatim skeleton chuẩn nhất (vomiting/pate, Shelter Vet)
 - Image bank top-50 winner: [[kittysupps-adlib-images/index|kittysupps-adlib-images]]
 - **Case song song ngành chó:** [[therapetmd-dog-funnel-research-2026-06]] — diffuser pheromone ~$1M+/tháng, 323 active ads / 6 page đổ về 1 domain; cùng playbook census, khác species + mechanism. Đối chiếu khi cần angle chó cho MaxPro.
+
+## Engine 2: Longform VSL → PDP thẳng (xác nhận độc lập — [[dtcquizbuilder-kittysupps-pet-vsl-pdp]])
+
+DTC_Quizbuilder (@DTC_Quizbuilder) quan sát độc lập ngoài corpus census: ngoài engine static-image Meta ở trên, KittySupps cũng chạy **longform VSL 5-7 phút** trong ad account, đổ trực tiếp về PDP — **không cần landing page / advertorial trung gian**.
+
+**Cơ chế:** VSL 5-7min bắt đầu từ vấn đề → kể toàn bộ câu chuyện → hook người xem → giáo dục toàn bộ ở tầng ad → gửi thẳng về PDP. Khi đến PDP, người mua đã được prime đủ → tỷ lệ chuyển đổi cao.
+
+**Vì sao khác advertorial:** advertorial truyền thống (text, 800-1,200 chữ) làm giáo dục trên 1 landing page riêng rồi mới link PDP. VSL approach gộp toàn bộ giáo dục vào trong video ad → PDP nhận người đã sẵn sàng mua, không cần thêm lớp thuyết phục.
+
+**Pattern quan sát:** scale tới multi-7-figure, chỉ dùng PDP (không có landing page phức tạp — PDP là điểm đến duy nhất). Signal rằng engine đủ mạnh ở tầng video để bypass friction thông thường của cold-PDP.
+
+**Hàm ý cho MaxPro:** VSL 5-7min = phiên bản video của [[ugly-ads-method]] (static long-form text → video long-form). Phù hợp khi đã có avatar rõ + mechanism rõ (crush/splinter) — không phải cold-start. Thứ tự: static test angle → winner angle → scale thành VSL → PDP. Tie [[kittysupps-machine]] §Anatomy định lượng (median 3,110 từ text = tương đương 5-7min nói ra loud).
 
 ## → Bê sang MaxPro grinder (actionable)
 
