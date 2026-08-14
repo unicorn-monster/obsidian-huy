@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines]
-updated: 2026-08-13
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment]
+updated: 2026-08-14
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -433,6 +433,36 @@ Vấn đề thường gặp: testing subject lines điên cuồng (plain-text em
 **Ý nghĩa hệ thống:** không phải hack email, mà là **testing memory** — để subject line learnings compound theo thời gian thay vì restart từ đầu mỗi lần. Tie §Email reputation compounds (consistency + memory = compound) + §AI trong email vai trò 1 (analysis — Hiro là 1 tool làm vai trò này cho AB data).
 
 → MaxPro: khi bắt đầu AB testing subject lines, dùng Hiro (hoặc track tay trong 1 sheet: subject, send date, winner, open rate delta) để build body of evidence theo thời gian.
+
+## 9 hills to die on — meta-framework từ expert email marketer ([[maxwellcopy-email-hills-framework]])
+maxwellcopy (quản lý email cho nhiều $1M+/mo brand): 9 điểm bất di bất dịch, xếp theo độ phản-trực-giác:
+
+1. **List growth + send frequency = biggest levers** — không phải tactic hay copy. Mọi tactic khác trong trang này phát huy tối đa chỉ khi 2 đòn bẩy này đã được kéo đúng.
+2. **Chỉ offer tests là truly high-leverage AB test** — micro-AB test copy/design/subject không thể 2× performance. Một offer test có thể. → tie §10 lessons Chase Dimond ("highest lever = offer, không copy").
+3. **Wide engaged segmentation** — không over-segment sớm. Gửi rộng cho engaged, sprinkle targeted sends. → tie §Reach >> segmentation.
+4. **4-6 flows là đủ, nhiều hơn là pushing it** — đa số brand không cần 10+ flows. 4-6 đúng > 10 mediocre.
+5. **Text email > design** — nhưng đừng overuse. Mạnh nhất khi stand out giữa email design.
+6. **Design is overrated** — nice-to-have cho branding, không phải driver of results.
+7. **Deliverability = send to engaged, stop sending to disengaged** — không phải technical hack. Đây là toàn bộ deliverability strategy.
+8. **Popup forms = double list growth** — vài tweaks ở popup có thể double list growth. ROI cao nhất so với bất kỳ copy optimization nào → tie §Alia popup (21.7% vs 8-10% Klaviyo).
+9. **Never take email revenue attribution literally** — last-click email over-attributes. Dùng làm directional gauge, không phải source of truth. → tie §RPR (số thật là revenue per recipient).
+
+→ MaxPro: nếu chưa có list, #8 (popup) + #1 (frequency) là 2 việc trước hết mọi thứ. Nếu đang optimize nhưng revenue phẳng, check #2 (offer test) trước khi đụng copy.
+
+## Unsubscribe = tín hiệu vô nghĩa nếu không phân tách buyer / non-buyer ([[maxwellcopy-unsubscribe-buyer-segment]])
+maxwellcopy (WellTV data từ 1 brand cụ thể): **89% unsubs = non-customers** — gần như chắc chắn là pop-up signups chưa mua gì bao giờ. Unsub rate tổng nói lên gần như KHÔNG gì hữu ích. Số duy nhất quan trọng: **unsub rate của repeat buyers**.
+
+Case: chỉ **1.9% unsubs là repeat buyers** ($454 LTV mỗi người). Đây là nhóm duy nhất cần bảo vệ. Non-buyer unsubs = họ không có ý định mua và filter tự nhiên ra → completely fine.
+
+**Framework theo dõi:**
+- Track unsubs từ **non-buyers** và **repeat buyers** TÁCH RIÊNG (không gộp chung).
+- Nếu repeat buyer unsubs bắt đầu tăng khi bạn đẩy frequency → đó là **ceiling của segment đó**. Ease off CHỈ cho segment repeat buyer, giữ nguyên frequency cho non-buyer.
+- Mọi thứ khác không matter.
+
+> [!warning] Đừng rút lui vì non-buyer unsub spike
+> Pattern phổ biến: founder thấy unsub rate tăng khi push frequency → lo lắng → giảm gửi → mất revenue từ engaged buyers. Kiểm tra: nếu unsub spike đến từ non-buyer segment → bình thường, tiếp tục. Chỉ slow down nếu repeat buyer unsubs tăng.
+
+→ MaxPro: khi list đủ lớn, setup Klaviyo segment filter "0 lifetime orders" vs "2+ orders" trên unsub report. Đây là cách đọc frequency ceiling thật, không phải tổng unsub rate.
 
 ## Email reputation compounds — momentum từ staying in the game ([[ecomchasedimond-email-reputation-compounding]])
 ecomchasedimond (~10 năm email marketing): phần lớn thứ trông như advantage thực ra là momentum từ ở lại đủ lâu.

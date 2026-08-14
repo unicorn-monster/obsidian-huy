@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative]
-updated: 2026-08-13
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow]
+updated: 2026-08-14
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -63,6 +63,15 @@ Route by funnel stage: yappers + podcast ads = TOF (cold traffic, organic-lookin
 
 ## Caveat khi tính chi phí thật (reply @routerbase)
 Per-second chỉ là baseline. Chi phí thật còn cộng: **resolution/duration multiplier** (bảng trên: 1080p/4K đắt gấp bội 720p), **retry/failure rate**, **queue latency**. Một attempt "rẻ" thành đắt nhanh sau **2 lần gen hỏng** → tính CPM-per-usable-clip, đừng tính giá list.
+
+## AI UGC hyper-realistic — 4-step formula ([[0xroas-seedance-ugc-workflow]])
+@0xROAS xác nhận công thức này cho "UGC looks hyper realistic" chỉ với 2 prompts tổng, <15 phút/video:
+1. **Gemini deconstruct** — feed video tham khảo vào Gemini, để nó phân tích toàn bộ (angles, pacing, dialogue, props, environment).
+2. **GPT Image 2.0 generate** — generate characters + props từ Gemini's breakdown → visual references chuẩn.
+3. **Seedance 2.5 upload references** — upload tất cả references vào Seedance 2.5 để giữ character consistency xuyên suốt.
+4. **Seedance 2.5 upload prompt** — dán đúng prompt Gemini đã tạo → render.
+
+Kết quả: video UGC "street interview" style cực kỳ realistic, cost thấp, không cần quay thật. Tie §Seedance 2.5 trong bảng trên (native audio + UGC-style) + [[ecomamin-seedance-google-ads-creative]] (Seedance cho YT Shorts + native audio). Complement cho 4 format types ở §AI ad format types — workflow này đặc biệt phù hợp "AI yappers" và "AI podcast ads" (talking-head / 2-người format) mà cần UGC feeling.
 
 ## Áp cho tôi (Maxpro / ecom video ad)
 1 video ad Maxpro nên route: demo mài móng (**proof**) → Kling · testimonial mặt-nói → Sora/Seedance · cutaway b-roll → Veo Lite 8s · nền → Seedance Mini. **Render silent + lay 1 VO** (giữ SFX chỉ ở beat tiếng grinder = bán "ultra-quiet"). Sửa 1 chi tiết → Gemini Omni thay vì re-render. → tactic UGC/broll ở [[creative-brief]].
