@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m]
-updated: 2026-07-25
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs]
+updated: 2026-08-15
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -53,6 +53,16 @@ maxwellcopy (2026-07-16): dù đã có team, vẫn tự làm mọi audit — **6
 2. **Trust signal không thể clone:** khi khách vào từ content rồi thấy ĐÚNG founder chạy audit cho họ — trải nghiệm khác hoàn toàn so với bị giao cho người lạ. Conversion rate khác nhau rõ rệt.
 
 **Hàm ý:** 2 lý do này cộng hưởng — audit thật sự tốt nhất *vừa* là research *vừa* là sales. Không phải overhead mà là revenue-generating activity cao nhất. Tie [[email-marketing]] §AI trong email vai trò 1 (analysis) — format audit tương tự nhưng ở cấp business development.
+
+## Operational breakthroughs (tiếp phần cũ — maxwellcopy Aug 2026) ([[maxwellcopy-agency-scaling-breakthroughs]])
+maxwellcopy (2026-08-15): cập nhật sau 17 tháng — 6 thứ đã chứng minh giá trị:
+
+- **Education company mindset:** tổ chức 1 training cho team MỖI NGÀY (nội bộ + coach bên ngoài). Agency bán dịch vụ bằng expertise; nếu team không liên tục nâng level → offer stagnat. → tie §International team structure (intl headcount cần training liên tục để match US copy/strategy standard).
+- **Build in-house software:** thuê developer, pull insights theo đúng nhu cầu thay vì phụ thuộc số liệu platform cho sẵn. Custom analytics → edge thật sự không clone được.
+- **In-house recruiters (không outsource tuyển):** talent là nguồn lực #1 của agency → cần người LUÔN luôn reach out, chạy interview, giữ pipeline sẵn. Tuyển khi có vacancy = luôn chậm; pipeline sẵn = tuyển đúng người, không phải tuyển người có mặt. → tie §Pod structure (pod ratio tight chỉ đạt được khi talent pipeline mạnh).
+- **Quarterly time audit:** mỗi quý rà soát xem gì đang ăn thời gian và gì thực sự high-leverage, rồi thay thế toàn bộ thứ không phải high-leverage. *"Replace everything that isn't."* → Đây là cơ chế giữ founder energy trong §Founder tự làm audit (audit thật = revenue-generating; thứ còn lại = overhead cần cắt).
+- **Annual coaching/mentors:** đầu tư 1 lần/năm — mở rộng network + góc nhìn từ người đã đi xa hơn. Không chỉ để học — còn để biết mình đang chơi ở đẳng cấp nào.
+- **Tactical ICP content + TOF mix:** content cực kỳ tactical nhắm đúng ICP (→ họ tự tìm đến) + pha thêm top-of-funnel. *"Mix both and your ICP finds you."* Không phải chọn 1 — ratio tùy stage, nhưng ICP content chuyển đổi trực tiếp (audit lead), TOF mở rộng pool.
 
 ## Agency scaling phases — $300k to $1M/mo ([[maxwellcopy-scaling-phases-200k-1m]])
 maxwellcopy (2026-07-25): framework cho 3 giai đoạn sau $200k/mo.
