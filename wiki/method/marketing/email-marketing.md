@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment]
-updated: 2026-08-14
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list]
+updated: 2026-08-16
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -334,6 +334,14 @@ Key point: first Alia iteration got 12% (already +25-50% vs Klaviyo) but only re
 - **Signal:** this confirms [[email-marketing]] §Quiz pop-up → welcome flow segmentation (same Alia recommendation) and §Popup personalization (Prism AI). Pattern = native Klaviyo popup is a floor, not a ceiling.
 - **MaxPro:** if using Klaviyo native popup currently, test Alia. Even iteration 1 should yield +25-50% opt-in lift before any creative testing begins.
 
+## Pop-up trigger — time delays ONLY, no scroll ([[maxwellcopy-popup-time-delay-cvr]])
+maxwellcopy: a well-made, properly placed pop-up **increases** 7-day site CVR; a shitty/misplaced one hurts it. 2 fixes that move the needle most:
+
+1. **Trigger = time delay, never scroll amount** — scroll-based triggers fire on the wrong people at the wrong moment. Time delay gives visitors time to orient before the pop-up interrupts.
+2. **Don't fire on primary ad traffic pages** — suppress pop-up on your main landing/presell pages where paid traffic lands. Those pages have 1 job; a pop-up breaks the flow and leaks CVR. At minimum, keep it on the general home page.
+
+Tie [[quiz-funnels]] §quiz-style pop-up (15-20% opt-in when format right) + §Alia popup (21.7% → tool matters less than proper trigger setup) + §3-gap audit (gap #1 = pop-up frame sai). → MaxPro: if running Alia, confirm trigger = time delay (not scroll), and suppress on any dedicated ad landing pages.
+
 ## Secret page — PDP variant exclusive to email/SMS list ([[maxwellcopy-secret-page-pdp-tactic]])
 maxwellcopy (2026-07-27): tactic called the **"secret page"** — take your best PDP, add headline *"you found our secret page"*, and route email + SMS list exclusively to that URL post opt-in.
 
@@ -472,3 +480,12 @@ Ví dụ rõ nhất: được biết đến là "the email guy." Business đến
 **Hàm ý:** consistency beats tricks. Brand/expert đã 3-5 năm trong game không có advantage về tactics — họ có advantage về **trust đã tích lũy**. Cách duy nhất để có momentum đó là bắt đầu sớm và không dừng.
 
 → Huy: email reputation của MaxPro bắt đầu tích lũy từ email đầu tiên gửi đúng, không phải từ khi đạt 10k subscribers. Send consistently, share what you learn, let it compound. Khớp [[focus-and-deep-work]] §thesis (focus dài hạn 1 ưu tiên).
+
+## Email audit execution — đào fix list cũ, ship 1 item ([[ecomchasedimond-email-audit-fix-list]])
+ecomchasedimond: mọi email audit đều kết thúc như nhau — fix list 10+ items và kế hoạch lớn. Kiểm tra lại 90 ngày sau: hầu hết vẫn nằm đó. Xảy ra ở brand $800k lẫn $8M.
+
+**Vì sao chết trong Google Doc:** mỗi fix là hàng chục click sâu trong ESP — build segment, clone flow, làm template, pull report. Friction thật sự cao.
+
+**Fix duy nhất:** đào fix list của lần audit gần nhất. **Chọn item nằm đó lâu nhất, build nó trong vài ngày tới.** Không cần audit mới, không cần kế hoạch mới — chỉ cần execute 1 thứ.
+
+→ Tie §3-gap audit (3 gap phổ biến đã biết) + §AI trong email (vai trò 1 analysis — flag broken + rank cơ hội, nhưng rank xong rồi vẫn phải execute từng cái). MaxPro: nếu có list items từ lần review email trước, pick item #1 và block time để làm ngay hôm nay.

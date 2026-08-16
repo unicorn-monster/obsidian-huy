@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads]
-updated: 2026-08-13
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework]
+updated: 2026-08-16
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -220,6 +220,42 @@ DTCMidas: Facebook statics hiện chiếm toàn màn hình khi user expand comme
 **Comments = social proof đặc biệt mạnh** trong format này: viewer có thể click profile của commenter và thấy đó là Facebook user thật (không phải testimonial ảo trên landing page). Verifiability = trust.
 
 → MaxPro: thiết kế static theo vertical flow (headline → product hero → social proof chip → CTA) thay vì chỉ tối ưu thumbnail feed. Ưu tiên kéo real comments từ customers thông qua seeding / comment outreach sớm. Tie [[media-buying]] §full funnel (social proof = MOF layer).
+
+## GPT Images 2.0 — 3 exact prompt templates cho ecom static ads ([[ecom-amin-gpt-images-ad-prompt-framework]])
+eCom_Amin: GPT Images 2.0 renders pixel-perfect text (99% accuracy — no more blurry headlines) và studio-grade lifestyle photography. **Production math: $0.05–0.21/image vs $2–5k/session traditional.** 3 template cụ thể chạy được ngay:
+
+### 1. Shopping image (lifestyle > product-on-white, 2–3× CTR lift)
+```
+generate a premium ecommerce product image of [product description].
+product on the right third against a [lifestyle setting: marble surface /
+wooden table / kitchen counter]. dramatic rim lighting from the upper left.
+clean contact shadow. realistic material texture. no text overlay. no watermark. aspect ratio 1:1
+```
+**Vì sao lifestyle thắng:** 9/10 listing dùng product-on-white → lifestyle image là visual outlier trong grid → eye lock on. Case xác nhận: jewelry brand scale 8-figure months, unboxing reaction shot (woman hands over mouth) outperformed mọi studio product shot đã test. Emotional resonance của 1 image > spec shot đẹp.
+
+### 2. Text-overlay static ad (4:5 portrait, text pixel-perfect)
+```
+generate a high-impact static ad in 4:5 portrait (1024x1280).
+[product] in lifestyle setting.
+overlay text in bold sans-serif: headline '[pain-point phrase from buyer research]' at the top.
+subtext '[mechanism or benefit]' below.
+CTA button '[action text]' at the bottom in [brand colour].
+clean layout with negative space
+```
+**Net-new vs AI models cũ:** previous models = blurry/misspelled text. GPT Images 2.0 = readable headlines, pricing, CTA baked vào image, không cần Photoshop/designer. Pain-point phrase đến từ VOC ([[creative-brief]] §VOC mining) — không phải copywriter guess.
+
+### 3. Before/after split-frame (display ads, 16:9)
+```
+generate a split-frame image.
+left side: [person experiencing the problem, frustrated expression, muted colours].
+right side: same person experiencing the outcome, happy expression, warm colours].
+dividing line down the centre. no text overlay. 16:9 for display ads
+```
+Before/after converts across every niche — visual contrast compresses toàn bộ advertorial narrative vào 1 image. Tie [[presell-pages]] §crime-scene before/after (§7 format 2) + §Dramatic demonstration (visual proof > written testimonial).
+
+**⚠️ Compliance note:** AI-generated images của người thật → NY AI disclosure law + Google flag ảnh AI. Dùng lifestyle-only (không mặt người rõ) hoặc add disclosure. → [[compliance]].
+
+→ MaxPro: Shopping prompt → MaxPro grinder lifestyle trên gỗ/đá với lighting tốt, product right-third. Text-overlay → pain-point từ VOC ("nó giãy tay khi thấy clipper") + CTA "grind at home". Before/after → muted dog giãy (left) vs relaxed dog on couch mid-grind (right). Tie §seed prompt (trang này) + [[ai-video-production]] §AI UGC hyper-realistic (GPT Image 2.0 là step 2 trong UGC workflow đó).
 
 ## Brand insight baked vào image — KitKat case ([[ecomchasedimond-kitkat-brand-ad-analysis]])
 ecomchasedimond: Best ads make you wish you'd thought of them first.
