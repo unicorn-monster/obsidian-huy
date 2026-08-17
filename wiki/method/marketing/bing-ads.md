@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook]
-updated: 2026-07-17
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-arbitrage]
+updated: 2026-08-17
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -51,5 +51,26 @@ Test (ngày 1-14): $50/ngày ($30 branded/$20 problem). Scale (ngày 15-30): $10
 
 **Lý do gap tồn tại (theo tác giả):** đa số ecom brand không biết Bing là kênh khả thi, bận đối phó Meta/TikTok/iOS14 · Bing "không sexy" nên không viral, không hype-cycle → không bị lấp đầy nhanh · đa số founder ecom 25-35 tuổi vô thức build/market cho người giống mình, bỏ qua senior · cần copy/LP/creative khác hẳn — lọc bớt người chỉ muốn copy-paste playbook Meta sẵn có.
 
+## Meta → Edge → Bing: demand capture từ Meta spend của chính bạn ([[ecomamin-bing-ads-arbitrage]])
+eCom_Amin (2026-08-17): mechanism **quan trọng hơn cả Bing như 1 kênh riêng** — đây là cách Bing bắt demand META đã tạo ra:
+
+*"Meta ad reaches someone who uses Microsoft Edge as their default browser. Edge defaults to Bing for search. Your buyer sees the Meta ad, gets curious, opens the browser, and types your product category. On Google, 15 competitors fight for the click. On Bing, you're the only listing."*
+
+**Hệ quả:** bạn đã trả CPM cho Meta → tạo intent → buyer search trên Bing → competitor không có Bing → **bạn close conversion người khác không nhìn thấy**. Incremental revenue ontop of Google, không phải cannibalize.
+
+**Case xác nhận:** fresh Bing account, zero history, 4 tuần: **$20k revenue từ $2.8k spend = 7x ROAS**. CPCs 30-50% thấp hơn Google vì auction gần trống.
+
+**Quick-start 15 phút:**
+1. Mở `ads.microsoft.com`
+2. Dùng Google Import tool → pull toàn bộ campaign structure tự động (ad groups, keywords, ads, extensions đều mirror)
+3. Giảm bid 20-30% để account cho CPCs tự nhiên thấp hơn của Bing
+4. Launch
+
+"15 minutes from 'I've never used Bing' to live campaigns generating revenue." — không cần rebuild từ đầu.
+
+**Pattern lịch sử (framing của tác giả, ghi để theo dõi chứ không coi là fact):** tương tự Meta 2016-2018 — early movers compound, late movers pay premium vào auction người early đã own. Cửa sổ đang mở vì đa số founder ecom chưa vào. → Tie [[media-buying]] §Trust collapse route-around: Bing user (thường dùng Edge, ít tiếp xúc blackhat DTC wave) là 1 trong các kênh có scepticism reflex thấp hơn.
+
 > [!tip] Có áp được cho pet store MaxPro không?
 > Category hiện tại (nail grinder cho dog) không nằm trong list niche "hợp" (health/mobility/senior-care) — pet owner 40+ đã được note trong [[google-ads]] §Ecosystem như "nằm sát cụm" audience Bing nhưng KHÔNG phải chính diện. Đáng thử nghiệm nhỏ ($50/ngày, branded+problem) trước khi tin, không nên coi đây là kênh chính cho MaxPro dựa trên guide này — guide viết cho category health/senior rõ ràng hơn pet.
+>
+> **Update 2026-08-17:** Meta→Edge→Bing mechanism đổi cách đánh giá. Nếu MaxPro đang chạy Meta spend → test Bing 15 phút (Google import + bid -25%) không phải vì Bing là "kênh pet tốt" mà vì **bắt demand Meta đã tạo mà hiện đang rơi vào Bing không có gì bắt**. ROI của test thấp, upside có thật.

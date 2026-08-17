@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow]
-updated: 2026-08-10
+sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow, ecomamin-claude-mcp-competitor-conquest]
+updated: 2026-08-17
 ---
 
 # Tìm cơ hội untapped bằng AI research (Claude Cowork/browsing)
@@ -52,3 +52,30 @@ Quy trình 5 bước ở trên tìm **cơ hội sản phẩm/thị trường**; 
 
 > [!tip] Áp cho "quá nhiều idea, cần nơi sắp xếp"
 > Đây là quy trình NGƯỢC lại brainstorm tự do — bắt đầu từ research có cấu trúc (5 bước, mỗi bước có prompt cụ thể) thay vì từ ý tưởng cá nhân. Có thể dùng để mở rộng ngoài MaxPro (nail grinder) khi cần tìm sản phẩm #2 cho pet store, hoặc để kiểm chứng 1 ý tưởng đã có sẵn bằng bước 2+3+4 (pain-point → segment → competitive-gap) thay vì đoán.
+
+## Competitor weakness teardown: Claude + Google Ads MCP → 1-star review mining → attack angle ([[ecomamin-claude-mcp-competitor-conquest]]) ⭐
+eCom_Amin (2026-08-17): dùng Claude với Google Ads MCP kết nối thẳng vào live account data để **reverse-engineer toàn bộ competitor weakness profile**, rồi biến weaknesses đó thành ad copy + comparison page + conquesting campaign.
+
+**Prompt mẫu (1 lần, toàn bộ research):**
+> *"Pull my auction insights data for the last 30 days. Identify the top 5 competitors by impression share in my non-branded campaigns. Then for each of the top 3, research: their homepage positioning and primary offer, their active Google ads from the transparency center, and their review sentiment on Amazon and Trustpilot. Identify the gap between their product promise and actual delivery. Compile into a conquest weakness file with specific attack angles."*
+
+**Output:** conquest weakness file — danh sách competitor + homepage claim của họ + ad copy của họ + **gap giữa promise và actual delivery** + attack angle cụ thể.
+
+**Cơ chế surgical (phần quan trọng nhất):** mọi competitor đều có 1-star reviews tiết lộ unmet buyer expectations. Prompt tìm pattern trong reviews đó:
+- Case supplement brand: competitor 4.2★/Amazon nhưng **73% 1-star reviews đề cập capsule quá lớn** — trang sản phẩm của họ không giải quyết vấn đề kích thước, ads không nhắc tới.
+- Attack angle rút ra: *"smallest capsule in the category"*
+- Ad copy: *"if you have ever gagged on a horse pill supplement, you understand why capsule size matters more than dosage"*
+- Comparison page: capsule size trở thành 1 trong 3 evaluation criteria
+
+**Nguyên lý Genghis Khan:** ông không chinh phục bằng quân đội lớn nhất — ông nghiên cứu điểm yếu kẻ thù **trước** khi bắt đầu chiến. Conquest weakness file = reconnaissance. Ad copy = battle plan. Angle không đến từ brainstorm — đến từ chính dữ liệu review của competitor.
+
+**Speed gain (so với cách cũ):**
+| Cách cũ | Cách mới |
+|---|---|
+| 3-4 tiếng/competitor, đọc hàng trăm review thủ công | 1 prompt, 30 phút |
+| Không cross-reference được pattern xuyên suốt | Model đọc hàng trăm review đồng thời, bắt pattern người không thấy |
+
+**Thực thi 3 bước:** ① kết nối Google Ads MCP → Claude ② chạy prompt trên → nhận conquest weakness file ③ biến top weakness thành: ad hook + advertorial angle + comparison page criterion + conquesting campaign target (bid trên branded term đối thủ).
+
+> [!tip] Áp MaxPro
+> Nail grinder: pull auction insights → tìm competitor có impression share cao nhất → mine 1-star reviews của họ trên Amazon/Chewy (chú ý kích thước bit / tiếng ồn / rung / con chó không chịu / gây đau). Đó là góc attack. Đừng brainstorm angle — để competitor's customers tự nói.

@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad]
-updated: 2026-07-20
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-tease]
+updated: 2026-08-17
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -222,3 +222,14 @@ Bổ sung + xác nhận các framework trên. **Rule 8** là insight MỚI chưa
 **Rule 8 — no-pause policy (insight mới):** không ai bao giờ un-pause subscription; pause chỉ delay churn trong khi làm hỏng metric cohort. Thay bằng 2 lựa chọn: "delay X tuần" (giữ sub active) hoặc "cancel với incentive phân nhánh" (rule 9). → khi mở sub: remove pause từ đầu, không phải sửa sau.
 
 Rule 3 xác nhận §4 metric (SUB-1) về custom Klaviyo metric. Rule 7 confirm §Phase-1 pre-frame 90 ngày. Rule 2 confirm §billing A/B. Rules 1-10 cùng nhau tạo operating checklist cho sub brand mới.
+
+## Pre-reveal next free gift = churn prevention hack ([[maxwellcopy-churn-free-gift-tease]])
+maxwellcopy (2026-08-17): *"Easy ecom hack to reduce churn — telling subscribers what free gift is coming in their next order."*
+
+**Cơ chế:** nếu khách biết 1 gift cụ thể đang chờ họ ở đơn kế tiếp → khó cancel vì sẽ mất gift đó. *"Hard to cancel when you know something free is on the way."* Loss-aversion đơn giản nhất: không cần badge hay countdown — chỉ cần **thông báo trước gift sắp đến**.
+
+**Thực thi:** email/SMS trước ngày rebill (tie §billing-reminder ở trên) nhắc "Đơn kế tiếp bạn nhận thêm [gift X]" thay vì hoặc kết hợp với billing reframe — gift anchor làm lý do ở lại rõ ràng và cụ thể hơn "nhận thêm giá trị" chung chung.
+
+**Liên kết với driver #8 (10 LTV driver):** driver #8 ghi "free gift / incentive phải thực sự tốt" — bài này add thêm điểm thực thi: **timing của reveal** quan trọng không kém chất lượng gift. Gift tốt nhưng reveal muộn (sau billing) = không chặn churn được. Reveal trước billing = chốt quyết định ở lại trước khi rebill charge.
+
+→ Khi mở sub consumable (bits/balm cho MaxPro): đây là quickest win — không cần build tracker hay founder video. 1 dòng trong billing-reminder email: "Đơn kế tiếp bạn nhận kèm [bit mài replacement] miễn phí."

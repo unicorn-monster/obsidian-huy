@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first]
-updated: 2026-08-13
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed-strategy]
+updated: 2026-08-17
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -134,6 +134,32 @@ Nguồn: @blvckledge (2026-07-27). §Image ở masterclass trên dừng ở *"li
 > Cách đọc an toàn nhất (**giả định**, chưa có nguồn xác nhận): những ảnh Musely nhiều khả năng là **additional images** (Shopping cho tới 10 ảnh/listing) chứ không phải primary, và policy nới lỏng theo vertical/market. → Giữ **primary sạch đúng luật**, đẩy avatar/before-after/close-up vào **slot ảnh phụ**, theo dõi disapproval. Cần 1 nguồn thứ 2 trước khi coi đây là luật.
 
 → **MaxPro:** đây là cách rẻ nhất để nhân góc trong Shopping mà không cần thêm SKU — (a) close-up **móng đen dày** (không có grinder trong khung) · (b) tay người + chó nằm yên (outcome, không phải product) · (c) 2 avatar tách riêng: chủ nuôi sợ làm chảy máu vs groomer dùng hằng ngày ([[maxpro-avatars]]) · (d) product + 3-port cap làm props. Mỗi ảnh gắn đúng 1 landing page ([[maxpro-pages]]) thay vì tất cả về 1 PDP.
+
+## Multi-title multi-buyer-psychology: 1 sản phẩm × 6 intent = $38.5k → $70k/4 tuần ([[ecomamin-gmc-multi-title-feed-strategy]]) ⭐
+eCom_Amin (2026-08-17): **extension của §Feed duplication** với framework rõ hơn về "buyer psychology mapping". Health niche, 1 hero product, 4 tuần:
+
+**Nguyên lý:** cùng 1 sản phẩm, chạy qua **6 feed entries với 6 keyword-first titles khác nhau**, mỗi cái mapped đến 1 search intent khác nhau — buyer không biết họ đang nhìn cùng 1 sản phẩm vì listing cảm giác "custom-built for them":
+
+| Search intent | Title dẫn |
+|---|---|
+| "natural supplement for joint pain" | "Joint Pain Relief Supplement Natural" |
+| "best anti-inflammatory supplement" | "Anti-Inflammatory Supplement Clinically Tested" |
+| "supplement for knee pain after running" | "Knee Support Supplement for Athletes" |
+
+**Kỹ thuật thực thi (bổ sung §Feed duplication):**
+- Dùng **supplemental feeds** (không sửa feed gốc)
+- Tách bằng **item_group_id** để giữ clean với GMC policy
+- Mỗi entry: title khác nhau + description khác nhau → buyer psychology của search query đó
+- *"99% brands run 1 title per product. Brands printing run 3-6 titles per hero product."*
+
+**Full ecosystem đi kèm (cùng account, không chỉ feed):**
+- BOF: branded search 95%+ impression share + branded shopping
+- MOF: non-branded search targeting pain-point clusters; PMax với ICP-segmented asset groups (mỗi group riêng copy + creative + landing page theo buyer angle); problem-aware queries → advertorials
+- TOF: demand gen với YouTube Shorts + image ads
+
+**Underlying principle:** CTR spike vì listing feel custom cho đúng search query → buyer click nhiều hơn → Google thưởng placement tốt hơn → cascade effect. *"The buyer never knows they're looking at the same product."*
+
+→ MaxPro: symptom-doorway set từ [[angles]] + [[maxpro-avatars]] (móng đen/móng trắng khó thấy / sợ cắt quick / con chó giãy / groomer $45) = ĐÚNG nguyên liệu để build 6 title variants này. Mỗi doorway = 1 supplemental feed entry.
 
 ## 2 delta nhỏ từ 48-laws bản Amin ([[ecomamin-48-laws-google-advertising]])
 - **Urgency STRUCTURAL, không phải COSMETIC (Law 32):** "limited time offer" + countdown trong ad copy = trang trí, buyer bỏ qua. Thứ thật sự đổi CPC/CTR là **promotion feed qua Merchant Center** → listing tự hiện **was/now + badge special offer** ngay trong grid. Bồi §Promotions + pricing ở trên: anchoring không chỉ là con số, nó là **badge do Google render** (tín hiệu bên thứ 3, không phải brand tự nói). ⏱ nhớ lead-time duyệt promo 2 tuần ([[google-ads]] §BFCM).

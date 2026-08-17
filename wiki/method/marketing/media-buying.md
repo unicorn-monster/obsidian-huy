@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing]
-updated: 2026-08-12
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, ecomchasedimond-knix-tv-ad-dtc]
+updated: 2026-08-17
 ---
 
 # Media buying + testing (Meta 2026)
@@ -303,3 +303,25 @@ DTCMidas: hit 7-fig/month bootstrapped bằng cách biết khi nào **KHÔNG** s
 Tie [[dtcmidas-dont-copy-funded-brands]] — funded brand có thể ignore slow season (dùng raise); bootstrapped phải protect margin. Tie §Bootstrapped brand creative edge (phải thắng bằng craft, bukan budget).
 
 → MaxPro: khi mọi ad launch đều không ăn một cách systematic (không phải 1-2 creative fail) → likely slow season → reduce spend, redirect energy sang creative/offer testing. Đừng giải thích bằng "creative tệ" khi vấn đề là market timing.
+
+## TV/OTT: treat like a paid media channel, not a brand bet ([[ecomchasedimond-knix-tv-ad-dtc]])
+Chase Dimond via Knix case (2026-08-17): DTC brands mặc định treat TV như "1 big brand bet" — 1 buy lớn, hi vọng ăn, move on. **Knix treat TV như paid media**: test placements, measure response, cut what doesn't work, scale what does.
+
+**Case:** Knix đã chạy TV nhưng quyết định **ngừng giả định họ biết audience ở đâu**. Thay vì stick với "obvious" networks cho women's intimacy brand, họ test across news, crime, và general entertainment.
+
+Kết quả:
+- **Unexpected placements thắng** — The Voice airing: 9,000 site visits in 5 minutes
+- **CPA 70% lower** than benchmark
+- Crime + general entertainment outperformed traditional buys
+- Sau khi tìm được placements thắng → test creative trên những placement đó → **response rate doubled, cost per view giảm 45%**
+
+**Framework áp dụng cho DTC:**
+1. **Don't assume audience placement** — test network categories ngoài "obvious", đặc biệt cross-gender và cross-genre
+2. **Measure response, not reach** — site visits spike, CPA, không phải GRP hay impression
+3. **Find winners first, then optimize creative** — không invest creative trước khi biết placement nào ăn
+4. **Treat TV như Meta creative testing** — kill non-performers, scale winners, iterate creative trên winner placements
+
+**Liên hệ với §Trust collapse route-around ([[ecomamin-trust-collapse-route-around]]):** TV + podcast + YouTube placement = kênh có scepticism reflex thấp hơn Meta cold feed. Cùng logic "route around trust collapse" — kênh khác nơi reflex defensiveness chưa bị trigger bởi years of DTC ads.
+
+> [!note] Với MaxPro giai đoạn hiện tại
+> TV budget chưa phù hợp. Nhưng nguyên lý "treat every channel like paid media" áp thẳng: YouTube, podcast ad, Reddit — đừng làm 1 buy và bỏ. Test placement + creative, measure response, scale winner. Tie [[google-ads]] §YouTube demand gen (cùng "measure before scale" approach).
