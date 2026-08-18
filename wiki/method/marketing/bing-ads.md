@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook]
-updated: 2026-07-17
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas]
+updated: 2026-08-18
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -53,3 +53,18 @@ Test (ngày 1-14): $50/ngày ($30 branded/$20 problem). Scale (ngày 15-30): $10
 
 > [!tip] Có áp được cho pet store MaxPro không?
 > Category hiện tại (nail grinder cho dog) không nằm trong list niche "hợp" (health/mobility/senior-care) — pet owner 40+ đã được note trong [[google-ads]] §Ecosystem như "nằm sát cụm" audience Bing nhưng KHÔNG phải chính diện. Đáng thử nghiệm nhỏ ($50/ngày, branded+problem) trước khi tin, không nên coi đây là kênh chính cho MaxPro dựa trên guide này — guide viết cho category health/senior rõ ràng hơn pet.
+
+## Meta→Bing demand capture — $2.8k → $20k/4 tuần case ([[ecomamin-bing-ads-7x-roas]])
+eCom_Amin (2026-08-17): fresh account, zero history, 4 tuần → **$20k revenue từ $2.8k spend = 7x ROAS**. Setup: 15 phút.
+
+**Cơ chế "demand capture" cụ thể nhất:**
+Meta ad chạm ai đó đang dùng **Microsoft Edge** (default browser trên Windows). Edge default search = Bing. Họ thấy Meta ad, tò mò, mở browser, gõ category keyword → **Google có 15 đối thủ cạnh tranh bid; Bing thì chỉ có mình bạn**. Cùng 1 buyer, cùng intent, cùng demand Meta vừa tạo ra — nhưng ở Bing bạn thắng đơn với CPC thấp hơn 30-50%.
+
+**Tại sao Bing in tiền (economic case):**
+- 6-8% market share — nhỏ về volume nhưng **audience older, higher HHI** (household income cao hơn Google average)
+- Auction hầu như trống — CPCs thấp hơn 30-50% Google, ít đối thủ
+- Setup 15 phút: mở Bing Ads account → dùng **Google import tool** → pull toàn bộ campaign structure (ad groups, keywords, ads, extensions) sang tự động → **giảm bid 20-30%** để phản ánh CPC tự nhiên thấp hơn → launch
+
+**Cảnh báo tác giả:** *"The window is open specifically because nobody is there. Once more operators figure this out, CPCs rise."* — cùng pattern Meta 2016-2018. → Tie §Claim về "cửa sổ cơ hội" ở trên (author's framing, nhưng case data 7x ROAS từ fresh account là thật).
+
+**Tie [[google-ads]] §5-traffic-leaks (Leak #5 = Bing gap, xác nhận cùng $2.8k→$20k case)** + §Ecosystem (Bing = demand pool song song, không cannibalize) — case 7x ROAS lặp lại ở 2 nguồn độc lập (eCom_Amin Q3 2026). Setup 15 phút = đòn bẩy có ROI cao nhất tính theo giờ bỏ ra.

@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first]
-updated: 2026-08-13
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed]
+updated: 2026-08-18
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -46,6 +46,27 @@ Nguồn: [[ecomamin-shopping-masterclass]]. *"Mọi brand có Shopping CAMPAIGN;
 - Cùng triết lý "70% từ feed, làm TRƯỚC campaign" đầu trang — nhưng mở rộng từ title/desc/image ra **toàn bộ attribute schema**. MaxPro: điền đủ size/breed-compatibility (3-port cap S/M/L), material (diamond drum), noise level, pet type — mọi field GMC cho phép.
 
 → Impression-share headroom (winner ROAS cao nhưng IS thấp → tách campaign riêng) + 7-campaign + optimization + seasonal: [[google-ads]].
+
+## Multi-title feed — 1 hero product × 6 buyer psychologies ([[ecomamin-gmc-multi-title-feed]])
+eCom_Amin (2026-08-17): health niche, **$38.5k → $70k/4 tuần** — lever lớn nhất là GMC feed, không phải campaign type hay bid strategy.
+
+**Tình trạng cũ:** 1 hero product, generic title, 1 shopping campaign, không segmentation, không angle testing. = Cách 99% brand chạy.
+
+**Cách làm:** cùng 1 sản phẩm → **6 feed entry** qua supplemental feeds + `item_group_id` → mỗi entry có title khác, description khác → nhắm đúng 1 buyer psychology theo đúng search intent:
+
+| Search query | Title feed entry |
+|---|---|
+| "natural supplement for joint pain" | "Joint Pain Relief Supplement Natural" |
+| "best anti-inflammatory supplement" | "Anti-Inflammatory Supplement Clinically Tested" |
+| "supplement for knee pain after running" | "Knee Support Supplement for Athletes" |
+
+→ Buyer gõ query của họ → thấy listing viết như được làm riêng cho họ → CTR tăng vì listing "nói đúng ngôn ngữ" → buyer không biết đang nhìn cùng 1 sản phẩm.
+
+**Technical:** dùng supplemental feeds (Google Sheet: product-id + title mới per row) + `item_group_id` để nhóm variants lại trong GMC policy. Không vi phạm policy khi set up đúng.
+
+**Kết hợp full ecosystem:** trên feed multi-title, team còn build: BOF branded search 95%+ IS + branded shopping · MOF non-branded search pain-point cluster + PMax ICP-segmented per angle · TOF demand gen YT Shorts + image ads + advertorial cho problem-aware queries. → $38.5k → $70k.
+
+**Insight cốt lõi:** *"99% of brands run one title per product. The brands printing run 3-6 titles per hero product, each targeting a different search intent."* — bổ sung §Feed duplication (blueprint kỹ thuật) + §Shopping masterclass (tại sao keyword-first + buyer psychology trong title). MaxPro: 1 nail grinder → 6 titles: "Dog Nail Grinder Quiet" / "Dog Nail Grinder No Bleeding" / "Nail Grinder for Anxious Dogs" / "Pet Nail Grinder for Large Dogs" / "Dog Grooming Nail File Electric" / "Dog Nail Dremel Safe".
 
 ## Priority-laddering + PMax coexistence + custom-labels schema (Vysta 48 Laws) ⭐ how-to
 Nguồn: [[vysta-48-laws-google-ads]] (Vysta, checklist 48-law Google Ads ecom). Phần Shopping có **3 cơ chế net-new** không có ở masterclass trên:

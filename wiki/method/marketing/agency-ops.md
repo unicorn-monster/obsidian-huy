@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs]
-updated: 2026-08-15
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training]
+updated: 2026-08-18
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -72,3 +72,16 @@ maxwellcopy (2026-07-25): framework cho 3 giai đoạn sau $200k/mo.
 - **Phase 9 — $750k–1M/mo:** Build leaders per department (marketing · sales · fulfillment), scale all 3 cùng lúc. Make a big bet — another big offer hoặc supplementary service.
 
 Tie §Pod structure (service depth scaling) + §International team structure (headcount model khi scale) — 3 phase trên là timeline ÉP buộc upgrade cả ops và offer.
+
+## 3 yếu tố tạo nên agency tốt: People > Training > Systems ([[maxwellcopy-agency-people-training]])
+maxwellcopy (2026-08-18): đánh giá thực tế sau nhiều năm vận hành — hầu hết agency đầu tư sai thứ tự:
+
+- **(1) People — 90% mọi thứ.** Có người thông minh, có năng lực, có tài = mọi thứ còn lại tự vận hành. Hầu hết agency có ~50% team thực sự tốt — phần còn lại là yếu điểm ẩn.
+- **(2) Training — bị bỏ qua nhiều nhất.** Daily training + buộc team thực sự ÁP DỤNG insight vào công việc thực tế (không chỉ nghe). Không liên tục nâng level = offer stagnat, mất edge.
+- **(3) Systems — được đầu tư nhiều nhất nhưng ít quan trọng nhất.** Base SOP, cadence báo cáo, template — cần có nhưng là thứ dễ build nhất. Agency nào cũng có, gần như cùng mức.
+
+**Thứ tự sai phổ biến:** đa số agency chi thời gian 60%+ vào Systems (thứ ít quan trọng nhất), 30% vào People (recruit nhưng không train), và gần như bỏ qua Training liên tục.
+
+**Thực tế vận hành:** *"Every now and then [we drop the ball]"* — kể cả agency tốt nhất cũng có tháng mất client, đôi khi lỗi thật. **Chính sách refund/free month** = ngân sách cần có mỗi tháng để xử lý tình huống này. Không phải yếu đuối — là vận hành trưởng thành.
+
+**Hàm ý khi thuê agency:** hỏi thẳng về training culture (*"team học gì mỗi tuần?"*) + xem chất lượng insight trong báo cáo (Systems). Nếu báo cáo hoàn hảo nhưng không có insight → họ đầu tư sai chỗ. Tie §Red-flags (không có insight trong báo cáo) + §Communication cadence (cadence = Systems, không phải độ tin cậy) + §Operational breakthroughs §Education-company-mindset (daily training xác nhận từ cả 2 nguồn).

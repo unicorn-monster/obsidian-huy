@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list]
-updated: 2026-08-16
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug]
+updated: 2026-08-18
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -489,3 +489,28 @@ ecomchasedimond: mọi email audit đều kết thúc như nhau — fix list 10+
 **Fix duy nhất:** đào fix list của lần audit gần nhất. **Chọn item nằm đó lâu nhất, build nó trong vài ngày tới.** Không cần audit mới, không cần kế hoạch mới — chỉ cần execute 1 thứ.
 
 → Tie §3-gap audit (3 gap phổ biến đã biết) + §AI trong email (vai trò 1 analysis — flag broken + rank cơ hội, nhưng rank xong rồi vẫn phải execute từng cái). MaxPro: nếu có list items từ lần review email trước, pick item #1 và block time để làm ngay hôm nay.
+
+## Plain text email wins trong thời AI homogenize ([[maxwellcopy-plain-text-email-performance]])
+maxwellcopy (2026-08-17): AI đang làm mọi email trông và đọc y hệt nhau → plain text email tạo ra sự tương phản tự nhiên.
+
+*"With AI making everything look and sound the same, the plain text emails that actually feel like they're coming from a friend perform the best."*
+
+**3 lý do cụ thể:**
+- **Lands better** — không template, không banner → inbox không coi là promo
+- **Gets replies** — cảm giác 1-1 thật → người đọc reply, không chỉ click
+- **Signals Gmail** — reply từ subscriber = Gmail biết người dùng muốn nghe từ bạn → deliverability tốt hơn theo thời gian
+
+Tie §4 SMS-style email + §6 Founder plain-text winback — 3 tactic cùng cơ chế "raw/under-designed = trust". Tie §5 hills #5 (text > design, nhưng không overuse) — trong Q3-Q4 2026 khi AI content bão hòa, plain text trở thành contrast tốt hơn nữa.
+
+## Timezone bug: welcome email gửi 4am — audit case ([[ecomchasedimond-welcome-email-timezone-bug]])
+ecomchasedimond (2026-08-18): brand apparel $3.2M ARR, gửi welcome email lúc **4am Pacific 2 năm liên tiếp** mà không ai phát hiện.
+
+**Root cause:** account timezone set Eastern, team chọn "7am" → thực tế gửi 4am Pacific. List 62% West Coast.
+
+**Phát hiện:** trong 45 phút qua Perplexity Computer đọc trực tiếp account Klaviyo.
+
+**Bài học audit:** check **account timezone vs list timezone** là mục đầu tiên trong bất kỳ email audit nào. 2 trường hợp dễ mắc:
+1. **Account timezone ≠ majority list timezone** (Eastern account, West Coast list)
+2. **Daylight saving time rollover** — team set giờ đúng vào mùa đông, không ai kiểm tra khi giờ chuyển
+
+→ MaxPro: vào Klaviyo Settings → Account → Timezone, đối chiếu với phân bố địa lý list. Nếu chưa biết phân bố địa lý, check Klaviyo Profiles → Location report. Fix timezone hoặc dùng smart send time để route đúng múi giờ. Tie §AI trong email (Perplexity Computer = tool audit nhanh thay vì manual) + §3-gap audit (timezone là gap #0 cần check trước).

@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow]
-updated: 2026-08-14
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow]
+updated: 2026-08-18
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -72,6 +72,41 @@ Per-second chỉ là baseline. Chi phí thật còn cộng: **resolution/duratio
 4. **Seedance 2.5 upload prompt** — dán đúng prompt Gemini đã tạo → render.
 
 Kết quả: video UGC "street interview" style cực kỳ realistic, cost thấp, không cần quay thật. Tie §Seedance 2.5 trong bảng trên (native audio + UGC-style) + [[ecomamin-seedance-google-ads-creative]] (Seedance cho YT Shorts + native audio). Complement cho 4 format types ở §AI ad format types — workflow này đặc biệt phù hợp "AI yappers" và "AI podcast ads" (talking-head / 2-người format) mà cần UGC feeling.
+
+## Seedance 2.5 — format list Q4 2026 ([[0xroas-seedance25-ad-formats]])
+@0xROAS xác nhận Seedance 2.5 mở ra toàn bộ spectrum format AI ad với độ realism cao nhất hiện tại (đắt hơn nhưng đáng ở Q4):
+- **AI podcast** — 2 người nói, format interview quen thuộc
+- **AI street interviews** — UGC-style, "người trên phố" nói về sản phẩm
+- **AI yappers** — talking head 1 người, favorite format của @0xROAS (high-engagement TOF)
+- **AI Netflix documentaries** — cinematic, build credibility + authority
+- **AI animation ads** — differentiated creative cho category đã saturation UGC
+
+→ Toàn bộ 5 format này dùng 1 production pipeline (Seedance 2.5 + references), tie §AI UGC hyper-realistic ở trên. Với Q4: nếu chỉ 1 model → **Seedance 2.5** là default. Pricing bảng trên (2.5 ~= 2.0 family per-second).
+
+## Native statics → blog video format ([[0xroas-ai-native-statics-blog-video]])
+Format mới từ @hookrate_ (chia sẻ trong cộng đồng AI ads của @0xROAS): **upgrade native statics thành blog video** — tức là chuyển 1 ảnh tĩnh native-style thành video ngắn dạng bài blog/editorial. Input: 1 image + 1 prompt → output: video native FB/Meta cracking-style. Chi phí gần như 0 nếu đã có native static. Hợp nhất [[native-ads]] (editorial frame) + [[ai-video-production]] (AI generation) trong 1 workflow siêu ngắn.
+
+> Q4 note (@0xROAS): *"you are preparing for everything except your creative diversification strategy"* — nếu chỉ chạy 1 format creative thì Q4 CPM tăng nhưng ROAS không tăng vì creative fatigue không được counter.
+
+## Seedance 2.5 + Opus 5 YT workflow — 40 phút/video ([[ecomamin-seedance-opus5-yt-workflow]])
+@eCom_Amin: pipeline hoàn chỉnh làm YouTube ad + static shopping companion trong 40 phút, end-to-end trong 1 chat session (Opus 5 + Higgsfield MCP):
+
+**Step 1 — Buyer research (20 min):** prompt Opus 5 tìm top 5 pain-point cluster theo buyer language (frustration, failed solutions, phrases từ Reddit/Amazon, emotional state, trigger event). Thay 4-6 giờ crawl forum thủ công.
+
+**Step 2 — Script (10 min):** 4-part structure (15s video):
+- Hook (0-3s): name the pain từ research
+- Agitation (3-8s): 3 failed solutions
+- Mechanism (8-12s): explain the root cause
+- Reveal (12-15s): product + soft CTA, conversational tone
+
+**Step 3 — Video (5 min):** Seedance 2.5 qua Higgsfield MCP → 15s vertical 9:16, phone-camera quality, UGC-style. Không tab-switch, không export/import.
+
+**Step 4 — Static companion (3 min):** GPT Images 2.0 qua cùng MCP → lifestyle product image 1:1 cho Shopping.
+
+**Kinh tế học:** 40 phút vs 2-3 tuần/$5-15k/team 3-5 người. YT ad fatigue = CTR decay sau 3-4 tuần → AI production làm refresh cycle viable. Build 5 ads/chiều, test, spin 4 fresh variations/2-3 tuần khi đã có winning hook. → Áp thẳng cho MaxPro YT Shorts: hook = "mấy lần bạn bỏ cuộc giữa chừng vì nó giãy?"
+
+> [!tip] Liên kết
+> Script 4-part này khớp hoàn toàn với §4-step advertorial psychology ở [[presell-pages]] (validation → education → mechanism → product). Cùng 1 sequence, khác format (video vs text).
 
 ## Áp cho tôi (Maxpro / ecom video ad)
 1 video ad Maxpro nên route: demo mài móng (**proof**) → Kling · testimonial mặt-nói → Sora/Seedance · cutaway b-roll → Veo Lite 8s · nền → Seedance Mini. **Render silent + lay 1 VO** (giữ SFX chỉ ở beat tiếng grinder = bán "ultra-quiet"). Sửa 1 chi tiết → Gemini Omni thay vì re-render. → tactic UGC/broll ở [[creative-brief]].

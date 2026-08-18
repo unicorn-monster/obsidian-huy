@@ -1,6 +1,6 @@
 ---
-sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, dtcquizbuilder-quiz-iteration-v4-system, dtcquizbuilder-quiz-8point-ad-alignment, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, dtcquizbuilder-testosterone-quiz-17steps, ecomamin-quiz-funnel-google-cold-traffic, dtcquizbuilder-root-activator-18step-funnel]
-updated: 2026-08-14
+sources: [dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, dtcquizbuilder-quiz-iteration-v4-system, dtcquizbuilder-quiz-8point-ad-alignment, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, dtcquizbuilder-testosterone-quiz-17steps, ecomamin-quiz-funnel-google-cold-traffic, dtcquizbuilder-root-activator-18step-funnel, dtcquizbuilder-quiz-feedback-loop, dtcquizbuilder-menopause-funnel-teardown]
+updated: 2026-08-18
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -477,6 +477,37 @@ DTC_Quizbuilder (2026-07-27): *"The first deliverable can be shit... where we st
 | 8 | **Positioning** | The wedge vs every competitor and past attempt. Is the funnel defending the same unique position the ad claimed? |
 
 **How to use:** after each failed iteration → run this 8-axis audit, column A = ad, column B = quiz. Every gap = 1 hypothesis to fix. Fix the highest-impact gap first (usually: mechanism = #4, awareness level = #6).
+
+## Quiz feedback loop benchmarks — chẩn đoán điểm yếu ([[dtcquizbuilder-quiz-feedback-loop]])
+DTC_Quizbuilder (2026-08-18): cấu trúc feedback loop cho mọi quiz. Build → launch → thu data → tìm điểm yếu → sửa theo đúng lớp vấn đề.
+
+**3 benchmark + root cause + fix:**
+
+| Chỉ số | Ngưỡng cảnh báo | Root cause | Fix |
+|---|---|---|---|
+| **Q1 drop-off** | >70% | Positioning problem / mismatch ad congruency / poor question framing | Xem lại headline quiz, kiểm tra ad-to-quiz congruence |
+| **Drop-off trong quiz** | >30% | Đang hỏi sai câu hỏi | Xem lại branching logic + relevance từng câu |
+| **Completion → purchase** | <20% | Thiếu trust / chưa thuyết phục nó sẽ work / offer không khớp câu hỏi đã hỏi | Tăng trust signal ở result page + align offer với diagnostic |
+
+**Cách dùng:** sau mỗi iteration → check 3 số này TRƯỚC KHI chẩn đoán vấn đề. Mỗi số trỏ đúng lớp vấn đề khác nhau → không waste effort fix layer sai.
+
+Tie §Quiz iteration system (decision tree cho mỗi iteration) + §8-point ad-to-funnel alignment (Q1 drop = gap #3 angle / #1 desire / #6 awareness) + §Testosterone brand 17-step (double progress bar + manufactured diagnosis = tác động trực tiếp lên completion rate). MaxPro: khi launch quiz, set Klaviyo event tracking tại Q1, mid-quiz, completion, purchase → đủ dữ liệu phân loại vào 3 benchmark này.
+
+## Menopause $5-15M/mo — no landing page, fabricated decline funnel ([[dtcquizbuilder-menopause-funnel-teardown]])
+DTC_Quizbuilder (2026-08-17): brand menopause supplement $5-15M/mo. Funnel điển hình của thể loại "quiz là trang đầu tiên" scale lớn:
+
+**Cấu trúc 11-step cốt lõi:**
+- **First tap = câu hỏi #1** — không landing page, không context, vào thẳng. Friction-zero entry.
+- **"Hormone Score" failing + biological age cao hơn thật** — result page chế ra kết quả xấu: biological age bị thổi lên nhiều năm so với tuổi thật → tạo lo lắng tức thì.
+- **52% off** — discount lớn xuất hiện SAU khi đã có "chẩn đoán" thất bại → discount feel như phần thưởng của chẩn đoán (cùng cơ chế §Manufactured diagnosis).
+- **Zero email gate** — không thu email trước discount. Friction bị xóa hoàn toàn ở mọi bước.
+
+**3 kỹ thuật rút ra được:**
+1. **No LP = friction zero** — quiz là lần tiếp xúc đầu tiên với brand. Đúng khi ad đã warm đủ context.
+2. **Fabricated decline → loss-aversion** — result không phải neutral diagnosis mà là "mức độ của vấn đề nghiêm trọng hơn bạn nghĩ" → urgency thật, không phải fake countdown.
+3. **No email gate before offer** — email capture sau mua (hoặc bỏ qua nếu không cần retargeting) để giữ conversion flow không bị interrupt.
+
+Tie §Hims ($1.5B) — cùng "product invisible until after diagnostic" mechanic nhưng Hims dùng doctor framing, brand này dùng hormone-score framing. Tie §Testosterone brand (manufactured diagnosis → 50% off = cùng cấu trúc). **Compliance note:** "biological age older than real" là cạnh tranh greywara — cần đọc kỹ FTC guideline trước khi replicate. → [[compliance]].
 
 - **Tie:** [[quiz-funnels]] §Congruency = câu hỏi #1 (same principle, this checklist operationalizes it in 8 specific axes) + [[market-awareness]] (axis 6 = Schwartz awareness stage match) + [[angles]] §Belief-shift diagnosis (axis 3 + 4 mirror belief-shift engine).
 - **MaxPro:** run this on first quiz draft vs winning clipper-trauma ad — most likely gap will be axis 4 (mechanism: "grinding safer than clipping" not carried through quiz questions) and axis 6 (ad = solution-aware, quiz shouldn't re-explain the problem from scratch).

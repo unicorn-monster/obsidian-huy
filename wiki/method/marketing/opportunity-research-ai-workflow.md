@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow]
-updated: 2026-08-10
+sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow, ecomamin-competitor-weakness-opus-mcp]
+updated: 2026-08-18
 ---
 
 # Tìm cơ hội untapped bằng AI research (Claude Cowork/browsing)
@@ -52,3 +52,17 @@ Quy trình 5 bước ở trên tìm **cơ hội sản phẩm/thị trường**; 
 
 > [!tip] Áp cho "quá nhiều idea, cần nơi sắp xếp"
 > Đây là quy trình NGƯỢC lại brainstorm tự do — bắt đầu từ research có cấu trúc (5 bước, mỗi bước có prompt cụ thể) thay vì từ ý tưởng cá nhân. Có thể dùng để mở rộng ngoài MaxPro (nail grinder) khi cần tìm sản phẩm #2 cho pet store, hoặc để kiểm chứng 1 ý tưởng đã có sẵn bằng bước 2+3+4 (pain-point → segment → competitive-gap) thay vì đoán.
+
+## Competitor weakness profile — Opus 5 + Google Ads MCP ([[ecomamin-competitor-weakness-opus-mcp]])
+eCom_Amin (2026-08-17): prompt Opus 5 được nối trực tiếp vào Google Ads account qua MCP → đọc live auction insights → research toàn bộ profile đối thủ → biến điểm yếu của họ thành ad copy.
+
+**Prompt nguyên văn (copy-paste):**
+> *"Pull my auction insights data for the last 30 days. Identify the top 5 competitors by impression share in my non-branded campaigns. Then for each of the top 3, research: their homepage positioning and primary offer, their active Google ads from the transparency center, and their review sentiment on Amazon and Trustpilot. Identify the gap between their product promise and actual delivery. Compile into a conquest weakness file with specific attack angles."*
+
+**Output:** "conquest weakness file" — gap giữa promise đối thủ và actual delivery từ review data thật.
+
+**Case thật (supplement brand):** đối thủ #1 có 4.2★ Amazon nhưng 73% đánh giá 1★ đề cập cùng 1 vấn đề: capsule quá to để nuốt. Không có gì trên product page và ads đề cập. → angle được phát hiện: *"smallest capsule in the category"* → advertorial hook: *"if you have ever gagged on a horse pill supplement, you understand why capsule size matters more than dosage."*
+
+**Tại sao mạnh hơn brainstorm thông thường:** angle không đến từ suy nghĩ — đến từ **review data thật của đối thủ**, khách hàng họ tự nói điều gì sai. Opus 5 cross-reference 100s reviews đồng thời (human researcher bỏ lỡ pattern mà model thấy ngay).
+
+**Cũ vs Mới:** 3-4h manual research/đối thủ (đọc review, forum, cross-reference) → **1 prompt, ~30 phút**. Tie §5 bước tìm cơ hội (bước 5: reverse-engineer góc thắng từ brand liền kề) — workflow này là bản **nhanh + live-data** của bước 5, áp cho competitor trực tiếp thay vì brand liền kề. Tie [[google-ads]] §Competitor defense protocol + §Transparency Center — Opus 5 MCP đọc Transparency Center tự động thay vì làm tay.

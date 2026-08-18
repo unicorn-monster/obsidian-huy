@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting]
-updated: 2026-08-16
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing]
+updated: 2026-08-18
 ---
 
 # Presell pages — build guide (4 format)
@@ -291,3 +291,16 @@ eCom_Amin: cùng keyword · cùng ad copy · cùng người click → 1 landing 
 **Evergreen vs Meta treadmill:** Meta creative chết sau 14-21 ngày vì audience saturation. Google advertorial in tiền nhiều tháng — intent-based traffic rotate tự nhiên, người search "best collagen for joints" lần đầu hôm nay chưa từng thấy advertorial của bạn. Build một funnel, traffic mới tự đến, psychology compounds thay vì fatigue.
 
 → MaxPro: 4 bước map vào nail safety: (1) Validate *"bạn sợ cắt phải mạch máu, đưa groomer $30-45/lần vì không tin tay mình"* → (2) Educate về quick anatomy (tại sao dark nails cực khó nhìn quick) → (3) Mechanism *"grinding tiếp cận từ từ = không thể cắt đứt quick"* → (4) MaxPro là implementation tốt nhất của mechanism đó. Tie §3 advertorial anatomy (§above-the-fold) + §Format 1 advertorial 10-section wireframe.
+
+**Confirm case thứ 2 ([[ecomamin-advertorial-psychology-13x-roas]]):** cùng buyer, cùng ad, 2 landing page khác nhau — Page A (PDP) = 1.5x ROAS; Page B (advertorial) = 13x ROAS. Gap không đến từ traffic quality, không đến từ bid — đến từ tâm lý 4 bước trên. *"The reader never trusted the brand. They trusted the logic. The brand became the vehicle."*
+
+## Hero section copy maxxing — sell before CTA ([[maxwellcopy-hero-section-copy-maxxing]])
+maxwellcopy (2026-08-18): *"Big fan of copy maxxing your hero sections."*
+
+**Insight:** putting just a button in the hero section gets clicks, but many of those clicks are "click to click" — người chưa có lý do để BUY, chỉ có lý do để click. Load hero section với copy thực sự bán hàng → cho đủ thứ trước khi CTA → convert hơn.
+
+**Pattern quan sát:** long hero variation (nhiều copy) beat "headline + 1 dòng" **gần như mọi lần**, đặc biệt với sản phẩm **educational và health**.
+
+**Nguyên tắc:** *"Selling them before the CTA >>> selling them after."* Advertorial đã làm điều này ở cấp trang (pre-sell page riêng). Hero copy maxxing làm điều này ngay ở đầu trang — PDP, presell, hay landing page bất kỳ.
+
+**Hàm ý cho MaxPro:** hero grinder page không nên chỉ là product image + "Add to Cart". Cần: (1) Hook pain mạnh ("Last time they yelped because of the clipper?") → (2) USP 3 bullet ngắn (quiet / no quick-cut risk / 99-day return) → (3) Trust signal (review count + rating) → (4) CTA *"See if it's right for your dog →"*. Toàn bộ sequence này nằm trong hero section — không cần cuộn. Tie §CTA system (placement 40%/65%/85%) + §Advertorial 4-step psychology (cùng sequence ở cấp trang).
