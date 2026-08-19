@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug]
-updated: 2026-08-18
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula]
+updated: 2026-08-19
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -514,3 +514,42 @@ ecomchasedimond (2026-08-18): brand apparel $3.2M ARR, gửi welcome email lúc 
 2. **Daylight saving time rollover** — team set giờ đúng vào mùa đông, không ai kiểm tra khi giờ chuyển
 
 → MaxPro: vào Klaviyo Settings → Account → Timezone, đối chiếu với phân bố địa lý list. Nếu chưa biết phân bố địa lý, check Klaviyo Profiles → Location report. Fix timezone hoặc dùng smart send time để route đúng múi giờ. Tie §AI trong email (Perplexity Computer = tool audit nhanh thay vì manual) + §3-gap audit (timezone là gap #0 cần check trước).
+
+## Pop-up list growth tier list — S/A/B/C ranked ([[maxwellcopy-email-list-tier-list]])
+maxwellcopy: xếp hạng đòn bẩy tăng email list theo độ mạnh thực tế.
+
+**S TIER (lever lớn nhất):**
+- **Testing your offer** — biggest single lever, khoảng cách xa so với mọi thứ còn lại
+- **Full-page pop-up** thay vì small modal — surface area lớn hơn = không bị bỏ qua
+- **Engage-first, ask later** — quiz, scratch-off, game trước khi hỏi email → micro-commitment trước gate
+- **AliaPopups** — tool đề xuất (tie §Alia popup +21.7% opt-in)
+
+**A TIER:**
+- 2-6 second delay, không delay dài hơn (tie §pop-up trigger — time delay, không scroll)
+- One input per step (đừng hỏi email + phone cùng 1 màn hình)
+- Offer là thứ TO NHẤT trên màn hình — không phải brand logo, không phải copy
+- Close button placement testing
+
+**B TIER:**
+- SMS như 1 step riêng SAU email (không gộp)
+- Second pop-up delay dài hơn — second shot cho người đã đóng lần đầu
+- Chạy A/B test thật thay vì set-and-forget
+
+**C TIER:**
+- Cắt copy "join our community" — fluff không ai đọc
+
+**Nguyên tắc meta:** 90% brand đang chiến đấu ở B/C tier trong khi offer chưa được test. S tier = offer test → một tweak đây có thể double opt-in rate mà không đổi gì khác.
+
+→ MaxPro: nếu pop-up đang <10% opt-in, check S tier trước — offer đang đủ compelling chưa? Test "Quiet grinder: your dog will actually sit still — $15 off first order" vs generic "10% off." Dùng Alia (tie §Alia popup). Tie §Quiz pop-up → welcome flow segmentation (engage-first = S tier implement).
+
+## 10/10 order confirmation email — 4-element formula ([[maxwellcopy-order-confirmation-email-formula]])
+Confirm + distill §Order confirmation (bad vs good, [[maxwellcopy-order-confirmation-upgrade]]) thành 4-element formula súc tích:
+
+1. **"Vừa gia nhập, không chỉ vừa mua"** — language và framing của email phải làm khách cảm thấy là thành viên, không phải transaction
+2. **Reaffirm ĐÚNG benefits họ sắp nhận** — không generic "thanks for your order"; nhắc lại cụ thể lý do họ mua
+3. **Set kỳ vọng thời gian kết quả** — "Week 1: quen tiếng, Week 2-3: ngồi yên" thay vì để khách tự đoán
+4. **Mời liên lạc nếu có gì** — open door, không phải CTA bán thêm
+
+Order confirmation = email open rate 100% — mọi người đều mở. 4 element này chuyển transactional receipt thành **first retention touchpoint**. Cơ chế giảm buyer's remorse: khách vừa bỏ tiền ra đang ở trạng thái "mình có quyết đúng không?" — email đúng reframe thành "mình vừa vào đúng team."
+
+→ MaxPro: đối chiếu với §Order confirmation (bad vs good) trên để có checklist đầy đủ. Quick audit: mở Shopify order confirm → check 4 element trên có không. Mỗi element thiếu = revenue rò từ post-purchase. Tie [[subscription-retention]] §Day-30 rebill (cơ chế tương tự — framing đúng ở thời điểm charge = chống churn).

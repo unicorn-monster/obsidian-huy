@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal]
-updated: 2026-08-18
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix]
+updated: 2026-08-19
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -222,6 +222,37 @@ Bổ sung + xác nhận các framework trên. **Rule 8** là insight MỚI chưa
 **Rule 8 — no-pause policy (insight mới):** không ai bao giờ un-pause subscription; pause chỉ delay churn trong khi làm hỏng metric cohort. Thay bằng 2 lựa chọn: "delay X tuần" (giữ sub active) hoặc "cancel với incentive phân nhánh" (rule 9). → khi mở sub: remove pause từ đầu, không phải sửa sau.
 
 Rule 3 xác nhận §4 metric (SUB-1) về custom Klaviyo metric. Rule 7 confirm §Phase-1 pre-frame 90 ngày. Rule 2 confirm §billing A/B. Rules 1-10 cùng nhau tạo operating checklist cho sub brand mới.
+
+## Monthly vs quarterly billing — cancel decisions per year ([[maxwellcopy-subscription-billing-founders]] + [[ecomchasedimond-subscription-billing-fix]]) ⭐ field-tested
+Một trong những nguyên lý đơn giản nhất nhưng hay bị bỏ qua ở sub brands: **monthly billing = khách phải tự hỏi "mình có muốn tiếp không?" 12 lần/năm. Quarterly = 4 lần.**
+
+**Nguyên lý từ 9-figure brands ([[maxwellcopy-subscription-billing-founders]]):**
+- Founders giỏi biết rõ: monthly subscriber LTV khác xa quarterly subscriber LTV
+- Luôn price gói dài hơn với chiết khấu + đẩy hard để lấy cash upfront
+- Hỏi commitment **tại thời điểm intent cao nhất** — ngay trên trang xác nhận đơn hàng, sau khi thẻ đã quẹt
+- Treat renewal email như **risk event**, không phải upsell opportunity
+- Winback discount KHÔNG fix churn đến từ offer problem
+
+**Case thực chiến 47% take rate ([[ecomchasedimond-subscription-billing-fix]]):**
+Chase Dimond được thuê để fix winback flow — viết lại 3 lần trong 2 tháng, churn không nhúc nhích. Sau đó nhìn vào billing: brand charge monthly → mỗi 30 ngày gửi thông báo shipping + charge thẻ cho chai đang còn 1/3. 12 lần/năm brand đi gõ cửa hỏi "bạn còn muốn không?"
+
+**Fix:** đổi sang 3-month term, offer trên trang order confirmation (sau khi thẻ đã charge) — không phải trên product page (trước khi thẻ charge = mất đơn). Kết quả: **47% new subscribers chọn 3-month trong 30 ngày đầu**.
+
+| Metric | Monthly | 3-Month |
+|---|---|---|
+| Cancel decisions/year | 12 | 4 |
+| Cash timing | Mỗi tháng | 3 tháng upfront |
+| Scale capacity | Cần financing | Tự fund ad spend |
+
+4 vấn đề phát hiện thêm sau khi bỏ kính email nhìn vào billing:
+- Cadence 30 ngày cho sản phẩm kéo dài 45 ngày → charge trước khi hết hàng → "không cần nữa"
+- Winback discount 25%, cao gấp 2 mức cần thiết để giữ cohort đó
+- Signup không cho chọn cadence → mọi người mặc định về option churn-fastest
+- Renewal notice 3 ngày trước charge → 3 ngày khách đang suy nghĩ có nên cancel không
+
+**Insight cốt lõi:** 2 tháng viết lại email không di chuyển được 1 điểm churn — 1 câu đổi billing cadence trên confirmation page thay đổi toàn bộ. Churn thường là **offer/billing problem**, không phải email problem.
+
+→ Áp cho MaxPro (khi mở consumable sub): (1) launch với monthly *và* quarterly option từ đầu; (2) offer quarterly trên order confirmation (không phải PDP); (3) quarterly discount đủ thật (không phải 5% token); (4) audit refill cadence vs actual usage cycle trước khi set monthly interval. Tie §Quarterly/90-day sub (audit margin TRƯỚC khi defer revenue — scalabilityschool nuance) + §Day-30 rebill (cùng insight: billing moment = highest churn risk, cần reframe).
 
 ## Tactic chống churn: báo trước quà tặng kỳ tới ([[maxwellcopy-churn-free-gift-reveal]])
 maxwellcopy (2026-08-17): *"Easy ecom hack to reduce churn."*

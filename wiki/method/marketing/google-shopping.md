@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed]
-updated: 2026-08-18
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format]
+updated: 2026-08-19
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -155,6 +155,15 @@ Nguồn: @blvckledge (2026-07-27). §Image ở masterclass trên dừng ở *"li
 > Cách đọc an toàn nhất (**giả định**, chưa có nguồn xác nhận): những ảnh Musely nhiều khả năng là **additional images** (Shopping cho tới 10 ảnh/listing) chứ không phải primary, và policy nới lỏng theo vertical/market. → Giữ **primary sạch đúng luật**, đẩy avatar/before-after/close-up vào **slot ảnh phụ**, theo dõi disapproval. Cần 1 nguồn thứ 2 trước khi coi đây là luật.
 
 → **MaxPro:** đây là cách rẻ nhất để nhân góc trong Shopping mà không cần thêm SKU — (a) close-up **móng đen dày** (không có grinder trong khung) · (b) tay người + chó nằm yên (outcome, không phải product) · (c) 2 avatar tách riêng: chủ nuôi sợ làm chảy máu vs groomer dùng hằng ngày ([[maxpro-avatars]]) · (d) product + 3-port cap làm props. Mỗi ảnh gắn đúng 1 landing page ([[maxpro-pages]]) thay vì tất cả về 1 PDP.
+
+## Round number pricing trong Shopping — A/B test xác nhận ([[ecomamin-shopping-ad-format]])
+eCom_Amin: split test $39.99 vs $40 trên Australian brand — **$40 converted better.** Counterintuitive nhưng data rõ.
+
+**Tâm lý:** buyer premium ecom đã được train nhận ra `.99` là pricing manipulation (15 năm mua sắm online). Round number = transparent. `.99` = brand đang cố trick. Trong premium context (product >$30, lifestyle/quality positioning), **transparency converts better than tricks**.
+
+*Caveat của chính tác giả:* không apply mọi market — budget/discount category (clearance, dropship commodity) `.99` vẫn work vì framing là "giá rẻ nhất," không phải "trusted brand." **Test, đừng assume.** Với positioning premium (MaxPro grinder $60-80): đáng test round number trước khi cố optimize giá kẻo bỏ qua lever này.
+
+**Context Shopping-specific:** giá hiện ngay trên listing grid trước khi click — đây là 1 trong những tín hiệu đầu tiên buyer đọc. `.99` không sai trong isolation nhưng **khi listing ngay bên cạnh lifestyle shot + social proof + keyword-first title** (cả 3 đang cố xây trust), pricing `.99` tạo micro-dissonance: 3 tín hiệu trust + 1 tín hiệu manipulation. Round number align nhất quán với positioning. Tie §Promotions + pricing ở §Shopping masterclass (anchoring "was/now" + free shipping) — round number là nền trước khi dùng anchoring.
 
 ## 2 delta nhỏ từ 48-laws bản Amin ([[ecomamin-48-laws-google-advertising]])
 - **Urgency STRUCTURAL, không phải COSMETIC (Law 32):** "limited time offer" + countdown trong ad copy = trang trí, buyer bỏ qua. Thứ thật sự đổi CPC/CTR là **promotion feed qua Merchant Center** → listing tự hiện **was/now + badge special offer** ngay trong grid. Bồi §Promotions + pricing ở trên: anchoring không chỉ là con số, nó là **badge do Google render** (tín hiệu bên thứ 3, không phải brand tự nói). ⏱ nhớ lead-time duyệt promo 2 tuần ([[google-ads]] §BFCM).
