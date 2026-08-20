@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format]
-updated: 2026-08-19
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping]
+updated: 2026-08-20
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -155,6 +155,42 @@ Nguồn: @blvckledge (2026-07-27). §Image ở masterclass trên dừng ở *"li
 > Cách đọc an toàn nhất (**giả định**, chưa có nguồn xác nhận): những ảnh Musely nhiều khả năng là **additional images** (Shopping cho tới 10 ảnh/listing) chứ không phải primary, và policy nới lỏng theo vertical/market. → Giữ **primary sạch đúng luật**, đẩy avatar/before-after/close-up vào **slot ảnh phụ**, theo dõi disapproval. Cần 1 nguồn thứ 2 trước khi coi đây là luật.
 
 → **MaxPro:** đây là cách rẻ nhất để nhân góc trong Shopping mà không cần thêm SKU — (a) close-up **móng đen dày** (không có grinder trong khung) · (b) tay người + chó nằm yên (outcome, không phải product) · (c) 2 avatar tách riêng: chủ nuôi sợ làm chảy máu vs groomer dùng hằng ngày ([[maxpro-avatars]]) · (d) product + 3-port cap làm props. Mỗi ảnh gắn đúng 1 landing page ([[maxpro-pages]]) thay vì tất cả về 1 PDP.
+
+## Lifestyle image × Quiz-embedded PDP = 4x conversions cùng budget ([[ecomamin-quiz-pdp-lifestyle-shopping]]) ⭐
+Hai đòn Shopping mà top brands 2026 chạy cùng lúc — compound effect lớn hơn nhiều khi ghép:
+
+**Bài toán traffic không convert:** non-branded shopping traffic bounce rate **70-85%** — buyer đến từ category query ("best collagen supplement") chứ không phải branded intent → PDP assume họ biết product, họ không biết → bounce.
+
+**Đòn 1 — Lifestyle image:** thay product-on-white bằng lifestyle image trên Shopping listing → **2-3x CTR**. Buyer quét grid thấy 9 sản phẩm trắng + 1 lifestyle ảnh người thật → lifestyle ăn click vì khác pattern. Các kiểu ảnh ăn nhất:
+- **Lifestyle context** (người đang dùng) → kết nối emotion
+- **Problem amplification** (đầu gối đau, da khô, 3am mất ngủ) → trigger đúng pain trước khi đọc title
+- **Before/after** — skincare/haircare/fitness, upload vào **additional images slot** Merchant Center (primary vẫn phải trắng sạch đúng GMC policy)
+- **UGC-style** (phone-quality, người thật) → beat studio shot về authentic signal
+
+**Đòn 2 — Quiz-embedded PDP:** thay PDP tĩnh bằng PDP có quiz widget xuất hiện above-fold → **20-40% higher CVR** so với standard PDP với non-branded traffic. Cơ chế: micro-commitment (mỗi câu trả lời = 1 yes) → result page hiện product pre-selected → cảm giác diagnosis cá nhân, không phải pitch. Buyer "sở hữu quyết định" → bỏ ngang sau 3-4 câu = phí công đã đầu tư. Bonus: quiz data (pain trigger, segment) feeds ngược vào targeting — quiz là intelligence engine, không chỉ landing page.
+
+**Technical setup:**
+- Lifestyle image: upload vào GMC **additional images** (tới 10 ảnh/listing) — Google rotate, đọc CTR sau 2-4 tuần
+- Quiz embed: **Perspective / Typeform / Octane AI** nhúng thẳng vào Shopify PDP template, trigger theo **UTM parameter** → quiz chỉ hiện cho non-branded/cold traffic, bypass cho branded/returning buyer (không làm phiền người đã biết mua gì)
+
+**Số liệu compound (cùng 1,000 impressions, cùng budget):**
+| Scenario | CTR | Clicks | CVR | Conversions |
+|---|---|---|---|---|
+| Product-on-white + PDP | 2% | 20 | 2% | 0.4 |
+| Lifestyle image + Quiz PDP | 5% | 50 | 3.5% | 1.75 |
+
+→ **4x conversions từ 2 thay đổi, không tăng spend.** → MaxPro: lifestyle ảnh tay người + chó nằm yên / close-up móng (pattern break trong grid grinder white) + quiz "tình trạng móng chó bạn?" với UTM từ non-branded query. Tie [[quiz-funnels]] §quiz-embedded-PDP.
+
+## Double CSS — +25% auction power miễn phí (EU-specific) ([[ecomamin-google-untapped-strategies]])
+Tồn tại nhờ phán quyết chống độc quyền của Ủy ban Châu Âu: Google phải mở auction Shopping cho CSS (Comparison Shopping Services) độc lập.
+
+**Cơ chế:** Bình thường, store vào Shopping auction qua 1 CSS (Google Shopping) → 1 route → 1 placement opportunity per search. Kết nối thêm 1 CSS provider độc lập → Google có **2 route riêng biệt** cho sản phẩm của bạn vào cùng 1 auction → **2 vị trí thay vì 1** trong carousel (thay vì competitor, competitor, bạn, competitor → bạn, competitor, bạn, competitor).
+
+**Lợi thế bid:** Google Shopping Europe khấu trừ margin cố định ~20% khỏi bid trước khi vào auction. Independent CSS provider KHÔNG có margin đó. Bid €1.00 qua Google Shopping → **€0.80 vào auction**. Bid €1.00 qua independent CSS → **€1.00 vào auction đầy đủ**. Cùng hóa đơn = **~25% more auction power** từ independent CSS route.
+
+**Điều kiện:** EU market only (UK post-Brexit có thể có biến thể tương đương — cần kiểm tra). CSS providers: Kelkoo, Shopzilla, hoặc một số agency chạy CSS riêng cho client. Setup kỹ thuật: connect independent CSS trong Merchant Center → không đụng gì campaign cũ.
+
+> [!note] EU expansion — đây là 1 trong các quick win khi mở market EU (song song Bing, geographic arbitrage ở [[google-ads]] §market-arbitrage)
 
 ## Round number pricing trong Shopping — A/B test xác nhận ([[ecomamin-shopping-ad-format]])
 eCom_Amin: split test $39.99 vs $40 trên Australian brand — **$40 converted better.** Counterintuitive nhưng data rõ.

@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas]
-updated: 2026-08-18
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies]
+updated: 2026-08-20
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -15,6 +15,8 @@ User Bing: 70% trên 55 tuổi, đa số 60+, 73% desktop-only, tech literacy th
 
 ## Hành trình mua khác hẳn
 Google user: mở 8 tab, so giá, đọc Reddit/YouTube review, ngủ 1 đêm rồi mới mua (có thể). Bing user: click kết quả ĐẦU TIÊN thấy, thấy badge "doctor approved" → mua ngay — tin vào thứ ĐẦU TIÊN nhìn thấy (chính là ad của bạn).
+
+> [!tip] Xác nhận nhanh từ Amin 2026 ([[ecomamin-google-untapped-strategies]]): Bing = **cùng campaign Google, 1-click import**, CPC thấp hơn **20-40%**, buyer già hơn và giàu hơn. Dùng làm channel mở rộng khi Google Shopping đã có profit — không cần creative riêng, không cần setup lại từ đầu.
 
 ## Setup + 3-campaign khởi động (KHÔNG hơn)
 `ads.microsoft.com`, ~10 phút, giao diện gần giống Google Ads hệt — copy-paste campaign Google rồi chỉnh target già hơn được luôn.
