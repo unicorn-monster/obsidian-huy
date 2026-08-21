@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies]
-updated: 2026-08-20
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound]
+updated: 2026-08-21
 ---
 
 # Google Ads (kênh search-intent)
@@ -769,3 +769,39 @@ eCom_Amin: *"native ads on google are the most underrated format in ecom right n
 **Net-new so với §Demand Gen đã có trong trang này:** bài đó tập trung vào cold TOF image ads trong Demand Gen (format, creative, bidding). Bài này thêm angle remarketing native: **chạy song song Meta retargeting** thay vì bị kẹt vào 1 platform. Meta frequency giới hạn bởi feed 1 nền tảng; Google native mở remarketing ra 2M+ publisher → cùng warm audience, touchpoint thêm, không bị block.
 
 → **MaxPro:** buyers thấy dog nail grinder ad Meta, không mua ngay. Native remarketing Google = hiện lại đúng grinder đó trên trang tin họ đọc tối hôm đó. Creative đã có (lifestyle shot + UGC từ Meta). Setup: Demand Gen remarketing campaign, audience = past 30-day site visitor, product feed dynamic. Budget modest ($20-40/ngày), track assisted conversion → đây là layer bổ sung, không thay Meta retargeting. Tie §Ecosystem build (layer compound) + §Full ecosystem fashion (YT Shorts → remarketing pool → display convert).
+
+## 90-second brand search audit — tìm growth ceiling thật ([[ecomamin-brand-search-audit]])
+eCom_Amin (2026-08-21): mở incognito window và search brand của mình trong 90 giây — kết quả cho biết setup Google hơn bất kỳ dashboard nào.
+
+**4 bước audit (thứ tự quan trọng):**
+1. **Brand name** (đúng + viết sai chính tả) → bạn có phải kết quả đầu không? Hay đối thủ đang bid trên tên bạn?
+2. **Product category** (không phải brand — "minimalist wallet", "cooling dog bed") → bạn có trong shopping row không? Hay 4 đối thủ chiếm hết?
+3. **Problem query** (thứ buyer gõ trước khi biết category tồn tại — "how to stop my dog overheating", "why do my dog nails bleed when trimmed") → traffic rẻ nhất, hầu như không ai bid
+4. **Lặp lại 4 bước này cho top đối thủ** → compare 2 danh sách
+
+**Pattern phổ biến khi lần đầu audit:** bạn own brand name nhưng không có gì khác; đối thủ own category terms; cả 2 không hiện trên problem query → pool problem query = unclaimed.
+
+**Gap = "growth ceiling thật"** — không phải budget, không phải creative. Khoảng cách giữa "searches đang xảy ra trong category" và "searches bạn xuất hiện" = tiền đang để rơi vào tay đối thủ.
+
+> [!tip] Áp cho MaxPro ngay
+> Search "dog nail grinder", "how to grind dog nails at home", "dog scared of nail clipper" — bạn có hiện không? Problem query = nguồn cold traffic rẻ nhất chưa được khai thác. Screenshot kết quả = roadmap 30 ngày tiếp theo.
+
+## YouTube Shorts = creative parity với Meta — compound ecosystem 1 cú ([[ecomamin-meta-google-compound]])
+eCom_Amin (2026-08-21): *"Google spent the last two years building a SECOND Meta inside YouTube and almost nobody in ecom noticed."*
+
+**YouTube Shorts 2026 = social feed thật:** same swipe behaviour · same creative logic · same hook rules · same UGC aesthetic thắng over polished brand video. Creative đã validate trên Meta → transfer sang YouTube Shorts với **~20 phút reformatting** — giết objection "chúng tôi không có creative cho Google."
+
+**Ecosystem compound — lý do chạy cả 2 không phải optional:**
+- YouTube viewers + display visitors + shopping clickers + search traffic → tất cả feed **cùng 1 audience pool**
+- PMax và Demand Gen tự động pull từ pool đó
+- Buyer xem 50% YouTube Short → bị Shopping pick up 3 ngày sau khi search product category
+- Meta traffic tới landing page → được tag → trở thành **remarketing audience Google tái dùng** trên tất cả placements
+
+**Mental model chuẩn nhất:** *"Meta creates the demand. Google captures it AND recycles it."* Chạy chúng như rival = mistake. Designed to compound.
+
+**Pattern $100k+/mo brands:** chạy cùng creative angles từ Meta → đẩy vào YouTube Shorts + Demand Gen → Search + Shopping catch everything downstream.
+
+> [!warning] Xác nhận + mở rộng §Google = demand-CAPTURE, Meta = demand-GENERATION
+> Bài này bổ sung: YouTube Shorts = kênh thứ 3 trong loop (không chỉ Meta↔Google mà Meta↔YT Shorts↔Search/Shopping), và creative transfer là 20 phút không phải làm mới — lý do không có lý do gì để KHÔNG có YouTube trong mix.
+
+→ **MaxPro:** nếu đang có UGC Meta winners → test YouTube Shorts với cùng hook, format 9:16, không cần quay mới. Setup Demand Gen feed audience từ Meta pixel. Xem [[youtube-ads]] §Shorts để tái dụng đúng cách.

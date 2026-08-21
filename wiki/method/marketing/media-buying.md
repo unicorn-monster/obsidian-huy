@@ -1,6 +1,6 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing]
-updated: 2026-08-12
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, jforjacob-needle-movers-vs-noise]
+updated: 2026-08-21
 ---
 
 # Media buying + testing (Meta 2026)
@@ -275,6 +275,29 @@ jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pret
 
 > [!note] MaxPro hiện tại
 > Còn xa $100k/tháng → bài học **chưa** áp dụng trực tiếp về budget. Nhưng insight đúng ngay: khi fundamentals proven (CPA ổn định, CVR confirm, pixel seasoned), đừng để sợ hãi là lý do không scale. Tập trung prove fundamentals trước.
+
+## Needle-movers vs noise — focus checklist ([[jforjacob-needle-movers-vs-noise]])
+jforjacob (2026-08-21): danh sách contrarian ngắn gọn nhất về đâu nên đặt thời gian.
+
+**Thứ THẬT SỰ move needle:**
+- New products
+- New landing pages
+- New offers
+- New channels
+- New creatives — đặc biệt là **new angles** unlocking new audiences
+
+**Thứ không move needle (dù trông giống việc):**
+- Vibe coding apps bạn đã có thể trả $100/mo để dùng
+- Refining brand guide
+- Updating SOPs
+- Changing Meta structure lần thứ 100
+- Email popups
+- AI apps
+- Tìm cách mới automate shitty static ads bằng AI
+
+**Tie với record-month (§Record-month validation):** DTCMidas record June bằng 6 lever — tất cả đều là "new": new product, more Google, new AI animation ads, new creators, new scaling approach, new LP hero test. Không cái nào là "refine brand guide."
+
+→ MaxPro: khi stuck, trả lời 1 câu: "Cái này là NEW không?" New offer, new angle, new channel, new lander = đi. Còn lại = noise đang disguise như work. Tie [[angles]] (new angle = new audience) + [[google-ads]] §Day-0 starter (new channel).
 
 ## Scaling seasons — biết khi NÀO không scale ([[dtcmidas-scaling-seasons]])
 

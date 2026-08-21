@@ -50,6 +50,7 @@ Domain đang mở: **marketing** (`method/marketing/`). Finance / fulfillment / 
 ## 💼 method/business/ — vận hành business (finance, CS, fulfillment)
 - [[product-selection]] — 3 tiêu chí chọn product DTC (DTCMidas): own edge + ≥70% CM1 + dưới $100 selling price
 - [[ai-agent-automation-stack]] — dựng agent Claude Code + MCP vận hành cả chức năng (PPC/CS/competitor-intel/inventory/content/email/finance/supplier), 4 cấp advisor→assistant→automation, kiến trúc 4 lớp (context-db/MCP/agent/skill-library), mẫu master-prompt tái dùng. ⚠️ số chi phí/saving là minh hoạ pitch, chưa kiểm chứng độc lập. **PPC L1 implementation cụ thể (Claude Projects, không cần MCP): custom-instructions template + 5-file knowledge-base + weekly workflow 45min/acct + decision-history logging + case $2,800/mo waste found**
+- [[growth-ops]] — funnel-first trước khi scale team: lean $5-10M/mo vs big team same revenue barely profitable; sequence đúng (acquire→scale LTV); hire test = "giúp acquire customers hoặc tăng LTV không?"
 
 ## 🧘 method/personal/ — mindset, focus & vận hành bản thân + công cụ
 - [[focus-and-deep-work]] — lớp kỷ luật người vận hành: 1 ưu tiên, đừng dabble, flow dài, make-then-manage, urgency. Nguồn: Tim Denning. (Phục vụ "Stuck on" — quá nhiều idea, cần focus.)

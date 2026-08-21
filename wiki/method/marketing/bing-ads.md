@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies]
-updated: 2026-08-20
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer]
+updated: 2026-08-21
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -47,6 +47,24 @@ Test (ngày 1-14): $50/ngày ($30 branded/$20 problem). Scale (ngày 15-30): $10
 
 ## Niche hợp / không hợp
 **Hợp:** joint/arthritis supplement, pain relief (brace, back support, compression sock, heating pad), sleep aid, mobility (cane, walker, grab bar, shower seat), vision (reading glasses, magnifier, blue-light), hearing aid/accessory, heart-health (CoQ10, fish oil), memory/brain-health, digestive (probiotic, fiber, enzyme), diabetes management. **Không hợp:** thời trang/apparel (quá visual cho text-ad), electronics (quá kỹ thuật, so sánh nhiều), beauty (sai demographic), fitness equipment, gaming — những cái này để Google/Meta lo.
+
+## Affluent professional profile — tại sao họ convert ([[ecomamin-bing-wealthy-buyer]])
+eCom_Amin (2026-08-21): mở rộng từ "senior 65+" sang **"professional 45-65"** — 41% US Bing users earn $100k+/năm, median age 45-65, desktop-heavy, nhiều người dùng máy tính công ty default Edge với Bing. Lý do quan trọng không chỉ là income: **họ tiếp xúc với FRACTION blackhat ecom advertising** so với người dùng Instagram — không bị retarget 14 brands cùng fake countdown timer → **scepticism reflex yếu hơn đáng kể** so với Meta.
+
+**Economic case mới (2026):** CPCs thấp hơn Google 20-40% vì 90% ecom brands chưa mở Microsoft Ads account. Combination: cheaper clicks + wealthier buyer + higher trust + lower competition = *"doesn't exist anywhere else in paid search right now."*
+
+**Case data (fresh account, health category):** $2,800 spend → $20,000 revenue trong 4 tuần = **7.1x ROAS**.
+
+**Setup thực chiến:**
+- One-click import từ Google campaign → drop bid 20-30% sau khi import (Google bid levels overbid trên Bing)
+- Start branded $20-30/ngày × 7-14 ngày đầu để build account trust trước khi scale
+- **Landing page compliance:** working contact page + visible privacy policy + clear refund terms + **không aggressive popup first visit** (Bing manual review landing page kỹ hơn Google)
+- **Ad copy editorial rules nghiêm hơn Google:** không ALL CAPS headlines, không unsubstantiated superlative → write clean copy, personality để dành cho landing page
+
+**Categories print hardest:** supplements · home goods · premium accessories · **pet** · fitness equipment — xác nhận thêm Maxpro/pet store là viable target.
+
+> [!tip] Áp cho MaxPro
+> Bing wealthy buyer 45-65 professional = pet owner có disposable income, ít nhạy giá, ít bị burned bởi fake ads. Pet category được tác giả list cụ thể là "print hardest." Test nhỏ $20-30/ngày branded + category trước khi tin — lower bar hơn health/senior niche (đã có $2.8k→$20k case).
 
 ## Claim về "cửa sổ cơ hội" (giữ nguyên như tuyên bố tác giả, KHÔNG coi là fact chắc chắn)
 2023 discovery (CPC $0.40-0.80) → 2024 early-adopter (CPC $0.60-1.20) → 2025 "hiện tại" (CPC $0.80-2.00, vẫn under-utilized) → 2026 dự đoán (CPC $1.50-3.50) → 2027-28 dự đoán bão hoà (CPC ngang Google). Tác giả tự nhận **~18-24 tháng "easy money"** tính từ lúc viết (11/2025). *(Ghi chú: đây là framing bán hàng của tác giả, không phải số liệu ngành độc lập — coi là giả định cần tự kiểm chứng trước khi đặt cược ngân sách lớn.)*

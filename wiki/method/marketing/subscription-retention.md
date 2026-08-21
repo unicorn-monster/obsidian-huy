@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix]
-updated: 2026-08-19
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey]
+updated: 2026-08-21
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -253,6 +253,22 @@ Chase Dimond được thuê để fix winback flow — viết lại 3 lần tron
 **Insight cốt lõi:** 2 tháng viết lại email không di chuyển được 1 điểm churn — 1 câu đổi billing cadence trên confirmation page thay đổi toàn bộ. Churn thường là **offer/billing problem**, không phải email problem.
 
 → Áp cho MaxPro (khi mở consumable sub): (1) launch với monthly *và* quarterly option từ đầu; (2) offer quarterly trên order confirmation (không phải PDP); (3) quarterly discount đủ thật (không phải 5% token); (4) audit refill cadence vs actual usage cycle trước khi set monthly interval. Tie §Quarterly/90-day sub (audit margin TRƯỚC khi defer revenue — scalabilityschool nuance) + §Day-30 rebill (cùng insight: billing moment = highest churn risk, cần reframe).
+
+## Symptom-based cancel survey → right save offer ([[maxwellcopy-cancel-flow-survey]])
+maxwellcopy (2026-08-21): nhiều brand overcomplicate cancel flow. Fix đơn giản nhất: **survey 1 câu hỏi — lý do tại sao họ rời**.
+
+**Cơ chế "doctor analogy":** doctor hỏi triệu chứng TRƯỚC khi kê đơn → show đúng save offer theo lý do cancel. Price-sensitive → discount offer. Too much product → delay/skip. Product not working → education + reset.
+
+**2 lợi ích cốt lõi:**
+1. **Show right save offer** — không blast 1 offer cho mọi lý do cancel (blunt instrument). Specificity increases save rate.
+2. **Data feeds upstream funnel** — survey data cho biết CHÍNH XÁC tại sao người cancel, tiết kiệm thời gian optimize sai thứ. Churn vì "too expensive" → front-end pricing/anchor problem, không phải retention problem.
+
+**Benchmark:** cancel flow tốt recovery **15%+ churning subscribers**. *"Many people try to obsess over keeping people subscribed when they enter this flow... but if anybody reaches at this point, they're pretty much already lost... Use this info from your surveys to influence how you use your messaging on the front end."*
+
+**Tie với §4 metric (recovery 15-20%)** — trang này đã ghi target 15-20%, bài mới confirm + thêm cơ chế cụ thể (symptom-based branching). Tie **§Rule 9** (cancel incentives theo lý do) — rule 9 nói WHAT offer theo lý do, bài này nói HOW to get lý do (survey). 2 bài cùng nhau = full cancel flow.
+
+> [!note] Net-new so với §Founder video cancel flow
+> Founder video = threshold tâm lý (khó cancel người thật). Survey = sau đó — khi họ vẫn muốn cancel, hỏi lý do trước khi confirm. Sequence tối ưu: founder video xuất hiện → nếu vẫn muốn cancel → survey lý do → show branched save offer → confirm cancel.
 
 ## Tactic chống churn: báo trước quà tặng kỳ tới ([[maxwellcopy-churn-free-gift-reveal]])
 maxwellcopy (2026-08-17): *"Easy ecom hack to reduce churn."*
