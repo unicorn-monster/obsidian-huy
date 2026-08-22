@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint]
-updated: 2026-07-12
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial]
+updated: 2026-08-22
 ---
 
 # Native ads (kênh open-web)
@@ -206,3 +206,20 @@ advertising_jan (2026-07-04): advertorial đang chạy **1.6M impressions/tháng
 - Creative job ở TOF native = earn click (CTR-first math trên) → ugly trông organic → CTR cao → CPC thấp hơn.
 - **Tie [[ugly-ads-method]]:** cùng "ugly = intentional" thesis. FB ugly-ads (unhinged-personal-confession) và native open-web đều reward aesthetic authentic-organic, không polished-brand. Kênh khác nhau, nguyên lý creative chung.
 - **MaxPro:** khi tới readiness gate native ($50-100k/mo), test ugly creative đầu tiên — không polish, không logo, không product-shot chuẩn. Paw close-up chụp bằng điện thoại > studio shot.
+
+## Google-native placements — Discover / Gmail / MSN ([[eCom_Amin-native-placement-advertorial]])
+eCom_Amin: trong khi §trang này cover Taboola/Outbrain (open-web native), có 1 **kênh native song song trong chính Google Ads** ít người khai thác: **Discover, Gmail, MSN placements** — cùng cơ chế "trông như content xung quanh", nhưng distribute qua Google ecosystem.
+
+**Tại sao không phải standard display:** banner blindness (brain filed shape "rectangular ad" under "not content" từ 2005). Google-native bypass bằng cách match context — trong Discover trông như recommended article, trong Gmail trông như email, trên MSN trông như tin tức. CTR = **2-5x standard display**, CPC thường thấp hơn (Google reads engagement as quality signal).
+
+**Per-placement creative rules:**
+
+| Placement | Context | Creative rule | Anti-pattern |
+|---|---|---|---|
+| **Discover** | Scroll news/interest feed | Editorial lifestyle imagery + curiosity headline như article title | "Shop our formula" — breaks native feel |
+| **Gmail** | Inbox giữa email cá nhân | Subject line = ad, viết như newsletter | "SALE: 30% off" — screams promo |
+| **MSN** | Đọc news thật | News-style headline + specific data point | Claim chung, không anchor data |
+
+**Landing page rule (cùng với Taboola):** native traffic click vì tò mò về **article** → land phải là article. Separate domain, không logo header, không store nav, không product above fold. **40% word count vào mechanism** = điểm reader ngừng tin writer, bắt đầu tin LOGIC → product inherits trust automatically.
+
+**Sau đó nhân sang Bing** với 20-40% lower CPC (tie [[bing-ads]] §Bing gap). Tie [[google-ads]] §Google-native placements (full per-placement table + trust chain).

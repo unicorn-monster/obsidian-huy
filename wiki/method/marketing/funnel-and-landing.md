@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising]
-updated: 2026-08-10
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers]
+updated: 2026-08-22
 ---
 
 # Funnel + landing congruency
@@ -182,3 +182,20 @@ Hai luật nhỏ nhưng bịt đúng chỗ rò của funnel nhiều trang:
 | Từ comparison → PDP, chưa mua | testimonial của người **đã chọn đúng sản phẩm đó** |
 
 - **Email capture theo tầng** (mỗi trang 1 mồi khác nhau, không dùng chung popup giảm giá): advertorial → bản đầy đủ/PDF của chính bài đang đọc · quiz → *"save your results"* **trên trang kết quả** (đừng hỏi email giữa chừng, xem [[quiz-funnels]]) · comparison → *"nhận bảng so sánh dạng PDF"* · PDP → exit-intent discount. Chuỗi post-purchase 5 email sau đó → [[email-marketing]].
+
+## Cold traffic funnel ranking — trust transfer principle ([[eCom_Amin-google-ads-funnel-tiers]])
+eCom_Amin ($13M, 47 accounts): **D→S tier system** — gap giữa D-tier và S-tier trên identical traffic = **4× CVR**. Principle này apply cho mọi cold traffic channel (Google, Meta, native).
+
+| Tier | Type | Gap so với tier dưới |
+|---|---|---|
+| D | Raw PDP | Baseline — most expensive mistake in ecom |
+| C | Category page | Lets buyer browse, no education |
+| B | Listicle | Meets buyer in evaluation mode (**include genuine downside**) |
+| A | Comparison | Kills final objection, conquest traffic (**admit competitor's wins**) |
+| **S** | **Advertorial** | **Alone at the top** — mechanism section |
+
+**Trust principle (bổ sung cho §proof bốc hơi):** Cold traffic không distrust product — distrust **YOU**. Advertorial giải quyết bằng cách build logical framework trước, introduce product sau. Trust chain: **reader → logic → product** (brand là thứ cuối cùng quan trọng nhất).
+
+**Advertorial rule:** host off main domain — seeing your brand URL breaks the disguise instantly.
+
+Tie [[google-ads]] §Cold traffic funnel tier list D→S (full tier table + per-channel context) · [[presell-pages]] §advertorial anatomy · [[native-ads]] §3 trigger tâm lý (cùng trust transfer mechanism, native kênh).

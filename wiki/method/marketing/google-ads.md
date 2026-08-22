@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound]
-updated: 2026-08-21
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound, eCom_Amin-google-ads-funnel-tiers, eCom_Amin-native-placement-advertorial]
+updated: 2026-08-22
 ---
 
 # Google Ads (kênh search-intent)
@@ -803,5 +803,51 @@ eCom_Amin (2026-08-21): *"Google spent the last two years building a SECOND Meta
 
 > [!warning] Xác nhận + mở rộng §Google = demand-CAPTURE, Meta = demand-GENERATION
 > Bài này bổ sung: YouTube Shorts = kênh thứ 3 trong loop (không chỉ Meta↔Google mà Meta↔YT Shorts↔Search/Shopping), và creative transfer là 20 phút không phải làm mới — lý do không có lý do gì để KHÔNG có YouTube trong mix.
+
+## Cold traffic funnel tier list D→S — eCom_Amin ($13M, 47 accounts) ([[eCom_Amin-google-ads-funnel-tiers]])
+eCom_Amin: **gap giữa D-tier và S-tier trên identical traffic = ~4× conversion rate**. Built across supplements, pet, jewelry, gadgets, fashion.
+
+| Tier | Funnel type | Vấn đề |
+|---|---|---|
+| **D** | Raw product page (PDP) on cold traffic | Buyer searched problem, landed on checkout, left in 3s. Page assumed trust never built. **Vẫn là default của hầu hết accounts — đắt nhất** |
+| **C** | Collection / category page | Browse thay vì commit, nhưng vẫn zero education, zero mechanism, zero reason to believe vs 4 tab khác |
+| **B** | Listicle | "Top 5 X for Y", sản phẩm #1, write-up sâu nhất. Meets buyer in evaluation mode. **Phải include genuine downside cho sản phẩm của mình** hoặc cả bài đọc như propaganda |
+| **A** | Comparison page | Kills last objection trực tiếp. Buyer đang chọn giữa bạn và tên đối thủ cụ thể — page make the choice for them. **Wins on conquest traffic**. Phải admit chỗ competitor beats you hoặc không ai tin phần còn lại |
+| **S** | Advertorial | Reads like magazine article, converts like sales page. **Mechanism section** là lý do nó đứng đầu một mình |
+
+**Nguyên lý nền:** *"Cold traffic doesn't distrust your product. It distrusts YOU."* Advertorial giải quyết điều này bằng cách **không bao giờ ask for trust in the brand** — thay vào đó build logical framework mà reader tin trước, explain tại sao mọi thứ họ đã thử đều fail ở structural level, rồi CHỈ SAU ĐÓ introduce product như obvious implementation của logic họ đã accept.
+
+**Trust transfer chain:** reader → logic → product. Brand là thứ cuối cùng quan trọng.
+
+**Key rule:** host advertorial off main domain — khoảnh khắc thấy brand URL, disguise breaks và toàn bộ sụp đổ thành ad.
+
+Tie [[funnel-and-landing]] (cold traffic funnel portfolio) · [[presell-pages]] (advertorial anatomy) · §5-funnel×buyer-stage CVR-bar (đã có ở trang này, bổ sung tier rationale).
+
+## Google-native placements — Discover / Gmail / MSN + advertorial ([[eCom_Amin-native-placement-advertorial]])
+eCom_Amin: **highest converting placement in Google Ads hiện tại không phải search** — là native ad trông như article, nằm trong Gmail inbox hoặc Discover feed, land trên page không có brand navigation.
+
+**Tại sao native placement thắng standard display:**
+- Banner blindness: brain filed "rectangular ad unit" under "not content" từ 2005 → eye physically skips
+- Native sidestep bằng cách trông như whatever surrounds → engagement TRƯỚC khi skepticism reflex activate
+- CTR = **2-5x standard display**, CPC thường thấp hơn (Google reads engagement as quality)
+
+**Per placement — creative formula:**
+
+| Placement | Creative rule | Ví dụ headline |
+|---|---|---|
+| **Discover** | Editorial lifestyle imagery + curiosity headline như article title | "The surprising reason most sleep supplements don't work" |
+| **Gmail** | Subject line IS the ad — write như newsletter, không phải promo | "Your cortisol is probably spiking at 3am" |
+| **MSN** | News-style headline + specific data point | "Australian study finds 73% of adults over 40 are deficient in this mineral" |
+
+**Landing page = quyết định convert hay không:**
+- Gửi native traffic vào product page = wasted toàn bộ setup (họ click vì tò mò về **article**, không phải product)
+- Host advertorial trên **separate domain** — không phải yourbrand.com
+- Layout editorial: không store navigation, không logo in header, không product image above the fold
+- Structure: **hook → agitation → mechanism → solution → proof → soft CTA**
+- **40% word count vào mechanism** — đây là chỗ reader stops trusting writer, starts trusting LOGIC → product inherits that trust automatically
+
+**Bước sau:** import campaigns sang **Bing** → chạy identical funnel với **20-40% lower CPC** (tie [[bing-ads]] §Bing gap 7x ROAS case).
+
+Tie [[native-ads]] §3 trigger tâm lý của advertorial (pattern interrupt → authority transfer → belief shifting) — cùng cơ chế, đây là Google-native variant. Tie §Cold traffic funnel tier D→S ở trên (advertorial = S-tier vì cùng trust-transfer chain).
 
 → **MaxPro:** nếu đang có UGC Meta winners → test YouTube Shorts với cùng hook, format 9:16, không cần quay mới. Setup Demand Gen feed audience từ Meta pixel. Xem [[youtube-ads]] §Shorts để tái dụng đúng cách.

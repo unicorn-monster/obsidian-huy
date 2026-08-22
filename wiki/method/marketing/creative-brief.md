@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework]
-updated: 2026-08-16
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework, ecomchasedimond-ads-boring-not-hated]
+updated: 2026-08-22
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -268,3 +268,14 @@ KitKat ad: ảnh bình thường của người đứng quanh nhìn điện tho�
 3. **No other brand could run this exact ad** — insight integrated, không phải generic visual.
 
 → MaxPro: insight nào chỉ MaxPro mới sở hữu? Thử: ảnh chó ngủ trong lúc đang được mài móng (contrast với expectation "đau, giãy") → "Have a Quiet Moment" — brand insight *"quiet enough dogs don't notice"* baked into image thay vì caption. Tie [[angles]] §brand-insight-angle (brand truth visible in image, not explained).
+
+## People don't hate ads — they hate boring ones ([[ecomchasedimond-ads-boring-not-hated]])
+ecomchasedimond: experiment — website nơi **toàn bộ điểm là nhìn vào ads**.
+
+- 1,778 visitors → **1,756 ad clicks** (~1:1 ratio)
+- 35 companies competing trên live leaderboard (trả $1 nhiều hơn leader = ad to nhất trang)
+- Conclusion: *"Maybe people don't hate ads. Maybe they hate boring ones."*
+
+**Insight cốt lõi:** engagement không phải vấn đề của ads như medium — là vấn đề của creative quality. Khi ads đủ interesting/competitive, người ta chủ động click chúng.
+
+**Áp vào creative brief:** benchmark không phải "đủ không bị skip" — mà là "đủ để người muốn xem lại". Tie §Brand insight baked vào image (§KitKat case): ad đỉnh = ad người muốn xem lại. Tie [[hooks]] §scroll-stopper rule: nếu ad không thú vị với người không cần sản phẩm, nó không đủ thú vị với người cần. **MaxPro:** test với người không nuôi thú cưng — nếu họ muốn xem lại = creative đạt bar.

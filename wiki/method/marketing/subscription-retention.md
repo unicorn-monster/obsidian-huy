@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey]
-updated: 2026-08-21
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy]
+updated: 2026-08-22
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -276,5 +276,23 @@ maxwellcopy (2026-08-17): *"Easy ecom hack to reduce churn."*
 **Cơ chế:** Báo với subscriber quà miễn phí nào đang chờ trong đơn hàng kế tiếp → **khó cancel khi biết quà đang trên đường tới**. Loss-aversion thuần: cancel ngay = mất quà đã biết sẽ nhận.
 
 **Cách áp:** trong email billing reminder hoặc onboarding flow, thêm dòng *"Your next order includes: [tên quà cụ thể]"* → cho thấy CHO ĐÚNG quà gì (không vague "bonus surprise") để kích loss-aversion. Cụ thể > vague.
+
+## Free trial → subscription auto-convert — Lumin model ([[eCom_Amin-lumin-free-trial-strategy]])
+eCom_Amin teardown Lumin ($1M/mo men's skincare): **cách acquisition qua free trial set lên subscription thay vì bán từ đầu**.
+
+**Cấu trúc:**
+- Day 0: free product (pay shipping only) → 21 days to decide
+- Day 21: **auto-convert thành subscription** (không cần buyer re-decide)
+- Buyer set frequency, modify, cancel whenever — control remains with them
+- First-purchase cost = shipping only → LTV = 6-12-18 month subscription revenue
+
+**Tại sao model này work cho retention:**
+- Buyer "try trước quyết sau" → skepticism thấp hơn → habit formation window mở ra trước khi họ commit tài chính lớn
+- Day 21 = enough time để product chứng minh → convert rate cao hơn cold "subscribe now"
+- Onboarding tự nhiên vào 21-day trial (khớp §21-day 2-phase framework)
+
+**So với standard subscription:** standard = yêu cầu trust DAY 0 với người lạ. Trial = earn trust trong 21 ngày TRƯỚC khi auto-charge. **Churn source shifts:** từ "không muốn thử" sang "muốn thử nhưng quên cancel" — cả 2 favorable so với không thử.
+
+**Liên kết:** Tie [[offer-and-cta]] §Free trial front-end (cơ chế acquisition đầu phễu). ⚠️ Cần unit economics: shipping cost phải < value của long-term subscriber. Với MaxPro (one-time product, không consumable) — model này chưa áp được trực tiếp; nhưng bit refill subscription có thể dùng cấu trúc tương tự.
 
 **Hàm ý với §10 driver LTV:** Driver #8 (Free gift/incentive) đã có ở trang này — tactic này là cách ÁP Driver #8 ở giai đoạn churn-risk, không chỉ lúc onboarding. Tie §Rule 2 (billing reminder A/B) — thêm quà reveal vào billing email là 1 variant đáng test. Tie §Recovery 15-20% (khi khách định cancel → show upcoming gift = incentive giữ tự nhiên, không cần discount).

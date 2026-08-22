@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven]
-updated: 2026-07-16
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy]
+updated: 2026-08-22
 ---
 
 # Offer + CTA mechanics
@@ -152,3 +152,26 @@ Nguồn: [[ecomchasedimond-omnisend-switch-ad]] (Chase Dimond, short-form switch
 - **CTA = self-proof, không claim:** *"Open the pricing page. Plug in your actual contact count. Pull your current invoice at that same list size. Look at them side by side... Let the numbers prove it on your list, not mine."* → không bắt tin lời quảng cáo, bắt khách tự tính = trust cao hơn tuyên bố.
 - **Risk-reversal + friction-killer:** *"And migration? They handle it."* + *"Check your numbers. Takes less than 60 seconds."* → gỡ nỗi sợ chuyển đổi + micro-commit (60s = yes-ladder tí hon, [[copywriting]] §12).
 - **Cơ chế = value-gap self-discovery:** thay vì mình nói "rẻ hơn", để khách tự thấy con số → đối chiếu deny-the-sale + "just go look at the price" (§Price-anchor). MaxPro áp: thay vì "grinder này êm hơn", đóng khung *"đếm xem 1 năm bạn trả groomer bao nhiêu lần $45 — cộng lại, rồi so với $39.95 một lần"* = để phép tính tự bán.
+
+## Free trial front-end offer — Lumin $1M/mo model ([[eCom_Amin-lumin-free-trial-strategy]])
+eCom_Amin: Lumin (men's skincare, niche bão hoà, 40+ active Google Ads creatives) — toàn bộ model rests on 1 structural decision: **front-end offer là free trial**.
+
+**Cơ chế hoạt động:**
+- Free product, you pay shipping, 21 days to decide
+- Mọi competitor lead bằng $34/$49/$28 → mọi listing trong Shopping grid đều **hỏi tiền trước khi prove anything**
+- Lumin's listing hỏi **shipping only** → cùng click cost nhưng **click rate cao hơn rõ rệt**
+- **"Friction at entry point is the single biggest lever on cold traffic"** → Lumin stripped entry friction out
+
+**Subscription auto-convert (ngày 21):**
+- Day 21 → trial auto-convert thành subscription
+- Buyer set own frequency, modify hoặc cancel whenever
+- Customer acquired for cost of shipping → 6-12-18 month LTV
+- First purchase stops mattering to the model — họ đang chơi game khác
+
+**2 thứ thêm vào stack:**
+- **Founder-led branding:** người thật on camera giải thích tại sao product tồn tại → skepticism reflex train để distrust logos, không phải faces
+- **VSL làm heavy lifting** trên landing page thay vì spec-sheet PDP
+
+**Principle từ eCom_Amin:** *"The offer does the strategic work. The ads handle delivery."* Hầu hết brand fix cold traffic bằng better creative trong khi front-end vẫn ask $49 từ người gặp họ lần đầu 8 giây trước.
+
+**Liên kết:** model này là extreme end của §"perceived value > price" (4 levers). Tie [[subscription-retention]] §Lumin free trial (cơ chế subscription sau acquisition). ⚠️ Model này cần unit economics chắc (shipping cost < LTV gap) — không phải mọi category đều viable.

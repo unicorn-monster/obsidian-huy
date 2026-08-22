@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow]
-updated: 2026-08-18
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow]
+updated: 2026-08-22
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -110,3 +110,15 @@ Format mới từ @hookrate_ (chia sẻ trong cộng đồng AI ads của @0xROA
 
 ## Áp cho tôi (Maxpro / ecom video ad)
 1 video ad Maxpro nên route: demo mài móng (**proof**) → Kling · testimonial mặt-nói → Sora/Seedance · cutaway b-roll → Veo Lite 8s · nền → Seedance Mini. **Render silent + lay 1 VO** (giữ SFX chỉ ở beat tiếng grinder = bán "ultra-quiet"). Sửa 1 chi tiết → Gemini Omni thay vì re-render. → tactic UGC/broll ở [[creative-brief]].
+
+## Canvas UGC distribution — phone-poster model ([[0xROAS-canvas-ugc-ai-workflow]])
+@0xROAS: sau khi production AI video xong, distribution model tiết kiệm nhất:
+
+- Thuê **young people** (18-25) đăng AI video từ điện thoại cá nhân của họ
+- Trả **$50-100/tháng** để họ đăng hằng ngày — bạn gửi toàn bộ content đã render
+- Kết quả: **infinite character, infinite content ideas** với chi phí biến đổi gần 0
+- So sánh: influencer entitlement cost $5,000+/tháng → mô hình này save ~$5k/tháng
+
+**Cơ chế sức mạnh:** AI tạo content → người thật đăng từ tài khoản thật → platform coi là UGC organic, không phải branded content → organic reach cao hơn paid distribution. Không phải "fake influencer" — người đăng thật, chỉ là content do AI tạo.
+
+**Tie [[ai-video-production]]:** model này là bước CUỐI của pipeline (production → distribution). Dùng bất kỳ format nào đã build (yapper, podcast ad, street interview) → ship sang phone-poster để distribute. MaxPro: 2-3 người đăng clip "grooming at home" mỗi ngày = content moat mà không cần quay.

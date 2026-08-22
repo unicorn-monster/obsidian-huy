@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training]
-updated: 2026-08-18
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats]
+updated: 2026-08-22
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -85,3 +85,14 @@ maxwellcopy (2026-08-18): đánh giá thực tế sau nhiều năm vận hành �
 **Thực tế vận hành:** *"Every now and then [we drop the ball]"* — kể cả agency tốt nhất cũng có tháng mất client, đôi khi lỗi thật. **Chính sách refund/free month** = ngân sách cần có mỗi tháng để xử lý tình huống này. Không phải yếu đuối — là vận hành trưởng thành.
 
 **Hàm ý khi thuê agency:** hỏi thẳng về training culture (*"team học gì mỗi tuần?"*) + xem chất lượng insight trong báo cáo (Systems). Nếu báo cáo hoàn hảo nhưng không có insight → họ đầu tư sai chỗ. Tie §Red-flags (không có insight trong báo cáo) + §Communication cadence (cadence = Systems, không phải độ tin cậy) + §Operational breakthroughs §Education-company-mindset (daily training xác nhận từ cả 2 nguồn).
+
+## Benchmark churn rate agency — maxwellcopy July 2026 ([[maxwellcopy-agency-july-stats]])
+maxwellcopy (2026-08-22): record revenue + profit month, 100+ brands on retainer.
+
+**Benchmark data points đáng tham khảo:**
+- **Churn rate 3.5%/tháng** (below self-set goal of 5%; tốt nhất là tháng 6 với 1.5%)
+- **17 new brands/tháng** trong tháng record (mix: 2 nine-figure + 3 eight-figure + 12 multi-seven-figure)
+- **Sales calendar booked 10-14 days out** = pipeline signal của agency đang ở demand-exceeds-supply
+- **Soft launch landing pages** với pilot clients trước khi roll out full service = smart new-offer testing pattern
+
+**Áp cho người thuê agency:** 3.5% churn = benchmark "decent" với Maxwell (5% = threshold); tháng tốt nhất 1.5%. Khi agency pitch churn rate → hỏi *rolling 6-month average*, không tháng tốt nhất. 3-5% = acceptable; >7% = red-flag service quality. Tie §Red-flags (hỏi churn rate như 1 trong các signal) + §Pod structure (pod ratio giữ tight = lever chính để giữ churn thấp).
