@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula]
-updated: 2026-08-19
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email]
+updated: 2026-08-24
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -553,3 +553,29 @@ Confirm + distill §Order confirmation (bad vs good, [[maxwellcopy-order-confirm
 Order confirmation = email open rate 100% — mọi người đều mở. 4 element này chuyển transactional receipt thành **first retention touchpoint**. Cơ chế giảm buyer's remorse: khách vừa bỏ tiền ra đang ở trạng thái "mình có quyết đúng không?" — email đúng reframe thành "mình vừa vào đúng team."
 
 → MaxPro: đối chiếu với §Order confirmation (bad vs good) trên để có checklist đầy đủ. Quick audit: mở Shopify order confirm → check 4 element trên có không. Mỗi element thiếu = revenue rò từ post-purchase. Tie [[subscription-retention]] §Day-30 rebill (cơ chế tương tự — framing đúng ở thời điểm charge = chống churn).
+
+## Pop-up form: Bad vs Good — framework 4 điểm ([[maxwellcopy-popup-form-good-bad]])
+maxwellcopy: framework ngắn gọn phân biệt pop-up form thất bại vs thành công.
+
+**Bad pop-up:**
+- Offer bị chôn — không phải thứ đầu tiên nhìn thấy
+- Copy thừa không ai đọc
+- Hỏi câu hỏi nhưng setup phía sau sai
+- Không branded, không cá tính
+
+**Good pop-up:**
+- **Offer front & center** — không thể bỏ qua
+- **Low-barrier question trước, email sau** — micro-commitment trước khi hỏi data (cùng cơ chế §Quiz-style pop-up 15-20% opt-in ở [[quiz-funnels]])
+- **Thu data để personalise email sau** — câu hỏi = zero-party data feed Klaviyo, không chỉ warm-up
+- **Branded + engaging** — trông đủ fun để người thật sự tương tác
+
+→ MaxPro: Q1 pop-up = "size chó bạn?" (Large / Medium / Small + Toy) → email field → Klaviyo tag theo size → welcome #1 điều chỉnh angle theo size (doorway power vs noise sensitivity). Tie §Quiz pop-up → welcome flow segmentation + §Alia popup (tool đề xuất).
+
+## "Golden ticket" email — lucky winner framing ([[maxwellcopy-golden-ticket-email]])
+maxwellcopy: tactic đơn giản, engagement cao. Gửi email nói người nhận là **1 trong những lucky winner** → tặng discount code cho **mystery offer** (không lộ offer ngay).
+
+Cơ chế = **curiosity gap + lottery identity**: người được báo "bạn là lucky winner" muốn mở cái mình được — tâm lý lottery không cần grand prize để kích hoạt, chỉ cần *"phần thưởng chỉ mình tôi có."* Mystery offer giữ tò mò cho tới khi click. @maxwellcopy: **"Crazy engagement."**
+
+Execution: subject gợi ý "bạn được chọn" → body ngắn nêu winner framing + mystery → 1 nút reveal. Offer trong link không cần khác thường — novelty nằm ở framing. Tie §1 Mystery discount (curiosity gap, abandonment flow data) + §CTA click hacks #4 (magic button = mystery is the draw).
+
+→ MaxPro: *"1 trong 47 chủ nuôi được chọn hôm nay — xem phần thưởng của bạn."* Subject: `You've been selected...` Dùng 1-2 lần/tháng tối đa — giống §Pattern interrupt, hiệu lực = novelty, overuse làm mất hiệu lực.

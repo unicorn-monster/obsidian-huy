@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow]
-updated: 2026-08-22
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities]
+updated: 2026-08-24
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -57,7 +57,7 @@ Beyond model selection và cost: **4 format types** đang chạy tốt với AI 
 - **AI mini VSLs** — condensed video sales letter, 60-120s. TOF-to-mid-funnel bridge (educate + belief-seed).
 - **Ted-talk style** — single authoritative speaker, educational frame. TOF brand-credibility.
 
-Signal từ @0xROAS: cả 4 format giờ sản xuất được với AI với chi phí rất thấp — barrier format đã gần bằng 0, creative strategy (angle, hook, copy) là thứ còn differentiator. **Reminder quan trọng:** BOF cũng là "game changer" — cùng AI toolset phải extend sang retargeting, không chỉ dùng cho prospecting.
+Signal từ @0xROAS: cả 4 format giờ sản xuất được với AI với chi phí **dưới $2/video** ([[0xroas-ai-video-formats-under-2-dollars]]) — barrier format đã gần bằng 0, creative strategy (angle, hook, copy) là thứ còn differentiator. **Reminder quan trọng:** BOF cũng là "game changer" — cùng AI toolset phải extend sang retargeting, không chỉ dùng cho prospecting.
 
 Route by funnel stage: yappers + podcast ads = TOF (cold traffic, organic-looking) · mini VSLs + ted-talk = TOF/mid (educate + belief-seed) · short testimonial/demo = BOF (retargeting, already aware). Tie §3 phát hiện đáng tiền ở trên (production economics → route theo shot) + [[creative-brief]] (UGC/broll production) + [[copywriting]] §10 (story formats).
 
@@ -82,6 +82,8 @@ Kết quả: video UGC "street interview" style cực kỳ realistic, cost thấ
 - **AI animation ads** — differentiated creative cho category đã saturation UGC
 
 → Toàn bộ 5 format này dùng 1 production pipeline (Seedance 2.5 + references), tie §AI UGC hyper-realistic ở trên. Với Q4: nếu chỉ 1 model → **Seedance 2.5** là default. Pricing bảng trên (2.5 ~= 2.0 family per-second).
+
+**Seedance 2.5 — capability update ([[0xroas-seedance-25-capabilities]]):** @0xROAS (2026-08-23) xác nhận cải tiến kỹ thuật: credit cost giảm **30-40%** (không cần yearly plan) · **better audio reference mode** · **better lipsync** · **better physics**. Format đang thêm vào module: drama ads (cũng dùng được với 2.0 method cũ) · animation drama ads · automatic b-rolls. Drama ads + automatic b-rolls là net-new so với 5 format Q4 ở trên — expand Seedance 2.5 từ UGC/realistic sang full storytelling spectrum + production-assist tự động.
 
 ## Native statics → blog video format ([[0xroas-ai-native-statics-blog-video]])
 Format mới từ @hookrate_ (chia sẻ trong cộng đồng AI ads của @0xROAS): **upgrade native statics thành blog video** — tức là chuyển 1 ảnh tĩnh native-style thành video ngắn dạng bài blog/editorial. Input: 1 image + 1 prompt → output: video native FB/Meta cracking-style. Chi phí gần như 0 nếu đã có native static. Hợp nhất [[native-ads]] (editorial frame) + [[ai-video-production]] (AI generation) trong 1 workflow siêu ngắn.
