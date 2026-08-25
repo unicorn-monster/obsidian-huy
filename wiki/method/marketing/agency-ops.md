@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats]
-updated: 2026-08-22
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi]
+updated: 2026-08-25
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -96,3 +96,9 @@ maxwellcopy (2026-08-22): record revenue + profit month, 100+ brands on retainer
 - **Soft launch landing pages** với pilot clients trước khi roll out full service = smart new-offer testing pattern
 
 **Áp cho người thuê agency:** 3.5% churn = benchmark "decent" với Maxwell (5% = threshold); tháng tốt nhất 1.5%. Khi agency pitch churn rate → hỏi *rolling 6-month average*, không tháng tốt nhất. 3-5% = acceptable; >7% = red-flag service quality. Tie §Red-flags (hỏi churn rate như 1 trong các signal) + §Pod structure (pod ratio giữ tight = lever chính để giữ churn thấp).
+
+## Bài test duy nhất khi đánh giá agency: có kiếm ra tiền hơn phí trả không ([[jforjacob-evaluate-agencies-roi]])
+
+jforjacob rút gọn toàn bộ việc đánh giá agency/service-partner về 1 câu hỏi: agency này có kiếm cho mình nhiều tiền hơn số tiền mình trả họ không? Có → tiếp tục trả. Không → dừng. Không cần phức tạp hơn.
+
+Cảnh báo ngược lại: nhiều người đặt kỳ vọng phi thực tế vào agency rồi fire 1 partner đang có ROI dương chỉ vì "vibe" không thích — nếu ROI dương dù nhỏ, cứ để chạy tiếp. Tie §Red-flags (checklist khi ĐANG cân nhắc thuê) với test ROI này (dùng SAU khi đã thuê, mỗi kỳ review) — 2 lớp lọc bổ sung nhau, không thay thế nhau.

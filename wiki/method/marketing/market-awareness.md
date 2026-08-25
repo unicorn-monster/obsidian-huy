@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven]
-updated: 2026-07-16
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven, jforjacob-bottom-of-funnel-in-saturated-markets]
+updated: 2026-08-25
 ---
 
 # Market awareness + sophistication (grinder)
@@ -127,3 +127,11 @@ Khi mở [[native-ads]] (open-web): cold native = **Unaware / Problem-aware**, K
 
 ## Pre-sell format theo awareness
 Carl ([[carlweische-presell-listicle-7reasons]]): *"problem-aware pre-sell page khác hẳn product-aware."* Chọn trang warmup theo nấc Schwartz: **problem-aware** → advertorial / quiz (educate cơ chế, [[quiz-funnels]]) · **solution/product-aware** → listicle comparison + spec (grinder buyer ở đây → [[funnel-and-landing]]). Quiz phải khớp awareness của ad đưa tới — congruency là điều kiện sống ([[quiz-funnels]]).
+
+## Market "saturated" → đi bottom-of-funnel, đừng educate thêm ([[jforjacob-bottom-of-funnel-in-saturated-markets]])
+
+jforjacob: trong market đông đúc, đa số ads vẫn chạy problem/solution generic — sai hướng. Nếu tin market mình "saturated" (= sophistication cao, xem thang trên) thì toàn bộ effort nên đổ vào **differentiation + unique mechanism + lý do mình là lựa chọn tốt hơn**, KHÔNG phải educate lại vấn đề/giải pháp mà thị trường đã quá quen.
+
+**Cho người mới bắt đầu/đang struggle:** cách dễ nhất là đi full bottom-of-funnel — từ ads tới ảnh sản phẩm tới landing page copy — "ăn ké" phần education tốn kém mà player lớn đã làm sẵn cho cả thị trường (feeder-fish strategy). Khi đã có scale mới quay lại làm sophisticated hơn, leo dần lên awareness cao hơn.
+
+→ Reconcile với ladder Awareness/Sophistication/Funnel-stage ở trên: đây là lựa chọn **funnel-stage entry point** (BOF ngay từ đầu) khi sophistication của market đã cao — không mâu thuẫn với 3-trục, chỉ là 1 chiến thuật cụ thể khi trục sophistication ở mức cao.
