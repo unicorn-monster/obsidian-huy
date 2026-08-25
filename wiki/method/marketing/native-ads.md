@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial]
-updated: 2026-08-22
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow]
+updated: 2026-08-25
 ---
 
 # Native ads (kênh open-web)
@@ -223,3 +223,20 @@ eCom_Amin: trong khi §trang này cover Taboola/Outbrain (open-web native), có 
 **Landing page rule (cùng với Taboola):** native traffic click vì tò mò về **article** → land phải là article. Separate domain, không logo header, không store nav, không product above fold. **40% word count vào mechanism** = điểm reader ngừng tin writer, bắt đầu tin LOGIC → product inherits trust automatically.
 
 **Sau đó nhân sang Bing** với 20-40% lower CPC (tie [[bing-ads]] §Bing gap). Tie [[google-ads]] §Google-native placements (full per-placement table + trust chain).
+
+## GROK workflow — rip copy DNA từ FB ads library ([[0xroas-aggressive-copy-grok-workflow]])
+@0xROAS (2026-08-25): pipeline 3-bước để reverse-engineer copy style từ competitor ads đang chạy, dùng để generate aggressive native copy.
+
+**Bước 1 — Scrape FB ads library:** pull toàn bộ copy text từ brand muốn reverse-engineer (dùng Meta Ad Library search theo brand name → copy tất cả primary text + headline đang active).
+
+**Bước 2 — Feed vào GROK (prompt extract DNA):**
+> *"Analyze all of these ads and extract the copy DNA — every detail, copywriting trick, reading grade level, emotional trigger, sentence structure, CTA pattern."*
+
+**Bước 3 — Generate:**
+> *"Now write one ad in this exact same style."*
+
+**Tại sao GROK thay GPT:** @0xROAS note GROK generate được "aggressive" copywriting style tốt hơn GPT cho ads — đặc biệt với copy style dark/blunt mà GPT hay soften. (Note: model landscape thay đổi liên tục — test cả hai.)
+
+**Ứng dụng:** saves brief-writing time khi muốn match competitor voice cho native placement. Input = FB library scrape → output = copy gần sát original "DNA" của brand đó. Đặc biệt hữu ích cho: tìm reading grade level thật của category (native đọc ở L6-8, không L12+) · reverse-engineer emotional hook pattern của competitor đang win impressions.
+
+→ Tie §Headline structures (7 cấu trúc) — sau khi có copy DNA, map các cấu trúc đó vào 7 slot + [[hooks]] (extract hook pattern từ winner) + [[media-buying]] §Reverse-engineer winner (Meta Ad Library sort by impressions). MaxPro: khi chuẩn bị native, chạy workflow này cho 2-3 pet brand competitor → extract ngôn ngữ + hook → build headline test set.

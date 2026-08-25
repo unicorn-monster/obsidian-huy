@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound, eCom_Amin-google-ads-funnel-tiers, eCom_Amin-native-placement-advertorial, ecomamin-meta-impressions-google-search, ecom-amin-google-funnel-as-product]
-updated: 2026-08-24
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound, eCom_Amin-google-ads-funnel-tiers, eCom_Amin-native-placement-advertorial, ecomamin-meta-impressions-google-search, ecom-amin-google-funnel-as-product, ecomamin-gadget-brand-google-funnel-casestudy, ecomamin-meta-vs-google-intent-product, ecomamin-ai-prompts-google-ads-creative]
+updated: 2026-08-25
 ---
 
 # Google Ads (kênh search-intent)
@@ -853,6 +853,56 @@ Tie [[native-ads]] §3 trigger tâm lý của advertorial (pattern interrupt →
 
 → **MaxPro:** nếu đang có UGC Meta winners → test YouTube Shorts với cùng hook, format 9:16, không cần quay mới. Setup Demand Gen feed audience từ Meta pixel. Xem [[youtube-ads]] §Shorts để tái dụng đúng cách.
 
+## Branded-only ceiling: case study $34k→$107k trong 4 tuần ([[ecomamin-gadget-brand-google-funnel-casestudy]])
+eCom_Amin (2026-08-25): gadget brand, Canada. Rebuild từ account chỉ chạy branded search.
+
+**Trước:** CA$34,196 revenue · CA$3,748 spend · ROAS 9.12 · impression 12,881.
+**Sau (4 tuần):** CA$106,910 revenue · CA$12,816 spend · ROAS 6.92 · impression 194,715.
+
+**Profit:** tăng 3x dù ROAS giảm từ 9.12 → 6.92. *"Scaling reads like this. Optimising a ceiling reads like the old account."*
+
+**Root cause của ceiling:** agency trước chỉ chạy branded search — cap là demand đã biết đến brand. Không có TOF/MOF để build awareness pool mới. Conversion history đã có = asset quý (signal cho Smart Bidding) nhưng đang bị dùng ở 1 layer duy nhất.
+
+**Rebuild approach:**
+- TOF/MOF/BOF full funnel structure
+- Tận dụng existing conversion history làm seed signal cho Smart Bidding
+- Demand Gen với YT Shorts + image ads (tạo awareness mới)
+- Kết quả: impression pool nở 15x trong khi revenue nở 3x
+
+**Hàm ý đọc ngược:** ROAS cao đơn thuần (9.12) trên tài khoản branded-only = **indicator của ceiling**, không phải indicator của health. Nếu account đang ROAS tốt mà impression ít, revenue flat → likely ceiling problem, không phải creative problem. Fix = add TOF, không optimize BOF tiếp. Tie §Platform là delivery system (funnel = product, Google deliver click) + [[google-ads]] §Funnel types.
+
+→ MaxPro: nếu chạy branded search với ROAS tốt mà revenue không tăng → diagnose ceiling vs scale ngay trước khi kết luận là "đang ổn".
+
+## Channel–product fit: intent buys on Google, impulse buys on Meta ([[ecomamin-meta-vs-google-intent-product]])
+eCom_Amin (2026-08-25): rút ra từ 2 năm thử nghiệm pet health/supplements.
+
+**Kết quả thực tế:** mất tiền trên Meta 2 năm cho sản phẩm pet health. Chuyển sang Google Shopping → profitable week 1. Store sau đó đạt $955k mostly Google.
+
+**Nguyên tắc routing:**
+- **Người mua tìm kiếm trước khi mua** → Google. Sản phẩm considered purchase: health, supplements, thiết bị chăm sóc (nail grinder), anything cần trust build + research.
+- **Người mua cần được show vấn đề trước** → Meta. Sản phẩm impulse: đồ decor, fashion, novelty product — người ta không search vì không biết họ cần.
+- **Hầu hết brand cần cả hai.** Meta tạo awareness (problem-unaware pool) → Google captures demand Meta đã tạo (tie [[ecom-amin-meta-generates-google-demand]]).
+
+**Pet health/supplements = considered purchase = Google-first:**
+- 3 giây Meta không đủ để build trust cho sản phẩm cần trust
+- Google Shopping: người đang tìm giải pháp, đã aware vấn đề, ready to compare
+- Meta cho pet: lifestyle/impulse (đồ chơi, collar, novelty) ≠ health product
+
+→ MaxPro (nail grinder): considered purchase — pet owner đã có nhu cầu, đang search "nail grinder cho chó", "cách cắt móng chó tại nhà" → Google-first là đúng. Meta = remarketing + lookalike + awareness TOF. Tie [[media-buying]] §Channel-product fit.
+
+## AI creative production cho Google Ads ([[ecomamin-ai-prompts-google-ads-creative]])
+eCom_Amin (2026-08-25): exact prompt framework, cost $15-20/batch vs $3-8k agency. 4 template áp thẳng cho Google creative:
+
+**Shopping static (1080×1080, GPT Images 2.0):** lived-in environment + human element mid-action + imperfect detail + "NOT a studio product shoot" (câu cuối làm heavy lifting — perfection là tell của AI).
+
+**Display/Demand Gen (1200×628 + 1080×1080):** show RESULT not product · GPT Images 2.0 embeds text-in-image tốt nhất (dùng cho overlay headline trực tiếp) · before/after state framing.
+
+**YT Short từ winning static (Seedance 2.5, 15s 9:16):** seamless loop · FIRST frame = hook, zero build-up · subtle motion. Input = static winner → animate.
+
+**Batch variants hàng tuần:** hold visual/change hook · hold hook/change environment · hold angle/change demographic. Rule: 1 biến / lần hoặc không học được gì.
+
+Tie [[ai-video-production]] §AI creative prompts (detail production pipeline) + [[creative-testing]] §Isolation principle.
+
 ## 2026: Platform là delivery system, funnel là product ([[ecom-amin-google-funnel-as-product]])
 eCom_Amin (2026-08-24): luận điểm về sự dịch chuyển căn bản của Google Ads.
 
@@ -866,3 +916,44 @@ Operators thắng 2026 = hiểu ecom trước, Google thứ hai. Họ biết adv
 **Meta operators đã làm điều này nhiều năm** — advertorials, quiz funnels, listicles, VSLs, comparison pages đều standard trên Meta. Trên Google cùng stack là **rare enough to be an edge**: *"the platform is becoming a delivery system. The funnel is the product."*
 
 → Xác nhận trực tiếp toàn bộ [[quiz-funnels]] (cold traffic quiz + Google funnel types) · [[presell-pages]] (advertorial anatomy) · [[funnel-and-landing]] (funnel architecture). MaxPro: campaign structure → Google handle; funnel layer → human work — đây là chỗ còn arbitrage khi platform knowledge bị commoditised.
+
+## Branded-only ceiling — case study CA$34k→CA$107k ([[ecomamin-gadget-brand-google-funnel-casestudy]])
+eCom_Amin (2026-08-25): rebuild account gadget brand Canada, 4 tuần.
+
+| Metric | Before | After |
+|---|---|---|
+| Revenue | CA$34,196 | CA$106,910 |
+| Spend | CA$3,748 | CA$12,816 |
+| ROAS | 9.12 | 6.92 |
+| Impressions | 12,881 | 194,715 |
+
+**ROAS giảm, profit tăng gấp 3 — đây mới là số đúng để nhìn.** Previous agency = branded-only account: ceiling là structural (chỉ capture demand đã biết brand → không tạo được demand mới). Fix: full TOF/MOF/BOF rebuild + tận dụng existing conversion history làm signal + Demand Gen với YT shorts + image ads.
+
+**Key insight:** *"Scaling reads like this. Optimising a ceiling reads like the old account."* Branded-only = optimising một ceiling, không phải scaling. Dấu hiệu nhận biết branded-only ceiling: impression share cao nhưng growth flat → check campaign mix, tỉ lệ branded vs non-branded.
+
+→ MaxPro: nếu Google account flat dù ROAS "tốt" → audit branded vs non-branded split. Nếu >70% spend trên branded → bị trap trong ceiling. Tie §Cold traffic funnel tier (TOF/MOF/BOF phải live đồng thời) + [[agency-ops]] §Red-flags (agency chỉ báo ROAS tốt không phải indicator; revenue + profit = indicator thật).
+
+## Channel-product fit: khi nào Google, khi nào Meta ([[ecomamin-meta-vs-google-intent-product]])
+eCom_Amin (2026-08-25): mất tiền 2 năm trên Meta với pet health/supplements — switched sang Google Shopping → profitable week 1. Store đạt $955k mostly Google.
+
+**Framework routing 1 câu:**
+> *"If your buyer searches before they buy → Google. If they need to be shown the problem exists first → Meta."*
+
+| Product type | Channel | Lý do |
+|---|---|---|
+| **Considered purchase** (health/supplement, tool, pet care) | **Google** | Buyer đã có intent → search → Shopping capture at point of intent |
+| **Impulse / problem-unaware** (fashion, novelty, lifestyle) | **Meta** | Buyer chưa biết vấn đề tồn tại → Meta giới thiệu → 3 giây tạo desire |
+
+**Cả hai thị trường phần lớn cần cả hai kênh** — nhưng khi sai kênh: Meta cho considered purchase = trả CPM cao, buyer không convert vì flow thiếu trust (Meta chỉ cho 3 giây); Google cho impulse = keyword volume thấp, demand không có để capture.
+
+→ MaxPro grinder = considered purchase (người tìm "how to trim dog nails at home", "dog nail grinder") → **Google primary, Meta secondary**. Tie §2026 platform là delivery system + [[media-buying]] §Channel-product fit (đối chiếu hai góc nhìn trên Meta vs Google).
+
+## AI creative production cho Google Ads ([[ecomamin-ai-prompts-google-ads-creative]])
+eCom_Amin (2026-08-25): full pipeline AI creative production cho Google funnel. **Math: $15-20/batch vs $3-8k agency.** Detail đầy đủ trong [[ai-video-production]] §AI creative prompts. Routing nhanh cho Google:
+
+- **Shopping image** → GPT Images 2.0 + "NOT a studio product shoot" + imperfect detail → 2-3× CTR lift vs product-on-white
+- **Demand Gen / Display** → show RESULT not product + GPT Images 2.0 handles text-in-image → before/after framing
+- **YT Short** → animate winning static bằng Seedance 2.5 → 15s 9:16 seamless loop, first frame = hook
+- **Variant batching** → hold visual/change hook · hold hook/change environment · hold angle/change demographic — **1 biến/lần hay không học được gì**
+
+Tie [[ai-video-production]] §AI creative prompts (prompt đầy đủ) + [[creative-testing]] §Isolation rule (1 variable per test).

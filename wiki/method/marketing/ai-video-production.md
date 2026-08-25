@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities]
-updated: 2026-08-24
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative]
+updated: 2026-08-25
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -124,3 +124,53 @@ Format mới từ @hookrate_ (chia sẻ trong cộng đồng AI ads của @0xROA
 **Cơ chế sức mạnh:** AI tạo content → người thật đăng từ tài khoản thật → platform coi là UGC organic, không phải branded content → organic reach cao hơn paid distribution. Không phải "fake influencer" — người đăng thật, chỉ là content do AI tạo.
 
 **Tie [[ai-video-production]]:** model này là bước CUỐI của pipeline (production → distribution). Dùng bất kỳ format nào đã build (yapper, podcast ad, street interview) → ship sang phone-poster để distribute. MaxPro: 2-3 người đăng clip "grooming at home" mỗi ngày = content moat mà không cần quay.
+
+## AI singing ads — image-to-video beats direct clip generation ([[0xroas-ai-singing-ads-automation]])
+@0xROAS (2026-08-25): lessons từ quá trình automate AI singing ads. Key takeaways:
+
+- **Image-to-video beats direct clip generation** — tạo ảnh (frame) trước → rồi animate từ ảnh đó, output consistent hơn nhiều so với gen thẳng từ text prompt.
+- **Phải nói với AI cái gì là good visual** — AI không tự biết; mô tả rõ aesthetic/style/composition mong muốn trong prompt, đừng assume model hiểu ý.
+- **Chorus confuses AI** — phần chorus bài hát (melody thay đổi nhanh, nhiều word/beat) là chỗ lipsync + timing dễ vỡ nhất. Approach: giữ visual đơn giản hơn ở chorus, hoặc cut sang b-roll.
+- **<1 giờ production time** cho 5-6 phút video sau khi đã thành thạo workflow — bao gồm cả post editing.
+
+**Hàm ý workflow:** singing ad = dạng đặc biệt của talking-head format (§AI UGC hyper-realistic) nhưng cần extra step: storyboard theo beat trước, gen ảnh reference từng frame, animate. Tie §3 phát hiện đáng tiền (audio surcharge — render silent nếu dùng external VO đè; chỉ bật native audio khi âm nhạc CHÍNH LÀ product).
+
+## AI video pattern blindness — real human = moat không clone được ([[ecomchasedimond-ai-video-pattern-blindness]])
+ecomchasedimond (2026-08-25): cảnh báo hệ thống về AI video ads.
+
+**Vấn đề:** mọi brand đang dùng cùng AI video tools → cùng avatars, cùng rooms, cùng style → feed algorithm **học skip pattern đó nhanh hơn bất kỳ ai có thể refresh creative**.
+
+**The moat:** *"The one input a competitor cannot copy = a real person who actually used the product."* — người thật dùng sản phẩm thật là thứ duy nhất AI không thể replicate 1:1.
+
+**Hàm ý chiến lược:** AI production (§§ trên) = cost/speed advantage, nhưng nếu TOÀN BỘ creative library là AI-generated → vulnerable to pattern blindness. Mix bắt buộc: AI cho b-roll/wallpaper/formats phổ thông (cost floor) + real UGC/testimonial từ người dùng thật cho hero creatives. Tie [[creative-brief]] §AI pattern blindness (cùng bài, routing từ creative brief perspective) + [[ugly-ads-method]] §real-person-raw (candid footage của người thật là loại ugly ad khó copy nhất).
+
+→ MaxPro: AI cho Seedance b-roll + yapper format test → nhưng ưu tiên get real customer clip (chó + grinder, candid) cho hero creative. 1 video chủ nuôi thật dùng MaxPro = nhiều lần leverage hơn 10 AI avatar video cùng style.
+
+## AI creative prompts cho Google Ads — 4 prompt templates (Seedance + GPT Images 2.0) ([[ecomamin-ai-prompts-google-ads-creative]])
+eCom_Amin (2026-08-25): exact prompt framework cho Google Ads creative production. Full math: $15-20/batch vs $3-8k agency. 4 prompt types:
+
+**Prompt 1 — Shopping static 1080×1080 (GPT Images 2.0):**
+- Lived-in environment (không phải studio)
+- Human element mid-action (không posed)
+- Imperfect detail (không perfectly lit)
+- "NOT a studio product shoot" — câu cuối này làm heavy lifting nhất
+- *Perfection là tell của AI image — instruction "imperfect" là counter.*
+
+**Prompt 2 — Display/Demand Gen 1200×628 + 1080×1080 (GPT Images 2.0):**
+- Show RESULT, không show product
+- GPT Images 2.0 handles text-in-image tốt nhất (dùng để embed headline trực tiếp)
+- Before/after state framing
+
+**Prompt 3 — YT Short từ winning static (Seedance 2.5, 15s 9:16):**
+- Seamless loop
+- FIRST frame = hook (không có build-up)
+- Subtle motion (không dramatic transition)
+- Input: winning static image → animate
+
+**Prompt 4 — Batch variants hàng tuần:**
+- Hold visual / change hook
+- Hold hook / change environment
+- Hold angle / change demographic
+- *One variable per variant — thay nhiều biến = không học được gì.*
+
+Tie [[ai-video-production]] §AI UGC hyper-realistic (production pipeline chung) + [[google-ads]] §AI creative production (full routing trong Google funnel) + [[creative-testing]] (variant isolation rule — 1 biến / lần).

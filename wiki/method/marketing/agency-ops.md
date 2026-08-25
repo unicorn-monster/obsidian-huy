@@ -1,5 +1,5 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi]
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity]
 updated: 2026-08-25
 ---
 
@@ -96,6 +96,21 @@ maxwellcopy (2026-08-22): record revenue + profit month, 100+ brands on retainer
 - **Soft launch landing pages** với pilot clients trước khi roll out full service = smart new-offer testing pattern
 
 **Áp cho người thuê agency:** 3.5% churn = benchmark "decent" với Maxwell (5% = threshold); tháng tốt nhất 1.5%. Khi agency pitch churn rate → hỏi *rolling 6-month average*, không tháng tốt nhất. 3-5% = acceptable; >7% = red-flag service quality. Tie §Red-flags (hỏi churn rate như 1 trong các signal) + §Pod structure (pod ratio giữ tight = lever chính để giữ churn thấp).
+
+## 9-figure brand = service model khác hoàn toàn ([[maxwellcopy-nine-figure-agency-complexity]])
+maxwellcopy (2026-08-25): sau 6-12 tháng nhận nhiều 9-figure brand — nhận ra đây là **class riêng hoàn toàn**, không phải "8-figure nhân 2".
+
+**Khác biệt so với 7-8 figure brand:**
+- Team lớn hơn → quyết định chậm hơn nhiều
+- Revisions khắt khe hơn, nhiều vòng hơn
+- **Time & effort: 5-10x cao hơn** (không phải 2x)
+- Complexity xuất phát từ brand nuances tích lũy qua nhiều năm — không phải lỗi của brand
+
+**Hệ quả vận hành:** systems của agency bị break nhiều lần khi onboard 9-figure client. Cần **đội riêng, systems riêng, scope riêng** — không tái dùng được infrastructure của 7-8 figure service.
+
+**Nghịch lý:** maxwellcopy hiện **chọn lọc 9-figure brand khắt khe hơn cả 7-figure** — vì cost of onboarding sai quá cao, và mức độ phức tạp không phản ánh qua retainer fee thông thường.
+
+**Hàm ý khi thuê agency:** nếu brand ở 9-figure, agency 7-8 figure chuyên môn sẽ underestimate scope và overcommit. Hỏi thẳng *"bạn đang serve bao nhiêu 9-figure brand, và team đó tách biệt ra sao?"* — câu trả lời lờ mờ = họ chưa giải quyết được complexity này. Tie §Pod structure (pod ratio cần điều chỉnh hoàn toàn cho 9-fig) + §3 yếu tố (people + systems cần khác hẳn, không chỉ scale tuyến tính).
 
 ## Bài test duy nhất khi đánh giá agency: có kiếm ra tiền hơn phí trả không ([[jforjacob-evaluate-agencies-roi]])
 

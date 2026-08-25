@@ -1,6 +1,6 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework, ecomchasedimond-ads-boring-not-hated]
-updated: 2026-08-22
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework, ecomchasedimond-ads-boring-not-hated, ecomchasedimond-ai-video-pattern-blindness, ecomchasedimond-meta-creative-perplexity]
+updated: 2026-08-25
 ---
 
 # Static ad creative (rules + ugly-native brief)
@@ -279,3 +279,25 @@ ecomchasedimond: experiment — website nơi **toàn bộ điểm là nhìn vào
 **Insight cốt lõi:** engagement không phải vấn đề của ads như medium — là vấn đề của creative quality. Khi ads đủ interesting/competitive, người ta chủ động click chúng.
 
 **Áp vào creative brief:** benchmark không phải "đủ không bị skip" — mà là "đủ để người muốn xem lại". Tie §Brand insight baked vào image (§KitKat case): ad đỉnh = ad người muốn xem lại. Tie [[hooks]] §scroll-stopper rule: nếu ad không thú vị với người không cần sản phẩm, nó không đủ thú vị với người cần. **MaxPro:** test với người không nuôi thú cưng — nếu họ muốn xem lại = creative đạt bar.
+
+## AI video pattern blindness — warning khi toàn bộ creative là AI ([[ecomchasedimond-ai-video-pattern-blindness]])
+ecomchasedimond (2026-08-25): sau khi audit nhiều brand — mọi brand đang dùng **cùng AI video tools** → cùng avatars, cùng rooms, cùng style → **feed algorithm học skip pattern đó nhanh hơn bất kỳ ai có thể refresh creative**.
+
+**Moat duy nhất không bị copy:** real person who actually used the product. AI không thể replicate 1:1 người thật với cảm xúc thật sau khi dùng sản phẩm thật.
+
+**Hàm ý cho creative brief:** AI production = cost/speed moat, nhưng nếu TOÀN BỘ library là AI-generated → vulnerable khi feed bão hoà pattern. Mix bắt buộc:
+- AI: b-roll, wallpaper, format test, batch variants (§§ bên [[ai-video-production]])
+- Real human: hero creative, testimonial, before/after chân thực
+
+Brief phải specify loại nào → AI vs phải quay thật. Khi hero creative brief không có "real person" element → đó là gap.
+
+→ MaxPro: brief slot 1 hero = "chủ nuôi thật + MaxPro + chó thật, candid" (không phải AI avatar). Slot 2-5 = AI format test (yapper, podcast, street interview style). Tie [[ai-video-production]] §AI video pattern blindness + [[ugly-ads-method]] §real-person-raw.
+
+## Perplexity Computer cho Meta creative package — 2 giờ thay vì 2 tuần ([[ecomchasedimond-meta-creative-perplexity]])
+ecomchasedimond (2026-08-25): full Meta creative test package cho brand apparel $3.2M, built trong ~2 giờ dùng **Perplexity Computer**.
+
+**Tại sao đáng chú ý:** author là người 10 năm email, chưa đầu tư paid — note "paid is the channel I hear is working from every client." Khi người chuyên email public việc dùng AI để build paid creative package trong 2 giờ → signal về barrier entry vào paid creative đang collapse.
+
+**Implication cho creative brief:** Perplexity Computer (computer use agent) có thể handle research + brief synthesis + creative direction trong 1 session. Workflow likely: feed brand info + competitor research → Perplexity research market + ads → synthesize creative brief + angle hypothesis → output test package.
+
+→ Test case cho MaxPro: chạy Perplexity Computer với brief "MaxPro nail grinder, target: dog owners afraid of cutting quick, competitors: X/Y, goal: 5 creative angles + hook variants." Tie [[ai-video-production]] §AI singing ads / §AI prompts (production sau khi có brief) + [[hooks]] §angle research (brief phải resolve câu hỏi angle nào convert nhất trước khi production).

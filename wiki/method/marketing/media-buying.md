@@ -1,5 +1,5 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, jforjacob-needle-movers-vs-noise, jforjacob-target-roas-business-model, jforjacob-outspend-copycats-bully-auctions, jforjacob-when-ai-levels-creative-where-is-your-edge]
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, jforjacob-needle-movers-vs-noise, jforjacob-target-roas-business-model, jforjacob-outspend-copycats-bully-auctions, jforjacob-when-ai-levels-creative-where-is-your-edge, ecomamin-meta-vs-google-intent-product]
 updated: 2026-08-25
 ---
 
@@ -326,6 +326,19 @@ DTCMidas: hit 7-fig/month bootstrapped bằng cách biết khi nào **KHÔNG** s
 Tie [[dtcmidas-dont-copy-funded-brands]] — funded brand có thể ignore slow season (dùng raise); bootstrapped phải protect margin. Tie §Bootstrapped brand creative edge (phải thắng bằng craft, bukan budget).
 
 → MaxPro: khi mọi ad launch đều không ăn một cách systematic (không phải 1-2 creative fail) → likely slow season → reduce spend, redirect energy sang creative/offer testing. Đừng giải thích bằng "creative tệ" khi vấn đề là market timing.
+
+## Channel-product fit: intent = Google, impulse = Meta ([[ecomamin-meta-vs-google-intent-product]])
+eCom_Amin (2026-08-25): insight từ việc mất tiền 2 năm trên Meta với pet health/supplements rồi switch sang Google Shopping và profitable week 1.
+
+**Rule đơn giản:**
+- **Buyer searches before they buy** → Google (capture existing intent, cost-efficient)
+- **Buyer needs to be shown the problem exists first** → Meta (create awareness, educate)
+
+**Most brands need both** — không phải chọn 1. Nhưng khi sai kênh primary: Meta cho considered purchase = CPM cao, buyer không đủ trust signal trong 3 giây → không convert; Google cho impulse = keyword volume thấp, không có demand để capture.
+
+**Pet health/supplement = considered purchase:** buyer đã lo ngại sức khoẻ thú cưng, đang tìm solution → Google Shopping capture đúng tại điểm intent. Meta mất 2 năm không profitable vì flow sai: 3 giây không đủ build trust cho considered purchase, cần landing page education + search intent để close.
+
+→ MaxPro grinder: người tìm "how to trim dog nails" / "dog nail grinder" → intent đã có → **Google primary**. Meta secondary cho TOF remarketing + lookalike. Tie [[google-ads]] §Channel-product fit (số liệu case study $955k mostly Google) + §Full funnel (Meta ROI phụ thuộc vào MOF/BOF có live không).
 
 ## Target ROAS quá cao đang giả làm "creative problem" ([[jforjacob-target-roas-business-model]])
 
