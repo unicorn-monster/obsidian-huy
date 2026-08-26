@@ -1,5 +1,5 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates]
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials]
 updated: 2026-08-26
 ---
 
@@ -15,6 +15,9 @@ Division of labor đúng DR: ad làm hết emotion + mechanism + villain; PDP ch
 
 > [!note] Jan đẩy xa hơn: cold KHÔNG dùng PDP
 > [[advertising-jan-5-stage-funnel]]: PDP (nhất là Shopify) build cho *repeat shopper*, không convert cold. Cold traffic → advertorial → presell → **thẳng checkout**, bỏ qua PDP. "Ad bán" vẫn đúng; chỉ là trang chốt = presell + checkout, không phải PDP.
+
+> [!note] DTCMidas thực hành y hệt — "a PDP is a lander, but a lander is not a PDP" ([[dtcmidas-pre-sell-page-before-the-pdp]])
+> Xác nhận độc lập từ 1 operator khác: traffic luôn qua 1 pre-sell page trước (advertorial hoặc listicle), rồi mới xuống PDP — chưa từng bắn cold thẳng vào PDP. Phép so sánh gọn của chính DTCMidas: *"a cow = an animal, but an animal ≠ a cow"* — PDP chỉ là 1 dạng con của lander, không phải ngược lại.
 
 ## 5-stage funnel skeleton (Jan)
 Nguồn: [[advertising-jan-5-stage-funnel]]. Khung gộp toàn bộ buying-side:
@@ -67,6 +70,8 @@ Headline page khớp frame ad (KS: "Stop the Silent Deficiency Before You See th
 
 Chad Janis ($1.2B exit, [[kasperdolk-pdp-per-angle-congruence]]): *"match creative ↔ LP/funnel = #1 cách scale."* Beginner version (ko cần funnel phức tạp): **duplicate PDP cho mỗi avatar/angle** — đổi title, imagery slider, **review theo ICP** (ko generic), copy theo ICP. VD orthopedic slipper: 30 PDP template (diabetic / elder / mom đi nhẹ trong nhà...). Mỗi winning angle = 1 thế giới riêng quanh nó.
 
+**Full customer experience — 1 narrative xuyên suốt MỌI touchpoint, không chỉ ad↔LP** ([[dtcmidas-build-the-full-customer-experience]]): DTCMidas đẩy congruency xa hơn "ad khớp landing page". Ví dụ skincare: creator AI đóng vai dermatologist cho ad → dựng hẳn 1 Facebook Page mang tên + ảnh dermatologist đó, chạy ad TỪ page này → primary text/headline viết như chính dermatologist viết → advertorial cùng góc với ad, viết như đăng trên blog của dermatologist → PDP thiết kế như dành riêng cho đúng vấn đề của họ. Mỗi touchpoint củng cố CÙNG 1 câu chuyện — khách không cảm thấy bị bán, mà cảm thấy đang đi theo 1 đường dẫn tự nhiên tới đúng giải pháp. *"A lot of brands optimize individual elements, but the real leverage is in optimizing the entire journey as one connected experience."* → MaxPro: nếu dùng authority groomer/vet-tech ([[personas]] §3rd-party) cho ad, tên page + advertorial + PDP framing nên nhất quán cùng 1 nhân vật, không chỉ khớp ở tầng headline.
+
 ## Lỗ rò lớn nhất: proof bốc hơi
 Clicker tới với niềm tin RẤT cụ thể (independent lab, 503mg, named expert, "Amazon là fake"). Page substantiate gần như zero (không COA, không bioavailability number, không named expert). -> skeptic LTV cao (đúng người ad lab-number nhắm tới) rò ra. Cộng social proof tự mâu thuẫn chéo trang ([[kittysupps-brand-offer]]).
 
@@ -99,6 +104,16 @@ DTCMidas: **đừng dùng Intelligems/VWO để quyết winner — chạy test t
 - **Variant/congruent LP** (build từ template của main, match winning ad angle): tối ưu congruency cho ad cụ thể — tie §Carry gì (message match) ở dưới
 
 → MaxPro: khi test presell vs review-domain vs quiz, dùng ABO test thay Intelligems. Pull ROAS/page, không pull CVR bằng split-test tool. Tie [[media-buying]] §split-test-trap (jforjacob).
+
+**Test theo LOẠI page — presell CBO-dupe / PDP Intelligems A-B, KHÔNG cùng 1 công cụ ([[dtcmidas-how-do-you-test-new-landing-pages]]):** DTCMidas chọn tool theo loại trang, không phải 1 chuẩn cho tất cả:
+- **Pre-sell page** (advertorial, listicle, long-form sales page): test bằng cách **dupe ads trong cùng CBO**, thêm URL mới — mỗi pre-sell là 1 URL/trang riêng, CPM khác nhau giữa các trang (đúng lý do §protocol ABO ROAS ở trên né split-test tool cho trường hợp này).
+- **PDP mới:** chạy **Intelligems A/B test** — vì đây là split TRONG CÙNG 1 URL (cookie-split, cùng nguồn traffic, cùng CPM), premise "CPM ẩn shift" mà protocol ABO ở trên cảnh báo không áp cho case này.
+- **Rule gộp:** so sánh 2 URL/2 trang khác nhau = test trong Meta (ABO/CBO); so sánh 2 biến thể TRONG CÙNG 1 URL = tool split-test (Intelligems) vẫn dùng tốt.
+- Base LP mới nên build từ **ad đang thắng** — để angle LP khớp ngay từ đầu với ad top-performer, giảm rủi ro lệch congruency trước khi test.
+
+**Xác nhận thêm — chuyển hẳn từ Intelligems sang Meta-native cho LP-vs-LP ([[dtcmidas-ab-test-landing-pages-inside-meta]]):** *"In the past I did ran a/b tests for LPs on intelligems, a few months ago I started running them on meta."* Cùng adset, dupe ad, đổi landing page — DTCMidas confirm cách này *"works very well and way easier to test"*. Xác nhận độc lập cho đúng protocol ABO ROAS đã có ở trên, khác tweet/thời điểm với nguồn gốc.
+
+**Hero section testing = +30% RPS + 1 tactic phụ ([[dtcmidas-hero-section-testing-lifted-rps-30-percent]]):** test nhiều biến thể hero section (headline + sub + image cùng lúc) → **revenue-per-session +30%**. Thắng phụ cùng đợt: **delay product intro section** trên LP top-of-funnel — không giới thiệu sản phẩm quá sớm, để agitate/mechanism chạy đủ trước (khớp thứ tự skeleton 834-từ ở trên: product intro nằm SAU false-belief-kill + unique-problem-mechanism, không nằm ngay đầu).
 
 ## Build page nhanh: clone template thắng
 Nguồn: [[dtcquizbuilder-native-ads-workflow]]. Landing page = **việc quan trọng nhất** (làm trước cả ad). Đừng vẽ lại từ đầu:
@@ -157,6 +172,15 @@ Adapt theo awareness: problem-aware ≠ product-aware ([[market-awareness]]).
 > [!tip] MaxPro map sẵn — gần như viết được ngay (build bằng skill /listical)
 > Headline *"7 reasons 18,000+ dog owners switched to MaxPro"* ([[maxpro-product-truth]] 18,587 review) · table MaxPro vs clipper / Dremel / Casfuy ([[maxpro-competitors]]) · (1) groomer $45/lần dồn năm ([[villains]], [[offer-and-cta]]) · (2) 3-port cap + "see-the-dot" · (3) mọi cỡ móng: nhỏ → dày/đen/large ~150lb (3-port cap S/M/L, [[maxpro-product-truth]]) · (4) fear-free identity + diamond drum quality · (5) quiet → chó ngủ gật, xong trong vài phút · (6) 18,587 review 5★ + charity · (7) 99-day company-paid return. Mechanism nhắc lại ở CTA = UMP crush/splinter ([[market-awareness]]).
 
+## LP skeleton đang thắng hiện tại — 834 từ, hero→CTA (DTCMidas) ⭐ ([[dtcmidas-winning-landing-page-structure]])
+1 bản CỤ THỂ DTCMidas đang chạy thật, đọc như checklist lắp sẵn — khác [[presell-pages]] §Advertorial 10-section wireframe ở chỗ đây là 1 skeleton thật đang live (không phải khung lý thuyết), ngắn hơn nhiều (834 từ):
+
+**Hero:** headline formula *"Do you have [symptom]? Here's how to fix it in just [amount of time] and finally [desired outcome], no [failed alternative] needed"* — nhồi symptom + timeline + outcome + de-position giải pháp cũ trong 1 câu · before/after hero image · 3 checkmark gỡ objection · soft CTA (scroll xuống, KHÔNG bán ngay).
+
+**Below fold, thứ tự cố định:** agitate problem → cost of inaction → symptom checklist (tự chẩn) → false belief kill → unique problem mechanism → product intro → unique solution mechanism → how it works (3 bước) → time to result (kỳ vọng theo ngày) → us vs them → UGC wall (authority + peer) → reviews → 3-step qualification quiz → scarcity → CTA sang offer page.
+
+→ Chốt bằng 1 mini-quiz 3-bước ngay trước scarcity, không phải quiz-funnel đầy đủ — cùng loài với [[quiz-funnels]] §1-câu-hỏi làm cửa trước advertorial (biến thể tối giản, dán trước 1 trang có sẵn thay vì đứng riêng).
+
 ## PDP anatomy — 3 trang thật, above-the-fold (vision-read, [[ecomamin-6-google-ads-funnel-types-full-guide]]) ⭐ swipe
 Trang này nói **PDP chỉ chốt, cold đừng vào**; [[google-ads]] có **bar** (>4% branded / >3% shopping). Chỗ trống lâu nay: *PDP chốt tốt trông ra sao*. 3 screenshot: **URO / O Positiv** (supplement $26.99-31.99) · **Elemind** (device **$399**) · **Grüns** (gummy subscription $39.99). 8 beat đọc được:
 1. **Proof leo lên TRÊN tên sản phẩm — khi proof là tài sản mạnh nhất.** Grüns: `★ 4.8/5.0 (100,000) · 1M+ Customers` nằm trên headline. Elemind mới (99 review) → thay bằng **marquee `AS SEEN IN` VentureBeat · CNET · WSJ · Forbes chạy ngang phía trên sản phẩm**. = luật "proof bar chọn 1 trong 2 theo cái mình có" ([[presell-pages]]) áp ở tầng PDP.
@@ -168,6 +192,30 @@ Trang này nói **PDP chỉ chốt, cold đừng vào**; [[google-ads]] có **ba
 7. **High-ticket chơi ngược** (Elemind $399): giá in **xám nhạt cạnh tên** (de-emphasize), feature gấp trong **accordion** thay vì dàn ra, claim lâm sàng + **tên cơ chế** (`phase-locked neurostimulation`), và `HSA/FSA Eligible` = hạ **tiền thực chi** mà không giảm giá. Job của above-fold ở ticket cao là **hợp thức hoá giá**, không phải bơm urgency.
 8. **Proof có NGÀY, refresh được** (Grüns): `Tested by Light Labs in JUL 2026 · 35 substances tested for quality`.
 → **MaxPro:** ăn ngay (2) badge groomer/vet-tech dán lên hero · (3) thang `1 grinder` / `+ bộ bit — RECOMMENDED` / `bundle — BEST VALUE` kèm lý do liệu trình (móng mọc lại 2-3 tuần/lần) · (5) burn 3 icon vào hero (dB thấp · 3-port cap S/M/L · 99-day return) · (6) sắp lại gallery theo thứ tự trên ([[maxpro-pages]]). Beat (4) không hợp grinder — tương đương gần nhất là refill bit định kỳ.
+
+## PDP skeleton đầy đủ 13-section + công thức title/2-description (DTCMidas) ([[dtcmidas-how-to-structure-a-high-converting-product-page]], [[dtcmidas-keyword-rich-titles-and-two-product-descriptions]])
+Bổ sung 1 bản đầy đủ TOÀN TRANG — khác 8-beat above-the-fold (vision-read) ở trên, đây là thứ tự 13 section từ đầu tới cuối:
+1. Announcement bar (offer ngắn, vd "Buy 1 Get 1 FREE + Free Shipping")
+2. Product media gallery dạng horizontal funnel: HQ ảnh → in-use+benefit overlay → before/after → what's-in-box/ingredients → how-it-works 3-4 bước → us-vs-them table → review screenshot → lifestyle
+3. Title + reviews + quick benefits (công thức title/desc dưới)
+4. Offer & purchase: bundle pricing gạch giá cao ~30% markup · Add to Cart bold · guarantee + shipping estimate · micro-trust ("Ships in 24h", secure-payment icon) · optional free-gift unlock
+5. UGC-style product + testimonial video
+6. FAQ (ingredients/usage/sizing/shipping/"will this work for me")
+7. Press logos / "As Seen In"
+8. Desired outcome section: lifestyle ảnh lớn + outcome headline + short benefit text
+9. Testimonial section
+10. How it works / timeline (3-4 bước hoặc mốc tuần 1/4/8)
+11. Us vs Them
+12. Risk reversal callout ("X-day risk-free guarantee")
+13. Review section
+
+**Title + 2-description formula (đọc cùng section 3 & 8 ở trên):**
+- **Title keyword-rich thay vì brand bịa:** đừng đặt tên kiểu "SuperGlow Pro" — dùng cụm khách THẬT SỰ search: *"Anti-Aging Vitamin C Serum for Dark Spots & Wrinkles"* (benefit + loại sản phẩm + use-case chính). Cross-link: [[google-shopping]] đã có bản GMC-feed-specific của cùng nguyên lý (front-load non-branded keyword, case $308k→$607k) — DTCMidas confirm nguyên lý áp cả ở H1/title PDP, không riêng feed.
+- **2 chỗ mô tả KHÁC NHAU, đừng dùng chung 1 đoạn:**
+  - **Section 3 (dưới title/review):** 1-2 dòng, chức năng — *"Clinically proven vitamin C serum that fades dark spots and reduces fine lines in 4 weeks."*
+  - **Section 8 (outcome section, cạnh lifestyle image):** aspirational, outcome-focused — *"Wake up to radiant, youthful skin that makes you feel confident without makeup."*
+
+→ MaxPro: title PDP nên nhồi keyword thật ("Dog Nail Grinder" + benefit) thay vì chỉ "MaxPro" — đã có sẵn 6-title bank cho GMC ([[google-shopping]] §multi-title feed), áp CÙNG logic cho H1 PDP. Section-3 desc: chức năng ngắn ("quiet 3-port grinder, an toàn mọi cỡ móng"); section-8 desc: outcome (*"chó bạn ngủ gật trong lúc cắt móng, không giãy, không sợ nữa"*).
 
 ## Mỗi trang funnel = 1 audience remarketing + 1 lớp proof KHÁC NHAU ([[ecomamin-6-google-ads-funnel-types-full-guide]], [[ecomamin-48-laws-google-advertising]])
 Hai luật nhỏ nhưng bịt đúng chỗ rò của funnel nhiều trang:
@@ -206,6 +254,15 @@ jforjacob nhận DM hằng ngày về tăng CVR — 90% người hỏi đang "đ
 **Mom-test:** đưa điện thoại cho mẹ/bà, bảo mua thử 1 món trên site — không can thiệp, xem họ vướng ở đâu. Vướng chỗ nào = chỗ cần đơn giản hoá. Sau đó hỏi họ: có biết chính xác đang mua gì không, return trong bao lâu, có guarantee không, tiết kiệm bao nhiêu, khi nào nhận hàng — trả lời không được câu nào = chỗ đó cần rõ hơn, không cần thêm gì mới.
 
 → Cùng bản năng với §Lỗ rò lớn nhất: proof bốc hơi ở trên (audit cái đang THIẾU/MỜ, không phải thêm cái mới) — khác ở chỗ đây là quy trình TỰ audit không cần tool, dùng được ngay cho MaxPro trước khi động vào bất kỳ tactic CVR nào dưới đây.
+
+## Friction có ích — thêm bước làm tăng conversion, KHÁC TẦNG với "bớt lựa chọn" ⭐ ([[dtcmidas-does-removing-friction-actually-improve-conversion]])
+DTCMidas tự nhận từng tin "càng ít click tới conversion càng tốt" — rồi thử ngược lại: VSL 60-90s kéo dài thành 3-10 phút, primary text static ad từ 3 câu thành 2000-4000 chữ, thêm bước vào funnel trước khi cho thấy offer page. Mỗi lần thêm friction CÓ ÍCH, performance tăng. Lý do: đưa offer page cho khách CHƯA sẵn sàng mua là vô nghĩa — mỗi bước friction giáo dục/qualify/xây trust, tới lúc thấy offer họ đã THỰC SỰ muốn nó. Giả thuyết phụ: retention cũng tốt hơn vì khách hiểu rõ kỳ vọng + lý do cần dùng đều đặn trước khi mua. Điều kiện áp: sản phẩm cần trust/education/commitment — KHÔNG áp cho impulse buy $19 không cần funnel phức tạp hay video 10 phút.
+
+> [!warning] Không mâu thuẫn với §CVR đến từ thứ bạn KHÔNG làm (jforjacob) — 2 TẦNG khác nhau, không phải 2 lời khuyên đối nghịch
+> Đọc lướt tưởng ngược nhau trực tiếp: DTCMidas nói THÊM bước tăng CVR, jforjacob nói BỚT thứ thừa tăng CVR. Thật ra khác tầng phễu:
+> - **jforjacob nhắm tầng QUYẾT ĐỊNH** (checkout, PDP, mom-test) — nơi khách ĐÃ sẵn sàng mua, 1 field/option/bước thừa chỉ cộng decision fatigue đúng lúc tệ nhất.
+> - **DTCMidas nhắm tầng GIÁO DỤC trước offer** (advertorial, VSL, presell) — nơi khách CHƯA sẵn sàng mua, cần được dẫn qua awareness stages ([[market-awareness]]) trước khi thấy giá. Rút ngắn tầng này = bán cho người chưa muốn mua.
+> **Rule gộp:** càng gần nút mua → càng đơn giản (jforjacob); càng xa nút mua → càng cần đủ friction để build niềm tin/awareness trước khi lộ offer (DTCMidas). Cả hai cùng phục vụ 1 mục tiêu — đừng lộ offer sớm hơn mức khách sẵn sàng, và đừng làm khó khi họ đã sẵn sàng. → MaxPro ($60-80 AOV, không phải impulse-$19): giữ nguyên độ dài presell (quiz/advertorial/listicle) để educate trước PDP; nhưng tới checkout thì áp nguyên bộ "bớt lựa chọn" của jforjacob dưới đây, không rút gọn presell để "giảm friction" nhầm tầng.
 
 ## Checkout: bớt lựa chọn, không thêm — 3 tactic cụ thể (jforjacob, 4 tweet)
 Cùng nguyên tắc "gỡ bớt" ở trên, áp thẳng vào checkout — bước cuối cùng, nơi 1 lựa chọn thừa cũng đủ làm rơi đơn:
@@ -265,3 +322,45 @@ Xác nhận thêm bằng 2 tweet khác, cách nhau ~9 tháng — cùng jforjacob
 - **Không 1 template PDP nào trên Replo (kể cả của brand lớn như GymShark) đấu lại nổi template mặc định của 1 theme Shopify chuẩn** ([[jforjacob-shopify-theme-beats-replo-templates]]): chê thẳng chất lượng "CRO Top Pick" templates trên Replo dưới trung bình, nhiều cái tệ hơn cả người mới học Shopify dùng section mặc định — rồi tự trả lời bằng đúng công thức trên: theme Impact + Section Store.
 
 → 3 nguồn cùng 1 kết luận: đừng trả tiền lớn cho dev/Replo custom build — theme trả-phí-vừa-phải (Shrine Pro hoặc Impact) + Section Store app đã đủ, thậm chí THẮNG cả build tay/agency.
+
+## Judge trang/funnel bằng revenue-per-session, không phải CVR — nhưng đừng optimize RPS ĐƠN LẺ (DTCMidas, 2 tweet cách nhau 8 tháng) ⭐
+
+**Rule ([[dtcmidas-judge-revenue-per-session-not-cvr]]):** CVR sitewide gần như vô nghĩa — nó trộn traffic ấm, traffic lạnh, và cả repeat purchaser vào 1 số, nên bị skew mạnh. DTCMidas gần như không nhìn CVR: *nếu AOV tăng thì CVR gần như luôn giảm* — 2 số này tự nhiên kéo ngược nhau, nhìn riêng 1 trong 2 sẽ đọc sai kết quả test. Rule thay thế: luôn nhìn **revenue per session ở cấp TRANG hoặc cấp FUNNEL cụ thể**, không phải con số blended toàn site. RPS gộp cả CVR lẫn AOV thành 1 số phản ánh đúng "trang/funnel này kiếm được bao nhiêu tiền mỗi lượt truy cập" — không bị AOV tăng làm CVR tụt rồi tưởng nhầm là page tệ đi.
+
+> [!warning] 8 tháng sau, chính DTCMidas báo cáo backfire khi optimize RPS ĐƠN LẺ ([[dtcmidas-why-rps-optimization-backfires]])
+> Không phải đảo ngược rule trên — đây là caveat khi ÁP DỤNG nó làm mục tiêu duy nhất. DTCMidas dồn lực CRO + offer testing → AOV tăng đáng kể → RPS tăng theo đúng như kỳ vọng. Nhưng cùng lúc: **CAC tăng mạnh** · **frequency mua lặp tăng** (vì ít người mua nổi ở mức giá cao hơn) · và Meta bắt đầu **optimize hướng người chi nhiều tiền hơn** → addressable audience càng thu hẹp → khó scale hơn. *"It's a good reminder that it's dangerous to look at metrics in isolation... you need to look at the whole system."* Đọc đúng: **RPS vẫn là số nên ĐỌC** (thay CVR) — nhưng khi RPS là mục tiêu OPTIMIZE duy nhất, phải theo dõi song song CAC + addressable-audience-size, không chỉ đẩy RPS lên rồi dừng lại.
+
+Tie [[creative-testing]] §Soft metrics = full story đằng sau CPA (jforjacob) — cùng nguyên lý "đừng phán xét bằng 1 metric đơn lẻ", áp ở tầng AD; đây là bản tầng TRANG/FUNNEL. Tie [[media-buying]] §CVR là auction lever (CVR ảnh hưởng CPA qua đấu giá) — RPS + CAC + audience-size là bộ 3 cần nhìn cùng lúc khi AOV thay đổi.
+
+→ MaxPro: dùng RPS/trang thay CVR/trang khi so sánh biến thể LP (protocol ABO ROAS ở trên đã đúng hướng — pull ROAS/RPS, không pull CVR). Đặc biệt để ý nếu test §raise-base-price-keep-bundles ([[offer-and-cta]]) — đó chính xác là kiểu move đẩy AOV/RPS lên mà backfire-warning này cảnh báo; sau khi raise giá tier 1, theo dõi CAC + frequency song song với RPS, đừng chỉ nhìn RPS đi lên rồi kết luận thắng.
+
+## Post-purchase survey — câu hỏi cụ thể để mine ngôn ngữ khách thật ([[dtcmidas-what-should-you-ask-in-post-purchase-surveys]])
+
+Cách rẻ nhất cải thiện ads/PDP/landing page: hỏi người VỪA MUA. Post-purchase survey là 1 trong những nguồn data underrated nhất — lấy insight ngay khi quyết định mua còn "tươi" trong đầu khách. Câu hỏi nên hỏi, **để open-ended, KHÔNG multiple choice** (*"the gold is in how customers describe things in their own words — that could be the copy for your next winning ad"*):
+- Điều gì suýt khiến bạn KHÔNG mua hôm nay?
+- Bạn có câu hỏi/nghi ngờ gì khi mua trên site?
+- Lý do CHÍNH khiến bạn quyết định mua?
+- Bạn hy vọng sản phẩm này giải quyết vấn đề gì?
+- Bạn mua cho ai?
+- Bạn đã so sánh với lựa chọn khác thế nào trước khi mua?
+
+Tool gợi ý: KNO Commerce, ZigPoll, Triple Whale Post Purchase (Triple Whale đã có sẵn trong stack tool hiện tại, [[saas-tool-evaluation]] — KNO/ZigPoll là 2 option chưa đánh giá). Tăng response rate bằng store credit hoặc cơ hội trúng full refund đơn hàng. Set lịch HẰNG TUẦN đọc response + thực sự implement điều học được — *"your performance will improve, guaranteed."*
+
+Tie [[quiz-funnels]] §51 (quiz = "instrument thu thập data trước mua", bổ sung chứ không thay post-purchase survey — 2 nguồn cùng khách, khác thời điểm: quiz = trước mua, survey này = sau mua) · [[email-marketing]] (ecomchasedimond: VOC bắt đầu từ reviews/support tickets/post-purchase surveys/call transcripts — tool cùng loại) · [[subscription-retention]] (post-purchase survey + review mining → habit-messaging cho front-end copy).
+
+> [!note] Áp cho MaxPro
+> Chưa có infra VOC ngoài review — đây là quick-win rẻ, setup 1 lần (KNO/ZigPoll hoặc Triple Whale sẵn có), chạy được ngay không cần chờ BFCM. Trực tiếp giải "quá nhiều idea, thiếu chỗ sắp xếp logic" (CLAUDE.md) bằng data THẬT từ khách thay vì đoán — câu "bạn mua cho ai" đặc biệt hợp vì MaxPro có cả avatar chủ-tự-mua lẫn quà-tặng ([[maxpro-avatars]]).
+
+## Ngừng chỉ show review từ site mình — third-party screenshot + raw thắng polished vì KHÓ FAKE ([[dtcmidas-third-party-review-screenshots]], [[dtcmidas-raw-reviews-beat-polished-testimonials]]) ⭐
+
+2 tweet cùng tác giả, cách nhau ~5.5 tháng, cùng 1 cơ chế tâm lý — gộp thành 1 nguyên tắc proof: consumer ngày càng biết on-site review và polished testimonial CÓ THỂ bị fabricate/manipulate → reflex nghi ngờ tự động bật lên. DTCMidas fix bằng 2 lớp, cùng 1 logic gốc:
+
+1. **Nguồn ngoài site (third-party):** đừng chỉ show review từ chính site — thêm screenshot review Amazon, comment Facebook, thread Reddit nơi người ta thật sự bàn về sản phẩm, dán vào PDP, pre-sell page, và ads. *"Consumers are getting smarter and know on-site reviews can be manipulated. They trust third-party (or look like third party) reviews way more."*
+2. **Raw hơn polished:** cùng lý do — polished testimonial fabricate được, raw review *"feel real because they are (or look like they are)"*. DTCMidas dùng screenshot từ ad comments + Trustpilot khắp pre-sell và product page — *"lifted our conversion rates significantly."*
+
+Không phải NGUỒN (own-site vs third-party) hay ĐỘ BÓNG (polished vs raw) tự thân là biến số — biến số thật là **fake-ability**: cái gì trông fake-được thì bị nghi, cái gì khó fake (screenshot chụp từ platform khác, chữ viết thô/có lỗi/giọng thật) thì được tin ngay.
+
+Mở rộng trực tiếp §Trust recession — legitimacy stack điểm 4 đã có ở trên (*"volume fake được, specificity khó fake"*) — đây thêm biến số thứ 2 (SOURCE, không chỉ specificity) vào cùng nguyên lý fake-ability. Nối §PDP anatomy điểm 1 (proof bar chọn theo cái mình có) + [[presell-pages]] §Review rating automation (Trustpilot pool building, dtcquizbuilder) — trang đó đã có content sâu về xây rating Trustpilot; đây bổ sung TACTIC cụ thể (screenshot đa nguồn dán trực tiếp lên trang), không lặp.
+
+> [!note] Áp cho MaxPro
+> Đã có 18,587 review 5★ trên site ([[maxpro-product-truth]]) nhưng chưa khai thác nguồn ngoài — cơ hội: pull screenshot review Amazon (nếu có bán), ad comment thật, bất kỳ mention Reddit/FB nào, dán cạnh review count hiện có trên PDP/pre-sell. Cùng niềm tin "thật thắng đẹp" đã có ở [[ugly-ads-method]] (candid > polished cho ad image) — đây là bản áp cho REVIEW thay vì ảnh sản phẩm.

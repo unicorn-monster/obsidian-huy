@@ -1,5 +1,5 @@
 ---
-sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas]
+sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas, dtcmidas-claude-setup-for-ad-copy]
 updated: 2026-08-26
 ---
 
@@ -66,3 +66,11 @@ Tháng 1: document quy trình, dựng agent L1 advisor đầu tiên (thường P
 
 > [!warning] Verify trước khi setup thật
 > Package name/CLI syntax MCP cụ thể trong nguồn (11/2025) cần tự kiểm tra lại với doc Claude Code/MCP hiện tại trước khi làm theo — hạ tầng này đổi nhanh.
+
+## Claude Opus + Projects + Skills — vẫn ăn đứt mọi setup khác cho copywriting ([[dtcmidas-claude-setup-for-ad-copy]])
+DTCMidas (2026-07-28): Claude Opus + Projects + Skills vẫn cho output tốt nhất khi viết copy — hơn cả **Claude Code** (dù gắn kèm nguyên memory base), hơn **ChatGPT 5.6**. Setup cụ thể: **1 Project riêng cho MỖI sản phẩm**, nạp càng nhiều context chất lượng cao càng tốt; và **1 Skill riêng cho MỖI format đang viết**, mỗi Skill train trên winning examples + DR fundamentals.
+
+→ Xác nhận trực tiếp pattern "1 Claude Project = persistent context / sản phẩm" đã có ở §PPC L1 trên ([[ecomamin-claude-ppc-keyword-agent-workflow]]) và ở [[market-awareness]] (jforjacob-product-launch-research-process, master research doc trong Claude project). DTCMidas mở rộng đúng pattern này sang **copywriting** cụ thể, và thêm 1 layer 2 case kia chưa nhắc: **Skill riêng theo format**, train trên ví dụ THẮNG thật — không chỉ system prompt chung chung. Tie [[copywriting]] (DR fundamentals — chính là nội dung nên nạp vào mỗi Skill).
+
+> [!note] Áp cho MaxPro
+> Dựng 1 Claude Project "MaxPro" nạp: catalog/margin/avatar/competitor/VOC hiện có trong wiki + [[copywriting]] DR fundamentals. Build Skill riêng cho từng format hay viết (advertorial, primary text, email), train trên winning example đã có sẵn trong wiki (VD [[maxpro-elle-birdie-winning-native]]) thay vì để Claude tự suy diễn format mỗi lần.

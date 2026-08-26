@@ -1,5 +1,5 @@
 ---
-sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework, ecomchasedimond-ads-boring-not-hated, ecomchasedimond-ai-video-pattern-blindness, ecomchasedimond-meta-creative-perplexity, jforjacob-deep-dive-concepts-before-volume, jforjacob-make-ads-that-answer-your-top-ads-questions, jforjacob-scroll-feed-before-briefing-ads, jforjacob-ignore-gimmicky-ad-formats, jforjacob-staging-curiosity-over-scripting, jforjacob-deliberate-mistakes-engagement-low-cpms, jforjacob-comments-section-part-of-funnel, jforjacob-von-restorff-effect-static-ad-prompt, jforjacob-turn-top-emails-into-statics-and-landers, jforjacob-statics-can-scale-prospecting, jforjacob-supporting-statics-per-video-ad-set, jforjacob-positive-vs-negative-framing-statics, jforjacob-creative-volume-statics-vs-video, jforjacob-plain-minimalist-product-static-200k]
+sources: [alexgoughcooper-static-ads-8-rules, alexgoughcooper-static-ads-8-rules-newsletter, maxpro-matrix-creative-guardrails, advertising-jan-5-nano-banana-static-prompts, orisilver-ai-storyboard-contact-sheet, fotw-resilia-12-pages-advertorial, avcanthony-copy-that-prints-fundamentals, satishdtc-6-diagnosis-questions-belief-shift, lachezarvoynov-educational-vsl-anatomy, f3dericobartoli-voc-review-mining-prompt, advertising-jan-cartoon-7-styles-prompts, advertising-jan-cartoon-native-ads-meta, advertising-jan-5-native-prompts-ugc-style, 0xroas-cartoon-ai-style-variation, 0xroas-v3-ugc-15min-stitch, jforjacob-video-editor-dtc-dr, jforjacob-bootstrapped-creatives-compete, advertising-jan-senior-niche-ai-prompts, adrian-chivu-voc-driven-100k-creatives, 0xroas-ai-animation-tof-story-required, maxwellcopy-ai-copy-vs-systems, dtcmidas-creative-per-funnel-stage, 0xroas-v3-ai-ugc-infinite-scale, 0xroas-v3-ai-video-broll-automation, 0xroas-v3-consistent-character-videos, maxwellcopy-ai-design-fatigue, 0xroas-talking-char-elevenlabs, viasox-turned-socks-into-a-pain-relief-empire, dramatic-demonstration, everyone-in-their-industry-got-crushed, dtcmidas-fb-statics-fullscreen-comments, ecomchasedimond-kitkat-brand-ad-analysis, dtcquizbuilder-future-pacing-ai-ads, ecom-amin-gpt-images-ad-prompt-framework, ecomchasedimond-ads-boring-not-hated, ecomchasedimond-ai-video-pattern-blindness, ecomchasedimond-meta-creative-perplexity, jforjacob-deep-dive-concepts-before-volume, jforjacob-make-ads-that-answer-your-top-ads-questions, jforjacob-scroll-feed-before-briefing-ads, jforjacob-ignore-gimmicky-ad-formats, jforjacob-staging-curiosity-over-scripting, jforjacob-deliberate-mistakes-engagement-low-cpms, jforjacob-comments-section-part-of-funnel, jforjacob-von-restorff-effect-static-ad-prompt, jforjacob-turn-top-emails-into-statics-and-landers, jforjacob-statics-can-scale-prospecting, jforjacob-supporting-statics-per-video-ad-set, jforjacob-positive-vs-negative-framing-statics, jforjacob-creative-volume-statics-vs-video, jforjacob-plain-minimalist-product-static-200k, dtcmidas-what-separates-good-and-bad-creative-strategists, dtcmidas-ecom-brands-to-steal-creative-ideas-from, dtcmidas-what-counts-as-a-creative-on-meta-now, dtcmidas-think-of-copy-and-creative-as-one-ad, dtcmidas-hiring-creative-strategists, dtcmidas-poach-creative-strategists-from-agencies, dtcmidas-what-a-creative-strategist-actually-does]
 updated: 2026-08-26
 ---
 
@@ -17,6 +17,11 @@ Nguồn: [[alexgoughcooper-static-ads-8-rules]] (X thread, oversee 50+ ad accoun
 7. **Test có chủ đích.** Volume AI bổ trợ strategy, KHÔNG thay. **Persona-gap:** soi review/comment/survey tìm persona bị bỏ quên (có demand, 0 ad target) → static đơn giản cho họ → crush. → [[personas]], [[maxpro-avatars]].
 8. **Reverse-engineer winner.** Meta ad library **SORT BY IMPRESSIONS** = proxy mạnh cho ad đang ăn spend (hơn nhiều "longest running"). Spy: O-Positiv, Obvi, Huel, Oats Overnight. → [[media-buying]].
 
+## Swipe file — 21 brand DTCMidas đang "steal" creative ý tưởng ([[dtcmidas-ecom-brands-to-steal-creative-ideas-from]])
+Bổ sung cụ thể cho rule 8 trên (reverse-engineer winner qua Meta ad library sort-by-impressions, spy list hiện có: O-Positiv, Obvi, Huel, Oats Overnight). DTCMidas list brand đang "actively printing" mà anh theo dõi swipe: Norse Organics, Gruns, Kind Patches, Happy Mammoth, Primal Queen, Loop, Hike Footwear, Spartan, Hollow Socks, Hi-Smile, Blissy, Feals, Grounding Well, Armra, Petlab Co., Heights, Primal Herbs, Everyday Dose, Ryze, City Beauty, Ka'Chava.
+
+→ 0 trùng tên brand với spy-list hiện có — union lại thành watch-list rộng hơn cho rule 8. Nguyên tắc chọn brand để steal: đang chạy nhiều ad LIÊN TỤC (= proxy "đang work", giống sort-by-impressions) trong niche liền kề (supplement/pet/wellness/apparel DTC), không cần cùng ngành hệt MaxPro — pattern hook/structure transferable qua ngành.
+
 ## 4 category static thắng (rule 2)
 - **Comparison** (Us vs Them · Before/After · Me-now vs Future-me · You vs Traditional-X). Rank failed-solution theo độ phổ biến trong review → ưu tiên. → [[presell-pages]] comparison, [[villains]].
 - **Product-image** (ảnh product + headline+benefit, thường lấy review làm headline). **Nhiều winner nhất** — format MaxPro đang thiếu, nên thêm.
@@ -32,6 +37,12 @@ DTCMidas: không phải mọi format hợp mọi stage — map creative-type the
 - **MOF** (đang cân nhắc): **native UGC & creator vids** — unboxing, GRWM, testimonial, content **nhúng tự nhiên vào content thường của creator** (không giống ad). = trust/consideration.
 - **BOF** (sắp mua): **offer statics + FOMO statics**. = chốt bằng deal/urgency ([[offer-and-cta]]).
 → Tie [[creative-testing]] R2 (format nào carry angle) + 4-category ở trên: cùng static nhưng chọn format theo stage. MaxPro: TOF long-form native static (ugly-problem) → MOF UGC couch-grind demo → BOF "$45 groomer vs once" offer static.
+
+## Creative = TOÀN BỘ ad, không chỉ video/ảnh — và mọi mảnh phải khớp nhau (DTCMidas, 2 tweet) ⭐
+- **Định nghĩa lại "1 creative"** ([[dtcmidas-what-counts-as-a-creative-on-meta-now]]): không phải chỉ video/static. = **video/ảnh + primary text + headline + landing page + identity page** (page brand hoặc third-party). Feed Meta ("andromeda") đói creative-diversity thật sự cần đa dạng ở TẤT CẢ các mảnh này — khác video, khác ảnh, khác primary text, khác headline, khác landing page, khác identity page — **không phải trộn ngẫu nhiên**: combination của mọi mảnh phải **congruent như 1 tổng thể**.
+- **Đừng nghĩ copy vs creative tách biệt** ([[dtcmidas-think-of-copy-and-creative-as-one-ad]]): nghĩ về AD như 1 khối — creative + headline + primary text làm việc CÙNG NHAU. Headline phải khớp nghĩa với creative, primary text phải hoàn thiện bức tranh chung — không viết headline hay riêng rồi ghép vào ảnh đẹp riêng.
+
+→ Tie trực tiếp [[creative-testing]] §Andromeda creative-diversity (jforjacob: *"creative diversity đến từ CONCEPT mới, không phải dừng test biến-thể-nhỏ"*) — DTCMidas bổ sung layer cụ thể: diversity phải trải khắp video/ảnh/copy/headline/**landing page/identity page**, không chỉ đổi visual. Cũng tie [[media-buying]] §CBO structure (identity page/landing page là biến số account-level, không chỉ creative-level) + [[copywriting]] §4 (headline=80% ngân sách, cùng nguyên lý "headline phải khớp phần còn lại"). MaxPro: khi audit "đã đủ diversity chưa" — check cả 6 mảnh, không chỉ đếm số ảnh/video khác nhau; brief mới luôn định rõ landing page + identity page đi kèm creative, không để mặc định 1 destination cho mọi ad.
 
 ## Prime directive
 Phải trông như post organic 1 người chủ thật chụp, KHÔNG ad. Không studio polish, không logo brand (chạy từ persona), nền nhà thật, khung lệch nhẹ kiểu điện thoại, ánh sáng tự nhiên. Ratio **4:5 hoặc 1:1**. Font xấu/plain. Caption echo hook, KHÔNG echo brand (brand chỉ ở destination).
@@ -170,6 +181,43 @@ VSL TOF mở cold (hair-loss ad chạy từ 12/2024, **40M impression**). Độn
 **Incentive alignment:** thưởng cho winning concept riêng → editor có động lực test, không chỉ execute brief. Cơ chế giống "resend top performer" ở [[email-marketing]]: winner gets rewarded, not just new.
 
 → Dùng như **checklist self-audit** khi làm creative solo: *"Mình đang 'stitch clips' hay đang think DR?"* Hook đủ mạnh? Retention được xem xét từng cắt? Có ghi SOP sau khi thấy gì thắng?
+
+## Good vs bad creative strategist — own the final product, không chỉ script ([[dtcmidas-what-separates-good-and-bad-creative-strategists]])
+Sibling trực tiếp §DR creative mindset trên (jforjacob hiring-spec cho editor) — đây là hiring-spec cho **creative strategist**, cùng thesis "marketer thinking, không chỉ execute".
+
+**Strategist DỞ:** research reddit sơ sài → viết script + gửi link reference → giao editor kèm ít context → launch khi editor xong → performance tệ thì đổ lỗi "edit chưa tốt". Coi việc kết thúc ở lúc script viết xong.
+
+**Strategist GIỎI obsess từng chi tiết final product:**
+- Xem hàng giờ content mà CHÍNH khách sẽ xem, để hiểu não khách từ bên trong.
+- **Hook:** không chỉ nói gì — mà NÓI THẾ NÀO (framing, cắt cảnh 3 giây đầu, thời điểm chính xác text xuất hiện).
+- **Text placement:** xuất hiện sớm/muộn quá? đọc được không? bổ trợ hay gây xao nhãng lời thoại?
+- **Số lượng cut:** pacing chậm/nhanh quá làm mất người xem?
+- **B-roll:** củng cố message hay chỉ lấp khoảng trống?
+- Feedback cho editor **cụ thể tới từng giây** — không "làm hay hơn đi" mà "cắt đoạn này ngắn 2 giây, cho text hiện muộn hơn 2 giây, thêm đúng testimonial này ở đây."
+- Sở hữu kết quả: ad tệ → không đổ lỗi editor/media buyer, mà tìm ra sai ở đâu, học, áp cho batch sau.
+- Trước khi launch: xem lại ad **20 lần**.
+
+→ Tie §DR creative mindset trên (jforjacob) — 2 nguồn cùng thesis "strategist = marketer nghĩ trong từng cut, không phải ideation-rồi-bỏ-đi". Dùng làm checklist tự-audit khi tự làm creative strategist cho MaxPro: có đang xem lại final edit 20 lần trước khi ship không, hay dừng ở lúc script xong?
+
+## Tuyển creative strategist ở đâu, và job thật sự là gì (DTCMidas, 3 tweet) ⭐
+
+Sibling trực tiếp §Good vs bad creative strategist ở trên (cùng tác giả DTCMidas) — bài trên trả lời "làm sao BIẾT ai giỏi", 3 tweet này trả lời "TUYỂN ai, TỪ ĐÂU, và role bao gồm những gì".
+
+**Nguồn tốt nhất KHÔNG phải background marketing** ([[dtcmidas-hiring-creative-strategists]]): creative strategist giỏi nhất DTCMidas từng làm việc cùng thường đến từ **engineering, journalism, sales** — không liên quan gì tới ads. Lý do: job này chủ yếu là research, phá vấn đề thành hệ thống, hiểu feedback loop, hiểu người. Engineer tư duy theo test + feedback loop; journalist biết research thật + kể chuyện; sales biết xử objection + biết điều gì thật sự khiến 1 người hành động. Framework, DR fundamentals, format — dạy được. **Empathy + aptitude cho kiểu tư duy này thì KHÔNG dạy được.**
+
+**Nguồn tuyển: tự train ban đầu, sau đó poach từ agency** ([[dtcmidas-poach-creative-strategists-from-agencies]]): DTCMidas ban đầu tự train creative strategist đầu tiên; giờ chủ động poach, chủ yếu từ **agency**, tìm và tiếp cận qua **LinkedIn**.
+
+**Định nghĩa role đầy đủ** ([[dtcmidas-what-a-creative-strategist-actually-does]]): creative strategist = bộ não + người quản lý đứng sau toàn bộ ads. Trách nhiệm:
+- Dùng customer research để quyết angle/format/messaging nào sẽ convert
+- Phân tích ad đang thắng → tạo iteration để scale tiếp
+- Chủ trì creative meeting, quản timeline
+- Phân bổ nguồn lực (budget, team, tool)
+- Viết script, viết ad copy
+- Quản lý designer + video editor
+
+Nói gọn: người đảm bảo brand không ném random content lên tường, mà ra creative mới đều đặn, có hệ thống. *"A good cs is worth their weight in gold."*
+
+→ Đọc cùng §Good vs bad creative strategist ở trên: bài đó cho checklist ĐÁNH GIÁ chất lượng (own final product, xem lại 20 lần, feedback từng giây); 3 tweet này cho nguồn TUYỂN (non-marketing background, poach từ agency qua LinkedIn) + phạm vi role đầy đủ (không chỉ script — cả resource allocation, quản người, meeting). Tie [[growth-ops]] §Flywheel vs fuel — creative strategist là ví dụ điển hình cho **flywheel hire** (nghĩ + execute end-to-end, không chỉ "strategize"), khớp đúng cách jforjacob/DTCMidas mô tả role này ở cả 2 trang. MaxPro: khi tới lúc tuyển creative strategist đầu tiên (sau khi đã đủ fuel-hire theo [[growth-ops]]), ưu tiên hỏi background research/problem-solving thay vì kinh nghiệm ads thuần, và cân nhắc nguồn agency qua LinkedIn thay vì job board chung.
 
 ## Bootstrapped brands: out-creative, không out-budget ([[jforjacob-bootstrapped-creatives-compete]])
 @jforjacob (DR/ecom): *"Those who can afford to spend the most to acquire a customer win — but if you're bootstrapped you don't have that luxury."* Đường tắt duy nhất = **phải giỏi creative + landing page hơn category leaders**. Counter-intuitive: Gruns, IM8 chạy ads *"objectively mid"* — họ win bằng volume spend, không phải creative quality. Bootstrapped brand phải win bằng **conversion quality**: 1 creative sắc với CPA thấp hơn beat được hàng chục creative "đủ tốt".

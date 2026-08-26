@@ -1,11 +1,19 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time]
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency]
 updated: 2026-08-26
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
 
 Tách từ [[email-marketing]] (2026-07-03): không phải email tactic — là **ops-discipline khi thuê ngoài**, áp cho mọi loại agency. Nguồn: maxwellcopy (tự chạy agency — biết cả 2 phía bàn). Dùng khi Huy thuê ngoài bất kỳ mảng nào.
+
+## Trả email agency: flat retainer, KHÔNG phải % attributed revenue ([[dtcmidas-how-should-you-pay-an-email-agency]])
+
+DTCMidas: thuê email agency/freelancer đáng công — nhưng trả **flat monthly retainer**, không trả theo % doanh thu attributed từ email. Pitch "chỉ tính phí khi bạn kiếm ra tiền" (% revenue) nghe hấp dẫn nhưng là deal tệ vì 2 lý do:
+- Fee của agency TĂNG chỉ vì bạn tăng ad spend + list tăng tự nhiên theo thời gian — không phải vì họ làm việc tốt hơn.
+- Attributed revenue từ email rất dễ bị game (double-count, cửa sổ attribution rộng, credit cho đơn lẽ ra tự mua).
+
+→ Bổ sung trực tiếp §Red-flags dưới — cấu trúc phí % attributed revenue là 1 dạng incentive-misalignment cụ thể chưa nằm trong 21-điểm hiện có: agency được thưởng khi SỐ TĂNG (dù do ngoại lực) chứ không phải khi HỌ tạo ra giá trị thật. MaxPro: nếu/khi thuê email agency, chốt flat fee ngay từ đầu, từ chối mọi cấu trúc %-of-revenue dù nghe "aligned incentive" thế nào.
 
 ## Red-flags — 21 điểm (bộ lọc ngược khi nghe pitch) ([[maxwellcopy-agency-red-flags-list]])
 Cờ đỏ đáng nhớ nhất: **không bao giờ báo tin xấu** (luôn có vấn đề; chỉ tin tốt = không để ý hoặc giấu) · người liên hệ ≠ người làm strategy · đồng ý mọi thứ bạn nói · chỉ nhìn metric in-platform (Klaviyo rev) thay vì KPI store · báo cáo số nhưng **0 insight** · không quick-win tuần đầu · khoá hợp đồng 6-12 tháng · guarantee to lúc sale · dùng attribution-setting riêng của họ. → dùng làm bộ lọc ngược khi nghe agency pitch.

@@ -1,5 +1,5 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education]
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials]
 updated: 2026-08-26
 ---
 
@@ -601,3 +601,43 @@ maxwellcopy (2026-08-25): insight từ BFCM năm trước — brands có **>50% 
 **Production cost:** viết được trong ~10 phút. Zero design overhead.
 
 → MaxPro BFCM: founder email từ "Huy" (không phải "MaxPro") · subject đơn giản · **bold offer** · 1 nút. Mix plain text vào giữa các designed emails — plain text sẽ carry chunk revenue event. Tie §4 SMS-style email (cùng tư tưởng "trông như tin nhắn thật") + §3 Pattern interrupt (ở BFCM, designed email là expected → plain text là interrupt). Tie [[agency-ops]] §People > Training > Systems (báo cáo tốt = insight, không phải số — plain text mang ra được đúng signal này trong design-saturated inbox).
+
+## BFCM email calendar — 6 loại campaign xen kẽ + tần suất 3x/tuần → ramp cuối tuần ([[dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm]], [[dtcmidas-how-often-should-you-email-during-bfcm-season]]) ⭐
+
+**6 loại campaign DTCMidas stack trong suốt BFCM** — mỗi loại 1 LÝ DO mua khác nhau, cho người nhiều cơ hội mua xuyên suốt cả period thay vì 1 email giảm giá duy nhất:
+1. **Announcement** — "tomorrow our biggest sale of the year starts" — build anticipation, để họ sẵn thẻ.
+2. **Flash sale** — cửa sổ 6-8 tiếng kèm discount/bonus thêm — tạo urgency BÊN TRONG sale chính.
+3. **Refund giveaway** — mỗi đơn thứ X được hoàn tiền — đánh vào bản năng "thích cược".
+4. **Scarcity** — "XYZ đã sold out" hoặc "gần hết, đừng chờ nữa."
+5. **Urgency** — "sale ends in X hours" — nhắc đồng hồ đang chạy.
+6. **Extension** — "do overwhelming demand, extending through Cyber Monday" — vớt hết người bỏ lỡ đợt đầu, thêm 1 cú đẩy nữa.
+
+Gộp lại: *"gives people multiple reasons to buy throughout the entire period and lets you capture all the demand you've built up over the last 11 months."*
+
+**Tần suất + nhịp ramp:** tối thiểu **3 email/tuần** suốt cả tháng 11 và 12. Riêng cuối tuần BFCM ramp mạnh hẳn — **Thứ Sáu: 2-3 email + 1 SMS · Thứ Bảy: 1-2 email · Chủ Nhật: 2-3 email + 1 SMS.** Xuyên suốt period, chạy flash sale 24-48h để đẩy nốt subscriber đã engaged nhưng chưa mua. Cuối mùa: refund giveaway — *"most people are broke by then so giving them a chance to win their money back combined with a good offer drives more conversions."*
+
+Tie §Plain text maxxing BFCM ngay trên — 2 lớp khác nhau của CÙNG 1 event: đây là **cái gì gửi + gửi khi nào** (campaign type + cadence), plain-text là **cách viết** (format). Dùng chung: 6 loại trên có thể viết ở BẤT KỲ format nào (designed hoặc plain text), mix theo tỷ lệ đã có ở §Plain text.
+
+> [!note] Refund giveaway ở đây KHÔNG mâu thuẫn với ⚠️ Giveaway timing ([[offer-and-cta]])
+> [[offer-and-cta]] cảnh báo giveaway kiểu opt-in-rồi-chờ-30-ngày làm lead nguội trước khi biết kết quả. Refund giveaway BFCM khác cơ chế: gắn liền vào ĐƠN HÀNG THẬT (mỗi đơn thứ X), biết kết quả gần như ngay, không có giai đoạn "chờ" làm nguội lead — action (mua) và cơ chế giveaway xảy ra CÙNG LÚC, không phải giveaway đứng riêng rồi mới dẫn vào offer.
+
+→ MaxPro BFCM đầu tiên: dựng lịch 6-loại này cho tháng 11-12, ramp cuối tuần Black Friday theo đúng nhịp Fri/Sat/Sun ở trên. Cross ref §one-proven-offer-for-black-friday + §weekend-promos-to-test-offers-before-q4 ([[offer-and-cta]]) — offer NỀN nên đã proven từ trước, 6 campaign type ở đây chỉ là LỚP TRUYỀN THÔNG bọc quanh 1 offer đã chốt, không phải chỗ thử offer mới.
+
+## Post-purchase flow — không có "số email lý tưởng", chỉ có đúng email tại đúng lúc ([[dtcmidas-post-purchase-email-flow-essentials]])
+
+DTCMidas hỏi thẳng agency email của mình câu này: không có số lượng email/campaign lý tưởng cho post-purchase flow — phụ thuộc loại sản phẩm. Trọng tâm đúng: xác định **nghi ngờ/doubt** khách đang có + động viên họ **dùng đều đặn**, đồng thời **quản lý kỳ vọng** để khách nhiều khả năng quay lại theo thời gian.
+
+**Email cốt lõi nên có trong post-purchase flow:**
+- **Social proof** — "bạn đã quyết định đúng"
+- **Why we started** — tin nhắn cá nhân từ founder
+- **How's it going?** — email check-in
+- **Answering FAQs**
+- **Review request**
+- **Winback** — động viên mua lại sau X ngày
+
+*"The key is understanding your customer journey and placing these emails where they make sense based on when people typically have questions, see results, or need a reminder."*
+
+Bổ sung §Welcome flow ở trên (7-email, job = giữ vững quyết định MUA khi vừa chốt) — post-purchase flow này là lớp SAU đó, khi hàng đã tới tay: khác về THỜI ĐIỂM (sau khi dùng, không phải ngay sau mua) và JOB (giữ họ tiếp tục dùng + quay lại, không phải khoá đơn đầu tiên). Xác nhận trực tiếp cơ chế §Returns/refunds = education problem (jforjacob) — "how's it going?" check-in chính là loại email đã đo được cắt refund 73.4% ở đó; DTCMidas gọi tên nó thành 1 loại email chuẩn trong bất kỳ flow nào, không chỉ khi target refund. Tie [[subscription-retention]] (driver #3 onboarding/education trong 10-driver LTV — MaxPro không sub nhưng cùng cơ chế: khách cần biết "đang đi đúng hướng" mới quay lại).
+
+> [!note] Áp cho MaxPro
+> Grinder là repeat-use vật lý (không sub) nhưng vẫn có doubt y hệt: "có work cho móng chó lớn/đen không", "chó tôi sợ tiếng ồn thì sao". Ghép 6 email trên vào chuỗi sau đơn hàng: social-proof ngay khi ship · "why we started" (founder) tuần 1 · check-in "how's it going" đúng lúc chó đã quen (~tuần 2-3, khớp timeline §Returns/refunds) · FAQ giữa chừng · review-request sau khi thấy kết quả · winback cho bit/balm refill sau vài tháng.

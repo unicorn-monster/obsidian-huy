@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman, viasox-turned-socks-into-a-pain-relief-empire, selling-to-grandmas-read-this]
-updated: 2026-07-17
+sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman, viasox-turned-socks-into-a-pain-relief-empire, selling-to-grandmas-read-this, dtcmidas-why-are-cpms-lower-on-third-party-pages]
+updated: 2026-08-26
 ---
 
 # Persona-network strategy
@@ -53,6 +53,8 @@ Nguồn thứ 3 chốt "đừng chạy từ brand page": ~**50% ad spend qua 3rd
 
 > [!note] Đây là tầng PAGE — có tầng DOMAIN song song
 > "3rd party" có **2 tầng**: (1) **FB Page** (sender ad chạy từ — section này) và (2) **review DOMAIN** (website chứa listicle, vd `reviewscout.org`). Magazine page ở đây → bấm vào → nên đáp xuống **review-domain độc lập**, không phải store. Build + 2 cú lừa (criteria-funnel, borrowed-authority citation): [[presell-pages]] §3rd-party review DOMAIN · teardown [[reviewscout-3rd-party-review-domain-teardown]].
+
+**Vì sao CPM thấp hơn ở 3rd-party page — cơ chế thật, không phải "vì không phải brand page"** ([[dtcmidas-why-are-cpms-lower-on-third-party-pages]]): CPM thường thấp hơn trên 3rd-party page, nhưng biến số quyết định là **ENGAGEMENT**, không phải bản thân việc page có phải brand hay không. 3rd-party page chỉ đơn giản là làm dễ hơn để đạt cảm giác organic (→ engagement cao hơn → CPM thấp hơn). Cùng CPM thấp đó đạt được được trên brand page nếu ad đủ engaging. → Không dùng 3rd-party page như 1 "hack CPM" tự động — vẫn phải làm ad **trông tự nhiên/engaging thật sự** (persona voice-signature ở trên, không phải chỉ đổi sender-identity rồi giữ nguyên creative brand-y).
 
 **Buying mechanics (đừng over-engineer):** CÙNG ad account, thậm chí CÙNG campaign — *"don't overcomplicate it"*. Bắt đầu được từ **scratch, mọi scale** (không cần follower). **Founder page** (dù ít follow) = một trong cách tốt nhất: winning founder ad đã chạy brand page → **relaunch trên founder page**. Whitelist creator: trả **% ad spend hoặc flat fee**; ad deliver từ cả 2 page hoặc chỉ page creator. Chỉ cần FB nếu spend chủ yếu FB; 30%+ trên IG mới lập IG page + fill content. Khớp note "Disguise (persona/page)" của [[media-buying]].
 

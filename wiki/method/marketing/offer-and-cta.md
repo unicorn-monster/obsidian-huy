@@ -1,5 +1,5 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped]
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity]
 updated: 2026-08-26
 ---
 
@@ -201,3 +201,51 @@ eCom_Amin: Lumin (men's skincare, niche bão hoà, 40+ active Google Ads creativ
 **Principle từ eCom_Amin:** *"The offer does the strategic work. The ads handle delivery."* Hầu hết brand fix cold traffic bằng better creative trong khi front-end vẫn ask $49 từ người gặp họ lần đầu 8 giây trước.
 
 **Liên kết:** model này là extreme end của §"perceived value > price" (4 levers). Tie [[subscription-retention]] §Lumin free trial (cơ chế subscription sau acquisition). ⚠️ Model này cần unit economics chắc (shipping cost < LTV gap) — không phải mọi category đều viable.
+
+## 1 offer đã proven cho Black Friday, test offer MỚI ở weekend promo trước đó ([[dtcmidas-one-proven-offer-for-black-friday]], [[dtcmidas-weekend-promos-to-test-offers-before-q4]]) ⭐
+
+**Rule Black Friday:** bám đúng **1 offer đã proven** — *"this is not the period to experiment, you already had 11 months to try new offers."* Black Friday không phải sân chơi thử nghiệm, là chỗ thu hoạch cái đã biết chắc thắng.
+
+**Vậy test offer mới ở ĐÂU?** Weekend promo 3-ngày (Thứ Sáu → Chủ Nhật, LUÔN đúng 3 ngày) chạy vào các tháng TRƯỚC Q4. Lý do đúng 3 ngày: đa số khách mua ngày 1 (excitement) và ngày cuối (FOMO) — bắt được peak buying behavior mà không phải discount kéo dài. Loại offer để test qua nhiều weekend: Buy X Get Y Free · X% off toàn bộ · X% off + free ship · spend X get free gift · spend X get Y% off / spend Z get A% off (tiered). Mỗi weekend track: total revenue, CVR, AOV, profit margin, CAC. **Mục tiêu KHÔNG phải maximize revenue lúc test — chỉ đang thu thập data.** Tới lúc BFCM, đã biết chắc offer nào perform tốt nhất → đó là cái mang ra chạy làm "1 offer proven" ở trên.
+
+Tie §Test 3 offer cùng lúc (risk-reversal → pricing → bonus-stack, isolate 1 element/lần) — cùng kỷ luật testing, khác Ở CHỖ: weekend-promo test cả 1 OFFER TYPE trọn gói theo lịch cố định trước mùa, không isolate từng element. Tie §Offers EXPIRE (Carl Weische) — weekend-promo pipeline chính là cách VẬN HÀNH nguyên lý "phải re-market/re-test trước khi decay", canh đúng nhịp calendar BFCM.
+
+> [!note] Áp cho MaxPro
+> Chưa có "1 offer proven" cho Black Friday — vẫn còn vài tuần trước Q4 (hôm nay 26/08) để chạy 2-3 weekend promo test (Buy-1-Get-bit-free / %off bundle / spend-X-get-gift) trên các offer type ở trên, track đúng 5 số (revenue/CVR/AOV/margin/CAC) → chốt 1 offer proven trước khi vào mùa BFCM chính thức, đừng để BFCM là lần đầu test offer mới.
+
+## Tăng giá 1-món, giữ nguyên giá bundle — bundle nhìn hời hơn + AOV lên + retention tốt hơn ([[dtcmidas-raise-base-price-keep-bundles]])
+
+Nếu đang chạy bundle offer, test tăng **giá 1-món (base price)** trong khi GIỮ NGUYÊN giá các tier bundle. 4 hiệu ứng cùng lúc:
+1. **Bundle nhìn hời hơn** — % discount so với 1-món giãn rộng ra.
+2. **Nhiều người chọn bundle hơn** — mua lẻ 1 món giờ kém hấp dẫn hẳn.
+3. **AOV lên** — capture nhiều LTV hơn ngay ngày 1.
+4. **Khách chất lượng hơn** — data DTCMidas: **retention tốt hơn ở khách mua nhiều hơn ngay ngày 1**. Cơ chế: đa số sản phẩm repeat-purchase cần thời gian mới thấy kết quả/thành thói quen — xác suất thấy kết quả hoặc hình thành thói quen cao hơn khi khách CÓ ĐỦ hàng dùng; mua 1 món, dùng hết trước khi thấy kết quả → khả năng quay lại thấp hơn nhiều.
+
+Có downside (DTCMidas thừa nhận), nhưng *"helped us improve unit economics by a lot lately."*
+
+**Đây là 1 lever KHÁC với §Tiered bundle + §No-brainer offer ở trên** — 2 mục kia dựng anchor bằng cách THÊM bundle/kỳ vọng từ ad; lever này đụng thẳng vào GIÁ TIER 1 (chính cái đang làm anchor) để đẩy tương quan giữa các tier. Cũng khác cơ chế §Raise price SAU khi raise value (carlweische) — carlweische tăng giá SAU KHI tăng perceived value; đây là dịch chuyển ANCHOR TƯƠNG ĐỐI (bundle nhìn hời hơn) mà không nhất thiết phải tăng value trước — 2 lever bổ trợ, không thay thế nhau.
+
+> [!warning] Tie [[funnel-and-landing]] §RPS backfire — đo CAC/frequency song song, đừng chỉ nhìn AOV/RPS lên
+> Raise base price là chính xác kiểu move đẩy AOV lên mà [[funnel-and-landing]] §"Judge trang/funnel bằng RPS — nhưng đừng optimize đơn lẻ" cảnh báo: AOV/RPS tăng có thể đi kèm CAC tăng + audience thu hẹp (ít người mua nổi giá cao hơn). Test raise-base-price nên theo dõi CAC + tần suất mua song song với AOV, không chỉ nhìn AOV/bundle-mix-shift rồi kết luận thắng ngay.
+
+→ MaxPro: tier 1 hiện $39.95 (1 máy). Test nâng lên vùng $44.95-49.95, GIỮ NGUYÊN tier 2 ($49.95, +3 bit) và tier 3 ($64.95, full bundle) — xem tier-mix có dịch về tier 2/3 không + đo retention của khách mua tier 2/3 vs tier 1 (dù MaxPro không sub, "đủ bit để thấy kết quả" = tương đương "đủ stock" của DTCMidas).
+
+## Urgency/scarcity phải BELIEVABLE và honor được liên tục — 5 loại evergreen, không phải fake countdown ([[dtcmidas-how-do-you-add-believable-urgency-and-scarcity]]) ⭐
+
+**Vì sao urgency/scarcity convert:** loss aversion hardwired vào não khách — sợ MẤT thứ gì đó mạnh hơn nhiều so với ham MUỐN có nó. Urgency/scarcity trigger FOMO, chuyển suy nghĩ từ *"để lúc khác mua"* sang *"phải mua ngay trước khi lỡ."*
+
+**Từ khoá là BELIEVABLE.** Consumer không ngu: countdown timer reset mỗi lần vào lại trang, cảnh báo "chỉ còn 3" lúc nào cũng ghi 3, sale "kết thúc tối nay" mà giá mai vẫn y hệt — khách nhìn thấu hết. Và một khi bắt được đang nói dối, họ **không tin lại lần nữa.** Ngược lại, urgency/scarcity believable + chạy được LIÊN TỤC (evergreen) convert ổn định mà KHÔNG hại brand.
+
+**5 loại believable evergreen (chọn theo cái thật đang có, không bịa):**
+1. **Xoay vòng theo mùa** — giữ nguyên core offer, đổi framing theo mùa (New Year → Valentine → Easter → Summer), mỗi đợt có deadline THẬT.
+2. **Theo sản xuất** — "limited batch production — hết thì đợt sau ship sau X tuần."
+3. **Theo tồn kho** — hiện số tồn theo đúng size/variant khách VỪA CHỌN ("chỉ còn 3 size M").
+4. **Theo ràng buộc nguyên liệu/nguồn cung** — "[nguyên liệu hiếm] giới hạn sản xuất X đơn vị/tháng, còn X."
+5. **Social proof urgency** — "bestseller — đã sold out 4 lần trong năm nay."
+
+*"Whatever tactics you use, they must be believable and you must honor them. When you consistently honor them, customers learn to trust it. And trust is what drives action."*
+
+Mở rộng §6-component offer framework điểm 4 "Urgency that's real" ở trên (đã có 3 ví dụ: batch nhỏ / sub-cohort / formula-update) — DTCMidas cho taxonomy đầy đủ hơn (5 loại) + giải thích rõ CƠ CHẾ tâm lý (loss aversion) + cảnh báo cụ thể anti-pattern (fake countdown/stock/deadline). Tie §CTA framework "Urgency = act-now-or-consequence" — cùng nguyên tắc, đây bổ sung PHẢI THẬT + PHẢI GIỮ LỜI làm điều kiện tiên quyết. Tie ⚠️ §Giveaway timing ở trên (fake urgency qua drip dài = mất momentum) — cùng họ hàng "urgency giả giết trust", khác cơ chế cụ thể.
+
+> [!note] Áp cho MaxPro
+> Loại (2) production-based hoặc (3) inventory-based hợp nhất với 3-port cap S/M/L thật ([[maxpro-product-truth]]) — "chỉ còn X bộ size L trong đợt này" nếu có số thật để dùng. Loại (1) seasonal rotation hợp cho lịch weekend-promo ở trên (New Year → Valentine → BFCM đều có deadline thật). Tránh hẳn fake countdown — đã có urgency layer THẬT ở [[maxpro-ugly-ads-plan]] (quick mọc dài mỗi ngày trì hoãn), ưu tiên cơ học có thật đó trước khi thêm tactic nào ở đây.

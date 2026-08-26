@@ -1,5 +1,5 @@
 ---
-sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy, jforjacob-founders-information-diet, jforjacob-guard-your-attention-seek-boredom, jforjacob-most-productive-48-hour-cycle]
+sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy, jforjacob-founders-information-diet, jforjacob-guard-your-attention-seek-boredom, jforjacob-most-productive-48-hour-cycle, dtcmidas-ice-scoring-daily-priorities, dtcmidas-making-decisions-at-40-percent-certainty, dtcmidas-single-reason-decision-model]
 updated: 2026-08-26
 ---
 
@@ -47,3 +47,19 @@ Attention là "commodity" duy nhất thật sự có giá trị — công ty t�
 ## Chu kỳ 48h năng suất nhất: thức xuyên đêm để đổi lấy 12h tuyệt đối yên tĩnh ([[jforjacob-most-productive-48-hour-cycle]])
 
 jforjacob: chu kỳ 48h năng suất nhất = thức xuyên đêm ngày 1 → ngủ khoảng giữa trưa → dậy ~8h tối, tỉnh táo hoàn toàn → có nguyên 12 tiếng yên tĩnh tuyệt đối phía trước (mọi người khác đang ngủ — không Slack, không WhatsApp, không email, không call). Bản cực đoan của §Flow dài ở trên: đổi lịch sinh học để mua 1 khối thời gian dài không ai chạm được tới, thay vì cố bảo vệ block giữa ngày đầy interrupt.
+
+---
+
+## Quyết định khi resource có hạn + thông tin không đầy đủ: ICE score, chấp nhận 40% certainty, tìm lý do duy nhất ([[dtcmidas-ice-scoring-daily-priorities]], [[dtcmidas-making-decisions-at-40-percent-certainty]], [[dtcmidas-single-reason-decision-model]])
+
+3 tweet DTCMidas, cùng 1 chủ đề — công cụ ra quyết định khi luôn có nhiều việc hơn thời gian và không bao giờ đủ data để chắc chắn 100%:
+
+**1. ICE scoring cho việc hằng ngày** ([[dtcmidas-ice-scoring-daily-priorities]]): luôn có nhiều việc phải làm hơn có thể làm, và việc mình THÍCH làm nhất thường không phải việc move-the-needle nhất. Cách xử lý: giữ 2 list (to-do + ideas), score mỗi item theo **Impact** (di chuyển North Star KPI — revenue/profit — bao nhiêu) × **Confidence** (chắc nó work cỡ nào) × **Ease** (ship nhanh cỡ nào), mỗi trục 1-10, rồi làm TOP DOWN theo điểm. Ví dụ: "logo + redesign store" = 2×3×5=30, "chuyển sang 3PL" = 8×7×2=112, "hire creative strategist" = 10×8×4=420, "sửa abandoned-cart flow" = 4×5×5=100, "làm ads theo angle mới đang thắng" = 9×7×8=504. Big bet (launch sản phẩm mới) KHÔNG qua hệ thống này — quyết theo strategy riêng, không score.
+
+**2. Trần certainty thực tế là ~40%** ([[dtcmidas-making-decisions-at-40-percent-certainty]]): không bao giờ quyết định với 100% chắc chắn — 40% thường đã là trần. Với chọn angle: research → best educated guess → execute hết mình. Coi MỖI test như đang MUA thông tin từ thị trường, không phải thắng/thua nhị phân — angle work thì tốt (iterate + scale), angle không work cũng tốt (có data để đi tiếp) — cả 2 outcome đều đưa gần hơn tới câu trả lời đúng.
+
+**3. Mô hình 1-lý-do của Peter Thiel** ([[dtcmidas-single-reason-decision-model]]): chia lý do ra riêng từng phần, tìm lý do QUAN TRỌNG NHẤT. Không có 1 lý do đủ mạnh để tự đứng vững → đừng làm. Sai lầm phổ biến: làm pros/cons list coi mọi yếu tố ngang trọng số (lazy, sai), bị cuốn theo "lợi ích phụ" không liên quan mục tiêu thật — vd "cái này cũng có thêm feature X" khi đánh giá SaaS, "cái này cũng tăng brand awareness" khi mục tiêu là conversion, "influencer này 2M follower" khi cần traffic converting chứ không cần reach. Đúng: hỏi "lý do DUY NHẤT nào khiến quyết định này hợp lý?" — trả lời không rõ thì lùi lại.
+
+**Vì sao 3 cái này là 1 bộ, không phải 3 mảnh rời:** ICE score trả lời "làm việc GÌ hôm nay" (ưu tiên trong đống việc đã biết phải làm), single-reason model trả lời "có nên bắt đầu 1 việc/quyết định MỚI không" (lọc option trước khi nó vào list), 40%-certainty là TÂM THẾ chạy nền cho cả 2 — chấp nhận sẽ không bao giờ chắc chắn hoàn toàn, nên vẫn quyết + ship thay vì chờ thêm data.
+
+→ Tie §1 ưu tiên duy nhất ở đầu trang (Tim Denning) — ICE scoring là CƠ CHẾ CỤ THỂ hằng ngày để thực thi "nói không với gần như mọi thứ": thay vì chỉ là nguyên tắc trừu tượng, có công thức tính điểm để biết việc nào nên bỏ. Với Huy: đúng vào chỗ "Stuck on" — quá nhiều idea — dùng ICE để lọc list idea trước khi nó chiếm chỗ trong ngày.

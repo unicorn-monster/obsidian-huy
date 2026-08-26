@@ -1,5 +1,5 @@
 ---
-sources: [jforjacob-product-validation-pipeline-before-stock, jforjacob-alibaba-manufacturer-product-research, jforjacob-what-shipping-from-china-can-look-like, jforjacob-chinese-3pl-storage-pick-pack-fees, jforjacob-us-only-pricing-shopify-csv]
+sources: [jforjacob-product-validation-pipeline-before-stock, jforjacob-alibaba-manufacturer-product-research, jforjacob-what-shipping-from-china-can-look-like, jforjacob-chinese-3pl-storage-pick-pack-fees, jforjacob-us-only-pricing-shopify-csv, dtcmidas-vet-manufacturers-and-test-product-quality]
 updated: 2026-08-26
 ---
 
@@ -25,6 +25,29 @@ Pipeline đầy đủ từ jforjacob, theo đúng thứ tự:
 **Nguồn intel miễn phí hay bị bỏ qua** ([[jforjacob-alibaba-manufacturer-product-research]]): đi Trung Quốc trực tiếp là vô đối cho product research, nhưng chỉ cần CHAT với manufacturer trên Alibaba cũng lấy được lượng thông tin đáng kinh ngạc — best seller là gì, variant phổ biến nhất, top country nào đang mua — mà gần như không ai chịu hỏi.
 
 → Bước 8 (proof-of-concept không cần stock) chính là cơ chế thực thi cho [[product-selection]] §3 tiêu chí — kiểm own-edge + margin + price-point BẰNG DỮ LIỆU THẬT trước khi cam kết vốn vào MOQ, thay vì đoán.
+
+## Vet manufacturer trên Alibaba + test chất lượng sản phẩm thật ([[dtcmidas-vet-manufacturers-and-test-product-quality]])
+
+DTCMidas — bổ sung trực tiếp §Nguồn intel Alibaba ở trên (jforjacob: chat với manufacturer lấy intel) bằng quy trình VET + TEST đầy đủ hơn:
+
+**Chọn manufacturer trên Alibaba:**
+- Chỉ tiếp cận **Gold Supplier** có rating cao + trade assurance — đừng nhắn đại trà supplier ngẫu nhiên.
+- Check portfolio sản phẩm — ưu tiên manufacturer ĐÃ làm sản phẩm tương tự, không phải làm lần đầu.
+- Nhắn **10-15 supplier**, xin sample, so sánh chất lượng — đừng chọn theo giá rẻ nhất.
+- Ưu tiên: giao tiếp phản hồi nhanh, tiếng Anh tốt, sẵn sàng làm MOQ nhỏ để test.
+- Hoặc đi đường tắt: thuê **sourcing agent** tốt — giảm hẳn rủi ro bị lừa, đổi lại mất thêm chi phí trung gian.
+
+**Test chất lượng sản phẩm thật (khác test demand — xem link post riêng trong nguồn):**
+- Order sample từ NHIỀU manufacturer song song.
+- Tự dùng sản phẩm hàng tuần liên tục.
+- Đưa sample cho người trong đúng target demographic dùng thử.
+- Hỏi thẳng 3 câu: sản phẩm có giải quyết đúng vấn đề nó claim không? So với alternative họ từng dùng thế nào? Họ có thật sự MUA ở mức giá này không?
+- Tín hiệu đọc: người thật sự **excited** với sample = có gì đó tốt thật; người chỉ lịch sự khen "nice" = sản phẩm mediocre, đừng tự lừa mình.
+
+→ Đây là bước LÀM CỤ THỂ cho §Nguồn intel Alibaba (jforjacob) ở trên — jforjacob nói "chat để lấy intel", DTCMidas cho tiêu chí LỌC supplier (Gold Supplier + trade assurance + portfolio) và quy trình TEST sample sau khi đã có hàng mẫu. Cũng nối trực tiếp §Validate demand pipeline bước 9 (order MOQ sau khi profitable) — quy trình vet 10-15 supplier + test sample nên chạy XONG trước khi tới bước 9, không phải chọn manufacturer đầu tiên trả lời tin nhắn.
+
+> [!note] Áp cho MaxPro
+> Khi cần thêm/đổi manufacturer cho MaxPro Grinder: áp đúng bộ lọc Gold Supplier + trade assurance + portfolio tương tự, nhắn tối thiểu 10 supplier song song thay vì chốt sớm 1-2 nơi. Test sample bằng câu hỏi "họ có THẬT SỰ excited hay chỉ lịch sự" — dùng đúng silent-signal này khi đưa sample cho pet owner ngoài vòng bạn bè thân.
 
 ## Vận hành 3PL Trung Quốc — tốc độ thật + bẫy phí cần tránh ([[jforjacob-what-shipping-from-china-can-look-like]], [[jforjacob-chinese-3pl-storage-pick-pack-fees]], [[jforjacob-us-only-pricing-shopify-csv]])
 

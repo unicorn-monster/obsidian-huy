@@ -1,5 +1,5 @@
 ---
-sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics, maxwellcopy-ai-vs-real-bottleneck, jforjacob-midas-touch-self-fulfilling-prophecy, jforjacob-zig-when-the-market-zags, jforjacob-stress-what-you-resist-persists, jforjacob-stop-nitpicking-ads-just-publish, jforjacob-click-your-fingers-test-brand-ideas, jforjacob-would-you-launch-if-ready-now, jforjacob-what-9-figure-founders-have-in-common, jforjacob-what-a-real-operators-week-looks-like, jforjacob-only-metric-that-matters-bank-account, jforjacob-copywriting-beats-technical-marketing, jforjacob-dropshipper-skill-stack-vs-brand-founders, jforjacob-listen-to-the-few, jforjacob-funnel-hacking-beats-guru-sauce, jforjacob-learn-from-doers-not-thought-leaders, jforjacob-whose-free-advice-can-you-trust, jforjacob-dtc-misinformation-incentives-filter, jforjacob-big-numbers-morality-not-skill-issue, jforjacob-first-kalodata-rip-trap, jforjacob-how-to-actually-network, jforjacob-give-without-making-it-transactional, jforjacob-add-value-to-people-ahead-of-you, jforjacob-agency-calls-reveal-little, jforjacob-dont-do-business-financially-worse-off]
+sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics, maxwellcopy-ai-vs-real-bottleneck, jforjacob-midas-touch-self-fulfilling-prophecy, jforjacob-zig-when-the-market-zags, jforjacob-stress-what-you-resist-persists, jforjacob-stop-nitpicking-ads-just-publish, jforjacob-click-your-fingers-test-brand-ideas, jforjacob-would-you-launch-if-ready-now, jforjacob-what-9-figure-founders-have-in-common, jforjacob-what-a-real-operators-week-looks-like, jforjacob-only-metric-that-matters-bank-account, jforjacob-copywriting-beats-technical-marketing, jforjacob-dropshipper-skill-stack-vs-brand-founders, jforjacob-listen-to-the-few, jforjacob-funnel-hacking-beats-guru-sauce, jforjacob-learn-from-doers-not-thought-leaders, jforjacob-whose-free-advice-can-you-trust, jforjacob-dtc-misinformation-incentives-filter, jforjacob-big-numbers-morality-not-skill-issue, jforjacob-first-kalodata-rip-trap, jforjacob-how-to-actually-network, jforjacob-give-without-making-it-transactional, jforjacob-add-value-to-people-ahead-of-you, jforjacob-agency-calls-reveal-little, jforjacob-dont-do-business-financially-worse-off, dtcmidas-tools-dont-fix-skill-problems, dtcmidas-do-everything-yourself-before-hiring, dtcmidas-dont-start-dropshipping-with-2k, dtcmidas-pick-one-industry-and-stay]
 updated: 2026-08-26
 ---
 
@@ -125,3 +125,46 @@ Thực tế: đừng để hở playbook cho agency qua sales call — jforjacob
 
 > [!warning] Đừng làm ăn/chia sẻ thông tin nhạy cảm với người đang tệ hơn mình về tài chính
 > Khi họ thấy cơ hội kiếm nhanh, đạo đức dễ bị gạt qua để có tiền ngay — kể cả bạn bè lâu năm. Giữ vòng tròn kín (water tight); đây là lát cắt bổ sung cho "cho đi không tính toán" ở trên — cho đi hào phóng với người CÓ integrity, còn phòng thủ thông tin nhạy cảm với người financial-desperate bất kể quen biết cỡ nào.
+
+---
+
+## Tools không sửa được skill problem ([[dtcmidas-tools-dont-fix-skill-problems]])
+
+DTCMidas: đừng đi tìm tool để giải quyết vấn đề gốc là thiếu skill. 2 ví dụ lặp lại nhiều lần:
+
+- **"Creator không perform / không tìm được creator tốt"** → advice sai thường gặp: "dùng Billo/Insense đi". Vấn đề thật: không biết cách source creator, viết brief rõ ràng, đàm phán rate tốt, onboard để họ thật sự excited về sản phẩm. Case Comfrt scale lên **$500M** với hàng nghìn creator — KHÔNG nhờ tool mới, mà nhờ nhiều năm build relationship, align incentive khi deal, train creator in-house, làm sản phẩm/mission thành thứ creator muốn nói tới.
+- **"Landing page không convert"** → advice sai: "dùng Replo, template đẹp". Vấn đề thật: không hiểu customer psychology, không biết xử lý objection nào, không structure được value proposition. *"You could technically sell any product with just a google doc if your copy is good."*
+
+Kết luận: không xây được skill nền → tool vô dụng, dù đắt hay xịn cỡ nào.
+
+**Cross-source confirm** với [[maxwellcopy-ai-vs-real-bottleneck]] ở trên — 2 tác giả độc lập, đúc kết giống hệt nhau ở 2 lĩnh vực khác nhau (maxwellcopy: AI-tinkering không thay được việc master ads/content; DTCMidas: UGC platform/LP builder không thay được skill source-creator/copywriting). Cùng 1 nguyên lý: **tool amplifies skill có sẵn, không tạo ra skill từ số 0.** Câu hỏi chẩn đoán dùng chung: "cái gì thực sự đang chặn mình kiếm thêm tiền ngay lúc này" — nếu câu trả lời là 1 skill gap, đi học/luyện skill đó trước khi mua thêm tool.
+
+## Tự làm hết trước khi hire ([[dtcmidas-do-everything-yourself-before-hiring]])
+
+DTCMidas: giai đoạn đầu nên tự làm MỌI THỨ — tự edit video, tự viết copy, tự dựng store, tự setup email flow, tự chạy ads. Đây là cách DUY NHẤT thật sự hiểu việc vận hành ra sao. Không tự làm trước → không thể quản lý người khác sau này: không đánh giá được output, không biết ai giỏi/dở, không cho feedback có ích.
+
+Khi đã tự làm rồi, biết được 4 thứ:
+- Cái gì khó/dễ thật (không đòi hỏi vô lý)
+- Thế nào là làm tốt (nhận ra mediocrity)
+- Bottleneck nằm ở đâu (giải quyết được vấn đề thật)
+- Nên ưu tiên gì (không tối ưu nhầm chỗ)
+
+Skip giai đoạn học, hire người làm hết ngay từ đầu → xây business dễ vỡ (fragile).
+
+**Cross-source confirm** với §Vận hành thật trông như thế nào ở trên ([[jforjacob-dropshipper-skill-stack-vs-brand-founders]]) — jforjacob độc lập đưa ra đúng cùng kết luận qua 1 case đối lập cụ thể: "average 19-year-old dropshipper" tự test 100+ sản phẩm, tự dựng 50+ store, tự quản cashflow → build được kỹ năng tay thật; "average 30-year-old brand founder" chỉ vay tiền rồi thuê người làm hết → không có kỹ năng tay, business không có nền. 2 tác giả, 2 cách diễn đạt, cùng 1 nguyên lý về việc học qua tự làm trước khi delegate.
+
+## Đừng dropship với $2K — học skill + đi làm trước khi tự làm riêng ([[dtcmidas-dont-start-dropshipping-with-2k]])
+
+DTCMidas: bắt đầu dropshipping với chỉ $2K trong tay → nhiều khả năng mất sạch. Route tốt hơn:
+1. Học 1 skill giá trị thật mà brand ecom cần: media buying, creative strategy, email marketing, build landing page, CRO
+2. Đi làm ở 1 brand hoặc agency trước
+
+Cái nhận được từ route này: kinh nghiệm thật thấy cái gì thực sự work, lương trong lúc học, thời gian để tích luỹ vốn cho store riêng, network người có thể giúp sau này. Sau 6-12 tháng kinh nghiệm + $10K+ tiết kiệm → mới nên cân nhắc tự làm riêng.
+
+**Không mâu thuẫn với §Tự làm hết trước khi hire ở trên** — cả 2 cùng nói "phải tự có kỹ năng tay thật trước khi làm lớn", chỉ khác route tuỳ vốn có sẵn: nếu đã có sản phẩm/brand đang chạy → tự làm mọi khâu trong brand đó; nếu vốn quá mỏng ($2K) → route an toàn hơn là học kỹ năng đó BẰNG LƯƠNG của người khác (đi làm thuê) trước khi tự bỏ tiền túi ra thử.
+
+## Chọn 1 ngành, ở lại lâu hơn mức thoải mái ([[dtcmidas-pick-one-industry-and-stay]])
+
+DTCMidas: người thành công nhất mà DTCMidas biết đều chọn **1 ngành** rồi ở lại "unreasonably long" — trong lúc số đông đuổi theo shiny object mới. Ở lại lâu → trở thành chuyên gia không ai tranh cãi trong ngành đó: biết mọi player, mọi trend, mọi cơ hội TRƯỚC KHI nó trở nên rõ ràng với người ngoài; build được quan hệ với supplier/khách hàng/đối tác mất nhiều năm mới có; hiểu được nuance người ngoài nhìn không ra. Khi cơ hội mới xuất hiện trong ngành, họ thấy trước và move nhanh nhất. Ngược lại, người nhảy ngành mỗi 2-3 năm luôn bắt đầu lại từ số 0.
+
+→ Tie [[focus-and-deep-work]] §1 ưu tiên duy nhất — cùng kỷ luật "narrow xuống 1 thứ" nhưng ở timescale khác: focus-and-deep-work nói về ưu tiên HẰNG NGÀY, insight này áp cùng nguyên lý ở timescale NHIỀU NĂM (chọn ngành). Với Huy: pet grooming (Maxpro) là ngành đã chọn — nguyên lý này ủng hộ đào sâu thêm thay vì nhảy sang ngành/niche khác khi chưa "unreasonably long" trong pet grooming.

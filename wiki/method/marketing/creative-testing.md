@@ -1,5 +1,5 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics]
+sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue]
 updated: 2026-08-26
 ---
 
@@ -18,11 +18,71 @@ Mọi static = 3 biến độc lập chồng lên nhau. Test 1 layer/lần, gi�
 - **R2 — tìm Execution.** Angle thắng × 4-5 format. Cùng message, khác look. → format nào carry angle đó tốt nhất.
 - **R3 — sharpen Hook.** Angle+format thắng × 4-5 hook. Rẻ nhất, nhanh nhất, vắt nốt performance.
 
+## Test hypothesis = CONCEPT, không phải creative nào ăn spend (DTCMidas, 2 tweet)
+Bồi thêm lớp "vì sao/cách nào" cho §Test theo round ở trên — DTCMidas mô tả cụ thể cách chạy round Angle BÊN TRONG 1 ad set:
+
+- **Setup cụ thể** ([[dtcmidas-test-concepts-not-creatives]]): CBO min-spend (ABO tương tự) — mỗi ad set nhận **3-5 biến thể của CÙNG 1 concept (big idea)**, cố ý GIỐNG nhau: video = cùng body, khác hook; static = cùng headline, khác visual. Hypothesis không phải "creative cụ thể này có ăn không" mà "**concept này có work không**" — không quan tâm 1 creative trong ad set ăn hết budget, vì câu trả lời cho hypothesis-concept đã có rồi. Concept thắng → mới isolate biến số tiếp (đây chính là R1→R2→R3 ở trên). Concept không thắng → chuyển concept khác, đừng cố cứu bằng biến thể nhỏ hơn.
+- **Test có CHỦ ĐÍCH, không random spam** ([[dtcmidas-test-every-ad-seven-days-with-intent]]): mỗi ad launch phải có lý do rõ đứng sau nó. DTCMidas test mỗi ad **7 ngày** (độc lập xác nhận nhịp 7-ngày × $30/ngày ở §Nhịp 10-test/tuần dưới — nguồn khác, ecomamin), và claim: làm đúng chủ đích có thể **profitable ngay trong giai đoạn testing**, không chỉ "trả học phí" chờ tới lúc scale.
+
+→ **Không mâu thuẫn** với §3 layer/Test theo round ở trên — 2 tầng zoom khác nhau của cùng discipline isolate-1-layer: R1 nói "4-6 angle" (biến số GIỮA các ad set), DTCMidas nói "3-5 variation/ad set" (biến số TRONG 1 ad set, cùng 1 angle/concept).
+
+## Winning static: tách RIÊNG image vs copy để biết cái nào đang carry ([[dtcmidas-is-the-image-or-the-copy-driving-your-winning-static]])
+Kỹ thuật phân rã 1 native static ĐÃ THẮNG (bước SAU khi có winner, không phải cách tìm winner mới): dựng **10 ad mới = ảnh-thắng + 10 copy khác nhau**, VÀ **10 ad mới = copy-thắng + 10 ảnh khác nhau**, chạy 2 nhóm ở 2 ad set riêng. DTCMidas: đa số trường hợp **copy carry nhiều hơn** (đặc biệt copy dài/long-form) — tìm được winner mới ở vòng này thì lặp lại đúng quy trình (giữ copy, đổi ảnh tiếp) để vắt thêm.
+
+→ 1 dạng chẩn đoán chạy NGƯỢC lại §Test theo round: thay vì test angle→format→hook theo thứ tự cố định, kỹ thuật này bổ **CHẨN ĐOÁN** 1 winner sẵn có để biết layer nào (ảnh hay chữ) đang gánh performance, trước khi quyết định vắt layer nào tiếp. MaxPro: khi có 1 static ugly-native ăn tốt, chạy split này để biết nên vắt copy (thêm variant headline) hay vắt visual (thêm variant photo raw-problem) trước.
+
+## Weekly creative review — dissect winners VÀ losers có hệ thống (DTCMidas, 2 tweet) ⭐
+Bồi trực tiếp cho §Naming+tracker ở trên (tracker hiện có: Creative ID/Angle/Hook type/Format/Copy length/Spend/Link CTR/CPA/Verdict) bằng 1 QUY TRÌNH review hàng tuần + field bổ sung.
+
+**Vì sao PHẢI phân tích ads THUA, không chỉ ads thắng** ([[dtcmidas-why-should-you-analyze-your-losing-ads]]): chỉ nhìn winner = survivorship bias — đúng lỗi suýt giết phi công Đồng Minh WWII. Quân đội định gia cố chỗ MÁY BAY VỀ ĐƯỢC dính đạn nhiều nhất (thân, cánh) — statistician Abraham Wald chỉ ra ngược lại: chỗ CẦN giáp là chỗ KHÔNG thấy lỗ đạn (động cơ, buồng lái), vì máy bay trúng đó đã rơi, không bao giờ về để đếm. Ads y hệt: 50 ad chạy, 3 winner được study kỹ — 47 loser chết trong im lặng, mang theo bài học "KHÔNG làm gì" mà không ai đọc. Câu hỏi cần hỏi mỗi ad thua: hook yếu? sai awareness stage? value-prop mờ? format lệch audience? creative execution dở?
+
+**Quy trình weekly review đầy đủ** ([[dtcmidas-weekly-creative-testing-feedback-loop]]): mỗi tuần dissect TOÀN BỘ ad đã chạy — **winner TRƯỚC** (Angle · Hook · Promise · Avatar · Awareness level · Pacing · Desire · Format), rồi **loser SAU** (cùng bộ câu hỏi, DTCMidas nhấn: quan trọng hơn vì thường có nhiều loser hơn winner). Mục tiêu không phải ăn mừng/than vãn — là hiểu VÌ SAO. Iterate sau khi biết: video → cùng video đổi hook / cùng script đổi creator / hook-thắng ghép video cũ / cùng script đổi b-roll; static → cùng headline đổi visual / cùng visual đổi headline (= chính kỹ thuật §Winning static ở trên).
+
+**Field bổ sung cho tracker** (nối §Naming+tracker): `Status · Batch number · Testing hypothesis · Results-bucket (high-spend+good-CPA / poor-spend+good-CPA / poor-spend+poor-CPA / good-spend+poor-CPA)`. Persona/avatar và Format đã trùng cột hiện tại — thêm mới là Status/Batch/Hypothesis/4-ô-kết-quả.
+
+> [!note] Trùng lặp có chủ đích với §Testing culture — jforjacob ở trên
+> §"Track TỪNG element" (jforjacob) đã nói tag avatar/awareness/desire/creator/format/editor trên MỌI ad — cùng tinh thần "test = học VÌ SAO" với DTCMidas ở đây. Delta: jforjacob nhấn TAGGING liên tục; DTCMidas thêm NGHI THỨC hàng tuần cụ thể (buổi review winner-rồi-loser + 4-ô kết quả) + lý-thuyết-nền survivorship bias giải thích TẠI SAO loser quan trọng ngang winner. 2 nguồn củng cố nhau — dùng cả 2: tag mọi ad (jforjacob) + review theo nhịp tuần này (DTCMidas).
+
+## Tactical: tăng tốc video ad 15-30% ([[dtcmidas-should-you-speed-up-your-video-ads]])
+DTCMidas test 2 tháng trên cả UGC-style lẫn AI-voiceover+b-roll: bản **speed-up 15-30%** thắng bản tốc độ gốc ở phần lớn trường hợp. Tactic rẻ, áp được ngay ở khâu edit cuối — thử A/B trên video đã có sẵn (không cần quay lại) trước khi đổ thêm budget sản xuất mới. Tie [[ai-video-production]] (khâu chọn model/production) — đây là đòn hậu-kỳ, không phải đòn chọn model.
+
 ## Budget split: 70-80% iterate / 20-30% swing mới
 Creative đã prove → đổ phần lớn budget **iterate nó** (hook mới, format mới, biến thể nhỏ trên angle đã thắng), KHÔNG mint concept mới. Đa số làm ngược (ném concept mới mãi). Swing mới = tìm winner KẾ; iterate = "bank" cái đang có.
 
 > [!note] Ratio nên FLEX theo cycle, không dán cứng ([[dtcmidas-net-new-vs-iteration-ratio]])
 > DTCMidas tinh chỉnh con số 70-80/20-30 ở trên: tỉ lệ net-new vs iteration **không nên tĩnh** — có kỳ **20% iteration / 80% net-new** (đang đi tìm winner), có kỳ **50/50** (vừa tìm được thứ đáng vắt). Luật: *"whenever you find something that works, iterate the shit out of it until it stops working"* → rồi mới dồn về net-new. Về volume: launch nhiều **nhất có thể mà không giảm chất** — nhưng ưu tiên **ít mà high-conviction** hơn nhiều mà nhạt (chất ≠ production-quality, mà = độ sắc angle/hook). Vị trí trong cycle quyết định ratio, không phải 1 số cố định.
+
+## "Iterate the shit out of it" — levers cụ thể + never-kill rule (DTCMidas, 4 tweet) ⭐
+§Budget split trên đã chốt NGUYÊN LÝ (đổ 70-80% budget vào iterate winner, "iterate cho tới khi nó ngừng work") — đây là 4 tweet trả lời câu hỏi CỤ THỂ: iterate CÁI GÌ, và vì sao không được tắt nó dọc đường.
+
+**Đừng bao giờ tắt top spender** ([[dtcmidas-iterate-your-top-spender-never-kill-it]]): tắt ad ăn spend nhiều nhất → performance CẢ campaign nhiều khả năng chết theo, không chỉ mất 1 ad. Thay vì kill, làm 1 iteration của chính nó — đọc **comment** trên ad để biết cần sửa gì trước khi iterate (nguồn insight rẻ nhất, đang có sẵn dưới ad).
+
+**Iteration levers — video** (gộp từ [[dtcmidas-how-do-you-iterate-a-winning-ad]] + [[dtcmidas-how-to-milk-a-winning-ad-for-months]], 2 tweet cùng chủ đề, danh sách hợp nhất):
+- Hook mới — nhỏ nhất: đổi text-overlay 3 giây đầu; lớn nhất: quay lại hoàn toàn hook nói + hình
+- Lead mới (đoạn mở sau hook)
+- CÙNG script, gửi cho **creator khác**
+- Đổi b-roll, giữ nguyên voiceover (đặc biệt hiệu quả với ad dạng AI-VO + b-roll)
+- Tăng/giảm tốc độ video (xem thêm §Tactical speed-up dưới — đã có data riêng cho lever này)
+- Cắt ngắn (chỉ giữ core message) hoặc kéo dài (thêm proof/giải thích mechanism)
+- Testimonial mới / thêm social proof
+- Đổi format cùng message: podcast-style, UGC, AI-voiceover+b-roll
+- Đổi bối cảnh quay (xe hơi, phòng khách, công viên chó…)
+- Greenscreen reaction ad (creator phản ứng lại video gốc)
+- Turn winning hook thành static ad (chuyển-chéo format)
+
+**Iteration levers — static:**
+- Ảnh thắng + headline mới, HOẶC headline thắng + ảnh mới (không đổi cả 2 cùng lúc)
+- Static "native" không headline (chỉ hình) → đổi nhân vật/vật thể chính bằng Gemini/Higgsfield: ví dụ ảnh thắng có phụ nữ da đen trẻ → làm biến thể phụ nữ da đen lớn tuổi, phụ nữ châu Á trẻ, phụ nữ da trắng… — giữ bố cục/mood, chỉ đổi người
+- Biến ảnh thành GIF, hoặc thêm chuyển động vào visual tĩnh
+- Thêm urgency/social-proof element lên ảnh
+- Turn winning headline thành video hook/script (chuyển-chéo format ngược lại)
+
+**Nguyên lý xuyên suốt cả 2 danh sách:** isolate ĐÚNG 1 biến, giữ nguyên mọi thứ khác — đây chính là kỷ luật §3 layer/§Test theo round ở đầu trang, áp dụng SAU khi đã có winner thay vì trước khi tìm winner. Khác trọng tâm với §Winning static (tách ảnh/copy) ở trên: đó là CHẨN ĐOÁN layer nào đang carry; đây là DANH SÁCH biến thể để sinh ra khi đã biết cần vắt layer nào.
+
+**Fighting creative fatigue — chỉ 1 giải pháp dài hạn** ([[dtcmidas-fighting-creative-fatigue]]): launch đều đặn ad chất lượng cao mới là cách DUY NHẤT giải quyết creative fatigue lâu dài — không có shortcut thay thế việc liên tục sản xuất. Ngắn hạn, kéo dài tuổi thọ winner bằng cách gắn 1 **landing page congruent MỚI** cho nó (không đổi creative, đổi điểm đến) — tie [[funnel-and-landing]], [[presell-pages]]; cùng cơ chế "đổi destination thay vì đổi creative" đã thấy ở §CPC rẻ+không convert→build lander riêng (jforjacob) phía dưới trang.
+
+> [!note] Áp MaxPro
+> Khi 1 ugly-native static ăn spend ổn định: đọc comment trước → chọn lever (ảnh thắng+headline mới hay headline thắng+ảnh mới) → nếu hết ý, thử đổi nhân vật avatar (chủ chó già/trẻ/nam/nữ) bằng Gemini/Higgsfield giữ nguyên bố cục. KHÔNG tắt nó để "dọn account" — làm iteration trước, tắt sau nếu iteration cũng chết.
 
 **Creative velocity = biến số scale (Gruns proof, [[rubiinov-gruns-100m-funnel-teardown]]):** Gruns giữ **900+ meta ad active** cùng lúc (brand $30-80k/mo điển hình chỉ 5-20), mix UGC + static + AI. Nguyên lý: nhiều asset in-market = nhiều data nhanh hơn = nhận diện winning angle trong **30 ngày thay vì 90**. Đây là mặt "volume" bổ trợ isolate-layer: velocity **tìm** winner, isolate **giải thích** vì sao thắng để copy. (Cùng flood-thesis [[media-buying]].)
 

@@ -1,11 +1,21 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response]
+sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example]
 updated: 2026-08-26
 ---
 
 # Angles
 
 Catalog angle ghép vào [[ugly-ads-method]]. Nguồn: [[kittysupps-angles-inventory]], [[maxpro-matrix-creative-guardrails]], [[idea-senior-mobility-flagship]].
+
+## Avatar vs Angle vs Messaging — 3 tầng khác nhau, đừng lẫn (DTCMidas, 3 tweet) ⭐
+Vocabulary nền cho mọi section dưới đây — matrix "angle x avatar x persona" ngay sau đã NGẦM dùng phân biệt này, giờ định nghĩa rõ:
+- **Avatar = WHO** bạn bán cho ([[dtcmidas-avatar-vs-angle]]). VD collagen: phụ nữ 30s lo dấu hiệu lão hoá sớm ≠ phụ nữ 45+ đã thấy da chảy xệ rõ — 2 người khác giai đoạn đời, khác ưu tiên.
+- **Angle = HOW** bạn bán cho đúng avatar đó — cùng outcome, framing khác theo avatar: avatar 30s → "ngăn nếp nhăn trước khi nó xuất hiện"; avatar 45+ → "giảm nếp nhăn, trông trẻ lại như 30". Cùng sản phẩm, cùng outcome, 2 angle khác nhau vì avatar khác.
+- **Messaging = câu chữ CỤ THỂ** diễn đạt 1 angle ([[dtcmidas-angle-vs-messaging]]) — không phải tầng thứ 3 tách biệt avatar/angle, mà là **lớp thực thi CUỐI**. VD Huel: angle = "convenience cho dân bận rộn" → messaging option 1 "đủ dinh dưỡng dưới 2 phút" · option 2 "tiết kiệm 10 giờ chuẩn bị đồ ăn/tuần". Cùng angle, nhiều cách nói khác nhau để test.
+
+**Chuỗi đầy đủ:** 1 avatar → có thể nhiều angle → mỗi angle có thể nhiều messaging. Nhầm lẫn phổ biến nhất: đổi *messaging* (câu chữ) rồi tưởng mình đang test *angle* mới — không tạo breakout vì luận điểm cốt lõi (tầng angle) chưa đổi. Khớp §3 layer của [[creative-testing]] (angle/hook/visual) — "angle" ở đó = tầng WHO+HOW này, "hook" gần với 1 lát messaging cụ thể áp cho headline.
+
+**1 angle, nhiều avatar — ví dụ Gruns** ([[dtcmidas-one-angle-many-avatars-gruns-example]], mở rộng dòng "Gruns cùng công thức đó" ở §50-angle-strategy dưới): angle **protein absorption** của Gruns (greens gummies) bán được cho 3 avatar khác hẳn nhau bằng CÙNG mechanism, khác desired outcome — gym bro (muốn to cơ, "Stop wasting your protein powder") · phụ nữ tập glute ("Finally grow the 🍑 you always wanted") · boomer muốn giữ cơ ("Stay strong and independent longer"). Cùng sản phẩm, cùng angle-mechanism, 3 value proposition hoàn toàn khác nhau → chứng minh trực tiếp nguyên lý §50-angle-strategy (1 product × nhiều pillar) hoạt động ở tầng avatar, không chỉ tầng pillar/problem.
 
 ## Matrix grinder (angle x avatar x persona)
 | Angle | Avatar | Persona | Verdict |

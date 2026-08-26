@@ -1,5 +1,5 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype]
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work]
 updated: 2026-08-26
 ---
 
@@ -217,3 +217,36 @@ Tie [[ai-video-production]] §AI UGC hyper-realistic (production pipeline chung)
 jforjacob test Icon (tool tự động generate + launch ads bằng AI) và kết luận "a bit of a farce". Cụ thể: trả tiền cho gói "100 ads/tuần tự động generate", sau ~2 tuần chỉ ra **tổng cộng 3 ads (đều tệ)**. Claim "launch ads with one click" = "blatant lie" — không thể, và giới hạn kiểm soát khi launch cũng lớn. Cộng thêm: team Icon no-show buổi onboarding call đã hẹn. Kết luận: **Avoid**.
 
 → Case cụ thể cho nguyên tắc chung: 1 tool all-in-one hứa tự động hoá TOÀN BỘ pipeline creative (research → gen → launch) nên được test kỹ trước khi trả tiền dài hạn — so với §Case thật Manus/n8n ở [[ai-agent-automation-stack]] (agent TỰ build đúng use-case cụ thể, kiểm soát được từng bước) thay vì mua 1 sản phẩm đóng gói hứa làm hết.
+
+## AI animation ads đang là top spender — thắng cả video sản xuất công phu ([[dtcmidas-are-ai-animation-ads-worth-testing]])
+DTCMidas (2026-03-13): full AI animation ads hiện là top spender ở **nhiều campaign cùng lúc**, đang thắng: winner đã chạy hàng tháng · video sản xuất công phu, đắt tiền · VSL dài nhiều creator. DTCMidas thẳng thắn: *"tôi không đặc biệt thích điều này"* — kém defensible hơn vì đối thủ clone AI ad dễ hơn nhiều so với clone real-creator content. Nhưng data không nói dối.
+
+**Defensibility thật nằm ở VOLUME-CỦA-EFFORT, không phải volume-của-số-lượng:** làm cho 1 AI animation concept thật sự đẹp tốn thời gian; đa số brand sẽ không bỏ công đó — đây mới là hào (moat) thật, không phải bản thân format AI. Credit riêng cho @frankyecom vì method của anh "nâng hẳn chất lượng output" của DTCMidas cho dòng ads này.
+
+→ Xác nhận cụ thể hơn cho [[media-buying]] §Format đang ăn spend 2026 ([[dtcmidas-meta-ai-animation-yapper-vsl]] — cùng tác giả, nói chung chung "phần lớn top-spender chạy AI animation + yapper VSL"); bài này cho mức độ cụ thể hơn: KHÔNG chỉ ngang bằng mà đang **beat cả** winner-lâu-năm và VSL-sản-xuất-công-phu.
+
+## Obvious "AI slop" thắng cả AI UGC giống-thật — và VEO3 nên PHÔ AI ra, đừng giấu (DTCMidas, 2 tweet)
+- **Obvious "AI slop" outperform hầu hết ads trong account** ([[dtcmidas-does-obvious-ai-slop-outperform-polished-ads]], 2026-02-18): obvious "AI slop" theo trending organic format hiện outperform phần lớn ads khác — tốt hơn hẳn AI UGC trông "giống thật", và dễ làm hơn.
+- **VEO3 ripping — điều kiện: exaggerate rõ là AI, đừng giấu** ([[dtcmidas-veo3-ads-that-print]], 2026-08-17): VEO3 ads đang ripping cho DTCMidas hiện tại — nhưng phải **exaggerate rõ ràng đây là AI**, không cố che giấu. Podcast-style veo3 ads đang crushing. Visual hook làm bằng veo3 cũng "printinggg".
+
+> [!warning] Reconcile với §AI UGC hyper-realistic + §AI video pattern blindness ở trên
+> 2 tweet trên có vẻ ngược hẳn 2 mảng nội dung đã có trên trang này: §AI UGC hyper-realistic (0xROAS) tối ưu để AI video **giống thật tối đa, giấu dấu vết AI**; §AI video pattern blindness (ecomchasedimond) cảnh báo mọi brand dùng chung AI tool → cùng avatar/room/style → feed học pattern-skip nhanh hơn brand refresh kịp, real-human = moat duy nhất AI không copy được.
+>
+> **Đọc đúng — 2 cơ chế khác nhau, không loại trừ:** hyper-realistic UGC thắng bằng cách **mạo danh authenticity** (né phản xạ nghi ngờ ad). Obvious-AI-slop/exaggerated-AI thắng bằng cơ chế khác — **pattern-interrupt**: audience đã numb với cả polished ads LẪN AI-cố-giả-thật, nên content KHÔNG GIẤU nó là AI, thậm chí cường điệu, lại đứng ra khỏi feed vì không cố lừa ai — giống hệt cơ chế [[media-buying]] §Vì sao viral format work (conditioning theo format đang viral, bắt đúng lúc conditioning còn mạnh). Cả 2 approach ĐÚNG tuỳ thời điểm/audience — nhưng risk pattern-blindness của ecomchasedimond áp dụng NGUYÊN VẸN cho cả 2: khi cả thị trường đổ xô làm "obvious AI slop" giống nhau, format này cũng mòn conditioning y hệt AI-UGC. Test cả 2 hướng, đừng all-in 1 phía, và theo dõi tốc độ saturation.
+>
+> **Tension timeline trong chính DTCMidas — xem [[media-buying]] §Quality-mastery TRƯỚC volume:** 2 tweet trên (2026-02, 2026-03) có vẻ ngược 180° với chính DTCMidas 6 tháng trước ([[dtcmidas-ai-creative-volume-without-garbage]], 2025-08-27: "đừng làm rác nhanh hơn, hãy làm 5 cái GIỎI thay vì 50 cái rác"). Reconcile chi tiết + timeline đầy đủ đặt ở [[media-buying]] để tránh trùng lặp — tóm tắt: DTCMidas March-2026 tự chú thích "real defensibility = volume-CỦA-EFFORT" (§AI animation ads ở trên), tức KHÔNG rút lại chuẩn chất lượng gốc, chỉ đổi ĐỊNH NGHĨA "chất lượng" theo aesthetic đang ăn khách.
+
+## DTCMidas AI stack evolution — từ 3-tool gộp việc tới pipeline 5-tool chuyên biệt-hoá theo bước ([[dtcmidas-ai-model-stack-for-ad-work]], [[dtcmidas-ai-video-ad-tool-stack]])
+**Stack sớm (2025-09-04):** Gemini cho image generation · Claude cho viết copy · ChatGPT dùng khi Claude hết quota (backup, không phải vai trò riêng).
+
+**Stack đầy đủ, 6 tháng sau (2026-03-13) — mỗi tool đảm nhận đúng 1 BƯỚC:**
+- Claude — viết script
+- ChatGPT — viết prompt cho ảnh
+- Gemini — generate ảnh
+- Kling 3.0 (qua Higgsfield) — ảnh → video
+- ElevenLabs — voiceover
+- Ghép toàn bộ trong 1 editing tool
+
+**Hàm ý:** stack dịch chuyển từ "1 tool/việc lớn" (image-gen, copy, backup) sang "1 tool/1 bước cụ thể trong pipeline" — mỗi tool chỉ làm đúng phần nó mạnh nhất. Cùng triết lý §3 phát hiện đáng tiền ở đầu trang (route theo shot, không có model thắng tuyệt đối) nhưng áp ở cấp **toàn pipeline** thay vì chỉ chọn model video. Cùng shape với §AI UGC hyper-realistic (0xROAS: Gemini deconstruct → GPT Image generate → Seedance upload references → Seedance render) — 2 stack khác nhau (Kling vs Seedance cho bước video) nhưng chung nguyên lý: **ảnh/prompt luôn đi TRƯỚC bước animate**, không gen thẳng video từ text.
+
+→ MaxPro: nếu build pipeline riêng, dùng Claude cho script (đã có Claude Project theo §Áp cho tôi ở [[ai-agent-automation-stack]]) → ChatGPT viết prompt ảnh → Gemini/GPT Images gen ảnh → chọn Kling (physics) hay Seedance (lipsync/UGC) tuỳ shot theo bảng giá đầu trang → ElevenLabs VO nếu cần giọng ngoài native audio.

@@ -1,5 +1,5 @@
 ---
-sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, jforjacob-needle-movers-vs-noise, jforjacob-target-roas-business-model, jforjacob-outspend-copycats-bully-auctions, jforjacob-when-ai-levels-creative-where-is-your-edge, ecomamin-meta-vs-google-intent-product, jforjacob-fewer-better-creatives, jforjacob-take-a-week-off-to-study-good-ads, jforjacob-master-creative-quality-before-volume, jforjacob-better-ads-solve-90-percent-of-problems, jforjacob-five-minute-canva-static-top-spender, jforjacob-dont-copy-rebill-brands-media-buying, jforjacob-stop-copying-biggest-brands-creatives, jforjacob-face-to-camera-yapping-beats-edits, jforjacob-test-budget-4x-target-cpa, jforjacob-launch-10-creatives-in-asc, jforjacob-product-test-signs-of-life, jforjacob-spend-is-a-performance-metric, jforjacob-six-identical-ads-meta-spend-bias, jforjacob-why-1-cbo-setup-sends-winners-to-graveyard, jforjacob-dropshipping-kill-rules-bad-habits, jforjacob-creative-production-costs-not-in-roas, jforjacob-ad-account-structure, jforjacob-full-ad-account-structure, jforjacob-put-your-losers-in-a-new-campaign, jforjacob-forcing-spend-doubled-hit-rate, jforjacob-doubling-budgets-tank-performance, jforjacob-dont-drop-budgets-after-black-friday, jforjacob-account-structure-for-learnings-not-scale, jforjacob-all-english-europe-campaign, jforjacob-split-ad-sets-to-spread-budget, jforjacob-abo-when-one-ad-hogs-spend, jforjacob-meta-all-in-asc-creative-diversity, jforjacob-asc-all-of-funnel-not-retargeting, jforjacob-flexible-ads-scaling-not-testing, jforjacob-flexible-ads-top-spenders-not-testing, jforjacob-asc-vs-cbo-spend-allocation, jforjacob-new-visitor-percentage-spend-ratio, jforjacob-troas-vs-highest-value-bidding, jforjacob-cost-controls-are-bid-settings-not-targeting, jforjacob-growing-a-brand-with-cost-controls, jforjacob-meta-wants-you-to-win, jforjacob-target-roas-collection-page-aov, jforjacob-meta-best-practices-milk-shop-theory, jforjacob-double-firing-pixel-experiment, jforjacob-bad-meta-performance-not-always-your-fault, jforjacob-audience-network-cvr-drop, jforjacob-few-things-move-the-needle, jforjacob-split-test-pages-from-the-ad-account, jforjacob-afford-to-double-your-cac, jforjacob-high-ncroas-means-underspending, jforjacob-custom-metrics-ads-manager, jforjacob-chatgpt-margin-analysis-country-campaigns]
+sources: [nkecom-meta-launch-playbook-2026, alexgoughcooper-static-ads-8-rules, low-budget-creative-testing-playbook, 0xroas-resilia-3300-ads-ai-volume, 0xroas-50-statics-20-mins-ai, 0xroas-drama-ads-ai-format-list, dtcmidas-meta-ai-animation-yapper-vsl, dtcmidas-why-do-viral-formats-work-so-well-for-paid-ads, jforjacob-split-test-cpm-hidden-cost, jforjacob-meta-manual-beats-algorithm, jforjacob-meta-manual-override-algo, jforjacob-bootstrapped-creatives-landing-pages, dtcmidas-dont-copy-funded-brands, jforjacob-budget-timing-observation, dtcmidas-june-record-month-levers, jforjacob-turn-off-ads-cpa, jforjacob-cvr-meta-ad-quality, jforjacob-canva-7fig-static-ad, ecomamin-trust-collapse-route-around, jforjacob-100k-day-budget-boldness, dtcmidas-ad-kill-criteria-upper-funnel, dtcmidas-cbo-per-product-geo-structure, dtcmidas-kpi-list-nc-metrics, dtcmidas-scaling-seasons, 0xroas-drama-ads-ai-formats-fb, dtcquizbuilder-low-spend-7day-decisions, dtcmidas-creator-match-audience, dtcmidas-cac-scale-unit-economics, 0xroas-spy-random-brands-not-big, dtcmidas-meta-full-funnel-sequencing, jforjacob-needle-movers-vs-noise, jforjacob-target-roas-business-model, jforjacob-outspend-copycats-bully-auctions, jforjacob-when-ai-levels-creative-where-is-your-edge, ecomamin-meta-vs-google-intent-product, jforjacob-fewer-better-creatives, jforjacob-take-a-week-off-to-study-good-ads, jforjacob-master-creative-quality-before-volume, jforjacob-better-ads-solve-90-percent-of-problems, jforjacob-five-minute-canva-static-top-spender, jforjacob-dont-copy-rebill-brands-media-buying, jforjacob-stop-copying-biggest-brands-creatives, jforjacob-face-to-camera-yapping-beats-edits, jforjacob-test-budget-4x-target-cpa, jforjacob-launch-10-creatives-in-asc, jforjacob-product-test-signs-of-life, jforjacob-spend-is-a-performance-metric, jforjacob-six-identical-ads-meta-spend-bias, jforjacob-why-1-cbo-setup-sends-winners-to-graveyard, jforjacob-dropshipping-kill-rules-bad-habits, jforjacob-creative-production-costs-not-in-roas, jforjacob-ad-account-structure, jforjacob-full-ad-account-structure, jforjacob-put-your-losers-in-a-new-campaign, jforjacob-forcing-spend-doubled-hit-rate, jforjacob-doubling-budgets-tank-performance, jforjacob-dont-drop-budgets-after-black-friday, jforjacob-account-structure-for-learnings-not-scale, jforjacob-all-english-europe-campaign, jforjacob-split-ad-sets-to-spread-budget, jforjacob-abo-when-one-ad-hogs-spend, jforjacob-meta-all-in-asc-creative-diversity, jforjacob-asc-all-of-funnel-not-retargeting, jforjacob-flexible-ads-scaling-not-testing, jforjacob-flexible-ads-top-spenders-not-testing, jforjacob-asc-vs-cbo-spend-allocation, jforjacob-new-visitor-percentage-spend-ratio, jforjacob-troas-vs-highest-value-bidding, jforjacob-cost-controls-are-bid-settings-not-targeting, jforjacob-growing-a-brand-with-cost-controls, jforjacob-meta-wants-you-to-win, jforjacob-target-roas-collection-page-aov, jforjacob-meta-best-practices-milk-shop-theory, jforjacob-double-firing-pixel-experiment, jforjacob-bad-meta-performance-not-always-your-fault, jforjacob-audience-network-cvr-drop, jforjacob-few-things-move-the-needle, jforjacob-split-test-pages-from-the-ad-account, jforjacob-afford-to-double-your-cac, jforjacob-high-ncroas-means-underspending, jforjacob-custom-metrics-ads-manager, jforjacob-chatgpt-margin-analysis-country-campaigns, dtcmidas-chatgpt-static-as-top-spender, dtcmidas-ai-creative-volume-without-garbage, dtcmidas-should-you-test-new-meta-features, dtcmidas-will-switching-abo-to-cbo-help-you-scale, dtcmidas-why-is-meta-performance-so-inconsistent-day-to-day, dtcmidas-ad-account-structure-is-never-the-problem, dtcmidas-min-spend-vs-cbo-budget, dtcmidas-one-cbo-testing-and-scaling, dtcmidas-zombie-campaign-with-a-cost-cap, dtcmidas-one-cbo-for-testing-and-scaling, dtcmidas-structure-campaigns-around-collection-pages, dtcmidas-broad-targeting-with-purchaser-exclusions, dtcmidas-unit-economics-of-excluding-past-buyers, dtcmidas-exclude-past-purchasers-from-acquisition, dtcmidas-make-decisions-on-new-customer-roas, dtcmidas-meta-kpi-columns, dtcmidas-launch-structure-250-to-2500-a-day, dtcmidas-how-do-you-track-performance-while-surf-scaling, dtcmidas-should-you-keep-spending-below-target-efficiency, dtcmidas-four-quadrants-of-media-buying-decisions, dtcmidas-why-do-worldwide-campaigns-scale-so-well, dtcmidas-when-to-add-ad-channels-beyond-meta, dtcmidas-when-to-add-email-google-and-native-channels, dtcmidas-why-do-ad-naming-conventions-matter, dtcmidas-how-do-you-set-roas-targets-from-unit-economics, dtcmidas-the-cash-flow-math-of-first-order-losses]
 updated: 2026-08-26
 ---
 
@@ -11,6 +11,25 @@ Nguồn: [[nkecom-meta-launch-playbook-2026]] (media buyer, $1m+/mo, launch gầ
 - **Broad only, KHÔNG interest targeting.** Interest targeting chết từ lâu. "Help the pixel" là bullshit. Bán đồ nữ cũng không narrow gender — algorithm biết rõ hơn.
 - **1 ad set duy nhất khi test.** Nhiều ad set = phân mảnh learning. Cần **50+ conversions/tuần** để thoát learning phase. Dồn hết ads vào 1 ad set để thoát nhanh nhất.
 - **Chưa mở campaign mới tới $300/day.** Scale spend trên cái đang chạy trước, rồi mới thêm campaign.
+
+## Test tính năng mới Meta thường xuyên — không có "best setup" chung ([[dtcmidas-should-you-test-new-meta-features]])
+DTCMidas: đừng ngại test tính năng mới Meta launch — Meta không launch random, luôn có lý do đứng sau (VD budget-sharing mới thêm cho ABO, DTCMidas chuyển vài campaign sang và đang "crushing"). Cũng nên định kỳ thử lại setting cơ bản: **1-day click vs 7-day click attribution**, **incremental vs standard attribution**, **bid/cost cap vs highest-volume**.
+
+Luận điểm cốt lõi: **không tồn tại 1 "best setup" chung cho mọi account.** Ai khẳng định có 1 setup đúng nhất — đang bán gì đó hoặc không hiểu vấn đề. Mỗi business khác nhau; cách duy nhất biết setup nào hợp account mình là test đều đặn, không đóng băng theo 1 config cũ.
+
+→ Đọc cùng lens với [[growth-ops]] §"The sauce" — filter tool/feature hype qua câu hỏi thực dụng; khác là DTCMidas nói riêng về Meta feature/setting và khuyến khích TEST (không phải bỏ qua), vì chi phí test 1 setting gần như 0. Tie §Cost controls (jforjacob, dưới) về attribution window — đây là 1 setting đáng thử định kỳ mà bài đó cũng nhắc.
+
+> [!note] Áp cho MaxPro
+> Chưa test attribution window (1-day vs 7-day click) hay incremental attribution lần nào → thử trên 1 campaign nhỏ tháng này, so kết quả với setup hiện tại 2 tuần trước khi đổi hẳn.
+
+## Account structure KHÔNG phải lý do campaign không work (DTCMidas, 2 tweet) ⭐
+- **CBO ↔ ABO switch không phải lever scale** ([[dtcmidas-will-switching-abo-to-cbo-help-you-scale]]): chuyển từ ABO sang CBO (hay ngược lại) sẽ không bao giờ là thứ giúp scale. Cái thật sự giúp scale: creative tốt, landing page congruent, offer tốt.
+- **Structure KHÔNG BAO GIỜ là lý do "không work"** ([[dtcmidas-ad-account-structure-is-never-the-problem]]): dừng ám ảnh CBO vs ABO, campaign setup, hay bidding strategy. Fix 4 fundamentals — creative, landing page, positioning, offer — rồi sẽ scale.
+
+> [!warning] Đọc song song với toàn bộ phần structure phía dưới trang này (400+ dòng CBO/ABO/min-spend/3-tầng)
+> DTCMidas nói KHÔNG obsess structure, nhưng chính trang này dành phần lớn nội dung cho structure (§Cấu trúc account 3 tầng, §CBO per product/geo, §min-spend formula...). Không mâu thuẫn nếu đọc đúng tầng — khớp thẳng [[jforjacob-account-structure-for-learnings-not-scale]] đã có ở §Cấu trúc account 3 tầng: **"structure không quyết định TRẦN scale, quyết định TỐC ĐỘ học."** DTCMidas nói về TRẦN (structure không chặn bạn scale nếu fundamentals tốt); phần structure còn lại của trang nói về TỐC ĐỘ (structure tốt → học nhanh hơn, kill/scale đúng lúc hơn — không phải điều kiện BẮT BUỘC để scale). Thứ tự đúng: fix creative/LP/offer TRƯỚC (DTCMidas), rồi dùng structure tốt để học nhanh hơn khi đã có nền tảng (jforjacob) — không phải chọn 1 trong 2.
+
+→ MaxPro: đang stuck ở câu hỏi CBO/ABO nào tốt hơn? Dừng lại — check creative/LP/offer trước khi đổi structure thêm lần nào nữa.
 
 ## Volume: flood ads, Meta tự lọc
 - Đưa máy **50+ ads**. Meta dự đoán + dồn spend vào best 1-5 (đúng ý đồ, KHÔNG phải "spread too thin").
@@ -35,6 +54,11 @@ Cùng thesis "flood ads" ở trên, 3 post 0xROAS làm sắc + cho con số:
 - **Bỏ 1 tuần không publish, chỉ nghiên cứu ads giỏi** ([[jforjacob-take-a-week-off-to-study-good-ads]]): jforjacob đề xuất — thay vì tiếp tục publish, dành hẳn 1 tuần học top TikTok Shop affiliate video + direct-response copywriting, rồi quay lại nhìn ads hiện tại của mình sẽ thấy chúng tệ tới đâu. Quan sát: kể cả brand 9 chữ số cũng hiếm khi vượt qua công thức "Bạn có vấn đề X? Đây là sản phẩm X. Nó thay đổi cuộc chơi" — chuẩn thị trường thấp tới mức chỉ cần deep-dive 1-2 ngày về DR/format tốt là đã vượt phần lớn.
 - **Ít concept, mỗi concept đào sâu → tỉ lệ thắng cao hơn** ([[jforjacob-deep-dive-concepts-before-volume]], chi tiết workflow 10-bước → [[creative-brief]]): data điểm cụ thể — tháng trước 21 concept launch, 5 winner; tháng sau chỉ 9 concept (dùng lại framework proven) nhưng 6 winner. Volume KHÔNG phải biến số quyết định tỉ lệ thắng — chất lượng + framework-đã-chứng-minh mới là.
 
+**3rd voice, từ chính phía "AI-volume" — DTCMidas cảnh báo AI làm volume rẻ tới mức volume tự nó không còn là edge** ([[dtcmidas-ai-creative-volume-without-garbage]], 2025-08-27): AI collapse chi phí creative giống hệt cách chi phí dev sụp đổ khiến ai cũng build SaaS/consumer app — giờ ai cũng generate được 50 ads/ngày, **kể cả đối thủ**. Feed ngập AI slop, khách hàng bắt đầu numb với nó. Ẩn dụ: giống lúc stock photo rẻ/dễ tiếp cận — mọi website trông giống nhau; brand nổi bật là brand đầu tư custom content. Kết luận DTCMidas: nước cờ thắng KHÔNG PHẢI sản xuất rác nhanh hơn — là dùng AI **tăng volume trong khi giữ (hoặc nâng) chuẩn creative**. *"When everyone can make 50 ads a day, be the person making 5 great ones instead of 50 pieces of shit."*
+
+> [!warning] Timeline-tension trong chính DTCMidas — xem [[ai-video-production]] §Obvious AI slop
+> Tweet này (2025-08-27) đọc gần như NGƯỢC với 2 tweet sau của chính DTCMidas ở [[ai-video-production]]: obvious "AI slop" outperform hầu hết ads trong account ([[dtcmidas-does-obvious-ai-slop-outperform-polished-ads]], 2026-02-18) và AI animation ads = top spender dù "kém defensible hơn" ([[dtcmidas-are-ai-animation-ads-worth-testing]], 2026-03-13). Đọc đúng theo THỜI GIAN, không phải mâu thuẫn tuỳ tiện: 08/2025 DTCMidas cảnh báo về làn sóng AI-garbage generic sắp tràn feed; 6 tháng sau khi làn sóng đó đã tràn thật, chính aesthetic "obvious AI"/AI-animation (làm ĐÚNG, không phải làm ẩu) trở thành 1 dạng pattern-interrupt mới ăn khách — DTCMidas's own March-2026 tweet tự chú thích "the real defensibility here is volume [của EFFORT bỏ ra để nó trông đẹp]", tức KHÔNG rút lại cảnh báo gốc "đừng làm rác nhanh hơn" — chỉ đổi ĐỊNH NGHĨA "chất lượng" theo aesthetic đang ăn khách thời điểm đó. Bài học vận hành: chuẩn "5 great ones not 50 garbage" vẫn đúng làm KIM CHỈ NAM — nhưng "great" phải re-calibrate theo aesthetic/format đang viral tại thời điểm launch (đọc thêm cơ chế pattern-interrupt ở [[ai-video-production]]), không neo cứng vào 1 định nghĩa "polish" cố định.
+
 **Reconcile với §Digital darwinism / §Format đang ăn spend ở trên — không loại trừ nhau, khác GIAI ĐOẠN:**
 1. **Flood/volume AI đúng ở giai đoạn TEST** khi đã có template/angle/hook đủ tốt để nhân bản — đây là ý nkecom/0xROAS (Resilia 3,300 ads = nhân bản 1 mechanism đã chứng minh, không phải 3,300 ý tưởng ngẫu nhiên).
 2. **jforjacob nói về giai đoạn TRƯỚC đó** — lúc chưa có winning template, volume chỉ nhân bản sự tầm thường, không nhân bản được cái gì để học.
@@ -52,6 +76,13 @@ Cùng thesis "flood ads" ở trên, 3 post 0xROAS làm sắc + cho con số:
 
 > [!note] Áp cho MaxPro
 > Test video face-to-camera (chủ nuôi, hoặc groomer-persona Carol) nói thẳng vào camera, không b-roll cắt cảnh, chỉ trim — script viết theo 1 trong 3 skeleton ở [[hooks]] §Full script skeletons, không phải "nói chuyện phiếm".
+
+## Vì sao viral format work cho paid ads — audience đã bị pre-condition ([[dtcmidas-why-do-viral-formats-work-so-well-for-paid-ads]])
+Cơ chế đứng sau lý do nên nhảy vào format viral NGAY khi thấy nó nổi (áp cho mọi format ở §trên — AI animation, yapper, drama, podcast): khi 1 format viral, editor/creator giỏi nhất nhảy vào làm content hay (vì có incentive) → người xem tiêu thụ hàng loạt video dạng đó → bị **condition**: "format này = giải trí, đáng xem." Ad dùng ĐÚNG format viral đó hook tốt hơn + giữ chân lâu hơn — không phải vì ad hay hơn, mà vì viewer đã được train kỳ vọng payoff từ format này. Bạn đang **mượn thành công của bản thân cái format**.
+
+Hệ quả vận hành: **tốc độ nhảy vào format viral quyết định value** — vẫn cần áp nguyên lý direct-response lên trên format đó (format không tự bán hàng), nhưng format viral chết dần khi quá nhiều brand flood nó → conditioning vỡ → người ta lướt qua. Thấy 1 format đang viral → **test ngay**, đừng đợi "hoàn thiện" ý tưởng.
+
+→ Giải thích lý do first-mover cho top-spender formats ở trên (AI animation/yapper VSL) work — không phải bản thân format "tốt hơn", mà catch đúng lúc conditioning còn mạnh. Tie [[creative-brief]] §Cartoon creatives (Jan) — cùng cơ chế, khác format cụ thể; §Iterate winner đổi style — khi conditioning của 1 style-cụ-thể mòn, restyle giữ nguyên category-conditioning.
 
 ## Test budget
 - **$150-200 để biết kết quả.** Min $50/day (beginner), tác giả thích $200/day. Set go-live lúc nửa đêm.
@@ -113,6 +144,13 @@ Bid cap = trần cứng; Meta chỉ vào auction tới giá đó. Để spend d�
 
 → Tie [[creative-testing]] (tự đọc signal, không delegating hoàn toàn cho machine).
 
+## Surf scaling chạy trên spreadsheet intraday, không phải Ads Manager ([[dtcmidas-how-do-you-track-performance-while-surf-scaling]])
+DTCMidas: theo dõi hiệu suất trong ngày để surf scale KHÔNG đọc trực tiếp Ads Manager (data trễ, khó nhìn xu hướng theo giờ) — dùng 1 spreadsheet intraday, chỉ điền tay 4 ô mỗi lần check: Time, Total revenue so far, Total Meta spend so far, Total Google spend so far. Sheet tự tính period performance + MER theo từng khung giờ.
+
+Đây là công cụ THỰC THI cho §Algorithm trust decay ngay trên (bump spend tay vào ads Meta đang bỏ đói) — cần đọc tín hiệu NHANH hơn Ads Manager cho phép để ra quyết định trong ngày, không phải chờ báo cáo hôm sau.
+
+→ MaxPro: khi bắt đầu surf scaling thật (sau khi có ≥1 CBO ổn định), dựng sheet 4-cột tương tự thay vì refresh Ads Manager liên tục.
+
 ## Split test trap — CPM shift ăn hết CVR win ⚠️
 Nguồn: [[jforjacob-split-test-cpm-hidden-cost]] (jforjacob, DR/ecom). Lỗi ít người biết khi roll out page winner:
 
@@ -135,6 +173,8 @@ Tie [[creative-testing]] (đọc signal từ metric, không budget to) + [[funne
 **Canva 7-fig validation ([[jforjacob-canva-7fig-static-ad]]):** jforjacob build 1 static ad dựa trên principle từ @SarahLevinger, **tốn 3 phút trên Canva**, đã spend **7 figures** và bị copy 1-1 bởi gần như mọi DTC supplement brand. Production value = 0; principle/angle = tất cả. Xác nhận rằng "simple ugly wins" không phải lý thuyết — là market evidence. Bottleneck THẬT là tìm principle đúng, không phải production.
 
 **2nd data point — top spending ad EVER = static 5 phút, mới vào ngành** ([[jforjacob-five-minute-canva-static-top-spender]]): jforjacob kể top-spending ad ALL-TIME trong account mình là 1 static Canva làm khi mới bắt đầu ecom, chưa biết gì về marketing — chỉ mất **~5 phút**, không message gì ngoài hiện offer. Ad đó vẫn chạy tới hôm nay, vượt qua mọi ad "brilliant" do người giỏi làm sau này. jforjacob thừa nhận: *"to this day, I have no idea why it works so well."* → Cùng bằng chứng với Canva 7-fig ở trên (2 tweet khác nhau, cùng 1 hiện tượng): production value KHÔNG tương quan với performance; đôi khi winner không giải thích được — đừng cố ép mọi ad phải "làm cho đúng lý do" trước khi test, để performance tự nói.
+
+**3rd data point, tác giả khác — ChatGPT static 2-3 phút, top spender hơn 2 tháng** ([[dtcmidas-chatgpt-static-as-top-spender]]): DTCMidas — với 1 sản phẩm, top spender suốt **hơn 2 tháng** cũng là static, làm bằng ChatGPT trong **2-3 phút**, cartoon style đơn giản. Điểm thêm mà 2 case Canva ở trên không nói rõ: DTCMidas tách bạch — bước TẠO ảnh chỉ 2-3 phút, nhưng **nghĩ ra concept + viết đúng prompt hoàn hảo tốn vài giờ**. → Cả 3 case (Canva 3 phút, Canva 5 phút, ChatGPT 2-3 phút) cùng xác nhận: production time ngắn không phải bằng chứng "dễ" — thời gian thật đổ vào concept/prompt/ý tưởng phía sau, không phải vào thao tác build creative. Đo effort bằng giờ nghĩ concept, không phải phút click.
 
 ## Don't model funded brands — wrong unit economics ([[dtcmidas-dont-copy-funded-brands]])
 DTCMidas: most visible big DTC brands are funded → **completely different unit economics** from bootstrapped. They can sustain far higher CACs (investor capital, don't need near-term profitability), have celebrity endorsements, and accumulated brand trust over years. *"When you copy their funnels and ads, you're copying a strategy built on advantages you don't have."*
@@ -215,6 +255,10 @@ Cùng logic với §Low-budget regime (1 ad set + lowest-cost) — khi budget th
 
 → MaxPro giai đoạn launch: set reminder xem data thứ 2 hàng tuần, không check Ads Manager hàng ngày.
 
+**Cùng kết luận, khung rộng hơn — không chỉ low-spend** ([[dtcmidas-why-is-meta-performance-so-inconsistent-day-to-day]]): DTCMidas mở rộng nguyên lý trên ra MỌI account, không riêng low-spend. Inconsistency ngày-qua-ngày trên Meta là BÌNH THƯỜNG, đặc biệt rõ ở spend thấp (1 vài sale đủ làm daily metric nhảy dữ dội dù số conversion thật đổi rất ít). Hệ quả hành vi sai phổ biến: scale sau 1 ngày đẹp, hoảng sau 2-3 ngày đỏ rồi kill creative đang thực sự work. Rule: ROAS 7 ngày đạt target → daily swing không quan trọng. *"The inconsistency you're seeing isn't a bug. It's just how the system works."*
+
+→ Cùng 1 nguyên tắc với DTC_Quizbuilder ở trên (đọc theo cửa sổ 7 ngày), khác là DTCMidas nói rõ ĐÂY LÀ BẢN CHẤT hệ thống (không chỉ do spend thấp) — kể cả account lớn cũng nên tránh quyết định dựa trên 2-3 ngày lẻ.
+
 ## Native = kênh song song (không phải Meta)
 Bài này là Meta. **True-native (Taboola/Outbrain open web)** là kênh TOF song song, toán khác hẳn — CTR-first `CPC=CPM÷(CTR×10)`, gate $50-100k/mo. Native flood retargeting pool → làm Meta/Google rẻ đi. Chi tiết + setup: [[native-ads]].
 
@@ -267,6 +311,29 @@ Cấu trúc này tách biệt signal theo sản phẩm + thị trường (không
 
 > Khác với nkecom (1 ad set duy nhất khi test): DTCMidas giả định multi-product / multi-geo rồi — nkecom nói về lúc launch 1 product. Không mâu thuẫn: **single product testing → 1 ad set**; khi scale đa sản phẩm → structure này.
 
+## Split campaign theo category/margin, run tới collection page ([[dtcmidas-structure-campaigns-around-collection-pages]])
+DTCMidas: split campaign theo product category HOẶC theo margin (trục khác so với §CBO per product/geo ở trên). Run traffic tới **collection page** (không phải PDP), có banner offer ngay đầu trang, và đảm bảo đúng sản phẩm trong ad nằm TRÊN CÙNG collection page (dùng app/UTM rule để làm việc này).
+
+**Gate diversify channel: đừng mở kênh mới trước $100k/tháng.** Mỗi kênh tốn thời gian + resource quản lý riêng, kéo focus khỏi thứ đang work.
+
+→ Reinforces [[jforjacob-target-roas-collection-page-aov]] (collection page → AOV +20%, CPA giữ nguyên/nhỉnh thấp hơn) — 2 nguồn độc lập cùng khuyên route traffic tới collection thay vì PDP. Gate $100k/tháng khớp thẳng ngưỡng native channel ($50-100k/mo) ở [[native-ads]] §gate — cùng logic: đừng diversify khi chưa saturate kênh hiện tại.
+
+> [!note] Áp cho MaxPro
+> Hiện chỉ 1 sản phẩm (chưa cần split theo category) — nhưng banner-offer-trên-đầu-collection-page + product-trên-cùng là action làm ngay được cho trang collection MaxPro, không cần chờ multi-SKU.
+
+## Gate mở kênh mới — khác nhau theo LOẠI kênh, không phải 1 con số chung (DTCMidas, 2 tweet)
+Bổ sung cho "Gate diversify channel: đừng mở kênh mới trước $100k/tháng" ở §Split campaign ngay trên — DTCMidas cho 2 gate cụ thể hơn theo LOẠI kênh, không phải 1 ngưỡng chung:
+
+- **Nguyên tắc chung ([[dtcmidas-when-to-add-ad-channels-beyond-meta]]):** khi Meta đã có product + funnel work, thêm kênh mới tận dụng được creative/messaging đã proven — chi phí marginal thấp hơn build từ 0, và diversify risk (kênh yếu thì kênh khác đỡ). Cơ chế hay: kênh nhỏ hơn thường hiệu quả hơn Meta (dù ít scalable hơn) → lợi nhuận từ đó SUBSIDIZE cho phép chạy Meta ở CAC cao hơn để scale mạnh hơn. Mốc DTCMidas neo: **$500k/tháng trên Meta**.
+- **Breakdown theo kênh cụ thể, sớm hơn nhiều ([[dtcmidas-when-to-add-email-google-and-native-channels]]):** Email & Google — thêm SỚM, khoảng **$50k/tháng**. Taboola/native — DTCMidas tự chờ tới **$1M/tháng** mới thêm, nhưng nhìn lại impact thì ước gì bắt đầu SỚM HƠN NHIỀU. Native "không hợp mọi sản phẩm" — phụ thuộc product/audience, đặc biệt hợp nếu audience 45+.
+
+**Reconcile 3-4 con số ($50k / $100k / $500k / $1M) — không mâu thuẫn, khác kênh:**
+- Email + Google = chi phí thử thấp, tận dụng gần hết infra đã có (khớp thẳng gate $100k của DTCMidas ở §Split campaign VÀ allocation table $50-100k → bắt đầu 30% Google ở [[google-ads]] — 2 nguồn độc lập cùng khoảng $50-100k) → mở SỚM nhất.
+- Native/Taboola = tốn effort + budget riêng để vận hành đúng (khớp readiness gate $50-100k/THÁNG ở [[native-ads]] — nhưng DTCMidas tự thú đã đợi tới $1M rồi hối tiếc; đọc đúng: gate $50-100k là ĐỦ ĐIỀU KIỆN kỹ thuật, không có nghĩa nên đợi tới $500k-1M mới thử).
+- $500k/tháng ("new ad channels" nói chung) = ngưỡng DTCMidas cho kênh PAID mới cần resource riêng đáng kể (khác Email/Google, vốn build trên infra sẵn có) — đọc như ngưỡng AN TOÀN cao, không phải ngưỡng TỐI THIỂU bắt buộc.
+
+→ MaxPro (đang rất xa mọi ngưỡng trên): thứ tự ưu tiên khi tới lượt — Email trước (chi phí gần 0, dùng Klaviyo sẵn có) → Google (đã có kế hoạch riêng, [[google-ads]]) → native sau cùng khi đủ $50-100k/tháng, đừng đợi tới $500k-1M như DTCMidas từng làm rồi tự hối.
+
 ## Kill/keep criteria — upper funnel KPIs + topspender exception ([[dtcmidas-ad-kill-criteria-upper-funnel]])
 DTCMidas: quy trình **2-window** để quyết định kill hay giữ ad:
 
@@ -281,6 +348,35 @@ DTCMidas: quy trình **2-window** để quyết định kill hay giữ ad:
 Bổ sung cho §CBO active-ad pruning (tắt ads trên CPA target) và §Decision matrix ngày 1 (ATC-based). Cả 3 dùng cùng lúc: ngày 1 đọc ATC (demand signal), ngày 3-4 đọc upper funnel KPIs (engagement quality), ngày 7 final verdict. Topspender exception = layer thứ 4 — context từ account level override adset-level metric.
 
 → MaxPro: khi đủ data để identify topspender (ad ăn nhiều spend nhất với CPM thấp), đừng kill dựa trên ROAS adset đơn lẻ — pull account-level performance trước.
+
+## 4 quadrant CAC×volume — 1 verdict, 1 action cho mỗi ô ([[dtcmidas-four-quadrants-of-media-buying-decisions]]) ⭐
+DTCMidas: mọi ad performance rơi vào đúng 1 trong 4 ô sau, mỗi ô có ĐÚNG 1 hành động:
+
+| CAC | Volume | Verdict | Action |
+|---|---|---|---|
+| Thấp | Cao | **Winner** | Scale mạnh — sweet spot |
+| Thấp | Thấp | **Missed opportunity** | Đang nhát — scale lên |
+| Cao | Cao | **Fixable** | Có demand, cần optimize: giảm spend, fix funnel/ads/offer, rồi scale lại |
+| Cao | Thấp | **Problem** | Mọi thứ hỏng — pause, tìm ra vấn đề, restart nhỏ |
+
+Đơn giản hoá thành khung quyết định 1-bước cho toàn bộ trang này — thay vì nhớ riêng lẻ §Decision matrix ngày 1 (ATC-based), §Kill/keep 2-window (upper funnel KPI) ngay trên, §CBO active-ad pruning (CPA vs target), dùng lens 2 trục CAC×volume này để định vị NHANH đang ở đâu trước khi đi vào chi tiết từng công cụ kia.
+
+→ MaxPro: mỗi lần review campaign, tự hỏi trước "mình đang ở ô nào trong 4 ô này" rồi mới đi vào chi tiết ATC/upper-funnel-KPI/CPA cụ thể.
+
+## Broad targeting + exclude past purchasers — why + how đầy đủ (DTCMidas, 3 tweet) ⭐
+- **Setup: broad + exclude all purchasers, đang test luôn exclude 1-day visitor** ([[dtcmidas-broad-targeting-with-purchaser-exclusions]]): DTCMidas chạy mọi thứ broad, exclude toàn bộ purchaser. Test đang chạy (chưa xong): exclude luôn website visitor 1 ngày gần nhất.
+- **Vì sao — unit economics đơn giản** ([[dtcmidas-unit-economics-of-excluding-past-buyers]]): acquisition campaign phải drive net-new customer. Nếu 10-20% spend rơi vào người ĐÃ convert → NC CAC bị thổi phồng, hiệu quả giảm. Phản bác lo ngại "CPM tăng" — exclude 1 audience nhỏ (past purchaser) hầu như không ảnh hưởng CPM; nếu có ảnh hưởng thật thì đang có vấn đề khác, không liên quan tactic này. Dù CPM có tăng — DTCMidas không quan tâm — vì NC CAC vẫn thấp hơn, NC ROAS vẫn cao hơn khi exclude. Đó là 2 KPI duy nhất DTCMidas thật sự quan tâm khi chạy ads.
+- **Cách setup — 3 phương pháp layer chồng nhau** ([[dtcmidas-exclude-past-purchasers-from-acquisition]]):
+  1. **Meta Pixel + CAPI:** Audiences → Custom Audience → Website → event "Purchase", timeframe 180 ngày.
+  2. **Klaviyo integration:** Integrations → Meta → Connect, tạo segment "đã đặt ít nhất 1 order" → Klaviyo → Integrations → Meta → Sync Audiences. Bắt được người mua nhưng pixel miss (iOS, ad blocker).
+  3. **Manual CSV:** Shopify → Customers → Export all → Meta Ads Manager → Custom Audience → Customer List → upload, map field, lặp lại hàng tháng.
+
+  Lý do cần LAYER cả 3 (không chọn 1): không phương pháp nào chính xác 100% riêng lẻ — pixel miss người, Klaviyo có thể thiếu email, manual dễ outdated. Set exclude ở adset level → Targeting → Exclude → Custom Audiences → chọn cả 3.
+
+→ Đây chính là cơ chế đứng sau exclusion đã nhắc sơ ở §Cấu trúc account 3 tầng dưới ("Exclusions mọi campaign: Klaviyo existing-customer list + website purchaser 180 ngày (sync)") — jforjacob dùng 2/3 method (Klaviyo + pixel/website); DTCMidas thêm layer thứ 3 (manual CSV) làm backstop khi 2 method kia miss. Cross-link §NC KPI dashboard ngay dưới đây — exclude purchaser là đòn bẩy trực tiếp để NC ROAS/NC CAC (2 KPI DTCMidas ưu tiên) tách rời khỏi số blended.
+
+> [!note] Áp cho MaxPro
+> Set exclude 180-ngày-purchaser bằng cả 3 method (pixel/CAPI + Klaviyo sync + Shopify CSV export hàng tháng) trên mọi acquisition campaign hiện tại — hiện có thể mới chỉ dùng pixel, thiếu layer Klaviyo/manual = đang rò rỉ 10-20% spend vào existing customer.
 
 ## NC KPI dashboard — 7 số cốt lõi DTC ([[dtcmidas-kpi-list-nc-metrics]])
 DTCMidas: 7 KPI bắt buộc track trong media buying DTC — không phải blended, phải tách NC (new customer):
@@ -299,6 +395,29 @@ DTCMidas: 7 KPI bắt buộc track trong media buying DTC — không phải blen
 > Blended ROAS che repeat buyer quay lại organic/email → thấy "7x" nhưng cold acquisition thật có thể đang 2x hoặc dưới 1. Tách NC ROAS + NC CAC → thấy cost-to-grow thật. Khớp lỗi #1 trong [[google-ads]] §7-mistakes (blended ROAS che branded).
 
 → MaxPro: track 7 số này song song, đừng dùng 1 số blended làm thước đo scale. CM3 đặc biệt quan trọng giai đoạn bootstrapped.
+
+## 13-column Ads Manager setup — daily view thực tế (DTCMidas) ([[dtcmidas-meta-kpi-columns]])
+DTCMidas dùng đúng 13 cột cho việc quản ads hằng ngày: Amount spent · Budget · NC ROAS · ROAS · NC CPP · CPP · NC Purchases · Purchases · ATC · CPATC · Frequency · CPMr · Date Created.
+
+Đây là bản THỰC THI cho §NC KPI dashboard ngay trên — 7 KPI đó là khái niệm cần track (Revenue, NC Revenue, spend/kênh, NC ROAS, NC CAC, AOV, CM3); 13 cột này là setup CỤ THỂ trong Ads Manager để đọc chúng hằng ngày (blended đặt cạnh NC để so lệch trực tiếp — ROAS cạnh NC ROAS, CPP cạnh NC CPP). Khác mục đích với §Custom metric (jforjacob, ở trên) — đó là 4 số DIAGNOSTIC (CVR/AOV/thumb-stop/hold-rate) để chẩn đoán creative vs funnel khi CPA tệ; đây là 13 cột MONITORING để scan sức khoẻ account mỗi ngày. Dùng cả hai: 13 cột để nhìn nhanh, 4 custom metric khi cần đào sâu vì sao 1 con số trong 13 cột kia tệ.
+
+→ MaxPro: set 13 cột này làm view mặc định Ads Manager (Columns → Customize Columns), gộp chung preset với 4 custom metric ở §Custom metric ở trên.
+
+**Rule quyết định + target ratio** ([[dtcmidas-make-decisions-on-new-customer-roas]]): mọi quyết định media-buy phải dựa trên NC ROAS hoặc NC CPA — không phải blended. Giai đoạn đầu (chưa biết CLTV) → target breakeven hoặc profitable nhẹ. Khi brand trưởng thành, biết CLTV rõ hơn → hạ dần target NC ROAS. DTCMidas luôn nhắm **tỉ lệ LTV:CAC = 3:1**.
+
+→ Cross-check với §Target ROAS quá cao / §Afford CAC gấp đôi (jforjacob, dưới trang) — set target ROAS theo LTV thật, hỏi "afford CAC bao nhiêu" thay vì chỉ cắt CAC. DTCMidas cho 1 con số cụ thể (3:1) làm điểm neo ban đầu khi chưa có đủ data để tự tính target riêng.
+
+## Naming convention cho ads — bắt buộc trước khi launch scale ([[dtcmidas-why-do-ad-naming-conventions-matter]])
+
+DTCMidas: tưởng vô ích, nhưng ở scale hàng trăm ad launch/tháng, KHÔNG có naming convention khiến 4 việc trở nên bất khả thi:
+- **Phân tích pattern** — ads tên "Video 1"/"Static 2" thì không thể thấy angle/hook/format nào đang thắng ở scale.
+- **Track ai đang tạo winner** — cần biết creative strategist/editor/designer nào ra ads tốt nhất để giao thêm việc + trả lương xứng đáng.
+- **Tìm nhanh 1 ad cụ thể** — "Emily làm ads gì 2 tuần qua" bất khả thi khi có 800+ ads chạy.
+- **Collaborate như 1 team** — mỗi người 1 hệ naming khác (hoặc không có) = giao tiếp vỡ, tốn thời gian hỏi lại việc cơ bản.
+
+Setup 1 convention, giữ kỷ luật dùng nó — DTCMidas có sẵn 1 naming-convention generator để làm việc này dễ hơn.
+
+→ Vệ sinh vận hành đi kèm §NC KPI dashboard + §13-column Ads Manager setup ở trên — không track được KPI đúng ad/đúng người nếu tên ad không có cấu trúc. MaxPro: đặt naming convention (angle-format-hook-strategist-ngày) TRƯỚC khi scale volume ads lên hàng chục/tuần, không đợi tới lúc bị rối mới sửa.
 
 ## $100k/day scaling — fundamentals proven, gap là budget boldness ([[jforjacob-100k-day-budget-boldness]])
 jforjacob (2026-07-04): *"$100k a month isn't considered much in ecom. It's pretty easy for anyone with half decent ads and a ok product."*
@@ -374,6 +493,13 @@ Tie [[dtcmidas-dont-copy-funded-brands]] — funded brand có thể ignore slow 
 
 → MaxPro: khi mọi ad launch đều không ăn một cách systematic (không phải 1-2 creative fail) → likely slow season → reduce spend, redirect energy sang creative/offer testing. Đừng giải thích bằng "creative tệ" khi vấn đề là market timing.
 
+## Đừng giữ spend khi hiệu suất thấp xa target, dù LTV có thể recoup ([[dtcmidas-should-you-keep-spending-below-target-efficiency]])
+Bổ sung trực tiếp cho §Scaling seasons ngay trên — cùng tác giả, cùng hành động "giảm spend slow season", thêm lý do TẠI SAO không nên cãi lại bằng lập luận LTV: nếu unit economics đã dialed in, bạn biết rõ mình afford spend bao nhiêu mà không vướng cash flow. Giai đoạn kém hiệu suất → scale DOWN, không cố giữ spend cũ. Spend thấp hơn thường tự nhiên đẩy efficiency lên lại.
+
+DTCMidas thừa nhận: có thể recoup được qua LTV về lâu dài — nhưng efficiency thấp kéo dài gây vấn đề KHÁC (cash flow, khả năng phản ứng) mà LTV math không bù ngay được. → Đối lập nhẹ với §Đổi câu hỏi: afford CAC gấp đôi (jforjacob, dưới trang) — không mâu thuẫn thật: jforjacob nói steady-state khi đã biết LTV rõ + có cash cushion; DTCMidas nói giai đoạn hiệu suất tụt bất thường (không phải mức CAC bình thường cao hơn kỳ vọng) — 2 tình huống khác nhau, không cùng 1 quyết định.
+
+→ MaxPro: định nghĩa trước "target efficiency sàn" (NC ROAS hoặc MER tối thiểu chấp nhận được) — chạm ngưỡng đó liên tục vài ngày → cắt spend ngay, đừng đợi "chắc sẽ recoup". Lịch sales-moment cụ thể theo ngày (Singles Day/post-Xmas/Q5...) — xem [[google-ads]] §Seasonal promotions calendar.
+
 ## Channel-product fit: intent = Google, impulse = Meta ([[ecomamin-meta-vs-google-intent-product]])
 eCom_Amin (2026-08-25): insight từ việc mất tiền 2 năm trên Meta với pet health/supplements rồi switch sang Google Shopping và profitable week 1.
 
@@ -386,6 +512,34 @@ eCom_Amin (2026-08-25): insight từ việc mất tiền 2 năm trên Meta với
 **Pet health/supplement = considered purchase:** buyer đã lo ngại sức khoẻ thú cưng, đang tìm solution → Google Shopping capture đúng tại điểm intent. Meta mất 2 năm không profitable vì flow sai: 3 giây không đủ build trust cho considered purchase, cần landing page education + search intent để close.
 
 → MaxPro grinder: người tìm "how to trim dog nails" / "dog nail grinder" → intent đã có → **Google primary**. Meta secondary cho TOF remarketing + lookalike. Tie [[google-ads]] §Channel-product fit (số liệu case study $955k mostly Google) + §Full funnel (Meta ROI phụ thuộc vào MOF/BOF có live không).
+
+## Set target CAC/ROAS từ unit economics, không phải số ROAS tuỳ ý ([[dtcmidas-how-do-you-set-roas-targets-from-unit-economics]])
+
+DTCMidas: ROAS không tự nói lên có lãi hay không — unit economics mới nói. Câu hỏi đúng: "target CAC/ROAS của mình dựa trên unit economics là bao nhiêu?" — không phải chọn 1 con số ROAS tuỳ tiện. Track hằng ngày:
+
+- **AOV**
+- **Landed cost** = COGS + fulfillment
+- **CM2** = AOV − landed cost (số còn lại để acquire khách)
+- **Target CAC** — dựa trên CM2, LTV, và cash flow: chi được bao nhiêu để acquire 1 khách có lãi mà không cạn tiền.
+
+**Cách bắt đầu:** set target CAC DƯỚI CM2 → có lãi ngay từ đơn đầu tiên. Khi hiểu unit economics rõ hơn → tăng dần target CAC để scale dễ hơn. Biết target CAC rồi mới suy ngược ra ROAS cần đạt.
+
+Ví dụ minh hoạ: AOV $100, landed cost $25 → CM2 $75. Muốn lãi $25 → target CAC = $50 ($75 CM2 − $25 profit mong muốn) → cần **ROAS ≥ 2x**. (DTCMidas tự nhận ví dụ này đơn giản hoá, chưa tính hết mọi biến số — nhưng đúng THỨ TỰ tư duy: từ unit economics ra target CAC, từ target CAC ra ROAS, không phải ngược lại.)
+
+→ Đây là công thức TÍNH cụ thể cho §Rule quyết định + target ratio ở trên (DTCMidas neo target LTV:CAC = 3:1) và bổ sung layer định lượng cho §Target ROAS quá cao / §Đổi câu hỏi CAC (jforjacob, ngay dưới) — 3 nguồn cùng 1 thesis "target ROAS phải bắt nguồn từ economics thật", công thức CM2 ở đây là cách TÍNH RA con số đó thay vì chỉ nói nguyên lý. MaxPro: tính CM2 thật (AOV hiện ~$40-65 trừ landed cost) → derive target CAC trước khi set ROAS mục tiêu trong Ads Manager, thay vì neo theo benchmark ngành chung chung.
+
+## Mất tiền first-order nhiều hơn tưởng — bẫy cash flow khi scale kiểu "outspend" ([[dtcmidas-the-cash-flow-math-of-first-order-losses]])
+
+DTCMidas phản bác cách tính nhẩm sai phổ biến: acquire ở CAC $60 trên AOV $40 KHÔNG lỗ $20 — phải trừ thêm COGS, shipping, handling, fulfillment, payment processing… Thực tế thường lỗ khoảng **$30**, không phải $20.
+
+**Vấn đề thật không phải con số lỗ — là cash flow.** Mô hình "chấp nhận lỗ đơn đầu, ăn lại qua LTV" (kiểu supplement/consumable) nghe hay trên giấy nhưng cần TIỀN THẬT để fund khoản lỗ đó trước. Chỉ khả thi nếu có ít nhất 1 trong:
+- Financing ngoài đáng kể
+- Base khách hàng repeat-order sẵn đang tạo ra cash
+- Đủ vốn dày để chịu lỗ cash flow nhiều tháng
+
+Có đủ retention mạnh VÀ đủ cash → đây là cách đúng để scale supplement/consumable. Thiếu 1 trong 2 → hầu hết brand cạn tiền TRƯỚC KHI LTV kịp materialize.
+
+→ Cảnh báo trực tiếp cho §Đổi câu hỏi: afford CAC gấp đôi (jforjacob, ngay dưới) — jforjacob đúng về NGUYÊN LÝ (business model tốt nên afford CAC cao hơn), nhưng "afford được" phải bao gồm CẢ cash-flow-để-fund-khoản-lỗ-đó, không chỉ margin/LTV trên giấy. 2 nguồn bổ sung nhau, không mâu thuẫn: jforjacob nói ĐIỀU KIỆN unit economics; DTCMidas thêm ĐIỀU KIỆN cash thực tế phải có TRƯỚC khi thực thi điều đó. Tie [[growth-ops]] §Bỏ revenue projection (jforjacob: mua stock theo đúng tiền đang có, không vay nợ chạy theo số ảo) — cùng nguyên tắc thận trọng cash. MaxPro: trước khi cân nhắc bất kỳ chiến lược first-order-loss nào, tính rõ landed cost thật (không chỉ COGS) + xác định rõ nguồn cash/retention nào fund khoản lỗ đó.
 
 ## Target ROAS quá cao đang giả làm "creative problem" ([[jforjacob-target-roas-business-model]])
 
@@ -423,6 +577,15 @@ Bổ sung §Test budget ở trên (nkecom: $150-200/day, min $50) bằng công t
 
 > [!note] Reconcile với §Test budget (nkecom) ở trên
 > Không mâu thuẫn — khác cách neo số: nkecom neo theo con số cố định ($150-200/day), jforjacob neo theo target CPA (4x/ngày, sàn $100). Cả 2 cùng kết luận: đủ spend để tín hiệu đáng tin, đừng test dưới sàn. MaxPro AOV thấp (~$40-50) → sàn $100/ngày ở jforjacob cao hơn 4x CPA thật — dùng con số SÀN cao hơn trong 2 công thức khi launch, đừng chọn công thức thấp hơn để tiết kiệm.
+
+## Case study launch: $250 → $2,500/ngày trong 10 ngày, 1 CBO ([[dtcmidas-launch-structure-250-to-2500-a-day]])
+DTCMidas: launch cụ thể — 2 avatar × 4 angle (8 angle) × mix format (UGC/native-style/AI animation/statics) = 20 concept, 20 ad set, pre-sell page (traffic chính) + PDP (statics lower-funnel nhận trực tiếp). Warm account trước bằng cách chạy vài ads cũ để nới spend limit trước khi launch thật.
+
+Scale budget theo cấp: $250 → $450 → $650 → $1,000 → $1,350 → $1,850 → $2,500, toàn bộ trong **10 ngày**, **1 CBO duy nhất** — không mở campaign thứ 2.
+
+Khớp thẳng §Test budget (nkecom, đầu trang: "chưa mở campaign mới tới $300/day, scale spend trên cái đang chạy trước") — đây là con số THẬT của đúng nguyên tắc đó, kèm nhịp tăng cấp cụ thể (~+50-80%/bước, không nhảy gấp đôi 1 phát). Khác §Launch recipe (jforjacob, ngay trên: 10 creative vào ASC) ở quy mô — DTCMidas dùng nhiều concept hơn (20 vs 10) vì có sẵn 2 avatar × 4 angle làm khung, không phải launch mù 1 avatar.
+
+→ MaxPro: nhịp tăng budget này tham khảo trực tiếp khi campaign hiện tại on-target — đừng nhảy thẳng gấp đôi, leo từng bậc ~50-80%/lần để giữ CBO ổn định trong learning phase.
 
 ## Meta không đáng tin 100% khi chọn winner sớm — 2 bằng chứng thêm cho §Algorithm trust decay (jforjacob)
 - **6 bản y hệt nhau, 6 kết quả khác nhau** ([[jforjacob-six-identical-ads-meta-spend-bias]]): review ad set image, thấy 6 creative "khác nhau" performance chênh lệch rõ — hoá ra do lỗi upload, cả 6 là CÙNG 1 variant. 3 cái ăn spend (1 ROAS tốt, 1 decent, 1 tệ), 3 cái còn lại gần như không ăn spend. Kết luận: ăn/không ăn phụ thuộc việc creative có hit "hot pocket" ngay từ đầu hay không — không phải chất lượng khác biệt (vì hoàn toàn giống nhau). Đây là lý do jforjacob ủng hộ **minimum spend trên ad set trong CBO** khi đã có volume/scale đủ lớn — nếu không, creative dễ "mất tích" chỉ vì gặp signal xấu ở vài impression đầu, dù bản thân nó có thể là winner thật.
@@ -465,6 +628,39 @@ Exclusions mọi campaign: Klaviyo existing-customer list + website purchaser 18
 > **Reconcile:** khác THỜI ĐIỂM (Meta hành vi drift theo thời gian, không cố định), không phải nguyên tắc nkecom (1 ad set khi TEST 1 sản phẩm từ 0, budget thấp) sai — đây là quan sát ở CBO đã có nhiều concept/creative. **Hành động thực tế:** đừng cứng nhắc 1 rule — nếu thấy hầu hết ads $0 trong 1 ad set, THỬ tách ra nhiều ad set trước khi kết luận "creative dở". Theo dõi định kỳ vì Meta có thể đổi lần nữa.
 
 - **ABO khi 1 ad ăn 90% spend** ([[jforjacob-abo-when-one-ad-hogs-spend]]): rao giảng creative diversity mà để 1 ad ăn 90% spend là vô nghĩa — chuyển ad set/campaign đó sang **ABO** để ép phân bổ đều hơn. Cùng nhóm với split-ad-set ở trên: thấy spend concentration quá mức → đổi structure thay vì chấp nhận "Meta biết rõ hơn."
+
+## Worldwide campaign: ĐÚNG nếu fulfill từ Trung Quốc, SAI nếu breakeven lệch theo nước — 2 nguồn đối lập ([[dtcmidas-why-do-worldwide-campaigns-scale-so-well]])
+
+> [!warning] Mâu thuẫn trực tiếp với §Cấu trúc account 3 tầng ngay trên (jforjacob)
+> jforjacob ở mục 2 trên: *"enough of this world-wide campaign nonsense"* — KHÔNG chạy 1 campaign worldwide, breakeven lệch quá nhiều giữa các nước, luôn để tiền trên bàn ở 1 phía; group geo theo margin thật (ChatGPT-analysis workflow) rồi mới dựng campaign. DTCMidas ở đây nói NGƯỢC LẠI: nếu fulfill từ China, chạy worldwide — vẫn crushing, "no downside".
+
+DTCMidas: nếu fulfill từ China, chạy worldwide campaign — vẫn scale tốt, không downside. Giả thuyết (tự nhận chưa 100% chắc) cho lý do TẠI SAO: quảng cáo xuyên timezone → Meta show ads đúng optimal-time cho MỖI nước cùng lúc, thay vì chỉ peak trong active-hours của 1 timezone. Theo giờ trong ngày thật: sáng = Úc/NZ peak → vài giờ sau Nhật/Hàn → trưa = Saudi/UAE → tối = US/Canada/Mexico/LATAM. Như có ads chạy peak-hour 24/7 thay vì chỉ giờ vàng của 1 thị trường — nhiều timezone-coverage hơn = nhiều cơ hội spend-tối-ưu hơn.
+
+**Reconcile — không phải 1 đúng 1 sai, khác ĐIỀU KIỆN THẬT:**
+- jforjacob nói về **breakeven khác nhau theo nước** (product cost + shipping cost lệch theo nước-ship-tới → margin khác → CPA afford được khác) — 1 CPA target chung cho campaign worldwide luôn để tiền trên bàn ở phía nước margin cao hơn.
+- DTCMidas nói cụ thể case **fulfill từ China** — 1 kho trung tâm, shipping cost tương đối ĐỒNG ĐỀU hơn theo nước-đến (so với warehouse-theo-vùng ở jforjacob) → breakeven ít lệch hơn giữa các thị trường → lợi ích timezone-coverage lớn hơn cái giá phải trả vì không tách geo.
+- **Test thật, đừng suy diễn:** chạy công thức ChatGPT-margin-analysis đã có ở §Cấu trúc account 3 tầng ngay trên (group nước theo margin thật) TRƯỚC khi quyết định worldwide hay tách geo — margin thật sự đồng đều (đúng case China-fulfillment) → worldwide hợp lý; lệch rõ → tách geo theo jforjacob.
+
+→ MaxPro: fulfillment hiện tại không phải từ China → mặc định nghiêng jforjacob (tách geo theo breakeven khi tới lúc multi-geo) — nhưng nếu sau này có SKU sourced từ China, chạy lại phân tích margin/nước trước khi quyết định worldwide hay không.
+
+## 1 CBO cho CẢ testing lẫn scaling — an toàn nhờ min-spend adset (DTCMidas, 2 tweet)
+- **1 CBO account hiện tại — testing + scaling chung** ([[dtcmidas-one-cbo-testing-and-scaling]]): account DTCMidas hiện chỉ chạy 1 CBO. Testing: 1 adset/concept mới + set min spend cho adset đó. Scaling: tăng budget CBO 25-30%/ngày, miễn hôm trước trên target VÀ tổng 3 ngày gần nhất trên target.
+- **Bản đầy đủ hơn, cùng cấu trúc** ([[dtcmidas-one-cbo-for-testing-and-scaling]]): 1 CBO (cả test lẫn scale), dump creative mới vào (1 adset/concept, 3-5 ads/adset), min spend ở adset level, scale khi campaign performance trên target. Kill: high-spender khi campaign dưới target; mid/low-spender có performance tệ bất kể campaign ra sao.
+
+> [!warning] Đây chính là setup jforjacob cảnh báo ở §Meta không đáng tin 100%... ([[jforjacob-why-1-cbo-setup-sends-winners-to-graveyard]]) — nhưng có safeguard
+> jforjacob gọi "1 CBO duy nhất, ném ad mới vào chung campaign đang scale" là lỗi cơ bản — ad mới cạnh tranh thẳng với ad đã có hàng trăm nghìn $ spend, không được spend, chết trong graveyard. DTCMidas literally chạy đúng setup đó (1 CBO cho cả test+scale) — nhưng có 1 cơ chế bảo vệ jforjacob cũng ủng hộ ở nơi khác: **minimum spend riêng cho MỖI adset mới** ([[jforjacob-six-identical-ads-meta-spend-bias]] — cùng jforjacob ủng hộ min-spend trên adset trong CBO để creative không "mất tích" vì signal xấu vài impression đầu). Đọc đúng: không phải 2 quan điểm đối lập tuyệt đối — DTCMidas dùng min-spend làm safeguard TỐI THIỂU trong 1 CBO chung; jforjacob dùng safeguard TỐI ĐA (campaign testing tách hẳn khỏi scaling, xem §Cấu trúc account 3 tầng ở trên). Cả 2 cùng đồng ý: KHÔNG được thả ad mới vào CBO scale mà không có min-spend bảo vệ — khác nhau ở MỨC ĐỘ tách biệt cần thiết.
+> **Hành động thực tế:** account nhỏ/ít concept → 1 CBO + min-spend đủ (DTCMidas). Account nhiều concept/geo, cần audit-trail rõ testing vs scaling → 3-tầng đầy đủ (jforjacob). Không có setup "đúng tuyệt đối" — tie thẳng §Test tính năng mới Meta ở đầu trang.
+
+**Số cụ thể cho min-spend** ([[dtcmidas-min-spend-vs-cbo-budget]]): DTCMidas luôn giữ **tổng min-spend ≤ 50% budget CBO**. VD: CBO $300, 3 adset min $50 (=$150, đúng 50%) → thêm adset mới ($50 min) thì tăng CBO lên $400 trước (giữ tỷ lệ), không nhét thẳng vào $300 cũ. → Xác nhận CHÉO với công thức jforjacob ở §Cấu trúc account 3 tầng ở trên (*"Tổng min-spend mọi ad set testing KHÔNG vượt 50% budget campaign"*) — 2 nguồn độc lập, cùng con số 50%. Đủ tin cậy để dùng làm rule cứng, không phải rule tuỳ ý của 1 người.
+
+→ MaxPro: khi mở CBO test concept mới, check tổng min-spend hiện tại có đang > 50% budget CBO không trước khi thêm adset — nếu có, tăng CBO trước, đừng nhồi thêm vào ngân sách cũ.
+
+## Zombie campaign — cost-cap thấp, nhặt lại creative suýt lọt scaling ([[dtcmidas-zombie-campaign-with-a-cost-cap]])
+Tactic phụ: dựng 1 campaign budget thấp, đặt cost cap, để nó tự chạy ("let it rip"). Campaign này thường spend hiệu quả vào vài ad SUÝT làm được vào scaling campaign nhưng không đạt ngưỡng. DTCMidas: không tự dùng tactic này (đang force spend vào mọi creative theo cách khác — xem §1 CBO ở trên), nhưng xác nhận nhiều bạn bè media buyer khác dùng và work.
+
+Khác biệt với §Graveyard campaign ở §Cấu trúc account 3 tầng (jforjacob): graveyard = bãi chứa loser + winner cũ hết spend, không có cost cap riêng để "cứu" ad nào. Zombie campaign là biến thể chủ động hơn — cost cap thấp CHỦ ĐỘNG nhặt lại near-miss thay vì bỏ mặc trong graveyard chờ.
+
+→ MaxPro: chưa đủ volume creative để cần tactic này ngay (đang <10 concept/tuần) — ghi nhận làm option khi có graveyard đủ lớn (nhiều near-miss ad chưa từng scale).
 
 ## ASC full-funnel + flexible ads = consolidate winner, KHÔNG PHẢI để test (jforjacob, 5 tweet) ⭐
 - **Meta nội bộ: all-in ASC + AI, creative diversity là chìa khoá** ([[jforjacob-meta-all-in-asc-creative-diversity]]): 2 ngày ở Meta (event partnership + strategy meeting với account manager/director Âu) — Meta không còn phân bổ resource cho manual sales campaign, dồn hết vào Advantage+ Shopping + AI. Chìa khoá lấy hết giá trị từ ASC: creative diversity THẬT — không chỉ video vs ảnh, mà format khác hẳn nhau (carousel, DPA…) + message/awareness-stage đa dạng. jforjacob nghi ngờ người kêu "ASC không work" thực ra chưa có thư viện đủ đa dạng.

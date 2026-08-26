@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06, dtcmidas-ugly-ads-research-not-design]
-updated: 2026-07-20
+sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06, dtcmidas-ugly-ads-research-not-design, dtcmidas-13-beat-direct-response-ad-structure]
+updated: 2026-08-26
 ---
 
 # Long-form "ugly native" advertorial method
@@ -58,6 +58,13 @@ Raw/blunt như post cá nhân unhinged, KHÔNG bài báo. Contractions mặc đ�
 13. Transformation **STAGED** (day 6 / week 3 / 3rd-party confirm), không instant
 14. CTA rescue + warning, deny-the-sale → [[offer-and-cta]]
 15. P.S./P.P.S. stack (recap mechanism+urgency+villain, lặp link)
+
+> [!warning] DTCMidas 13-beat DR structure — thứ tự KHÁC, đặc biệt vị trí risk-reversal ([[dtcmidas-13-beat-direct-response-ad-structure]])
+> DTCMidas liệt kê 1 khung 13-beat "chạy đúng thứ tự" cho ad DR: Contrarian hook → Call out skepticism → Problem intro → Agitate pain point → **Risk reversal** → Moment of doubt → Desired outcome → Product demo → Unique mechanism → Justify value → Future pace benefits → Offer stack → CTA.
+>
+> **Không thay thế 15-beat trên** — khác tầm vóc: 13-beat này gọn hơn, hợp ad ngắn/primary-text/VSL cô đọng (gần cỡ 18-element VSL ở [[copywriting]] hơn là advertorial 1,500-5,000 từ ở đây). Nhưng có 1 điểm THẬT SỰ khác biệt, không chỉ khác độ dài: **risk reversal xuất hiện SỚM (beat 5, TRƯỚC khi resolve doubt/demo/mechanism)** — trong khi ở 15-beat trên, risk-reversal tương đương nằm ở **CTA rescue (beat 14, GẦN CUỐI)**, sau khi toàn bộ proof/mechanism/objection đã xử xong. 2 triết lý khác nhau về TIMING risk-reversal: DTCMidas đặt sớm để hạ phòng thủ trước khi agitate/doubt tiếp; 15-beat + 18-element VSL đặt muộn, làm "phần thưởng" sau khi đã thuyết phục xong bằng proof.
+>
+> ⚠️ Cùng 1 tác giả (DTCMidas) cho ra 2 vị trí risk-reversal khác nhau ở 2 nguồn khác nhau (13-beat generic vs 18-element VSL cụ thể ở [[copywriting]]) — có thể do 13-beat là khung tổng quát/lý-thuyết, còn 18-element là case cụ thể đã audit 1 ad thật đang chạy. Đọc: **risk-reversal sớm hợp ad ngắn/pain-agitate mạnh** (giảm phòng thủ trước khi đẩy đau tiếp); **risk-reversal muộn hợp long-form/VSL** (risk-reversal là phần thưởng sau khi đã build đủ belief). MaxPro: giữ risk-reversal ở CTA (beat 14, register hiện tại) cho advertorial dài; test risk-reversal SỚM (ngay sau agitate) cho ad primary-text ngắn/§8-beat cousin nếu muốn thử biến thể.
 
 ## QA checklist — primary text (chạy TRƯỚC khi ship, mọi sản phẩm)
 Build từ best-practice trên (15-beat + voice register + [[hooks]] + [[villains]] + [[market-awareness]] + [[compliance]] + [[offer-and-cta]]). Mỗi advertorial phải pass.

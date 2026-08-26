@@ -1,5 +1,5 @@
 ---
-sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research]
+sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research, dtcmidas-requirements-for-a-brilliant-ecom-product, dtcmidas-validate-demand-before-ordering-inventory]
 updated: 2026-08-26
 ---
 
@@ -14,6 +14,33 @@ Trang này gom tiêu chí chọn sản phẩm trước khi đầu tư build bran
 2. **≥70% contribution margin trên CM1** — gross margin sau COGS và variable cost trực tiếp, trước marketing. Dưới 70% = không đủ room để chạy paid ads + agency + operations mà vẫn có lãi. Rule of thumb: product $40 bán phải có COGS ≤$12.
 
 3. **Selling price dưới $100** (khi mới bắt đầu) — impulse purchase threshold. Trên $100 = cần thêm trust, thêm social proof, thêm touchpoint trước mua → CAC cao hơn, harder to scale cold traffic cold. Khi brand đã có traction + list → có thể raise price.
+
+## 5 yêu cầu cho 1 sản phẩm ecom "brilliant" — mở rộng 3 tiêu chí ở trên ([[dtcmidas-requirements-for-a-brilliant-ecom-product]])
+
+DTCMidas (tweet khác, cùng tác giả): 1 sản phẩm ecom xuất sắc cần đạt cả 5:
+1. **Giải quyết vấn đề thật**
+2. **Consumable hoặc expandable** — khách cần reorder định kỳ, hoặc mở được product line xung quanh nó
+3. **TAM lớn** — thị trường đủ rộng, không phải niche nhỏ
+4. **Dễ và rẻ ship** — nhỏ, nhẹ, không ăn margin bằng chi phí vận chuyển
+5. **70%+ margin** — dưới ngưỡng này scale ads có lãi rất khó
+
+**Tiêu chí #5 trùng chính xác ngưỡng ≥70% CM1 ở trên** — cùng tác giả, cùng con số, củng cố thêm lần nữa thay vì mâu thuẫn. 4 tiêu chí còn lại (giải quyết vấn đề thật, consumable/expandable, TAM lớn, dễ/rẻ ship) là bộ lọc MỚI chưa có ở 3 tiêu chí gốc — dùng cả 2 tweet cùng lúc cho đầy đủ hơn khi đánh giá 1 ý tưởng sản phẩm.
+
+> [!note] Áp cho MaxPro
+> Maxpro Grinder: giải quyết vấn đề thật (grooming/nail an toàn tại nhà) ✓, consumable/expandable (phụ kiện/refill/product line grooming khác) ✓ tiềm năng, dễ/rẻ ship (nhỏ gọn) ✓. TAM cần đánh giá kỹ hơn — pet grooming niche vs tổng pet-owner market. 4/5 tiêu chí có vẻ khớp, TAM là điểm nên verify.
+
+## Validate demand trước khi đặt hàng inventory — pre-sell test $2-5K ([[dtcmidas-validate-demand-before-ordering-inventory]])
+
+DTCMidas: cách giảm rủi ro khi launch brand mới, tránh order 1000 units thứ không ai mua:
+1. **Renders chất lượng** (~$500) — đủ chuyên nghiệp để dùng trong ads và landing page
+2. **Funnel đơn giản** — landing page cơ bản (thẳng tới product page hoặc pre-sell + product page) + checkout page trên Shopify
+3. **Chạy $2-5K ads test** — static ads dùng renders + VSL dựng từ stock footage/ripped content
+4. **Email mọi người đã mua** — apology email giải thích tình huống, cho 2 lựa chọn: hoàn tiền ngay hoặc xếp hàng đầu khi sản phẩm launch thật
+
+→ Validate demand thật (có người thật trả tiền) TRƯỚC KHI commit inventory — không cần hàng thật trong tay để test.
+
+> [!note] Áp cho MaxPro
+> Playbook này hợp nhất cho line-extension hoặc sản phẩm mới trong pet grooming (vd phụ kiện/refill mở rộng từ Maxpro) — test bằng renders + ads nhỏ trước khi đặt PO lớn, thay vì tin vào research/gut feel một mình.
 
 ## 2 phương pháp research sản phẩm bị bỏ quên — để người khác lọc hộ (jforjacob, 2 tweet)
 

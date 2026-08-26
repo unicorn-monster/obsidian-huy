@@ -20,6 +20,7 @@ mau master-prompt tai dung duoc cau truc chung moi agent	wiki/method/business/ai
 chi phi claim minh hoa pitch ban hang khong phai case-study da kiem chung doc lap	wiki/method/business/ai-agent-automation-stack.md
 loi thuong gap tac gia tu neu	wiki/method/business/ai-agent-automation-stack.md
 trinh tu rollout goi y	wiki/method/business/ai-agent-automation-stack.md
+claude opus projects skills van an dut moi setup khac cho copywriting dtcmidas-claude-setup-for-ad-copy	wiki/method/business/ai-agent-automation-stack.md
 lean team 5-10m mo vs big team thua ve profit maxwellcopy-lean-team-funnel	wiki/method/business/growth-ops.md
 the sauce khong doi checklist 6 diem loc noise bang no jforjacob-sauce-is-still-the-same	wiki/method/business/growth-ops.md
 bo revenue projection o scale lon target khong doi hanh vi jforjacob-skip-revenue-projections	wiki/method/business/growth-ops.md
@@ -33,11 +34,24 @@ checklist bai hoc nguoc truc giac loc noise khoi cai da lap lai nhieu lan jforja
 branding khong quan trong luc moi start fundamentals thang packaging dep jforjacob-branding-is-not-that-important	wiki/method/business/growth-ops.md
 margin cao hap thu ngay xau buffer chong bien dong jforjacob-high-margins-absorb-bad-days	wiki/method/business/growth-ops.md
 managers so huu toan bo team duoi ho giam complexity van hanh jforjacob-managers-own-their-teams	wiki/method/business/growth-ops.md
+flywheel vs fuel 2 loai hire tuyen fuel truoc flywheel sau dtcmidas-flywheel-vs-fuel-hiring-playbook	wiki/method/business/growth-ops.md
+team dang sau 1m thang 0 agency lon vi du cu the dtcmidas-team-structure-behind-1m-month-brand	wiki/method/business/growth-ops.md
+tim video editor cho ads recruit nhu acquire customer dtcmidas-where-do-you-find-good-video-editors-for-ads	wiki/method/business/growth-ops.md
+brand manager vi tri overrated nhat trong team dtc bo toi 50m dtcmidas-skip-the-brand-manager-until-50m	wiki/method/business/growth-ops.md
+q4 bfcm prep checklist bat dau ngay khong doi thang 11 dtcmidas-q4-and-bfcm-prep-checklist	wiki/method/business/growth-ops.md
 q4 tao false confidence can than hire dau tu lon dua theo so q4 jforjacob-q4-false-confidence-overhiring	wiki/method/business/growth-ops.md
 customer service incentive nao cung bi game va rui ro khi gan affiliate link jforjacob-customer-service-kpi-incentives …	wiki/method/business/growth-ops.md
 platform support stonewall cc lawyer vao email escalation jforjacob-cc-lawyer-support-escalation	wiki/method/business/growth-ops.md
 sorority seeding seed vao dinh cau truc xa hoi khong seed influencer le jforjacob-sorority-seeding-strategy	wiki/method/business/growth-ops.md
+xay bm ad account rieng thay vi thue hoa von o scale lon dtcmidas-build-your-own-business-manager-and-ad-accounts	wiki/method/business/growth-ops.md
+chargeback product not received rui ro gia mao du giao dung ky nhan day du dtcmidas-protecting-your-store-from-chargeba…	wiki/method/business/growth-ops.md
+5 lever de 4x brand da 8 chu so dtcmidas-what-levers-4x-an-eight-figure-brand	wiki/method/business/growth-ops.md
+break-even scaling khi co tin hieu retention som dtcmidas-break-even-scaling-on-retention-signal	wiki/method/business/growth-ops.md
+marketplace amazon walmart bat buoc khi ad spend du cao capture demand da tra tien dtcmidas-why-should-you-list-on-amaz…	wiki/method/business/growth-ops.md
+mo rong quoc te khong can localize ngay dau nhung optimize dung trinh tu dtcmidas-do-you-need-localization-to-expand-in…	wiki/method/business/growth-ops.md
 3 tieu chi cot loi dtcmidas dtcmidas-product-selection-criteria	wiki/method/business/product-selection.md
+5 yeu cau cho 1 san pham ecom brilliant mo rong 3 tieu chi o tren dtcmidas-requirements-for-a-brilliant-ecom-product	wiki/method/business/product-selection.md
+validate demand truoc khi dat hang inventory pre-sell test 2-5k dtcmidas-validate-demand-before-ordering-inventory	wiki/method/business/product-selection.md
 2 phuong phap research san pham bi bo quen de nguoi khac loc ho jforjacob 2 tweet	wiki/method/business/product-selection.md
 aov cao kho traction ban dau nhat nhung khi crack duoc thi scale xa nhat jforjacob-high-aov-harder-to-crack-better-to-s…	wiki/method/business/product-selection.md
 75 aov minimum 2025 la guru fiction 40 aov van 620k thang 30 margin jforjacob-40-dollar-aov-620k-month-myth	wiki/method/business/product-selection.md
@@ -46,10 +60,13 @@ lien ket	wiki/method/business/product-selection.md
 test song sot cost-to-value ratio phai ridiculous jforjacob-which-saas-survives-ai-vibe-coding	wiki/method/business/saas-tool-evaluation.md
 moat moi cho saas dung ai de tang value density khong phai chan copy jforjacob-saas-moat-against-vibe-coding	wiki/method/business/saas-tool-evaluation.md
 danh sach saas cu the jforjacob dang da dung pass test cost-to-value o tren jforjacob-saas-actually-worth-the-money	wiki/method/business/saas-tool-evaluation.md
+kpi tracker daily bang google sheets thang saas vi tool rigid dtcmidas-why-track-kpis-in-google-sheets-over-saas-tools	wiki/method/business/saas-tool-evaluation.md
 lien ket	wiki/method/business/saas-tool-evaluation.md
 validate demand competition product flaws truoc khi cham vao inventory jforjacob-product-validation-pipeline-before-sto…	wiki/method/business/sourcing-and-fulfillment.md
+vet manufacturer tren alibaba test chat luong san pham that dtcmidas-vet-manufacturers-and-test-product-quality	wiki/method/business/sourcing-and-fulfillment.md
 van hanh 3pl trung quoc toc do that bay phi can tranh jforjacob-what-shipping-from-china-can-look-like jforjacob-chines…	wiki/method/business/sourcing-and-fulfillment.md
 lien ket	wiki/method/business/sourcing-and-fulfillment.md
+tra email agency flat retainer khong phai attributed revenue dtcmidas-how-should-you-pay-an-email-agency	wiki/method/marketing/agency-ops.md
 red-flags 21 diem bo loc nguoc khi nghe pitch maxwellcopy-agency-red-flags-list	wiki/method/marketing/agency-ops.md
 communication cadence good trong nhu the nao maxwellcopy-agency-client-comms-cadence	wiki/method/marketing/agency-ops.md
 pod structure cach scale agency giu service quality maxwellcopy-agency-pod-structure	wiki/method/marketing/agency-ops.md
@@ -82,6 +99,10 @@ chatgpt image-gen 3 prompt hack jforjacob	wiki/method/marketing/ai-video-product
 video ad workflow google flow only dung mua course phuc tap jforjacob	wiki/method/marketing/ai-video-production.md
 ai ugc vs real ugc misconception ve toc do canh bao bubble jforjacob	wiki/method/marketing/ai-video-production.md
 icon khong song noi voi hype tranh jforjacob-does-icon-live-up-to-hype	wiki/method/marketing/ai-video-production.md
+ai animation ads dang la top spender thang ca video san xuat cong phu dtcmidas-are-ai-animation-ads-worth-testing	wiki/method/marketing/ai-video-production.md
+obvious ai slop thang ca ai ugc giong-that va veo3 nen pho ai ra dung giau dtcmidas 2 tweet	wiki/method/marketing/ai-video-production.md
+dtcmidas ai stack evolution tu 3-tool gop viec toi pipeline 5-tool chuyen biet-hoa theo buoc dtcmidas-ai-model-stack-fo…	wiki/method/marketing/ai-video-production.md
+avatar vs angle vs messaging 3 tang khac nhau dung lan dtcmidas 3 tweet	wiki/method/marketing/angles.md
 matrix grinder angle x avatar x persona	wiki/method/marketing/angles.md
 overgrown-nail comfort senior-mobility reconciled 20 06	wiki/method/marketing/angles.md
 kittysupps angle catalog 14 tham khao cross-product	wiki/method/marketing/angles.md
@@ -145,8 +166,10 @@ nguoi ta chi mua benefit khong mua feature blanket statement gay truoc thuc te j
 16 hoc format o dau hoc subject-matter o dau tach 2 nguon jforjacob-tiktok-formats-schwartz-ogilvy-subject	wiki/method/marketing/copywriting.md
 17 copy qa micro-checks bat loi o muc cau chu truoc khi ship	wiki/method/marketing/copywriting.md
 8 rule dr static alex gc	wiki/method/marketing/creative-brief.md
+swipe file 21 brand dtcmidas dang steal creative y tuong dtcmidas-ecom-brands-to-steal-creative-ideas-from	wiki/method/marketing/creative-brief.md
 4 category static thang rule 2	wiki/method/marketing/creative-brief.md
 creative type funnel stage match format to stage dtcmidas-creative-per-funnel-stage	wiki/method/marketing/creative-brief.md
+creative toan bo ad khong chi video anh va moi manh phai khop nhau dtcmidas 2 tweet	wiki/method/marketing/creative-brief.md
 prime directive	wiki/method/marketing/creative-brief.md
 7 format xoay	wiki/method/marketing/creative-brief.md
 seed prompt mau	wiki/method/marketing/creative-brief.md
@@ -163,6 +186,8 @@ video creative ai contact-sheet	wiki/method/marketing/creative-brief.md
 follow-up ads tra loi cau hoi ma chinh ad dang thang tao ra jforjacob-make-ads-that-answer-your-top-ads-questions	wiki/method/marketing/creative-brief.md
 educational vsl skeleton cold lachezarvoynov-educational-vsl-anatomy	wiki/method/marketing/creative-brief.md
 dr creative mindset think like a marketer not just an editor jforjacob-video-editor-dtc-dr	wiki/method/marketing/creative-brief.md
+good vs bad creative strategist own the final product khong chi script dtcmidas-what-separates-good-and-bad-creative-st…	wiki/method/marketing/creative-brief.md
+tuyen creative strategist o dau va job that su la gi dtcmidas 3 tweet	wiki/method/marketing/creative-brief.md
 bootstrapped brands out-creative khong out-budget jforjacob-bootstrapped-creatives-compete	wiki/method/marketing/creative-brief.md
 visual proof scientific claim 1 demo khong chart viasox-turned-socks-into-a-pain-relief-empire	wiki/method/marketing/creative-brief.md
 creator match audience tuoi relatable authoritative viasox-turned-socks-into-a-pain-relief-empire	wiki/method/marketing/creative-brief.md
@@ -185,7 +210,12 @@ staging curiosity thang scripting comments 1 phan funnel jforjacob 3 tweet	wiki/
 statics von restorff prompt email static lander volume mix framing test plain-minimalist winner jforjacob 7 tweet	wiki/method/marketing/creative-brief.md
 3 layer cua 1 static hold 2 vary 1	wiki/method/marketing/creative-testing.md
 test theo round thu tu theo leverage	wiki/method/marketing/creative-testing.md
+test hypothesis concept khong phai creative nao an spend dtcmidas 2 tweet	wiki/method/marketing/creative-testing.md
+winning static tach rieng image vs copy de biet cai nao dang carry dtcmidas-is-the-image-or-the-copy-driving-your-winni…	wiki/method/marketing/creative-testing.md
+weekly creative review dissect winners va losers co he thong dtcmidas 2 tweet	wiki/method/marketing/creative-testing.md
+tactical tang toc video ad 15-30 dtcmidas-should-you-speed-up-your-video-ads	wiki/method/marketing/creative-testing.md
 budget split 70-80 iterate 20-30 swing moi	wiki/method/marketing/creative-testing.md
+iterate the shit out of it levers cu the never-kill rule dtcmidas 4 tweet	wiki/method/marketing/creative-testing.md
 naming tracker noi pattern hien ra	wiki/method/marketing/creative-testing.md
 doc signal 2 metric 2 failure	wiki/method/marketing/creative-testing.md
 hard constraint ly do isolate ko flood	wiki/method/marketing/creative-testing.md
@@ -256,6 +286,8 @@ pop-up list growth tier list s a b c ranked maxwellcopy-email-list-tier-list	wik
 pop-up form bad vs good framework 4 diem maxwellcopy-popup-form-good-bad	wiki/method/marketing/email-marketing.md
 golden ticket email lucky winner framing maxwellcopy-golden-ticket-email	wiki/method/marketing/email-marketing.md
 plain text maxxing bfcm don gian thang khi inbox bi flood maxwellcopy-plain-text-bfcm-email	wiki/method/marketing/email-marketing.md
+bfcm email calendar 6 loai campaign xen ke tan suat 3x tuan ramp cuoi tuan dtcmidas-which-email-campaigns-squeeze-the-m…	wiki/method/marketing/email-marketing.md
+post-purchase flow khong co so email ly tuong chi co dung email tai dung luc dtcmidas-post-purchase-email-flow-essentia…	wiki/method/marketing/email-marketing.md
 tai sao pdp giet cold conversion too many distractions advertising-jan-funnel-advertorial-presell-checkout	wiki/method/marketing/funnel-and-landing.md
 nguyen tac ad ban pdp chi chot	wiki/method/marketing/funnel-and-landing.md
 5-stage funnel skeleton jan	wiki/method/marketing/funnel-and-landing.md
@@ -269,10 +301,13 @@ build page nhanh clone template thang	wiki/method/marketing/funnel-and-landing.m
 trust recession vi sao cvr rot toan thi truong legitimacy stack 5 diem ecomamin-trust-recession-legitimacy-stack	wiki/method/marketing/funnel-and-landing.md
 pre-sell layer ho hang trang warmup cho cold traffic	wiki/method/marketing/funnel-and-landing.md
 listicle pre-sell 7 reasons cau truc carl	wiki/method/marketing/funnel-and-landing.md
+lp skeleton dang thang hien tai 834 tu hero cta dtcmidas dtcmidas-winning-landing-page-structure	wiki/method/marketing/funnel-and-landing.md
 pdp anatomy 3 trang that above-the-fold vision-read ecomamin-6-google-ads-funnel-types-full-guide swipe	wiki/method/marketing/funnel-and-landing.md
+pdp skeleton day du 13-section cong thuc title 2-description dtcmidas dtcmidas-how-to-structure-a-high-converting-produ…	wiki/method/marketing/funnel-and-landing.md
 moi trang funnel 1 audience remarketing 1 lop proof khac nhau ecomamin-6-google-ads-funnel-types-full-guide ecomamin-48…	wiki/method/marketing/funnel-and-landing.md
 cold traffic funnel ranking trust transfer principle ecom amin-google-ads-funnel-tiers	wiki/method/marketing/funnel-and-landing.md
 cvr den tu thu ban khong lam mom-test truoc khi them gi moi jforjacob-cvr-comes-from-what-you-remove	wiki/method/marketing/funnel-and-landing.md
+friction co ich them buoc lam tang conversion khac tang voi bot lua chon dtcmidas-does-removing-friction-actually-impro…	wiki/method/marketing/funnel-and-landing.md
 checkout bot lua chon khong them 3 tactic cu the jforjacob 4 tweet	wiki/method/marketing/funnel-and-landing.md
 banner value props thang offer-only 18 profit visitor jforjacob-banner-value-props-profit-lift	wiki/method/marketing/funnel-and-landing.md
 value equation cong thuc mac dinh khi phan van pdp viet gi jforjacob-value-equation-pdp	wiki/method/marketing/funnel-and-landing.md
@@ -282,6 +317,9 @@ return window dai hon cvr rpv tang 20 chua ai return sau 30 ngay jforjacob-60-da
 case thuc te toc do build thang hoan hao jforjacob 2 tweet	wiki/method/marketing/funnel-and-landing.md
 staged rollout giam rui ro an l truoc khi tin page moi jforjacob-landing-page-testing-without-big-l	wiki/method/marketing/funnel-and-landing.md
 build site re basic shopify theme section store dung tra tien dev dat jforjacob 3 tweet	wiki/method/marketing/funnel-and-landing.md
+judge trang funnel bang revenue-per-session khong phai cvr nhung dung optimize rps don le dtcmidas 2 tweet cach nhau 8 …	wiki/method/marketing/funnel-and-landing.md
+post-purchase survey cau hoi cu the de mine ngon ngu khach that dtcmidas-what-should-you-ask-in-post-purchase-surveys	wiki/method/marketing/funnel-and-landing.md
+ngung chi show review tu site minh third-party screenshot raw thang polished vi kho fake dtcmidas-third-party-review-sc…	wiki/method/marketing/funnel-and-landing.md
 day-0 starter system 2 campaign khong phai 47 loai ecom amin ebook actionable	wiki/method/marketing/google-ads.md
 google bao hiem chong meta-ban cong thuc phan bo theo doanh thu ecom amin	wiki/method/marketing/google-ads.md
 khac meta google thuong san pham tot	wiki/method/marketing/google-ads.md
@@ -310,6 +348,7 @@ landing page creative cua google 3 cap test	wiki/method/marketing/google-ads.md
 campaign-count theo budget prospecting hygiene blvckledge-demand-gen-image-ads-playbook actionable	wiki/method/marketing/google-ads.md
 9 funnel-type search-intent 1 funnel du	wiki/method/marketing/google-ads.md
 seasonal promotions bfcm xmas 10x windows	wiki/method/marketing/google-ads.md
+bo sung dtcmidas singles day dong khung chinh xac hon 2 moc da co dtcmidas-sales-moments-after-black-friday	wiki/method/marketing/google-ads.md
 full-funnel advertorial system 155k 242k 30 ngay ecom amin 2026	wiki/method/marketing/google-ads.md
 7 sai lam pho bien nhat 100 audit ecomamin-7-google-ads-mistakes checklist	wiki/method/marketing/google-ads.md
 16 revenue streams coverage audit cho 1 san pham blvckledge	wiki/method/marketing/google-ads.md
@@ -402,6 +441,7 @@ awareness solution aware product aware	wiki/method/marketing/market-awareness.md
 sophistication level 3-4	wiki/method/marketing/market-awareness.md
 sophistication belief shift angle ladder	wiki/method/marketing/market-awareness.md
 awareness-stage operating playbook track spend iterate stage dung coi la thang tuyen tinh jforjacob 5 tweet	wiki/method/marketing/market-awareness.md
+creative diversity ladder persona angle awareness format chay thuc te dtcmidas 2 tweet	wiki/method/marketing/market-awareness.md
 ump ums cot loi de tin	wiki/method/marketing/market-awareness.md
 unaware pool bien gioi scale duy nhat con lai study-unaware-ads-nicktheriot	wiki/method/marketing/market-awareness.md
 third-party awards certifications as trust differentiator dtcmidas-awards-certifications	wiki/method/marketing/market-awareness.md
@@ -412,10 +452,13 @@ native cold traffic nguoc l1-2	wiki/method/marketing/market-awareness.md
 pre-sell format theo awareness	wiki/method/marketing/market-awareness.md
 market saturated di bottom-of-funnel dung educate them jforjacob-bottom-of-funnel-in-saturated-markets	wiki/method/marketing/market-awareness.md
 account structure dao best practice cu	wiki/method/marketing/media-buying.md
+test tinh nang moi meta thuong xuyen khong co best setup chung dtcmidas-should-you-test-new-meta-features	wiki/method/marketing/media-buying.md
+account structure khong phai ly do campaign khong work dtcmidas 2 tweet	wiki/method/marketing/media-buying.md
 volume flood ads meta tu loc	wiki/method/marketing/media-buying.md
 digital darwinism ai volume bang dau moi 0xroas 3 confirm	wiki/method/marketing/media-buying.md
 quality-mastery truoc volume counter-signal truc tiep cho flood ads o tren jforjacob 5 tweet	wiki/method/marketing/media-buying.md
 format dang an spend 2026 ai cho phep moi format	wiki/method/marketing/media-buying.md
+vi sao viral format work cho paid ads audience da bi pre-condition dtcmidas-why-do-viral-formats-work-so-well-for-paid-…	wiki/method/marketing/media-buying.md
 test budget	wiki/method/marketing/media-buying.md
 custom metric trong ads manager khong chan doan duoc funnel chi tu cpa jforjacob-custom-metrics-ads-manager	wiki/method/marketing/media-buying.md
 decision matrix ngay 1 sau khi tieu het 1 ngay budget	wiki/method/marketing/media-buying.md
@@ -425,6 +468,7 @@ spy persona-gap chon cai de clone alexgoughcooper-static-ads-8-rules	wiki/method
 low-budget regime doi trong flood o tren low-budget-creative-testing-playbook	wiki/method/marketing/media-buying.md
 bid cap ko spend tren account moi low-budget-creative-testing-playbook	wiki/method/marketing/media-buying.md
 algorithm trust decay manual intervention signal 2026 jforjacob-meta-manual-beats-algorithm	wiki/method/marketing/media-buying.md
+surf scaling chay tren spreadsheet intraday khong phai ads manager dtcmidas-how-do-you-track-performance-while-surf-sca…	wiki/method/marketing/media-buying.md
 split test trap cpm shift an het cvr win	wiki/method/marketing/media-buying.md
 bootstrapped brand creative edge phai thang bang craft jforjacob-bootstrapped-creatives-landing-pages canva 7-fig valid…	wiki/method/marketing/media-buying.md
 don t model funded brands wrong unit economics dtcmidas-dont-copy-funded-brands	wiki/method/marketing/media-buying.md
@@ -439,20 +483,33 @@ native kenh song song khong phai meta	wiki/method/marketing/media-buying.md
 meta algo sequences toan category full funnel phai live moi luc dtcmidas-meta-full-funnel-sequencing	wiki/method/marketing/media-buying.md
 trust collapse route-around strategy ecomamin-trust-collapse-route-around	wiki/method/marketing/media-buying.md
 cbo structure 1 per product per geo dtcmidas-cbo-per-product-geo-structure	wiki/method/marketing/media-buying.md
+split campaign theo category margin run toi collection page dtcmidas-structure-campaigns-around-collection-pages	wiki/method/marketing/media-buying.md
+gate mo kenh moi khac nhau theo loai kenh khong phai 1 con so chung dtcmidas 2 tweet	wiki/method/marketing/media-buying.md
 kill keep criteria upper funnel kpis topspender exception dtcmidas-ad-kill-criteria-upper-funnel	wiki/method/marketing/media-buying.md
+4 quadrant cac volume 1 verdict 1 action cho moi o dtcmidas-four-quadrants-of-media-buying-decisions	wiki/method/marketing/media-buying.md
+broad targeting exclude past purchasers why how day du dtcmidas 3 tweet	wiki/method/marketing/media-buying.md
 nc kpi dashboard 7 so cot loi dtc dtcmidas-kpi-list-nc-metrics	wiki/method/marketing/media-buying.md
+13-column ads manager setup daily view thuc te dtcmidas dtcmidas-meta-kpi-columns	wiki/method/marketing/media-buying.md
+naming convention cho ads bat buoc truoc khi launch scale dtcmidas-why-do-ad-naming-conventions-matter	wiki/method/marketing/media-buying.md
 100k day scaling fundamentals proven gap la budget boldness jforjacob-100k-day-budget-boldness	wiki/method/marketing/media-buying.md
 needle-movers vs noise focus checklist jforjacob-needle-movers-vs-noise	wiki/method/marketing/media-buying.md
 scaling seasons biet khi nao khong scale dtcmidas-scaling-seasons	wiki/method/marketing/media-buying.md
+dung giu spend khi hieu suat thap xa target du ltv co the recoup dtcmidas-should-you-keep-spending-below-target-efficie…	wiki/method/marketing/media-buying.md
 channel-product fit intent google impulse meta ecomamin-meta-vs-google-intent-product	wiki/method/marketing/media-buying.md
+set target cac roas tu unit economics khong phai so roas tuy y dtcmidas-how-do-you-set-roas-targets-from-unit-economics	wiki/method/marketing/media-buying.md
+mat tien first-order nhieu hon tuong bay cash flow khi scale kieu outspend dtcmidas-the-cash-flow-math-of-first-order-l…	wiki/method/marketing/media-buying.md
 target roas qua cao dang gia lam creative problem jforjacob-target-roas-business-model	wiki/method/marketing/media-buying.md
 doi cau hoi dung hoi cach cat cac hoi cach afford cac gap doi jforjacob-afford-to-double-your-cac jforjacob-high-ncroas…	wiki/method/marketing/media-buying.md
 bully copycat ra khoi auction bang volume khong bang dmca jforjacob-outspend-copycats-bully-auctions	wiki/method/marketing/media-buying.md
 du doan ai san bang creative edge chuyen sang cho khac jforjacob-when-ai-levels-creative-where-is-your-edge	wiki/method/marketing/media-buying.md
 launch recipe budget math 10 creative 4x cpa 3 ngay jforjacob 4 tweet	wiki/method/marketing/media-buying.md
+case study launch 250 2 500 ngay trong 10 ngay 1 cbo dtcmidas-launch-structure-250-to-2500-a-day	wiki/method/marketing/media-buying.md
 meta khong dang tin 100 khi chon winner som 2 bang chung them cho algorithm trust decay jforjacob	wiki/method/marketing/media-buying.md
 chi phi san xuat creative khong nam trong roas nhung nam trong p l jforjacob-creative-production-costs-not-in-roas	wiki/method/marketing/media-buying.md
 cau truc account day du 3 tang testing cbo scaling asc theo geo graveyard jforjacob 2 tweet	wiki/method/marketing/media-buying.md
+worldwide campaign dung neu fulfill tu trung quoc sai neu breakeven lech theo nuoc 2 nguon doi lap dtcmidas-why-do-worl…	wiki/method/marketing/media-buying.md
+1 cbo cho ca testing lan scaling an toan nho min-spend adset dtcmidas 2 tweet	wiki/method/marketing/media-buying.md
+zombie campaign cost-cap thap nhat lai creative suyt lot scaling dtcmidas-zombie-campaign-with-a-cost-cap	wiki/method/marketing/media-buying.md
 asc full-funnel flexible ads consolidate winner khong phai de test jforjacob 5 tweet	wiki/method/marketing/media-buying.md
 new visitor chi la ti le spend khong phai campaign type jforjacob-new-visitor-percentage-spend-ratio	wiki/method/marketing/media-buying.md
 troas miss target 50 highest-value khong cost-control lai work tot jforjacob-troas-vs-highest-value-bidding	wiki/method/marketing/media-buying.md
@@ -524,6 +581,9 @@ price-anchor playbook kittysupps	wiki/method/marketing/offer-and-cta.md
 anchor guarantee close native teardowns	wiki/method/marketing/offer-and-cta.md
 self-verification cta let the numbers prove it swipe	wiki/method/marketing/offer-and-cta.md
 free trial front-end offer lumin 1m mo model ecom amin-lumin-free-trial-strategy	wiki/method/marketing/offer-and-cta.md
+1 offer da proven cho black friday test offer moi o weekend promo truoc do dtcmidas-one-proven-offer-for-black-friday d…	wiki/method/marketing/offer-and-cta.md
+tang gia 1-mon giu nguyen gia bundle bundle nhin hoi hon aov len retention tot hon dtcmidas-raise-base-price-keep-bundl…	wiki/method/marketing/offer-and-cta.md
+urgency scarcity phai believable va honor duoc lien tuc 5 loai evergreen khong phai fake countdown dtcmidas-how-do-you-…	wiki/method/marketing/offer-and-cta.md
 vi sao khong copy brand dang thang	wiki/method/marketing/opportunity-research-ai-workflow.md
 5 buoc cau truc prompt	wiki/method/marketing/opportunity-research-ai-workflow.md
 buoc tiep theo sau khi co y tuong san pham	wiki/method/marketing/opportunity-research-ai-workflow.md
@@ -568,6 +628,7 @@ tim nguyen lieu funnel truoc khi dung 5 mo mo 2 la net-new	wiki/method/marketing
 advertorial 4-step psychology logic builds trust brand inherits it ecomamin-advertorial-4step-psychology	wiki/method/marketing/presell-pages.md
 hero section copy maxxing sell before cta maxwellcopy-hero-section-copy-maxxing	wiki/method/marketing/presell-pages.md
 vi sao quiz arbitrage	wiki/method/marketing/quiz-funnels.md
+1-cau-hoi lam cua truoc advertorial dynamic headline hero theo dap an dtcmidas-can-a-one-question-quiz-lift-advertorial…	wiki/method/marketing/quiz-funnels.md
 consumer evolution tai sao personalization khong con optional dtcquizbuilder-quiz-funnel-personalization-scale	wiki/method/marketing/quiz-funnels.md
 quiz personalized sales call at scale dtcquizbuilder-quiz-personalized-sales-call	wiki/method/marketing/quiz-funnels.md
 quiz pre-purchase data collection khong chi warm-up dtcquizbuilder-quiz-prepurchase-data-validation	wiki/method/marketing/quiz-funnels.md
@@ -695,12 +756,17 @@ van hanh that trong nhu the nao sinh vien vinh vien toc do va chi 1 con so jforj
 hoc dung cho nghe ket qua khong nghe reputation funnel-hack thay vi mua sauce jforjacob-listen-to-the-few jforjacob-fun…	wiki/method/personal/execution-mindset.md
 loc noise free content thuong de ban so to khong dong nghia gioi jforjacob-whose-free-advice-can-you-trust jforjacob-dt…	wiki/method/personal/execution-mindset.md
 vong tron quan he la tai san cho truoc khong tinh toan dung he playbook giu vong tron sach tai chinh jforjacob-how-to-a…	wiki/method/personal/execution-mindset.md
+tools khong sua duoc skill problem dtcmidas-tools-dont-fix-skill-problems	wiki/method/personal/execution-mindset.md
+tu lam het truoc khi hire dtcmidas-do-everything-yourself-before-hiring	wiki/method/personal/execution-mindset.md
+dung dropship voi 2k hoc skill di lam truoc khi tu lam rieng dtcmidas-dont-start-dropshipping-with-2k	wiki/method/personal/execution-mindset.md
+chon 1 nganh o lai lau hon muc thoai mai dtcmidas-pick-one-industry-and-stay	wiki/method/personal/execution-mindset.md
 thesis	wiki/method/personal/focus-and-deep-work.md
 nguyen tac dung duoc ngay	wiki/method/personal/focus-and-deep-work.md
 canh bao can bang	wiki/method/personal/focus-and-deep-work.md
 founder khong nen reply nhanh slack 3 ly do maxwellcopy-slack-founder-autonomy	wiki/method/personal/focus-and-deep-work.md
 information diet nghiem ngat chu dong tim su nham chan de bao ve attention jforjacob-founders-information-diet jforjaco…	wiki/method/personal/focus-and-deep-work.md
 chu ky 48h nang suat nhat thuc xuyen dem de doi lay 12h tuyet doi yen tinh jforjacob-most-productive-48-hour-cycle	wiki/method/personal/focus-and-deep-work.md
+quyet dinh khi resource co han thong tin khong day du ice score chap nhan 40 certainty tim ly do duy nhat dtcmidas-ice-…	wiki/method/personal/focus-and-deep-work.md
 thesis	wiki/method/personal/second-brain-system.md
 skill stack chuan 3 loi bao tri	wiki/method/personal/second-brain-system.md
 identity-file don bay lon nhat	wiki/method/personal/second-brain-system.md
