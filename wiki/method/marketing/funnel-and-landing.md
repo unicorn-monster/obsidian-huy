@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers]
-updated: 2026-08-22
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates]
+updated: 2026-08-26
 ---
 
 # Funnel + landing congruency
@@ -199,3 +199,69 @@ eCom_Amin ($13M, 47 accounts): **D→S tier system** — gap giữa D-tier và S
 **Advertorial rule:** host off main domain — seeing your brand URL breaks the disguise instantly.
 
 Tie [[google-ads]] §Cold traffic funnel tier list D→S (full tier table + per-channel context) · [[presell-pages]] §advertorial anatomy · [[native-ads]] §3 trigger tâm lý (cùng trust transfer mechanism, native kênh).
+
+## CVR đến từ thứ bạn KHÔNG làm — mom-test trước khi thêm gì mới ([[jforjacob-cvr-comes-from-what-you-remove]]) ⭐
+jforjacob nhận DM hằng ngày về tăng CVR — 90% người hỏi đang "đã thử triệu thứ", tức toàn THÊM (offer mới, text mới, element mới). Trước hết: CVR không phải thứ nên optimize trực tiếp — có thể tăng gấp đôi CVR chỉ bằng giảm nửa giá, không có nghĩa lời hơn ([[product-selection]] CM1 mới là số đáng nhìn). Nhưng khi thật sự cần CVR cao, kinh nghiệm cho thấy nó đến từ **những gì bạn KHÔNG làm**, không phải những gì thêm vào: giữ mọi thứ đơn giản, bỏ bước/offer/text/element không cần thiết — mỗi thứ thừa chỉ cộng thêm confusion + friction.
+
+**Mom-test:** đưa điện thoại cho mẹ/bà, bảo mua thử 1 món trên site — không can thiệp, xem họ vướng ở đâu. Vướng chỗ nào = chỗ cần đơn giản hoá. Sau đó hỏi họ: có biết chính xác đang mua gì không, return trong bao lâu, có guarantee không, tiết kiệm bao nhiêu, khi nào nhận hàng — trả lời không được câu nào = chỗ đó cần rõ hơn, không cần thêm gì mới.
+
+→ Cùng bản năng với §Lỗ rò lớn nhất: proof bốc hơi ở trên (audit cái đang THIẾU/MỜ, không phải thêm cái mới) — khác ở chỗ đây là quy trình TỰ audit không cần tool, dùng được ngay cho MaxPro trước khi động vào bất kỳ tactic CVR nào dưới đây.
+
+## Checkout: bớt lựa chọn, không thêm — 3 tactic cụ thể (jforjacob, 4 tweet)
+Cùng nguyên tắc "gỡ bớt" ở trên, áp thẳng vào checkout — bước cuối cùng, nơi 1 lựa chọn thừa cũng đủ làm rơi đơn:
+
+- **Mỗi lựa chọn thêm ở checkout = decision fatigue đúng lúc tệ nhất** ([[jforjacob-checkout-decision-fatigue]]). jforjacob gọi đây "possibly the highest GMV tweet of all time": Shopify từng thêm 1 lựa chọn vào checkout, sau đó REVERT lại — merchant nhờ vậy tiết kiệm hàng tỷ đô cộng dồn. Bài học vận hành: bất kỳ field/option/upsell nào định thêm vào checkout, mặc định là KHÔNG, trừ khi chứng minh được nó đáng giá hơn cái giá phải trả bằng decision fatigue.
+- **Đặt tên courier nội địa quen thuộc vào label shipping** ([[jforjacob-local-courier-checkout-conversion]]) — quy trình cụ thể: pull Shopify report sessions theo location → thêm checkout CVR metric → tìm market có session cao nhưng drop-off checkout cao → check app tracking đơn hàng, lọc theo nước đó → tra last-mile courier đang dùng → tạo shipping profile riêng cho nước đó trong Shopify → đổi mô tả rate thành tên courier nội địa cụ thể (vd *"Canada Post Tracked Shipping"* thay vì generic "International Shipping") → theo dõi lại checkout CVR sau 7 ngày. Cơ chế: tên courier quen thuộc làm checkout "cảm giác nội địa" dù hàng ship quốc tế → giảm lo lắng ẩn (sẽ về không, mất hàng, thuế) đúng ở bước cuối cùng.
+- **Không dùng popup — thu email non-customer từ abandoned checkout** ([[jforjacob-no-popups-abandoned-checkouts]]): *"No, we don't use pop-ups. Yes, we're doing just fine."* Thay vì ép popup exit-intent, nguồn email/SMS non-customer đến từ checkout đã bỏ dở (Shopify tự capture info này, không cần popup xin thêm).
+- **Popup net-negative xuyên suốt 2.5 năm test, kể cả thử lại gần đây vẫn vậy** ([[jforjacob-popups-net-negative-tested]]): *"We added a popup today. Still safely in the pop-up hater crowd."* — đọc kỹ câu này: đây KHÔNG phải đảo ngược lập trường (thêm popup rồi trở thành pro-popup), mà là **thử lại 1 lần nữa rồi xác nhận lại đúng kết luận cũ** — 2 tweet cùng hướng, không mâu thuẫn.
+
+→ Xác nhận trực tiếp [[media-buying]] §Needle-movers vs noise (email popup đã liệt kê là "noise", không phải needle-mover) — đây là data-point tại sao: popup không chỉ "không move needle" mà còn **net-negative có đo được**. → MaxPro: bỏ hẳn ý định popup xin email; nguồn email non-customer = abandoned checkout (Shopify) + exit-intent MINIMAL nếu cần ([[email-marketing]] gợi ý pop-up chỉ dùng time-delay không scroll, đã có ở đó — 2 nguồn cùng thận trọng với popup).
+
+## Banner: value props thắng offer-only — +18% profit/visitor ([[jforjacob-banner-value-props-profit-lift]])
+Redesign banner trang chủ: từ chỉ nêu offer hiện tại → sang value props rõ ràng của brand. Kết quả: **+18% profit per site visitor**, test tới 97% statistical significance. Đôi khi thứ đơn giản nhất ăn tiền nhất — không cần offer to hơn, chỉ cần NÓI RÕ giá trị brand mang lại thay vì chỉ hét giá. Tie [[offer-and-cta]] (perceived value > discount depth, cùng nguyên lý ở [[subscription-retention]] driver #2).
+
+## Value equation — công thức mặc định khi phân vân PDP viết gì ([[jforjacob-value-equation-pdp]])
+Không chắc PDP nên viết gì? Hammer đều 4 điểm của value equation (Hormozi), đặc biệt **above-the-fold + PDP images**:
+1. **Dream Outcome** — benefit gì, thay đổi cuộc sống họ ra sao.
+2. **Perceived likelihood of achievement** — stats từ nghiên cứu, testimonial, guarantee.
+3. **Time delay** — bao lâu thấy kết quả (1 năm khác 1 tuần RẤT nhiều giá trị) — nói rõ timeline kỳ vọng.
+4. **Effort & sacrifice** — càng cần discipline/phức tạp càng giảm giá trị. Ví dụ kinh điển: GLP-1 giá trị khủng vì giảm cân KHÔNG cần effort/sacrifice; supplement giảm số viên/liều, "vị ngon" đều là giảm effort phía khách.
+
+*"Do this and you can't fail."* → Bổ sung 1 lăng kính đơn giản, dễ nhớ hơn cho §PDP anatomy (8-beat) ở trên — khi phân vân bắt đầu từ đâu, chạy qua 4 điểm này trước.
+
+## CVR daily swings — check review widget trước khi nghi ads ([[jforjacob-pin-reviews-cvr-swings]])
+CVR nhảy lên xuống ngày-qua-ngày thường bị đổ cho spend distribution theo ads hoặc chu kỳ mua theo tuần/tháng/năm — nhưng có 1 biến số hầu như không ai nghĩ tới: **review widget là section DUY NHẤT trên PDP tự đổi nội dung MỖI NGÀY** mà không ai chủ động sửa gì. Hôm nay review dài, chi tiết, relevant nằm đầu; mai đã đổi thành review ngắn kiểu "great product". Fix: **pin review tốt nhất + relevant nhất lên đầu cố định** để loại biến số ẩn này ra khỏi CVR swing hằng ngày — PDP không còn "đổi khác mỗi ngày" ngoài ý muốn.
+
+## Product photography — needle-mover rẻ nhất đang có ([[jforjacob-product-photography-cvr-needle-mover]])
+Đầu tư ảnh sản phẩm/render chất lượng cao là 1 trong những needle-mover rẻ nhất từng thấy — case cá nhân (brand đầu tiên): **+20% CVR**, AOV tăng nhẹ, chi phí chỉ **~£750**. Effect ripple qua mọi tầng: ads breakeven → có lãi; ads đã có lãi → in tiền. jforjacob thẳng thắn: nhiều người vẫn ra số tốt với ảnh sản phẩm tệ, hoặc funnel "scammy" — nhưng không tưởng tượng nổi họ sẽ kiếm thêm bao nhiêu nếu trang không "trông như dựng bởi Nigerian Prince." Tie [[creative-brief]] (production quality = proxy chất lượng product, cùng nguyên lý ở [[funnel-and-landing]] §Trust recession điểm 5 "photography thật").
+
+## Return window dài hơn — CVR + RPV tăng ~20%, chưa ai return sau 30 ngày ([[jforjacob-60-day-returns-split-test]])
+Split test 30-day return vs 60-day return: CVR và RPSV tăng gần **20%** ở phiên bản 60 ngày. Sau khi chạy: **chưa từng có ai return sau ngày 30** — nghĩa là risk thực tế gần như zero, còn upside conversion thì có thật. *"Worth testing for everyone."* → MaxPro đã chạy guarantee dài (99-day company-paid return, [[maxpro-product-truth]]) — data point này xác nhận thêm hướng "return window dài = lever CVR rẻ, ít rủi ro thật" chứ không chỉ risk-reversal tâm lý đơn thuần.
+
+## Case thực tế: tốc độ build thắng "hoàn hảo" (jforjacob, 2 tweet)
+Bổ sung bằng chứng thực chiến cho §Build page nhanh + §Landing page STACK ở trên — cùng luận điểm "ship trước, đừng đợi hoàn hảo":
+
+- **AI lander cho 1 angle mới trong 20 phút** ([[jforjacob-ai-lander-per-winning-angle-in-20-minutes]]): test 1 angle hoàn toàn mới (đi thẳng PDP), thấy pick up spend decent → lấy transcript ad → bảo AI build 1 listicle đơn giản dựa trên transcript đó → live trong 20 phút → duplicate ad gốc sang landing page mới, cùng campaign → landing page mới giờ outspending bản gốc ở **nửa CPA**, dù bản gốc đã chạy lâu hơn 5 ngày. *"Don't worry about making every funnel perfect before launching. Just get it out the door quickly, see if it shows signs of life then invest more time and money."*
+- **Advertorial từ Pagedeck dựa trên winning ad angle — ~1 giờ từ đăng ký tới live** ([[jforjacob-advertorial-from-winning-ad-angle]]): copy advertorial viết dựa trên 1 angle đang thắng sẵn trong tài khoản → duplicate đúng ad đó, gửi sang advertorial mới → ad đó lập tức thành **biggest spender trong tài khoản ngay ngày 1**. *"Ad based CRO goated."*
+
+→ Cả 2 xác nhận trực tiếp nguyên lý "1 page / 1 winning ad" đã có ở §Build page nhanh (dtcquizbuilder) — khác ở chỗ đây là 2 case-study THẬT với số liệu cụ thể (thời gian build + kết quả spend/CPA), không chỉ nguyên lý lý thuyết.
+
+## Staged rollout — giảm rủi ro "ăn L" trước khi tin page mới ([[jforjacob-landing-page-testing-without-big-l]]) ⭐
+Bổ sung 1 lớp **TRƯỚC** §LP test protocol (DTCMidas ABO ROAS) ở trên — DTCMidas giả định bạn đã đủ tin page mới để chạy test chính thức; jforjacob thêm bước pulse-check để không phải risk nhiều traffic ngay từ đầu:
+
+1. Lấy top 3-5 ad đang thắng cho đúng angle định test (hoặc top 3-5 tổng nếu là page tổng quát) → gộp vào **1 ad set mới trong campaign ABO** → gửi sang landing page mới. Mục đích DUY NHẤT: pulse-check nhanh, chưa risk nhiều traffic.
+2. Chạy vài ngày. Nếu promising → **duplicate top ad đó NGAY TRONG main campaign**, gửi sang landing page mới, xem nó có tự pick up spend + outperform ad gốc (đang gửi page cũ) không.
+3. Pass bước 2 → bắt đầu publish MỌI ad mới với **2 version song song**: 1 gửi page cũ, 1 gửi page mới.
+4. Ad gửi page mới liên tục outperform → chuyển TOÀN BỘ ad mới CHỈ gửi page mới.
+5. Lúc này đủ traffic ổn định vào page mới → MỚI bắt đầu split-test headline/copy/image ở site-level (đây là lúc protocol ABO-ROAS của DTCMidas ở trên vào cuộc).
+
+**Lý do né site-level split-test ngay từ đầu:** nếu page mới dở mà đẩy ngay 50% traffic vào = "ăn 1 cái L to". Cùng lý do không nên chỉ duplicate 1 ad thắng rồi gửi thẳng landing page mới mà chưa pulse-check trong ABO — Facebook đã "biết và thích" creative đó nên sẽ đổ spend nhiều dù page mới dở, risk L tương tự. *"This is what I've found works best for me after doing it every way imaginable."*
+
+## Build site rẻ: basic Shopify theme + Section Store, đừng trả tiền dev đắt (jforjacob, 3 tweet)
+Trước khi trả tiền lớn thuê ai build website: lấy 1 **basic Shopify theme** + browse app **Section Store** ([[jforjacob-basic-theme-plus-section-store]]) — build được gần như bất cứ gì muốn trong vài giờ, gần như không tốn tiền. Cùng tinh thần §Build page nhanh (clone template thắng) ở trên, áp cho tầng site/theme thay vì tầng landing-page/advertorial. Tie [[growth-ops]] (lean, đừng đốt tiền vào thứ tự làm được).
+
+Xác nhận thêm bằng 2 tweet khác, cách nhau ~9 tháng — cùng jforjacob, cùng 1 kết luận lặp lại theo thời gian:
+- **Theme trả phí Shrine Pro luôn thắng, kể cả so với custom-build** ([[jforjacob-shrine-pro-wins-every-theme-test]]): đã test mọi theme tưởng tượng được, kể cả tự build tay — Shrine Pro vẫn thắng. jforjacob tự nhận "ghét phải nói vậy" (thiên về tự build/customize hơn) nhưng data buộc phải theo.
+- **Không 1 template PDP nào trên Replo (kể cả của brand lớn như GymShark) đấu lại nổi template mặc định của 1 theme Shopify chuẩn** ([[jforjacob-shopify-theme-beats-replo-templates]]): chê thẳng chất lượng "CRO Top Pick" templates trên Replo dưới trung bình, nhiều cái tệ hơn cả người mới học Shopify dùng section mặc định — rồi tự trả lời bằng đúng công thức trên: theme Impact + Section Store.
+
+→ 3 nguồn cùng 1 kết luận: đừng trả tiền lớn cho dev/Replo custom build — theme trả-phí-vừa-phải (Shrine Pro hoặc Impact) + Section Store app đã đủ, thậm chí THẮNG cả build tay/agency.

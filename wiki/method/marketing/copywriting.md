@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability]
-updated: 2026-08-12
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error]
+updated: 2026-08-26
 ---
 
 # Copywriting — DR fundamentals
@@ -139,6 +139,8 @@ Lý do: để AI viết copy **thực sự chạy được**, bạn phải biế
 
 **Hệ quả thực tế:** AI là multiplier, không phải replacement. Học viết tay trước → build judgement → dùng judgement đó để steer AI = scale wins. Bỏ qua giai đoạn học → AI output generic → tiêu tiền test thứ không hoạt động.
 
+**1 dòng cuối prompt để nâng chất lượng copy AI** ([[jforjacob-one-line-makes-ai-write-better-copy]]): jforjacob — kết thúc MỌI prompt copywriting cho AI bằng câu *"make this the best you possibly can with absolutely no room for improvement"* — claim: "10x's the quality of the result I get back every time". Không thay được §15 (judgement vẫn là nhân tử quyết định output tốt hay không) — đây là 1 tactic tầng prompt-wording bổ sung, rẻ, luôn đáng thêm vào cuối bất kỳ prompt copy nào bất kể đã có judgement tốt hay chưa.
+
 ## Meta-note (Sam về chính mình)
 *"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần [[direct-response-copy skill]]: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
 
@@ -173,3 +175,27 @@ Tests 3 thứ: **Clarity** (có thể giải thích không cần bạn?) · **Me
 Nếu mỗi người trả về 1 idea khác nhau → simplify + test lại. If they can repeat it, they can spread it.
 
 → MaxPro: test "MaxPro là máy mài móng chó im lặng, không cắt phải mạch máu" với 5 dog owner. Note phần bị miss (im lặng? mài móng? không cắt máu?) → kết quả feed vào ad copy headline + PDP H1.
+
+## ⚠️ "Người ta chỉ mua benefit, không mua feature" — blanket statement gãy trước thực tế ([[jforjacob-features-vs-benefits-blanket-statements]])
+jforjacob phản biện dogma phổ biến "people only buy benefits, not features": nếu đúng, tại sao các video kiểu "Amazon Find" (gần như chỉ liệt kê feature/spec sản phẩm, gần 0 benefit-framing) lại thắng lớn? Kết luận: blanket statement "chỉ benefit mới bán được" không đúng hay hữu ích trong MỌI trường hợp — "có thời điểm và chỗ cho tất cả."
+
+> [!warning] Cọ xát với §1 (weak/good/great copy hierarchy) ở trên
+> §1 xếp: weak copy tả sản phẩm (feature) < good copy tả kết quả (benefit) < great copy tả khoảnh khắc nhận ra nó work. jforjacob không phủ nhận hierarchy này ở tầng long-form/DR truyền thống — nhưng chỉ ra 1 format cụ thể (Amazon-find / spec-reveal video, ngắn, tò-mò-driven) nơi feature THUẦN vẫn convert, vì cơ chế khác: người xem đang ở trạng thái "khám phá sản phẩm hay" (discovery/curiosity), không phải "đang được thuyết phục bằng transformation". Đọc đúng: hierarchy feature→benefit→transformation vẫn là mặc định tốt nhất cho DR ad dài/persuasion-first — nhưng format ngắn thiên discovery/spec-reveal (unboxing, "TikTok made me buy it", Amazon-find) thì liệt kê feature/spec rõ vẫn đủ, vì bản thân sự "khám phá" đã tạo hook, không cần benefit-framing thêm.
+
+→ MaxPro: khi test format "Amazon find"/spec-reveal (spec cụ thể: RPM, diamond drum, 55dB, pin bao lâu) — không cần ép mọi câu thành benefit-language, để feature/spec tự nói nếu đúng kiểu discovery. Cho advertorial/VSL dài — vẫn giữ hierarchy benefit>feature ở §1.
+
+## 16. Học format ở đâu, học subject-matter ở đâu — tách 2 nguồn ([[jforjacob-tiktok-formats-schwartz-ogilvy-subject]])
+jforjacob: study **TikTok** để lấy **format/hook** (cách mở, cách cắt, nhịp native-platform) — study **Schwartz và Ogilvy** để lấy **subject matter** (cái gì đáng nói: market awareness, mechanism, headline logic). Đừng trộn 2 việc: bắt chước TikTok về nội dung chuyên môn thì nông; áp Schwartz/Ogilvy làm khuôn format cho short-form thì cứng, sai nhịp platform. → tie [[hooks]] (format/platform-native) và §2-§4 ở trên (Schwartz/Ogilvy chính là subject-matter xương sống của cả trang này).
+
+## 17. Copy QA micro-checks — bắt lỗi ở mức câu chữ trước khi ship
+4 check nhỏ, lặp lại đủ để thành thói quen bắt buộc — lớp QA cuối cùng, SAU khi đã đúng hierarchy/structure (§1-§15):
+- **Đọc to thành tiếng sau khi viết** ([[jforjacob-read-your-copy-out-loud]]): nếu cringe hoặc vấp (stutter) ở chỗ nào — sửa chỗ đó. Bắt được câu "nghe không tự nhiên" mà mắt đọc thầm bỏ qua. Áp dụng cả cho video script, không chỉ text tĩnh.
+- **ALL-CAPS làm headline khó đọc hơn, không dễ hơn** ([[jforjacob-all-caps-headlines]]): não nhận diện từ qua SHAPE của cả từ, không chỉ từng chữ cái — viết hoa toàn bộ xoá mất shape đó nên chậm xử lý hơn (test gốc: che chữ chỉ còn hình dạng, lowercase đoán đúng nhiều, UPPERCASE gần như không đoán được). Vì hầu hết người đọc chỉ SKIM ads/page → viết headline sentence-case hoặc Title Case, tránh ALL-CAPS.
+  > [!note] Áp cho MaxPro
+  > Headline ads + PDP H1 giữ sentence-case/Title Case; muốn nhấn mạnh thì dùng bold/size, không viết hoa toàn bộ.
+- **Localise idiom theo thị trường, đừng dịch thẳng cấu trúc offer** ([[jforjacob-localise-offer-idioms-1-plus-1-sale]]): "1+1 sale" là cách nói Hà Lan/châu Âu — thị trường Anh/Mỹ không nói vậy, luôn là *"buy one get one free"* (BOGO). jforjacob: idiom sai lộ ngay brand không phải native — *"tell me you're a Dutch ecom guy without telling me."*
+  > [!note] Áp cho MaxPro
+  > MaxPro bán thị trường US — mọi offer-copy (email, ad, PDP) dùng đúng idiom tiếng Anh bản địa ("BOGO", "buy one get one free"), không bê nguyên cấu trúc offer từ nguồn tiếng khác.
+- **"Save 30% off" là lỗi ngữ pháp phổ biến, đừng lặp lại**: đúng là *"Save 30%"* hoặc *"Get 30% off"* — 2 cấu trúc, không trộn. jforjacob: *"doesn't make any sense"* — lỗi nhỏ nhưng lặp khắp ecom copy.
+
+→ Không thay thế QA content/structure (§1-§15) — bổ sung tầng cuối, ở mức TỪNG CÂU/TỪNG CHỮ: tự nhiên khi đọc to, đúng ngữ pháp offer, đúng idiom thị trường, đúng định dạng headline dễ skim.

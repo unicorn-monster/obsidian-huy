@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy]
-updated: 2026-08-22
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped]
+updated: 2026-08-26
 ---
 
 # Offer + CTA mechanics
@@ -75,6 +75,32 @@ Nguồn: [[maxwellcopy-1b-dtc-funnel-6-stages]] (AG1/Grüns/IM8 teardown). Khôn
 - **Vì sao go-hard:** first-order-là-subscription có LTV **~50-100% cao hơn** first-order-one-time ở mốc 6 tháng, **~2×** ở 12 tháng. → đáng hy sinh margin đơn đầu để ép first order thành sub. **Test acquisition offer tới khi tìm cái convert cold tốt nhất** — đây là Stage 1, nền của cả funnel (*"nothing works unless you have a banger offer"*).
 - **Pop-up = highlight offer SẴN CÓ, không thêm discount:** pop-up nói "get 52% off" nhưng 52% đã có trên site cho ai cũng được → lấy được email **không tốn thêm 1 đồng margin**; "52% off" opt-in tốt hơn "10% off". Ask-question-trước-rồi-email (commitment bias) + zero-party data. (= §popup framing loss-aversion [[email-marketing]], thêm cơ chế "existing-offer không extra-discount".)
 → MaxPro (khi mở dòng consumable/sub — bit/balm refill): stack sub-offer (refill + bonus + free-ship) sao cho one-time-only trông thiệt; đây là biến thể "bundle construction" của §6 rubinov + tiered dưới, áp cho subscription model.
+
+## Charge for shipping — "free shipping" không phải incentive bạn nghĩ ([[jforjacob-charge-for-shipping]], [[jforjacob-shipping-price-increase-cvr-rpv]], [[jforjacob-for-the-love-of-god-charge-shipping]], [[jforjacob-charge-shipping-break-even-roas]], [[jforjacob-free-shipping-threshold-most-common-order]]) ⭐
+
+jforjacob nhắc lại luận điểm này qua 5 tweet riêng, đủ để coi là niềm tin cốt lõi: **charge shipping gần như luôn đúng, kể cả ở AOV thấp.**
+
+- **Thử nghiệm trực tiếp:** đổi 1 market sang free shipping → CVR tụt, thành market kém nhất. Charge lại shipping → CVR + AOV về bình thường ngay. *"There are literally no downsides."*
+- **Tăng thêm phí ship (không chỉ charge/không-charge) vẫn thắng:** tăng 5% giá shipping → CVR **và** RPV cùng tăng — không phải trade-off. Với brand tầm $220-250k/tháng riêng doanh thu shipping, 5% là số tiền thật, không phải tối ưu vặt. jforjacob nhấn mạnh đã test free-vs-paid nhiều lần, **paid thắng mọi lần**.
+- **Toán margin ở AOV thấp — chỗ charge shipping ăn nhiều nhất:** supplement $24.99, COGS $8, processing 3% → thêm phí ship $2.99 đẩy margin 65%→77%, B/E ROAS 1.54→1.29; phí ship $3.99 đẩy margin lên 80%, B/E ROAS xuống 1.24. Chênh lệch này có thể là ranh giới giữa lỗ và có lãi ở front-end — "không ai thật sự muốn sản phẩm lại bounce vì $3-4."
+- **Free-shipping threshold (nếu có) nên neo theo most-common-order-value, không theo AOV:** AOV $50 nhưng order phổ biến nhất lại $30 → đặt threshold ở $55 (theo AOV) gần như vô dụng; đặt ở $35 (theo most-common-order) mới thực sự đẩy AOV lên, vì đó là ngưỡng khách THẬT SỰ đang cân nhắc vượt qua.
+- **Cơ chế phụ:** charge shipping còn cho phép hạ giá front-end + cộng lại thành phí ship (framing khác, tổng tiền giống nhau) để convert nhiều hơn, và tăng số người rơi vào abandoned-cart flow (recoverable) thay vì rời hẳn.
+
+> [!note] Áp cho MaxPro
+> $39.95, AOV thấp — đúng vùng toán margin ở trên ăn mạnh nhất. Trước khi test free-shipping cho bất kỳ campaign nào: mặc định charge, và nếu có free-shipping threshold thì set theo **most-common single-item order value** (kiểm Shopify order distribution), không theo AOV trung bình.
+
+## No-brainer offer engineered từ ad xuống, không phải discount phẳng ([[jforjacob-no-brainer-quantity-break-anchoring]])
+
+jforjacob: đa số không hiểu "no-brainer deal" thực sự là gì — **50% off không phải no-brainer**. No-brainer bắt đầu từ AD, không phải từ PDP: cho creator dùng 3-pack trong ads → khách complain "sao không bán 3-pack" → base offer trên site cố tình chỉ để 2-pack (margin 90%+) → ai muốn kết quả như trong ad phải mua tối thiểu 2 lần base đó. Quantity break: 2-pack $39.99 / 4-pack $49.99 — gần như không ai chọn 2-pack (và khi chọn margin vẫn dày), 4-pack trông như deal vì được anchor từ giá 2-pack. Bán 4-pack đứng một mình sẽ không convert nổi ở mức giá đó vì thiếu anchor — bán 2-pack đứng một mình thì markup lộ rõ, mất perceived value. Cơ chế: **ad tạo ra nhu cầu "cần ít nhất 3", PDP chỉ việc thu tiền.**
+
+→ Đây chính là cơ chế đứng sau bảng Tiered bundle bên dưới — anchor không nằm ở bảng giá, nằm ở kỳ vọng đã dựng sẵn từ ad.
+
+## ⚠️ Offer quá tốt phá vỡ trust — 100% off tự động làm CVR giảm 46% ([[jforjacob-free-product-conversion-rate-dropped]])
+
+jforjacob vô tình để 1 discount code auto-apply 100% off chạy live trên site — mọi người tới checkout đều nhận sản phẩm miễn phí. Conversion rate giảm **46%**. Bài học: có 1 trần "quá tốt để tin" — offer vượt ngưỡng đó không tăng convert, nó giết trust và khiến khách nghi ngờ có lỗi/scam thay vì vui mừng.
+
+> [!warning] Reconcile với §Risk reversal + §Free trial free-shipping-only ở trên
+> Không mâu thuẫn với "risk reversal mạnh thắng" hay "free trial (Lumin) chỉ hỏi ship" — 2 case đó vẫn có 1 khoản tiền/cam kết thật xuất hiện đâu đó trong phễu (ship fee, hoặc sau 21 ngày auto-convert). Case 100% off ở đây là **miễn phí tuyệt đối, không rào cản gì** — khác về LOẠI, không phải về MỨC ĐỘ discount. Bài học rút ra: giảm friction/giá tới gần 0 vẫn cần giữ ít nhất 1 signal có giá trị thật (ship fee, form field, xác nhận) để offer còn đáng tin.
 
 ## Tiered bundle (price anchoring, từ research OEM)
 | Tier | Gồm | Giá | Anchor | Logic |

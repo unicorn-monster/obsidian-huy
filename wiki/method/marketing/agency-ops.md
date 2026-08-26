@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity]
-updated: 2026-08-25
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time]
+updated: 2026-08-26
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -117,3 +117,12 @@ maxwellcopy (2026-08-25): sau 6-12 tháng nhận nhiều 9-figure brand — nh�
 jforjacob rút gọn toàn bộ việc đánh giá agency/service-partner về 1 câu hỏi: agency này có kiếm cho mình nhiều tiền hơn số tiền mình trả họ không? Có → tiếp tục trả. Không → dừng. Không cần phức tạp hơn.
 
 Cảnh báo ngược lại: nhiều người đặt kỳ vọng phi thực tế vào agency rồi fire 1 partner đang có ROI dương chỉ vì "vibe" không thích — nếu ROI dương dù nhỏ, cứ để chạy tiếp. Tie §Red-flags (checklist khi ĐANG cân nhắc thuê) với test ROI này (dùng SAU khi đã thuê, mỗi kỳ review) — 2 lớp lọc bổ sung nhau, không thay thế nhau.
+
+## Cho agency đủ thời gian trước khi kết luận — kết quả tháng 1 không phải kết quả thật ([[jforjacob-give-agencies-time]])
+
+jforjacob: nhiều người cắt agency quá sớm, trước khi agency kịp hiểu business. Case cụ thể: tháng đầu dùng @aaronmtrx cho creative — kết quả "decent, không amazing". 6 tháng sau, agency đó chiếm gần hết top-spender trong ad account. Agency cần thời gian để nắm business, y hệt như khi launch 1 brand mới hoặc 1 sản phẩm mới cũng cần thời gian mới chín.
+
+**Caveat quan trọng — không áp dụng mù quáng:** jforjacob thừa nhận thẳng đây "phụ thuộc vào agency" — có rất nhiều agency chỉ ăn tiền rồi churn khách sau vài tháng. Bài học này chỉ đúng khi agency đã qua được §Red-flags (không có dấu hiệu 21-điểm cảnh báo) — với agency ĐÃ pass red-flags filter, đừng đánh giá dựa trên tháng đầu. Tie §Bài test ROI ([[jforjacob-evaluate-agencies-roi]]) — thời điểm áp dụng test ROI nên là sau giai đoạn "học business" này (~vài tháng), không phải ngay tháng 1.
+
+> [!note] Áp cho MaxPro
+> Nếu/khi thuê agency creative cho MaxPro: đặt kỳ vọng rõ ràng ngay từ đầu — tháng 1-2 là giai đoạn agency học brand, đánh giá thật sự nên chờ tới tháng 4-6. Đừng churn agency sớm chỉ vì kết quả tháng đầu chưa "amazing", miễn agency đã qua được bộ lọc red-flags lúc tuyển.

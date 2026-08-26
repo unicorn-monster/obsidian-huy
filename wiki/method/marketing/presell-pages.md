@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing]
-updated: 2026-08-18
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money]
+updated: 2026-08-26
 ---
 
 # Presell pages — build guide (4 format)
@@ -175,6 +175,9 @@ Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] (agency scale Demand Gen 
 - **Launch sequence:** 1 broad page → ads nhiều angle → angle hứa hẹn nhất → build 1 page tailored riêng (= "new angle = new page").
 - **Segmented variants, same USP:** Jones Road 4 biến thể (general/mature/minimalist/busy-mom) · HollowSocks gendered — cùng USP, đổi reason nào nhấn theo persona → [[angles]], [[market-awareness]].
 
+### Listicle/advertorial không CẦN ảnh ([[jforjacob-listicles-advertorials-no-images]])
+jforjacob, ngắn gọn: *"Your listicles and advertorials don't need to have images btw. Just saying."* — không phủ nhận §4 thứ rút được ở dưới (ảnh riêng mỗi reason vẫn tốt khi có), mà chỉnh lại mức ưu tiên: **thiếu ảnh không phải lý do trì hoãn ship**. Copy-only advertorial/listicle (kiểu Sugarman slippery-slope thuần chữ) vẫn convert được nếu mechanism + proof + flow đủ mạnh — tie [[copywriting]] §slippery slope. Cùng tinh thần "ship trước, đẹp sau" ở [[funnel-and-landing]] §Case thực tế tốc độ build.
+
 ### 4 lander thật đang chạy Google — swipe above-fold (vision-read từ ảnh [[ecom-amin-google-ads-awareness-funnel]]) ⭐ swipe
 amin post 4 ví dụ lander cho awareness-funnel. **Điều đáng chú ý: text của amin mô tả funnel 4 bước (validate struggle → hidden cause → mechanism → product), nhưng CẢ 4 lander thật đều là listicle "N lý do/cách" đánh số** — tức khung §10-reasons ở trên chính là **cách triển khai phổ biến nhất** của 4 bước đó, không phải một format đối thủ. Above-fold pattern chung: **headline đánh số** → hero visual → **thanh proof** (press logo HOẶC review count) → bắt ngay vào `1. [Reason]` có subhead + body ngắn + ảnh riêng cho mỗi reason.
 
@@ -233,6 +236,13 @@ ad → presell → PDP = **1 câu chuyện liền mạch**. Headline presell kh�
 ## Metrics + cadence tuần
 Target: presell CTR **8-12%** · scroll 50%+ **>60%** · time **>45s** · bounce **<55%**. Heatmap (Microsoft Clarity / Hotjar) bắt buộc — bắt scroll-death + rage click. UTM + GA4 event (presell_outbound_click = metric chính). Cross-domain Funnelish→Shopify: GTM linker hoặc wetracked/Trackbee.
 Cadence 50+ page/tuần: **mon** kill page <5% CTR · **tue-wed** build (rule: *new angle = new presell page*) · **thu** optimize winner (A/B 1 element) · **fri** launch + pair từng presell với ad creature. Khớp [[media-buying]] "double down angle thắng".
+
+## Optimize listicle bằng heatmap — reorder theo revenue, không theo cảm giác ([[jforjacob-heatmap-your-listicles-for-easy-money]])
+Dùng app **@heatmapme** để phân tích trang listicle đang live:
+1. **Re-order các reason** theo **revenue per session per reason** — reason nào ra tiền nhiều nhất lên đầu, không đoán theo cảm giác "reason nào nghe hay nhất."
+2. **Check reason nào có scroll drop-off cao bất thường** so với các reason khác → swap copy và/hoặc ảnh ngay chỗ đó.
+
+*"Easy money"* — không cần rebuild trang từ đầu, chỉ cần data-driven reorder trên trang đã có. Bổ sung công cụ cụ thể cho §Metrics + cadence tuần ở dưới (đã có Clarity/Hotjar cho scroll-death + rage-click nói chung) — Heatmap ở đây làm thêm 1 việc riêng: gắn revenue vào từng REASON, không chỉ scroll-behavior chung của trang.
 
 ## Speed (cold = zero patience)
 LCP **<2s** · page **<500KB** · WebP · mỗi image <100KB · hero <150KB preload · lazy-load below-fold · font 1-2 weight. >2s trên phone = đốt ad spend.

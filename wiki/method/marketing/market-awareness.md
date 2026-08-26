@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven, jforjacob-bottom-of-funnel-in-saturated-markets]
-updated: 2026-08-25
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven, jforjacob-bottom-of-funnel-in-saturated-markets, jforjacob-track-spend-by-awareness-stage, jforjacob-awareness-stages-are-not-a-linear-scale, jforjacob-iterate-awareness-stage-not-just-hooks, jforjacob-belief-shifts-by-awareness-level, jforjacob-persona-desire-sophistication-awareness-angle-format, jforjacob-method-acting-audience-research, jforjacob-customer-surveys-are-mostly-bs, jforjacob-product-launch-research-process]
+updated: 2026-08-26
 ---
 
 # Market awareness + sophistication (grinder)
@@ -56,6 +56,38 @@ Nguồn: [[avcanthony-sophistication-ump-match]]. UMP (unique mechanism of the *
 > - **Clone KittySupps engine** ([[kittysupps-machine]]): chỉ bê *cấu trúc* (persona network, villain stack, deny-sale, staged proof, long-form) — KHÔNG bê độ sâu root-cause. "quick creep" mechanism = **rejected**.
 > - **Senior-mobility** — **RECONCILED 20/06** (was rejected 16/06): TÁCH observable vs invented. ✅ chó *thấy được* ngừng chạy → móng quặp đâm đệm → fixable (VOC-grounded, long-form + nhân vật) = nhóm "nỗi-đau-ĐÃ-CẢM", KHÔNG falls flat (ad thắng [[maxpro-elle-birdie-winning-native]] + ≥3 VOC). ❌ "móng → arthritis/hip/joint-disease/X-ray" = invented = vẫn killed. Chi tiết [[angles]].
 > - **Cập nhật 17/06 (VSL $1M ZenPaw):** 1 **UMP keystone defensible** thì GIỮ — clipper crush/splinter → đau *kể cả trim hoàn hảo* (reframe nguyên nhân của nỗi-đau-ĐÃ-CẢM). [20/06: senior-mobility-*observable* cũng thuộc nhóm "đã-cảm" này; chỉ quick-creep + disease-naming mới là "bịa ẩn chưa-cảm".] Chi tiết [[maxpro-ugly-ads-plan]].
+
+## Awareness-stage operating playbook: track spend, iterate stage, đừng coi là thang tuyến tính (jforjacob, 5 tweet) ⭐
+
+**Ladder chọn chiến lược — Persona > Desire > Sophistication > Awareness > Angle > Format** ([[jforjacob-persona-desire-sophistication-awareness-angle-format]]): thứ tự quyết định, mỗi bước feed bước sau, KHÔNG nhảy cóc.
+1. **Persona** — chọn 1 nhóm (TAM lớn nhất theo research), không chạy đa persona ngay từ đầu.
+2. **Desire** — outcome nhóm đó thật sự muốn.
+3. **Market sophistication** — persona này đang nghe claim tới đâu (bán backpack thì KHÔNG cần "unaware" — mọi người đã biết mình cần đồ đựng).
+4. **Awareness level** — dựa vào sophistication, chọn stage có nhiều cơ hội nhất rồi target từ đó TRỞ LÊN (sophistication chủ yếu problem-aware → target problem/solution/product/most-aware; sophistication chủ yếu product-aware → chỉ cần target product-aware + most-aware).
+5. **Angle** — liệt kê MỌI angle cho từng stage đã chọn, xếp ưu tiên, checklist tick dần khi test.
+6. **Format** — với mỗi angle, liệt kê MỌI cách thể hiện, test đa format, checklist tương tự.
+→ Track theo awareness stage + angle + format, double-down cái thắng, bỏ cái không. jforjacob: *"I literally don't think you can fail if you follow this."*
+
+**Track spend theo stage, đừng bay mù** ([[jforjacob-track-spend-by-awareness-stage]]): gắn awareness stage vào TÊN mỗi ad → build custom report (Atria hoặc tool bất kỳ) lọc theo tên stage → theo dõi spend + return theo từng stage → double down stage lớn nhất, lấp gap ở stage return cao nhưng volume thấp. jforjacob: hầu hết brand đang "hoàn toàn mù" ở việc này — không biết tiền đang đổ vào đâu theo awareness.
+
+**Awareness KHÔNG phải thang tuyến tính** ([[jforjacob-awareness-stages-are-not-a-linear-scale]]): sai lầm phổ biến — mặc định audience pool lớn dần khi lên các stage cao hơn (tưởng unaware > product-aware về size). Sai. VD backpack: pool product-aware LỚN HƠN NHIỀU pool unaware — đổ effort vào unaware/problem-aware ở đây là lãng phí, gần như toàn bộ effort nên vào **product-aware** (đánh khác biệt aesthetic/feature/material/giá). Với sản phẩm khác, pool lớn nhất có thể lại là problem-aware hoặc unaware. **Phải phân tích market sophistication TRƯỚC** khi giả định pool nào lớn nhất — không suy diễn theo thứ tự Schwartz. Tie §Unaware pool dưới: chỉ đáng mở unaware pool khi sophistication/kích thước pool thật sự justify.
+
+**Iterate STAGE, không chỉ hook/format/creator** ([[jforjacob-iterate-awareness-stage-not-just-hooks]]): mọi người nói "iterate" chỉ nghĩ tới hook mới, format mới, creator mới — gần như không ai iterate **awareness stage của chính ad đó**. Có winner rồi? Đưa vào AI (Gemini), hỏi nó classify awareness stage nào, rồi hỏi cách đẩy ad LÊN 1 stage cao hơn — jforjacob: "can work wonders sometimes." Đây là 1 lever iteration riêng biệt, cộng thêm vào hook/format/creator-swap thường làm ([[hooks]], [[creative-testing]]).
+
+**Belief shift bắt buộc theo từng stage** ([[jforjacob-belief-shifts-by-awareness-level]]) — mỗi stage có 1 mindset hiện tại + 1 belief shift copy PHẢI tạo ra, nếu ad không tạo được shift này thì không chuyển được người đọc lên stage kế:
+
+| Stage | Mindset hiện tại | Belief shift cần tạo |
+|---|---|---|
+| **Unaware** | "Mọi thứ vẫn bình thường, tôi không nghĩ mình có vấn đề" | "Có 1 vấn đề ẩn đang ảnh hưởng tới cuộc sống tôi, đáng để ý" |
+| **Problem-Aware** | "Tôi biết có gì đó sai, nhưng không biết cách nào để sửa" | "Có 1 LOẠI giải pháp được thiết kế đúng cho vấn đề CỤ THỂ này" |
+| **Solution-Aware** | "Tôi nghe về giải pháp kiểu này rồi, nhưng không biết cái nào thật sự hiệu quả" | "Đa số lựa chọn không hiệu quả, nhưng cái NÀY hiệu quả vì 1 lợi thế/cơ chế riêng" |
+| **Product-Aware** | "Tôi đang cân nhắc sản phẩm này, nhưng chưa hoàn toàn bị thuyết phục" | "Đây là lựa chọn tốt nhất vì đã được chứng minh, đáng tin, mang lại giá trị thật" |
+| **Most Aware** | "Tôi biết brand này rồi. Có nên mua ngay không?" | "Bây giờ ĐÚNG lúc hành động vì sẽ được thêm giá trị, hoặc sẽ lỡ mất" |
+
+→ Bảng này khớp trực tiếp §Sophistication ↔ belief shift ↔ angle ở trên (cùng khái niệm "belief lật được" nhưng theo trục awareness thay vì sophistication — 2 bảng dùng song song, đừng lẫn 2 trục theo cảnh báo đầu trang).
+
+> [!note] Áp cho MaxPro
+> Gắn label stage vào tên mọi ad MaxPro hiện có → tách report spend theo stage (ngay cả thủ công trong sheet nếu chưa có Atria) → biết đang đổ tiền vào problem-aware hay product-aware. Broad-cold hiện đang set ở "stage 2-3, lead quieter/better way" (chốt 16/06 trên) = target chủ yếu problem/solution-aware theo bảng belief-shift; segment product-aware (so dB/torque) mới cần UMP/UMS sâu hơn.
 
 ## UMP / UMS (cốt lõi để tin)
 - **UMP (vì sao khổ):** clipper = **crushing pressure** pinch quick + splinter keratin. Dremel = **sensory overload / acoustic resonance** rung dọc xương, hệ thần kinh đọc như predator threat.
@@ -121,6 +153,30 @@ DTCMidas $500k/mo playbook xác nhận: **đọc review + ad comment + CS ticket
 Tie [[email-marketing]] §AI trong email vai trò 1 (VOC mining từ review + support ticket) và Nick Theriot §checklist unaware ad (đọc 1★+3★, Reddit upvoted, YouTube comment). Cùng pattern: **direct exposure to raw customer voice** → insight angle không thể đến bằng cách khác.
 
 → MaxPro: dành 30-60 phút/tuần đọc thủ công: Amazon review đối thủ + FB ad comment của MaxPro + CS inbox. Không tóm tắt ngay — ghi verbatim quote vào [[maxpro-voc-insights]].
+
+### Survey tự mâu thuẫn — cùng 1 lý do vừa là lý do KHÔNG mua vừa là lý do CÓ mua ([[jforjacob-customer-surveys-are-mostly-bs]])
+jforjacob: đọc literally, đa số customer survey là **bs**. Bằng chứng cụ thể từ chính brand: survey trên PDP hỏi *"có gì đang cản bạn mua hôm nay?"* → câu trả lời #1 = **PRICE**. Survey khác trên thank-you page (sau khi đã mua) hỏi *"lý do chính bạn mua hôm nay?"* → câu trả lời #1 CŨNG LÀ **PRICE**. Cùng 1 yếu tố vừa được người này nêu là lý do KHÔNG mua vừa được người khác (hoặc cùng nhóm) nêu là lý do mua — chứng minh câu trả lời survey literal không phản ánh động cơ thật, chỉ là câu dễ gõ nhất khi bị hỏi trực diện.
+
+→ Xác nhận trực tiếp nguyên tắc "đừng tin 1 survey" đã có ở §VOC research trên, thêm bằng chứng CỤ THỂ vì sao: không phải survey "sai kỹ thuật", mà **survey tự mâu thuẫn nội tại** khi đọc đủ 2 chiều (trước-mua và sau-mua). Đọc review 1★+3★ + method-acting (dưới) vẫn đáng tin hơn hỏi trực diện 1 câu.
+
+> [!note] Method acting — sống trong vấn đề, không chỉ search 1 lần ([[jforjacob-method-acting-audience-research]])
+> jforjacob: research audience KHÔNG PHẢI search "x problem" trên Reddit rồi coi như xong — Reddit là thứ cơ bản nhất có thể làm, phần lớn nội dung fake hoặc chỉ phản ánh 1% dân số cực đoan nhất ("the karens"). Cách đúng: **method acting** — sống như mình đang có chính vấn đề đó, dìm mình vào content rabbit-hole thật (YouTube, Instagram, group, gặp người thật ngoài đời) trong thời gian dài, không phải 1 buổi search. Ví dụ: người tập gym thật không chỉ search "how to build muscle" 1 lần — họ tiêu thụ hàng chục kênh, tranh luận trường phái (5x5 vs high-volume, keto vs carnivore vs IIFYM), kết nối người thật, sau ~1 năm đủ sâu để marketing chính xác cho TỪNG nhóm niềm tin khác nhau trong cùng 1 niche. jforjacob: *"most ecom guys go 1 level deep on their research and think it's enough."* → đẩy xa hơn "đọc thủ công" ở trên: tiêu thụ content NHƯ MỘT NGƯỜI THẬT đang có vấn đề, không chỉ đọc text sẵn có. MaxPro: theo dõi content chủ chó thật tiêu thụ (r/dogs, group Facebook chủ chó, kênh training/grooming) như đang thật sự nuôi 1 con chó sợ cắt móng — không chỉ search "dog nail grinder review".
+
+## Master research doc → top-5 audience → awareness ladder per audience → angle: quy trình launch 6 bước (jforjacob) ([[jforjacob-product-launch-research-process]])
+
+jforjacob: implementation CỤ THỂ của ladder Persona>Desire>Sophistication>Awareness>Angle>Format ở trên, chạy bằng Claude project — quy trình chưa từng fail theo tác giả:
+
+1. **Master research document** — 1 prompt lớn cho Claude: market sophistication, đối thủ, review Amazon/Reddit/Trustpilot, complaint thường gặp, ad angle khả dĩ, ước tính thị trường, chiến lược giá.
+2. **Load context** — output bước 1 + tóm tắt Breakthrough Advertising + doc "maximise hook & hold rate" nạp vào 1 Claude project, dùng project này cho MỌI bước sau (không hỏi lại từ đầu).
+3. **Top 5 audience** — hỏi project chọn top 5 audience ưu tiên + pain point + core desire mỗi audience.
+4. **Awareness ladder MỖI audience** — với TỪNG audience trong 5, hỏi project phân tích sophistication rồi xếp thứ tự awareness stage nên target trước-sau (audience A có thể product-aware nên target trước; audience B có thể problem-aware nên target trước — không có công thức chung cho mọi audience).
+5. **Angle theo từng stage** — với mỗi awareness stage đã xếp hạng của mỗi audience, hỏi project ra best ad angle để test đầu tiên.
+6. **Test có kỷ luật** — bắt đầu top-2 audience × top-2 awareness-stage, ưu tiên static đa-format trước, target common complaint đối thủ. Launch ở $100/ngày, mục tiêu KHÔNG phải lãi ngay mà xem Meta favour angle nào (spend/sale pickup) → double-down + sửa landing page khớp angle thắng → angle đã chứng minh CPA tốt mới đẩy sang UGC/video. Không có gì chạy → quay lại research, chọn angle/audience khác, làm hệ thống tới khi bắt được.
+
+→ Đây chính là cách **VẬN HÀNH** ladder Persona→Desire→Sophistication→Awareness→Angle→Format ở §Awareness-stage operating playbook bằng 1 công cụ cụ thể (Claude project persistent context) thay vì làm thủ công từng bước; skip bước Persona/Desire ở ladder gốc vì research doc bước 1-2 đã tạo sẵn input cho cả 2. Tie [[ai-agent-automation-stack]] (Claude-project-as-persistent-context pattern lặp lại ở nhiều chức năng khác, không chỉ research) + §VOC research (nguồn input bước 1 cùng loại: Amazon/Reddit/Trustpilot review).
+
+> [!note] Áp cho MaxPro
+> Chưa có master research doc chính thức cho MaxPro — build 1 cái theo prompt 6-bước này, load vào Claude project cùng breakthrough-advertising summary, rồi chạy lại toàn bộ top-5-audience → awareness-ladder → angle cho pet-grinder thay vì dựa các quyết định rời rạc đã chốt (16/06, 20/06, 17/06 ở trên).
 
 ## Native cold traffic = ngược (L1-2)
 Khi mở [[native-ads]] (open-web): cold native = **Unaware / Problem-aware**, KHÔNG L3-4 như grinder buyer trên Meta. Targeting native rộng → **funnel tự qualify** thay cho targeting. Cùng 1 product có thể cần register awareness khác nhau theo kênh.

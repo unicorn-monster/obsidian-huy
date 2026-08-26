@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative]
-updated: 2026-08-25
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype]
+updated: 2026-08-26
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -146,6 +146,14 @@ ecomchasedimond (2026-08-25): cảnh báo hệ thống về AI video ads.
 
 → MaxPro: AI cho Seedance b-roll + yapper format test → nhưng ưu tiên get real customer clip (chó + grinder, candid) cho hero creative. 1 video chủ nuôi thật dùng MaxPro = nhiều lần leverage hơn 10 AI avatar video cùng style.
 
+## AI podcast ad → clipping thành hàng chục biến thể test ([[jforjacob-ai-podcast-ad-clipping-strategy]])
+Workflow: tạo 1 AI podcast ad dài 3-5 phút → đưa vào CapCut → dùng tính năng AI clipping, cắt thành clip 15-30s → chạy bản gốc trong ad account + đăng các clip lên MỌI nền tảng short-form (organic) → xem clip nào đạt reach cao nhất → đưa các clip đó vào chung 1 ad set trong ad account. Kết quả: hàng chục biến thể test được từ 1 video gốc, organic exposure miễn phí, creative testing gần như free, và cơ hội có vài "banger ad" — tất cả từ 1 video mà thông thường chỉ ném thẳng vào ad account rồi thôi. Đưa chiến lược "long-form → short-form clipping" (vốn phổ biến ở content/podcast) vào ecom với effort tối thiểu.
+
+Tie §AI ad format types ở trên (AI podcast ads = 1 trong 4 format TOF) + §AI UGC hyper-realistic workflow — clipping strategy này là bước **phân phối/test SAU khi đã production xong**, bổ sung cho pipeline production ở trên.
+
+> [!note] Áp cho MaxPro
+> Dựng 1 AI podcast ad 3-5 phút (host + guest bàn về "chó sợ cắt móng") → clip AI thành 10-15 đoạn 15-30s → đăng hết lên TikTok/Reels/Shorts (organic) song song chạy bản gốc trên Meta → clip nào tự nhiên đạt reach cao nhất, đưa vào ad set test.
+
 ## AI creative prompts cho Google Ads — 4 prompt templates (Seedance + GPT Images 2.0) ([[ecomamin-ai-prompts-google-ads-creative]])
 eCom_Amin (2026-08-25): exact prompt framework cho Google Ads creative production. Full math: $15-20/batch vs $3-8k agency. 4 prompt types:
 
@@ -174,3 +182,38 @@ eCom_Amin (2026-08-25): exact prompt framework cho Google Ads creative productio
 - *One variable per variant — thay nhiều biến = không học được gì.*
 
 Tie [[ai-video-production]] §AI UGC hyper-realistic (production pipeline chung) + [[google-ads]] §AI creative production (full routing trong Google funnel) + [[creative-testing]] (variant isolation rule — 1 biến / lần).
+
+## ChatGPT image-gen — 3 prompt hack (jforjacob)
+
+**Fix spelling/gibberish trên label sản phẩm — 1 dòng duy nhất** ([[jforjacob-fix-ai-image-gen-label-spelling]]): vấn đề lớn nhất khi dùng AI image gen cho ads là chữ trên label/packaging bị gibberish/sai chính tả. Đã thử: nói rõ text + cách viết, đưa ảnh riêng của label kèm sản phẩm, viết JSON mô tả text/style/màu/vị trí — đều không ổn định. Giải pháp thật sự work **95% thời gian**: thêm đúng 1 câu vào prompt — *"make sure there are no spelling mistakes on the label"*. jforjacob không biết vì sao câu này hiệu quả hơn mọi cách khác đã thử, nhưng work.
+
+**Đừng đưa reference image bảo AI "recreate" — bảo nó VIẾT PROMPT tả style** ([[jforjacob-chatgpt-style-prompt-from-reference-photo]]): kỹ thuật ngược — thay vì feed ảnh mẫu + "làm giống cái này" (dễ ra kết quả lộn xộn), đưa ảnh thích rồi hỏi ChatGPT **viết 1 prompt mô tả phong cách nhiếp ảnh** của ảnh đó. Prompt thu được dùng như style guide cho BẤT KỲ sản phẩm nào sau này. Ví dụ prompt thật jforjacob dùng cho supplement (kết quả "amazing"):
+> *"Editorial-Style Flat Lay… Hard Lighting & Defined Shadows… Monochromatic Background Integration… Texture & Light Play…"*
+
+**Ví dụ áp dụng — replicate style 1 brand cụ thể qua mô tả subject + style-guide bullet** ([[jforjacob-chatgpt-product-photography-prompt]]): test kỹ thuật trên bằng cách thử bắt chước phong cách ảnh của Dore and Rose. Prompt = 1 câu tả subject ngắn + style guide breakdown theo hạng mục (Lighting / Setting / Styling / Mood / Photography Genre Mix), mỗi hạng mục 1-2 câu cụ thể (không mơ hồ). Kết quả "damm chat gpt getting good" — xác nhận format prompt "mô tả subject ngắn + style-guide theo hạng mục cụ thể" là công thức tái dùng được, không riêng cho 1 aesthetic nào.
+
+→ Cả 3 tactic đều là biến thể "prompt cụ thể hơn = kết quả tốt hơn" — tie [[creative-brief]] §senior niche ultra-detailed candid prompts (film-stock specificity, cùng nguyên lý). MaxPro: build 1 style-guide-prompt riêng cho line ảnh sản phẩm (label MaxPro cần câu chống-gibberish ở trên vì có chữ trên thân máy).
+
+## Video ad workflow — Google Flow only, đừng mua course phức tạp (jforjacob)
+
+**Best + easiest AI video ad workflow sau nhiều course/guide vẫn chỉ là Google Flow** ([[jforjacob-ai-video-ads-just-use-google-flow]]): sau khi mua nhiều course + đọc hàng chục guide Twitter về AI video ads, đa số là lãng phí thời gian. Workflow thật sự work: **toàn bộ trong Google Flow** (thêm nano banana cho reference image start-frame nếu cần). Clip đầu = text-to-video 2-3 câu tả nhân vật + lời thoại (ví dụ: *"A middle-aged, well educated looking white man wearing smart casual clothing in a podcast studio talking on a podcast. He says 'My whole life I struggled with getting in shape, and now after 20 years of research I know exactly why that is'"*). Không cần JSON 100 dòng hay 10-bước qua 10 tool — *"you can get whatever you want with just a couple of sentences of natural language and maybe a reference image here or there"*. jforjacob: course phức tạp tồn tại vì đơn giản không bán được course.
+
+**Giữ nhân vật nhất quán qua nhiều clip — neo vào 1 frame đã lưu** ([[jforjacob-veo-3-consistent-characters-frame-to-video]]): với các clip SAU clip đầu — đừng tiếp tục text-to-video. Lưu lại 1 frame từ clip đầu, rồi dùng **frame-to-video** (thay vì text-to-video) với đúng frame đó cho mọi clip tiếp theo. Kết quả: nhân vật/setting giữ **100% nhất quán** xuyên suốt — đây là bước 2 hoàn thiện workflow Google-Flow-only ở trên (bước 1 = clip mở bằng text-to-video, bước 2 = mọi clip sau bằng frame-to-video neo vào frame đã lưu).
+
+> [!note] Áp cho MaxPro
+> Podcast-style ad MaxPro: clip 1 = text-to-video tả nhân vật + hook mở đầu trong Google Flow → lưu frame cuối → mọi clip tiếp theo (agitation/mechanism/reveal theo §4-part script ở trên) dùng frame-to-video neo vào frame đó, giữ nhân vật không "trôi" giữa các đoạn.
+
+## AI UGC vs real UGC — misconception về tốc độ + cảnh báo bubble (jforjacob)
+
+**"AI UGC nhanh hơn" là hiểu lầm — thời gian CHỜ ngắn hơn, thời gian TAY LÀM cao hơn nhiều** ([[jforjacob-ai-ugc-is-not-faster-than-real-ugc]]): với UGC thật, sau khi brief/script xong chỉ cần 1 tin nhắn cho creator + 1 lần trả tiền khi xong — hết việc, chờ lâu hơn nhưng hands-on-time RẤT thấp. Với AI UGC, có nhiều bước hơn hẳn: reference image, prompting, re-prompt, voiceover, cố gắng đúng chuyển động/góc máy nhân vật — actual time input CAO hơn UGC thật dù wait-time ngắn hơn. Ẩn dụ jforjacob: *"stir fry vs slow cooking"* — stir-fry (AI UGC) xong nhanh hơn nhưng cần tay làm liên tục; slow-cooker (UGC thật) bỏ vào rồi đi làm việc khác, quay lại là xong — năng suất THẬT cao hơn vì time-input thấp hơn, giống lý do "busy parents love slow cookers". jforjacob: *"Never see anyone talk about this."*
+
+**Cảnh báo bubble — đừng build creative pipeline giả định pricing/scarcity UGC người thật giữ nguyên** ([[jforjacob-ai-ugc-arcads-bubble]]): quality AI creator (Arcads) "mind blowing" tới mức tăng liên tục — jforjacob cảnh báo "UGC girlies realise how limited their days are" — tức là kỳ vọng giá + độ khan hiếm của creator UGC người thật hiện tại (đang là 1 lever cạnh tranh, xem [[creator-sourcing]]) không phải hằng số lâu dài; production pipeline dựng ra hôm nay nên tính cả kịch bản AI UGC bào mòn giá trị đó.
+
+> [!warning] Reconcile với [[creator-sourcing]] và §AI video pattern blindness ở trên
+> §AI video pattern blindness ở trên (ecomchasedimond) lập luận **real person = moat AI không copy được**. 2 tweet trên KHÔNG mâu thuẫn — đọc theo 2 trục khác nhau: (1) time-economics (AI UGC không thực sự tiết kiệm effort như tưởng, chỉ đổi wait-time lấy hands-on-time) — vẫn có thể ĐÚNG dù (2) AI creator quality đang tăng nhanh và làm giảm giá trị khan hiếm của UGC người thật theo thời gian. Kết hợp: AI UGC không phải "free lunch" về effort NHƯNG áp lực cạnh tranh giá/chất lượng lên creator người thật là có thật — dùng cả 2 khi quyết định mix creative (không all-in 1 phía chỉ vì 1 trong 2 lý do).
+
+## Icon — không sống nổi với hype, tránh ([[jforjacob-does-icon-live-up-to-hype]])
+
+jforjacob test Icon (tool tự động generate + launch ads bằng AI) và kết luận "a bit of a farce". Cụ thể: trả tiền cho gói "100 ads/tuần tự động generate", sau ~2 tuần chỉ ra **tổng cộng 3 ads (đều tệ)**. Claim "launch ads with one click" = "blatant lie" — không thể, và giới hạn kiểm soát khi launch cũng lớn. Cộng thêm: team Icon no-show buổi onboarding call đã hẹn. Kết luận: **Avoid**.
+
+→ Case cụ thể cho nguyên tắc chung: 1 tool all-in-one hứa tự động hoá TOÀN BỘ pipeline creative (research → gen → launch) nên được test kỹ trước khi trả tiền dài hạn — so với §Case thật Manus/n8n ở [[ai-agent-automation-stack]] (agent TỰ build đúng use-case cụ thể, kiểm soát được từng bước) thay vì mua 1 sản phẩm đóng gói hứa làm hết.

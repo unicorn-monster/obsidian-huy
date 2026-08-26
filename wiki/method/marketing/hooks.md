@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock]
-updated: 2026-07-18
+sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads]
+updated: 2026-08-26
 ---
 
 # Hooks
@@ -83,3 +83,24 @@ Nguồn: @DTCMidas. Khi direct-sell đã khai thác hết in-market pool, storyt
 **Cách viết story:** đi bộ không nhạc/podcast, brainstorm story idea xung quanh *angle đang thắng hiện tại*, viết xong thì chạy. Lặp lại. Skill này tích lũy.
 
 → Liên kết: format AI Animation video → [[ai-video-production]]; angle hiện tại → [[angles]]; story structure dài → [[presell-pages]] §advertorial.
+
+## Promise of a payoff = 90% việc retention (jforjacob, 4 tweet)
+jforjacob: trong video retention, **hook làm ~90% công việc** — cơ chế đứng sau là "promise of a payoff", không phải nội dung sau đó. Ví dụ tác giả nêu: 1 video ai đó rambling chuyện vô nghĩa vẫn giữ gần như 100% watch rate chỉ vì người xem đang CHỜ payoff (kể cả khi payoff không bao giờ tới). ([[jforjacob-hook-promise-of-payoff-retention]])
+
+**Text overlay hook = mini-payoff-promise riêng biệt với voice/script.** 1 clip đua kart có text overlay ngụ ý "sắp có chuyện" khiến jforjacob (0 quan tâm racing) xem hết cả clip — không có dòng chữ đó, 0 lý do dừng lại. Rule kèm theo: **test nhiều hook trên cùng 1 video** — jforjacob gọi dogma "mỗi asset phải substantially different" là advice tệ nhất trong DTC. ([[jforjacob-text-overlay-hooks-promise-of-payoff]])
+
+**Question hook = lazy, giết promise-of-payoff.** "Tired of stubborn belly fat?" mở đầu = cảm giác sell ngay lập tức, không ai mở lời như vậy ngoài đời. Thay vào đó: bắt đầu như đang kể chuyện thật — mở 1 "mental loop" + promise of payoff cùng lúc, VD *"I'm not proud of this but I'm gonna tell you anyway..."* rồi mới vào confession cụ thể. ([[jforjacob-question-hooks-vs-open-loops]]) → cùng cơ chế pattern #2 (confession/self-incrimination) ở §10 pattern trên.
+
+**AI UGC: đừng để creator show sản phẩm sớm/xuyên suốt.** 1 trong những sai lầm phổ biến nhất khi brief AI UGC creator = ép creator cầm/show sản phẩm hoàn hảo NGAY TỪ ĐẦU hoặc suốt video — chính điều này phá promise of payoff, giết incentive coi tiếp. ([[jforjacob-ai-ugc-product-reveal]]) → giữ sản phẩm ẩn tới payoff, tie [[ai-video-production]] §AI UGC hyper-realistic (production) + [[creative-brief]] §Prime directive (delay reveal, brand chỉ ở destination).
+
+## Full script skeletons — 3 biến thể hook→CTA (jforjacob)
+1. **8-beat DR mainstream:** Hook → Authority/credibility → Problem + root cause → Agitate bằng failed solutions → Validate skepticism → Solution + unique mechanism → Testimonial/social proof → Soft CTA + risk reversal. ([[jforjacob-full-ad-script-formula-hook-to-cta]])
+2. **Biến thể rút gọn:** [Hook] → [Credibility] → [Problem] → [Tease possible solution] → [Why other solutions don't work] → [Why this one's different] → [Testimonial] → [Soft CTA]. ([[jforjacob-video-ad-script-skeleton]]) Gần như cùng khung #1, khác ở chỗ TEASE solution trước khi đập failed-alternatives (thay vì agitate trước).
+3. **"Delayed Payoff & Authority Stack":** mở loop bằng cách NÊU TÊN lý do thành công (authority) mà CHƯA nói chúng là gì — giữ curiosity sống tới lúc reveal, thay vì liệt kê authority thẳng lúc mở đầu. ([[jforjacob-delayed-payoff-authority-stack-ad-framework]]) — cùng nguyên lý mở-loop-authority ở §Promise of a payoff trên, áp vào riêng phần credibility/authority của script.
+
+→ Cùng họ skeleton 15-beat ở [[ugly-ads-method]] và 18-element VSL ở [[copywriting]] §DTCMidas — 3 khung này compress lại còn 7-8 beat, dùng tốt cho video ad ngắn/DR mainstream thay vì long-form advertorial đầy đủ. Tie [[creative-brief]] §Demonstration Cascade (Bencivenga) — cùng logic "đập objection theo đúng thứ tự" nhưng ở lớp demo thay vì script.
+
+## Formula cho unaware ad thật sự (jforjacob)
+Hook bằng 1 **story thú vị HOÀN TOÀN không liên quan sản phẩm** → tie story đó vào problem đang giải quyết → sau đó hoặc CTA đến landing page giáo dục, hoặc tiếp tục kéo prospect xuống sâu hơn theo awareness stage. Ví dụ mẫu jforjacob cho: *"Năm 1946 có 1 nghiên cứu thú vị trên lính Đức sau WWII. Họ theo dõi 2 nhóm người..."* — 1 nhóm hồi phục, nhóm kia không → khác biệt hoá ra là 1 yếu tố cụ thể (giả sử bổ sung magnesium) → từ đó giáo dục CÁCH và VÌ SAO yếu tố đó hoạt động → đập các giải pháp khác không work → mới giới thiệu sản phẩm. ([[jforjacob-formula-for-truly-unaware-ads]])
+
+→ Khớp trực tiếp [[market-awareness]] §unaware-pool (checklist viết unaware ad, Nick Theriot) — bổ sung 1 **formula cụ thể** (story-unrelated → tie-to-problem → educate → introduce) cho đúng loại ad đó, thứ mà trang kia mới dừng ở checklist chưa có full structure. MaxPro: story mở không nhắc chó/móng gì cả (VD 1 nghiên cứu về stress-response ở động vật hoang dã), tie vào "chó phản ứng với đau tương tự" → giáo dục cơ chế click-click-click → đập clipper/groomer → introduce MaxPro.

@@ -1,6 +1,6 @@
 ---
-sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy]
-updated: 2026-08-12
+sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy, jforjacob-founders-information-diet, jforjacob-guard-your-attention-seek-boredom, jforjacob-most-productive-48-hour-cycle]
+updated: 2026-08-26
 ---
 
 # Focus & deep work (meta)
@@ -35,3 +35,15 @@ maxwellcopy: phản biện trực tiếp "reply nhanh = tốt." 3 lý do KHÔNG 
 Tác giả hiện tắt hẳn Slack notification. **Ngoại lệ:** nếu ai đó tôn trọng trong business **text** (SMS) → reply ngay.
 
 → Huy: nếu có team/agency chat, set expectation response time 2-4h thay vì ngay. Bảo vệ block sáng cho creation work. Khớp §make-then-manage ở trên: đầu ngày = create, cuối ngày = manage/reply.
+
+---
+
+## Information diet nghiêm ngặt + chủ động tìm sự nhàm chán để bảo vệ attention ([[jforjacob-founders-information-diet]], [[jforjacob-guard-your-attention-seek-boredom]])
+
+jforjacob: 1 trong những việc tốt nhất 1 founder có thể làm là **information diet toàn diện** — cắt podcast, YouTube, Twitter (trừ tài khoản anh, đùa). Phần lớn là bs, gây distraction và analysis paralysis. Chỉ có vài thứ thật sự move-the-needle trong bất kỳ business nào, và founder thường ĐÃ biết chúng là gì — việc cần làm là lặp lại (reps) trên đúng vài thứ đó, không phải nhồi thêm info mới khi info cũ còn chưa nội hoá. Khớp §1 ưu tiên duy nhất ở trên — information diet là điều kiện để giữ được 1 ưu tiên.
+
+Attention là "commodity" duy nhất thật sự có giá trị — công ty tỷ đô được xây từ việc khai thác nó, và phần lớn người cho đi miễn phí không nhận ra. Bảo vệ: dựng môi trường khó lang thang khỏi việc đang làm, và **chủ động tìm sự nhàm chán** — 10 phút tắm không nghe nhạc, để tâm trí lang thang thay vì lấp đầy bằng stimulation. Đây là lúc trực giác phát triển, ý tưởng và giải pháp tự trồi lên. Boredom giờ hiếm vì luôn có scroll vô tận để lấp — mất boredom = mất chính cơ chế tạo ra ý tưởng.
+
+## Chu kỳ 48h năng suất nhất: thức xuyên đêm để đổi lấy 12h tuyệt đối yên tĩnh ([[jforjacob-most-productive-48-hour-cycle]])
+
+jforjacob: chu kỳ 48h năng suất nhất = thức xuyên đêm ngày 1 → ngủ khoảng giữa trưa → dậy ~8h tối, tỉnh táo hoàn toàn → có nguyên 12 tiếng yên tĩnh tuyệt đối phía trước (mọi người khác đang ngủ — không Slack, không WhatsApp, không email, không call). Bản cực đoan của §Flow dài ở trên: đổi lịch sinh học để mua 1 khối thời gian dài không ai chạm được tới, thay vì cố bảo vệ block giữa ngày đầy interrupt.
