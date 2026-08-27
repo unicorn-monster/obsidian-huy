@@ -33,7 +33,7 @@ Camp: Maxpro | DG | Discover | Test
 ## Luật creative cho Discover
 - **Grid KHÔNG chết CTR.** Cái chết = catalog vô hồn nền trắng. Cái sống = **grid raw iPhone** — 5 sản phẩm thật trên bàn bếp + nguyên liệu thô rải trước (kiểu sea moss / magnesium supplement). Huy đã test dạng này ăn.
 - **Before/after lách policy = 2 ảnh candid khác góc/setup**, KHÔNG split-graphic 2-panel có label BEFORE/AFTER. Bị Google/vault loại = graphic dàn dựng có typography; 2 tấm thật riêng biệt thì không bị flag transformation.
-- **Google Demand Gen FLAG ảnh AI** → dùng ảnh thật (hoặc AI đủ real để không bị soi). Khác Meta (flood AI static OK) → xem [[compliance]].
+- **Google Demand Gen FLAG ảnh AI** → dùng ảnh thật (hoặc AI đủ real để không bị soi). Khác Meta (flood AI static OK, [[media-buying]]) → xem [[compliance]].
 - **Style thắng = raw amateur iPhone snapshot**, KHÔNG editorial/magazine/flatlay top-down, KHÔNG photorealistic CGI. Anchor phrase: *"A casual amateur photo taken on an iPhone 12/13, NOT professional, NOT photorealistic CGI, looks like a real snapshot."* Ép tool dùng đúng 5 ảnh sản phẩm thật ở Image Input.
 
 ## Grid prompts (đã ưng, dùng được)

@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example]
-updated: 2026-08-26
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example]
+updated: 2026-08-27
 ---
 
 # Angles
@@ -102,7 +102,7 @@ Nguồn: [[satishdtc-6-diagnosis-questions-belief-shift]]. Native ad chết ở 
 - **Proof economic của reframe** ([[advertising-jan-advertorial-rewrite-48h-profitable]]): joint advertorial lỗ 3 tuần → rewrite ĐÚNG 1 section từ commodity ("glucosamine+turmeric+MSM for healthy joints") sang cause-reframe ("không phải mòn sụn, là dịch khớp mỏng → glucosamine nhắm sai target") → **profitable 48h**. Click luôn có; thiếu là belief. Reframe phải **thật + provable** (BS mechanism không scale dài — [[compliance]]). Before/after đầy đủ + diagnosis ở [[native-ads]].
 - **MaxPro:** chủ tin chó *"untrainable / ghét cắt móng / hết cách"* (tự trách hoặc trách chó) → thật ra **clipper crush/splinter làm đau kể cả khi trim hoàn hảo** (UMP [[market-awareness]]) → *"không phải con bạn hư, là cái kẹp."* ⚠️ Giữ stage 2-3: blame-shift sang **cơ chế quan-sát-được**, KHÔNG bịa bệnh ẩn (joint/hip = senior-mobility KILLED, [[compliance]]).
 
-## Non-doctor authority figures by niche ([[dtcmidas-authority-figures-non-doctor]])
+## Non-doctor authority figures by niche ([[dtcmidas-authority-figures-non-doctor]]) — [[personas]]
 DTCMidas (2026-07-27): licensed professionals (doctors, vets, dermatologists) are the obvious authority play but expensive + hard to sign. A **simpler authority** = someone the customer already trusts on THAT specific problem, or someone who obviously knows a lot about it.
 
 **Category → accessible authority options:**
@@ -137,3 +137,28 @@ jforjacob tách rõ 2 loại research, nhiều người gộp làm 1: **format**
 **Công thức rút gọn** ([[jforjacob-organic-format-plus-direct-response]]): *"Find a trending organic format, apply it to your brand, sprinkle in a little direct response. It really isn't all that complicated."* = version execution của cùng nguyên lý — không cần phát minh format mới, chỉ cần steal khung đang trend + mount angle/DR copy của mình lên trên. Tie [[creative-brief]] §4-category static (bucket "Organic") + §Cartoon Creatives (cũng là 1 format-organic-trend được steal và mount DR message lên).
 
 → MaxPro: format — quét TikTok/Reels pet-grooming trend hiện tại (POV, storytime, "wait for it") để chọn khung quay; angle — tiếp tục đào review Casfuy/LuckyTail/Heusom + r/dogs (đã có ở §Reddit JSON) cho nội dung nói gì bên trong khung đó.
+
+## Grid ANGLE × FORMAT — trục thứ 3 mà matrix cũ đang thiếu ⭐ ([[native-statics-machine-guide]])
+Matrix ở §Matrix grinder đang là angle × avatar × persona. Guide native-statics thêm trục **FORMAT** — và chính trục này mới là cái sinh ra volume:
+
+**8 angle chuẩn (dùng làm trục dọc):**
+1. **Hidden cause** — nguyên nhân thật đằng sau triệu chứng
+2. **Threat-avoid** — có cái gì trong thứ họ đang dùng
+3. **Us-vs-them** — trọng tài của category
+4. **Identity mirror** — "đây chính là bạn"
+5. **Becoming** — con người tương lai
+6. **Curiosity gap** — camera-truth hook
+7. **Proof number** — 1 con số đổi cả câu chuyện
+8. **Objection flip** — trả lời thẳng lý do họ không mua
+
+8 angle × 8 format ([[native-statics-machine]]) = **64 cell**; 3 copy variant/cell = **192 brief đầy đủ spec** sinh trong 1 buổi planning.
+
+**2 luật khoá grid:**
+- **1 cell / 1 static** — static test 2 angle dạy bạn con số 0 (one-variable → [[creative-testing]]).
+- **Đặt tên bằng cell:** `0731-hiddencause-screenshot-v2` — dashboard 3 tuần sau tự đọc được.
+
+**Angle graduation ⭐:** 3 static cùng 1 angle thắng trong 1 tuần **không phải creative win — là market discovery**. Angle đó tốt nghiệp sang mọi format khác (long-form native, advertorial, VSL). Angle chết ngồi ngoài 30 ngày.
+
+### 2 angle-mechanic mới cho bank
+- **Wrong-solution mechanic** — *"thứ bạn đã mua đang xử lý SAI LOẠI vấn đề"*. Khác hẳn "thứ bạn mua là đồ dởm": nó cho reader mua tiếp **mà không phải thừa nhận mình đã thất bại**. (Sandra Reynolds, post-lipo: chai Arnica $40 nhắm sai loại sưng.) Tie §Belief-shift diagnosis.
+- **Sell the relationship, not the product** — ở pet, vấn đề thật gần như không bao giờ là con vật mà là **ma sát giữa người với người quanh con vật**. Cattasaurus bán cat cave bằng story một cuộc hôn nhân đang căng, 961 ad live. → MaxPro chưa test góc này ([[maxpro-avatars]], [[villains]]).

@@ -291,8 +291,8 @@ Nhiều năm dropshippers dùng fake urgency / auto-billing / hàng không giao 
 | Kênh | Lý do reflex thấp hơn |
 |---|---|
 | **Google Search** | Khách tìm đến bạn với câu hỏi; ad = câu trả lời |
-| **YouTube** | 8 phút build credibility trước khi ask for anything |
-| **Bing** | Demographic skews older, ít tiếp xúc blackhat wave |
+| **[[youtube-ads\|YouTube]]** | 8 phút build credibility trước khi ask for anything |
+| **[[bing-ads\|Bing]]** | Demographic skews older, ít tiếp xúc blackhat wave |
 | **Reddit** | Context làm pitch ít giống pitch |
 | **Pinterest** | Visual discovery mode, không intent block |
 

@@ -1,6 +1,6 @@
 ---
-sources: [low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue]
-updated: 2026-08-26
+sources: [native-statics-machine-guide, low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue]
+updated: 2026-08-27
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -194,3 +194,20 @@ Tactic cụ thể nối trực tiếp §Soft metrics ở trên (lát cắt "hold
 
 ## MaxPro
 Dùng round-test để confirm: angle nào trong [[maxpro-avatars]] thật sự convert (R1) → format ugly-native nào carry ([[ugly-ads-method]], R2) → hook ([[hooks]], R3) — thay vì đổi cả 3 cùng lúc rồi ko biết cái nào ăn.
+
+## 2-gate kill cho static volume ($5 scroll test → CPA money test) ⭐ ([[native-statics-machine-guide]])
+Static là **ad rẻ nhất để chấm điểm** — không cần chờ đủ purchase data trên cả trăm cái. Đọc 2 bước:
+
+| Gate | Spend | Luật |
+|---|---|---|
+| **Gate 1 — scroll test** | **$5-8 / static** | CTR < ~1%: chết NGAY hôm nay. CTR > ~2%: qua Gate 2. Ở giữa: thêm 1 ngày rồi quyết |
+| **Gate 2 — money test** | **1-2× target CPA** | ≤ target = winner → tốt nghiệp + nhân giống. **> 2× CPA nhưng CTR tốt = ad viết cái séc mà lander không trả nổi → sửa PAGE, đừng kill static** |
+
+Cấu trúc launch: **1 campaign testing, ABO, cost cap ở target CPA**; batch 25-50 static/ad set **nhóm theo ANGLE** (nhìn 1 ad set = biết cả angle đó ra sao). Winner chuyển sang campaign scaling. **Campaign testing không bao giờ scale.**
+
+**Nhân giống 2 chiều khi thắng:** 5 copy variant trên visual thắng + 5 visual variant trên copy thắng. Batch ngày mai = **½ cell grid mới + ½ con của winner hôm qua**. → khớp §"Iterate the shit out of it" + §tách RIÊNG image vs copy ở trên.
+
+**Angle graduation:** 3 static cùng 1 ANGLE thắng trong 1 tuần = **market discovery, không phải creative win** → angle đó lên long-form native / advertorial / VSL. Angle chết ngồi ngoài 30 ngày. Đây là lý do chiến lược để chạy volume: **static = tầng khám phá angle rẻ nhất của cả account** — 50 câu hỏi $5/ngày định giá trước cho $500 video nên nói gì.
+
+> [!note] Nhịp này KHÁC nhịp 10-test/tuần ở §Law 18/46
+> 10-test/tuần là nhịp cho Google Ads / creative đắt (video, UGC). 30-50 static/ngày là nhịp cho ad **$2-4/cái**. Chọn nhịp theo **giá 1 câu hỏi**, đừng bê ngưỡng từ kênh này sang kênh kia. Chi tiết máy sản xuất: [[native-statics-machine]].

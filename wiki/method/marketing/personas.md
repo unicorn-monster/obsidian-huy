@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman, viasox-turned-socks-into-a-pain-relief-empire, selling-to-grandmas-read-this, dtcmidas-why-are-cpms-lower-on-third-party-pages]
-updated: 2026-08-26
+sources: [native-statics-machine-guide, maxpro-persona-bank, kittysupps-ugly-ads-teardown, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-verbatim-skin, dtcmidas-3rd-party-pages-strategy, reviewscout-3rd-party-review-domain-teardown, kittysupps-adlib-census-2026-06, fotw-resilia-12-pages-advertorial, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, linafahizul-pet-buyer-is-a-woman, viasox-turned-socks-into-a-pain-relief-empire, selling-to-grandmas-read-this, dtcmidas-why-are-cpms-lower-on-third-party-pages]
+updated: 2026-08-27
 ---
 
 # Persona-network strategy
@@ -75,3 +75,23 @@ Case landing page cho audience lớn tuổi (nootropic gummy nhắm bà/mẹ, c�
 
 > [!note] Persona discovery từ quiz answer + gender-buy heuristic
 > Quiz ([[quiz-funnels]]) tự phân persona: mỗi đáp án gắn buying-intent → sort user vào avatar bucket ([[dtcquizbuilder-mars-men-quiz-funnel]]), qua self-label / agree-statement ([[dtcquizbuilder-clickmaxx-quiz-5stage]]). Data thật để refine avatar, mạnh hơn đoán. **Gender-buy** (Primal Vikings): đàn ông mua = **proof + trust**; phụ nữ mua = **CẢM outcome** → match register theo skew avatar ([[maxpro-avatars]] nữ → emotional, [[linafahizul-pet-buyer-is-a-woman]]). Avatar "1 người thật, không census" → [[creative-brief]] pre-write #2.
+
+## Avatar rotation — mechanism là TEMPLATE, avatar là BIẾN ⭐ ([[native-statics-machine-guide]])
+Case Ledisa (1 miếng dán GLP-1, 99 + 207 ad live, mọi bản score 100) là bản công nghiệp hoá của persona-network ở trên — nhưng ở **tầng story**, không chỉ tầng page:
+
+- **2 page đặt tên kiểu CỘNG ĐỒNG**, không phải tên người: "Women's Wellness Circle", "Healthy Habits Circle". Đây là archetype thứ 5 bổ sung cho §4 archetype — cộng đồng an toàn hơn tên-người (ít mùi persona bịa) mà vẫn không phải brand page.
+- **≥3 cuộc đời ngôi-thứ-nhất khác hẳn nhau** cùng bán 1 sản phẩm: Beth 44, chạy half-marathon, sinh con năm 40, "con trai tôi không nhận ra tôi trong ảnh" · vợ cưới 19 năm, "chồng tôi thôi không nhìn tôi nữa" · Teresa 46, giáo viên lớp 4, "food noise", máy bán hàng tự động.
+
+**Cấu trúc lộ ra khi đọc 3 body liên tiếp:**
+- **60% đầu = custom hoàn toàn** (tên, tuổi, thành phố, nghề cũ, khoảnh khắc phát hiện vấn đề).
+- **Khối mechanism = gần như y nguyên từng chữ ở cả 3 bản.**
+
+> [!important] Công thức nhân bản
+> Viết mechanism **1 lần**. Sản xuất phần đầu-theo-avatar ở **volume**. 5 avatar × 2 page = **10 ad "khác nhau" từ 1 asset lõi**. Cùng nguyên lý engine/skin của [[hook-swap-method]] nhưng ở tầng cao hơn: hook-swap đổi 1 dòng, avatar-rotation đổi 60% đầu bài.
+> Prompt chạy sẵn: [[native-copy-prompt-chain]] §Prompt 6 (2 avatar rotation + 4 hook swap + 3 độ dài trong 1 lần gọi).
+
+**Visual đi kèm mỗi avatar:** chân dung 1:1 do AI sinh — **thân hình thật, không glamour, đặt trong môi trường của avatar** (cô giáo trước lớp, phụ nữ plus-size trên bãi biển). Không có sản phẩm trong ảnh, không chữ trên ảnh. Và rotation rẻ nhất trên 1 avatar thắng = **đổi trạng thái cảm xúc**: bản buồn (khoanh tay, trời âm u) ↔ bản vui (váy hoa, biển nắng), cùng copy. → [[native-statics-machine]] §Visual.
+
+**Kỷ luật pháp lý đi kèm:** mọi ad Ledisa mang full FDA disclaimer block cuối story. Operator persona hung hãn nhất = kỷ luật nhất ở sàn pháp lý ([[compliance]]).
+
+**Persona-page ở dạng thuần (Eden Labs, 140 ad, score 98):** page đặt tên như một con người, story đọc như personal essay, **CTA cũng diễn**: *"EDIT: Suýt quên cái link."* — chi tiết nhỏ đó là thứ hoàn tất ảo giác organic. ⚠️ Play này sát tripwire nhất trên board; học cấu trúc, đừng bê claim.

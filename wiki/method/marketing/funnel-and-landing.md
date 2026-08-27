@@ -160,7 +160,7 @@ Schwartz: cold/less-aware KHÔNG đi thẳng PDP được ([[market-awareness]])
 
 ## Listicle pre-sell (7 reasons) — cấu trúc Carl
 Nguồn: [[carlweische-presell-listicle-7reasons]].
-1. **Headline:** *"7 reasons over [X] [audience] choose [product] [to achieve result]"* = social proof + promise gộp.
+1. **Headline:** *"7 reasons over [X] [audience] choose [product] [to achieve result]"* = social proof + promise gộp. → [[hooks]].
 2. **Comparison table** ngay dưới headline: product vs đối thủ → set frame "mình thắng side-by-side" trước khi đọc tiếp (educate nhanh vì sao đối thủ không viable).
 3. **7 reasons** (mỗi cái 1 ảnh hỗ trợ), thứ tự cố định: (1) **Money/resource đang phí** → mechanism fix → upside · (2) **Ease of use** (giết "phức tạp") · (3) **Versatility** · (4) **Identity + Quality** (justify giá) · (5) **Speed** (cụ thể: "trong dưới [time]") · (6) **Social proof** · (7) **Guarantee**.
 4. **CTA:** bridge headline (*"the smarter way to [promise]"*) → nhắc lại unique mechanism lần cuối → nút sang offer page.
@@ -175,7 +175,7 @@ Adapt theo awareness: problem-aware ≠ product-aware ([[market-awareness]]).
 ## LP skeleton đang thắng hiện tại — 834 từ, hero→CTA (DTCMidas) ⭐ ([[dtcmidas-winning-landing-page-structure]])
 1 bản CỤ THỂ DTCMidas đang chạy thật, đọc như checklist lắp sẵn — khác [[presell-pages]] §Advertorial 10-section wireframe ở chỗ đây là 1 skeleton thật đang live (không phải khung lý thuyết), ngắn hơn nhiều (834 từ):
 
-**Hero:** headline formula *"Do you have [symptom]? Here's how to fix it in just [amount of time] and finally [desired outcome], no [failed alternative] needed"* — nhồi symptom + timeline + outcome + de-position giải pháp cũ trong 1 câu · before/after hero image · 3 checkmark gỡ objection · soft CTA (scroll xuống, KHÔNG bán ngay).
+**Hero:** headline formula *"Do you have [symptom]? Here's how to fix it in just [amount of time] and finally [desired outcome], no [failed alternative] needed"* — nhồi symptom + timeline + outcome + de-position giải pháp cũ trong 1 câu · before/after hero image · 3 checkmark gỡ objection · soft CTA (scroll xuống, KHÔNG bán ngay). → [[hooks]].
 
 **Below fold, thứ tự cố định:** agitate problem → cost of inaction → symptom checklist (tự chẩn) → false belief kill → unique problem mechanism → product intro → unique solution mechanism → how it works (3 bước) → time to result (kỳ vọng theo ngày) → us vs them → UGC wall (authority + peer) → reviews → 3-step qualification quiz → scarcity → CTA sang offer page.
 

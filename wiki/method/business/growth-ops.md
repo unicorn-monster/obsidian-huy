@@ -172,9 +172,9 @@ DTCMidas liệt kê việc cần xong TRƯỚC Q4:
 - Set up backup supplier + backup shipping option
 - Đảm bảo đủ cash flow (xin credit line trước nếu cần)
 - CS team sẵn sàng, scale headcount nếu cần
-- Chốt offer BFCM (kèm retention offer + nhắm AOV cao hơn)
+- Chốt offer BFCM (kèm retention offer + nhắm AOV cao hơn) → [[offer-and-cta]]
 - Tìm content đang thắng nhất → remake với thông điệp BFCM/holiday
-- Viết sẵn email Q4 (kế hoạch gửi tần suất cao hơn bình thường trong peak)
+- Viết sẵn email Q4 (kế hoạch gửi tần suất cao hơn bình thường trong peak) → [[email-marketing]]
 
 > [!note] Reconcile với §Q4 tạo false confidence dưới
 > 2 lời khuyên KHÔNG mâu thuẫn dù nhìn giống đối lập ("scale trước Q4" vs "cẩn thận sau Q4"). Đọc theo 2 THỜI ĐIỂM khác nhau: checklist này là chuẩn bị VẬN HÀNH cho Q4 sắp tới (spend, inventory, CS capacity — phần lớn tạm thời/co giãn theo mùa) — jforjacob cảnh báo QUYẾT ĐỊNH CHIẾN LƯỢC dài hạn (hire mới, đầu tư lớn) dựa trên phong độ Q4 SAU KHI nó đã xảy ra. Scale CS headcount tạm thời để chịu tải Q4 = đúng theo checklist này; biến 1 con số Q4 tốt thành lý do hire vĩnh viễn ngay sau đó = đúng cái jforjacob cảnh báo dưới. MaxPro: chuẩn bị đủ theo 8 điểm trên cho Q4 tới, nhưng đợi "bụi lắng" sau Christmas rồi mới quyết định hire/đầu tư lớn dựa theo kết quả đó.

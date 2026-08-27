@@ -256,7 +256,7 @@ Scale proof: men's hair loss (mass-health, problem rõ) → format này scale t�
 3. **"Making it work" mindset.** Vào với tư thế *"để test thử xem"* = tự setup fail → extract **negative learning sai sự thật** ("quiz không hợp brand mình" trong khi thật ra chưa từng làm tử tế). Brands crack quiz = brands vào với resource + mindset iterate-tới-khi-được. Áp cho MỌI thứ: offer, listicle, PDP, ads, TikTok Shop.
 → MaxPro: nếu build ugly quiz ([[maxpro-ugly-ads-plan]] roadmap), commit trước ít nhất 3-5 swing trước khi kết luận "quiz không hợp grinder".
 
-## Segment & retarget bằng câu trả lời
+## Segment & retarget bằng câu trả lời — nuôi qua [[email-marketing]]
 Người KHÔNG mua vẫn để lại data (goal / struggle / solution-tried / symptom). Retarget tách theo đáp án: "tried diets, weight came back" → ad yo-yo cycle · "low energy" → ad energy (không phải weight). Cùng product, angle khớp đúng cái họ TỰ KHAI.
 
 **Cơ chế kỹ thuật trong Klaviyo (generic — chạy được với BẤT KỲ tool quiz nào bắn event/metric vào Klaviyo, không riêng ClarFlow, [[how-i-retarget-build-segments-from-quiz-answers]]):** Segments → Create Segment → điều kiện *"Person has [Quiz Response event] at least once, where [câu hỏi cụ thể] equals [đáp án cụ thể]"* → ra 1 list riêng cho đúng nhóm đó (vd "tất cả người dị ứng phô mai"). Cho email cá nhân hoá sâu hơn: Flow → Build Your Own → Create Manually → trigger = Metric → chọn event quiz → mở Preview để lấy danh sách `{{variable}}` ứng với từng câu hỏi → chèn thẳng vào subject/body. Segment 2 chiều kết hợp được (pain × gender, pain × age) cho hyper-personalization sâu hơn 1 biến.
@@ -284,7 +284,7 @@ Gruns chạy **full-page quiz-style pop-up** convert **15-20% opt-in** (industry
 - Giữ gate: margin cần long-nurture, sản phẩm considered/expensive/unfamiliar, hoặc đã có email program convert tốt (send 3-7).
 
 ## Diagnostic quiz DÀI + email gate ở CUỐI (đối trọng) — Spoiled Child
-[[spoiled-child-quiz-funnel-breakdown]] đi hướng ngược: **quiz 20+ câu** (symptom → fitness/protein → digestive/mood → prior-supplement-use → flavor preference → goals/age → skin/wrinkle → **slider mức độ nghiêm trọng** → attribution "nghe ở đâu") rồi MỚI xin email + phone (optional) ở bước cuối, đóng khung "để nhận personalized matches" + mystery-gift cho ai join SMS. Endowed-progress effect: bar gần đầy → sẵn sàng cho data hơn.
+[[spoiled-child-quiz-funnel-breakdown]] đi hướng ngược: **quiz 20+ câu** (symptom → fitness/protein → digestive/mood → prior-supplement-use → flavor preference → goals/age → skin/wrinkle → **slider mức độ nghiêm trọng** → attribution "nghe ở đâu") rồi MỚI xin email + phone (optional) ở bước cuối, đóng khung "để nhận personalized matches" + mystery-gift cho ai join SMS ([[sms-flows]]). Endowed-progress effect: bar gần đầy → sẵn sàng cho data hơn.
 
 Kỹ thuật net-new trong bộ câu hỏi: **slider mức độ nghiêm trọng** ("Nope" → "Help! It's serious") ép user LƯỢNG HOÁ đau bằng thao tác vật lý thay vì chọn ô — họ hàng với "cost expansion" ([[dtcquizbuilder-clickmaxx-quiz-5stage]]) nhưng bằng slider. **Social-proof interlude giữa quiz** ("5/6 users saw fewer wrinkles") chèn ngay sau cụm câu liên quan, không đợi result page — giữ momentum. **Prior-use question làm segment ẩn** (đã dùng collagen chưa?) tách new vs existing buyer cho offer khác nhau mà không hỏi thẳng.
 

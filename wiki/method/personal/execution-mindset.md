@@ -121,7 +121,7 @@ Cách "network" thật: *"Get very good at what you do. Watch your network magic
 
 Khi có cơ hội giúp người giỏi hơn mình: cho đi không đòi lại — từ chối payment khi được đề nghị đổi chác, gửi thiện chí không tính toán, giá trị nhận lại sau đó thường lớn hơn nhiều so với đổi ngang giá lúc đó. Ngược lại, khi được người đi trước giúp (cho xem cả brand/ad account/backend), việc đúng là nghĩ mình có thể ĐEM LẠI gì cho họ — không phải copy lại thứ vừa được cho xem. jforjacob từng bị 4 người anh giúp copy nguyên xi sau khi show hết — hậu quả: mất quan hệ dài hạn, không học được gì thật (chỉ copy), và giờ chẳng bao giờ được jforjacob giúp lần 2.
 
-Thực tế: đừng để hở playbook cho agency qua sales call — jforjacob từng thấy brand mình bị "nhái" ngay sau vài tuần trao đổi với agency, lần ra được là bạn của agency đó đã học lỏm. Nguyên tắc: nói càng ít càng tốt, giữ nhóm người tin cậy nhỏ, còn lại mặc kệ.
+Thực tế: đừng để hở playbook cho agency qua sales call ([[agency-ops]]) — jforjacob từng thấy brand mình bị "nhái" ngay sau vài tuần trao đổi với agency, lần ra được là bạn của agency đó đã học lỏm. Nguyên tắc: nói càng ít càng tốt, giữ nhóm người tin cậy nhỏ, còn lại mặc kệ.
 
 > [!warning] Đừng làm ăn/chia sẻ thông tin nhạy cảm với người đang tệ hơn mình về tài chính
 > Khi họ thấy cơ hội kiếm nhanh, đạo đức dễ bị gạt qua để có tiền ngay — kể cả bạn bè lâu năm. Giữ vòng tròn kín (water tight); đây là lát cắt bổ sung cho "cho đi không tính toán" ở trên — cho đi hào phóng với người CÓ integrity, còn phòng thủ thông tin nhạy cảm với người financial-desperate bất kể quen biết cỡ nào.
@@ -130,7 +130,7 @@ Thực tế: đừng để hở playbook cho agency qua sales call — jforjacob
 
 ## Tools không sửa được skill problem ([[dtcmidas-tools-dont-fix-skill-problems]])
 
-DTCMidas: đừng đi tìm tool để giải quyết vấn đề gốc là thiếu skill. 2 ví dụ lặp lại nhiều lần:
+DTCMidas: đừng đi tìm tool để giải quyết vấn đề gốc là thiếu skill (cùng nguyên lý [[ai-agent-automation-stack]] §Lỗi thường gặp — không automate được quy trình chưa có SOP). 2 ví dụ lặp lại nhiều lần:
 
 - **"Creator không perform / không tìm được creator tốt"** → advice sai thường gặp: "dùng Billo/Insense đi". Vấn đề thật: không biết cách source creator, viết brief rõ ràng, đàm phán rate tốt, onboard để họ thật sự excited về sản phẩm. Case Comfrt scale lên **$500M** với hàng nghìn creator — KHÔNG nhờ tool mới, mà nhờ nhiều năm build relationship, align incentive khi deal, train creator in-house, làm sản phẩm/mission thành thứ creator muốn nói tới.
 - **"Landing page không convert"** → advice sai: "dùng Replo, template đẹp". Vấn đề thật: không hiểu customer psychology, không biết xử lý objection nào, không structure được value proposition. *"You could technically sell any product with just a google doc if your copy is good."*

@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06, dtcmidas-ugly-ads-research-not-design, dtcmidas-13-beat-direct-response-ad-structure]
-updated: 2026-08-26
+sources: [native-statics-machine-guide, kittysupps-ugly-ads-teardown, kittysupps-swipe-lines, maxpro-operating-system, maxpro-skeleton-and-banks, maxpro-elle-birdie-winning-native, mathew-ecommaxxer-native-primary-text-8-step-prompt, kittysupps-adlib-census-2026-06, dtcmidas-ugly-ads-research-not-design, dtcmidas-13-beat-direct-response-ad-structure]
+updated: 2026-08-27
 ---
 
 # Long-form "ugly native" advertorial method
@@ -129,3 +129,20 @@ Bản trên dựng từ mẫu 29. Census đầy đủ 06/2026 ([[kittysupps-adli
 2. **Mechanism-elasticity** — cùng taurine→bile kể lại cho mọi triệu chứng (nôn/da/tim/thận).
 3. **Two-stage reveal** — tiết lộ cơ chế sai-nguy-hiểm trước → sản phẩm thành đường an toàn duy nhất (mạnh hơn false-close 1 lớp).
 Định lượng: median **3,110 từ**, **98% static IMAGE**, 100% đổ về 1 SKU.
+
+## Nâng cấp: skeleton này là tầng COPY, còn thiếu tầng PRODUCTION ([[native-statics-machine-guide]])
+Trang này dạy viết 1 bài native cho tốt. Guide The Native Statics Machine trả lời câu còn lại: **làm sao ship 30-50 cái/ngày** → [[native-statics-machine]] + [[native-copy-prompt-chain]].
+
+3 điểm bồi thẳng vào skeleton ở trên:
+
+**1. Triple P.S. = 3 close cho 3 kiểu reader** (Blood Pressure Journal, 496 ad live). Không phải 1 P.S. lặp lại offer mà **ba P.S. khác nhau**: cái đa cảm (tấm thiệp Giáng sinh mới), cái social-proof (thợ ảnh cũng mua một cái), cái logic (cách bảo hành hoạt động). Bồi vào beat close của skeleton 15-beat.
+
+**2. Proof = khoảnh khắc quan sát được, không phải phép đo.** Nhật ký tuần-qua-tuần: tuần 2 bàn tay trên quầy bếp, tuần 4 chị gái hỏi, tuần 6 bác sĩ nhìn lại lần hai. **Gần như không có câu nào review được** — vừa mạnh hơn con số vừa an toàn compliance ([[compliance]]).
+
+**3. Beat "Failed solutions" là beat nghiệp dư hay bỏ**, và cách làm đúng là **wrong-solution mechanic**: không nói "thứ bạn mua là đồ dởm" mà nói **"thứ bạn mua đang nhắm sai LOẠI vấn đề"** — cho phép mua tiếp mà không phải thừa nhận mình đã thất bại.
+
+> [!warning] Cập nhật 2026 mâu thuẫn với beat mechanism dài ở §Skeleton 15 beat
+> Guide chốt: **so sánh this-vs-that đơn giản giờ ăn đứt bài giảng sinh học 1,500 từ. Long root-cause essay đã có thời của nó; auction chuyển rồi.**
+> Vault đang chạy mechanism dài (KittySupps, MaxPro). **Chưa có số của mình để phân xử** → treo làm giả thuyết, test 1 cặp A/B (mechanism dài vs 1 bảng so sánh) ở batch MaxPro tiếp theo trước khi sửa skeleton.
+
+**Register:** cả 3 winner story-native ở board đều **không** dùng unhinged-confession có chửi thề như register khoá ở §Voice register — chúng dùng **calm-domestic-witness**: người vợ/người con kể lại một cảnh trong nhà, giọng bình tĩnh, sức nặng nằm ở chi tiết cụ thể chứ không ở nhiệt độ. Đây là register thứ 3 (sau unhinged-personal-confession và editorial-informational) — chọn theo audience state, đừng mặc định.

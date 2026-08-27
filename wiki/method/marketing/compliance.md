@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures, dtcmidas-shopify-payments-not-banned, 0xroas-rented-accounts-ops-rules]
-updated: 2026-07-17
+sources: [native-statics-machine-guide, maxpro-matrix-creative-guardrails, heusom-silent-groom-research, kittysupps-funnel-analysis, vysta-presell-build-guide, alexgoughcooper-static-ads-8-rules-newsletter, maxwellcopy-sweepstakes-offer-legal, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, advertising-jan-derila-ergo-native-funnel, advertising-jan-7-native-headline-structures, dtcmidas-shopify-payments-not-banned, 0xroas-rented-accounts-ops-rules]
+updated: 2026-08-27
 ---
 
 # Compliance: defensible vs fabricated
@@ -51,3 +51,19 @@ Cùng tinh thần "đừng mọc ra" — rented account càng nhạt càng sốn
 
 ## Teardown đỏ — claim mạnh học cấu trúc, KHÔNG bê claim
 3 teardown native ([[advertising-jan-hearing-aid-advertorial-evergreen]] · [[fotw-bencivenga-listicle-collagen]] · [[advertising-jan-derila-ergo-native-funnel]]) xài stack claim hung: "As Advertised On ABC/FOX/NBC", "70% increase in bone mineral density", Johns Hopkins, doctor-voice, fear cognitive-decline. Học **cấu trúc** (belief-shift, proof-stack, format editorial), KHÔNG bê claim — đúng loại false-evidence / health-claim Meta+FTC soi. **Native quality-score rule** ([[advertising-jan-7-native-headline-structures]]): headline hứa gì advertorial PHẢI giao — clickbait không match → Taboola/Outbrain **bóp reach**. Cùng tinh thần "1 UMP keystone defensible" của [[market-awareness]].
+
+## 3 ranh giới cho native/story ad (bảng swap, non-negotiable) ⭐ ([[native-statics-machine-guide]])
+Native sống gần tripwire hơn mọi format khác vì bản chất của nó là đọc như người thật nói chuyện.
+
+| Bay account | Scale sạch |
+|---|---|
+| **"Mỡ bụng CỦA BẠN" / "huyết áp CỦA BẠN"** — thuộc tính cá nhân chĩa vào reader | **Story của chính narrator:** "cái bụng của tôi", "màu da của ông ấy" — ngôi thứ nhất chở được thứ ngôi thứ hai không chở nổi |
+| **"Chữa", "đảo ngược", "thải độc", "giảm 20 điểm"** — outcome claim, kể cả khi nằm trong story | **Khoảnh khắc quan sát được:** bác sĩ nhìn lại lần hai, chị gái hỏi, lối đi được dọn tuyết — CẢNH, không phải phép đo |
+| **Sân khấu giả-organic đẩy quá đà** — persona bịa ra rồi phát ngôn y khoa | Founder thật, khách thật, hoặc giọng editorial rõ ràng kể chuyện thật kèm receipt |
+
+> [!important] Story format KHÔNG phải lỗ hổng claim
+> **Review đọc CHỮ, không đọc thể loại.** Thứ format thật sự mua cho bạn chỉ là **khung ngôi-thứ-nhất + proof dạng cảnh** — và thế là đủ: Blood Pressure Journal chạy 496 ad trên đúng hai thứ đó.
+
+**Steal từ operator hung hãn nhất:** mọi ad Ledisa (avatar rotation 3 nhân vật, 2 page, score 100) đều mang **full FDA disclaimer block cuối story**. Người chạy hệ persona mạnh nhất cũng là người kỷ luật nhất ở sàn pháp lý — đó là cách cái máy sống lâu. → [[personas]], [[native-statics-machine]].
+
+**Prompt swap claim mà giữ cấu trúc** (dùng khi winner có skeleton muốn lấy nhưng claim không dám chạy): [[native-copy-prompt-chain]] §Prompt 8 — nó bắt model liệt kê từng dòng đã đổi, bản gốc cạnh bản mới, để review đúng chỗ rủi ro được gỡ.

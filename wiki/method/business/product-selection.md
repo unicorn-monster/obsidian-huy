@@ -87,5 +87,6 @@ Cùng 1 người, cùng skill set, cùng process, cùng team — **stuck dưới
 ## Liên kết
 - Sau khi chọn product → build offer: [[offer-and-cta]] (4 lever Hormozi, bundle construction)
 - Research avatar trước khi chọn angle: [[market-awareness]] (awareness + sophistication)
-- Financial model CM1: [[wiki/method/business/]] (mảng finance — mở sau)
+- Financial model CM1: mảng `finance` — mở sau, chưa có trang
 - Lean ops khi product/funnel đã proven: [[growth-ops]]
+- Validate demand trước khi đặt hàng inventory: [[sourcing-and-fulfillment]]

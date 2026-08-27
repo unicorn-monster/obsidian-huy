@@ -111,7 +111,7 @@ Format mới từ @hookrate_ (chia sẻ trong cộng đồng AI ads của @0xROA
 > Script 4-part này khớp hoàn toàn với §4-step advertorial psychology ở [[presell-pages]] (validation → education → mechanism → product). Cùng 1 sequence, khác format (video vs text).
 
 ## Áp cho tôi (Maxpro / ecom video ad)
-1 video ad Maxpro nên route: demo mài móng (**proof**) → Kling · testimonial mặt-nói → Sora/Seedance · cutaway b-roll → Veo Lite 8s · nền → Seedance Mini. **Render silent + lay 1 VO** (giữ SFX chỉ ở beat tiếng grinder = bán "ultra-quiet"). Sửa 1 chi tiết → Gemini Omni thay vì re-render. → tactic UGC/broll ở [[creative-brief]].
+1 video ad Maxpro nên route: demo mài móng (**proof**) → Kling · testimonial mặt-nói → Sora/Seedance · cutaway b-roll → Veo Lite 8s · nền → Seedance Mini. **Render silent + lay 1 VO** (giữ SFX chỉ ở beat tiếng grinder = bán "ultra-quiet"). Sửa 1 chi tiết → Gemini Omni thay vì re-render. → tactic UGC/broll ở [[creative-brief]]. Lưu ý landmine ảnh/video AI bị nền tảng flag (Google đang siết ảnh ChatGPT/DALL-E/Sora) → [[compliance]].
 
 ## Canvas UGC distribution — phone-poster model ([[0xROAS-canvas-ugc-ai-workflow]])
 @0xROAS: sau khi production AI video xong, distribution model tiết kiệm nhất:

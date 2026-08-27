@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads]
-updated: 2026-08-26
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads]
+updated: 2026-08-27
 ---
 
 # Hooks
@@ -104,3 +104,29 @@ jforjacob: trong video retention, **hook làm ~90% công việc** — cơ chế 
 Hook bằng 1 **story thú vị HOÀN TOÀN không liên quan sản phẩm** → tie story đó vào problem đang giải quyết → sau đó hoặc CTA đến landing page giáo dục, hoặc tiếp tục kéo prospect xuống sâu hơn theo awareness stage. Ví dụ mẫu jforjacob cho: *"Năm 1946 có 1 nghiên cứu thú vị trên lính Đức sau WWII. Họ theo dõi 2 nhóm người..."* — 1 nhóm hồi phục, nhóm kia không → khác biệt hoá ra là 1 yếu tố cụ thể (giả sử bổ sung magnesium) → từ đó giáo dục CÁCH và VÌ SAO yếu tố đó hoạt động → đập các giải pháp khác không work → mới giới thiệu sản phẩm. ([[jforjacob-formula-for-truly-unaware-ads]])
 
 → Khớp trực tiếp [[market-awareness]] §unaware-pool (checklist viết unaware ad, Nick Theriot) — bổ sung 1 **formula cụ thể** (story-unrelated → tie-to-problem → educate → introduce) cho đúng loại ad đó, thứ mà trang kia mới dừng ở checklist chưa có full structure. MaxPro: story mở không nhắc chó/móng gì cả (VD 1 nghiên cứu về stress-response ở động vật hoang dã), tie vào "chó phản ứng với đau tương tự" → giáo dục cơ chế click-click-click → đập clipper/groomer → introduce MaxPro.
+
+## 125 ký tự đầu = TOÀN BỘ ad (canvas thật) ⭐ ([[native-statics-machine-guide]])
+Meta cắt primary text ở "…See more" quanh **125 ký tự**. Đó mới là canvas thật. **Body chỉ tồn tại cho những người mà dòng đầu đã bắt được** — nên mọi công sức tối ưu body trước khi hook pass là công sức đổ xuống sông.
+
+**2 cách hook chết:**
+1. **Đóng loop:** "Tôi chữa đau gối bằng collagen" — hết, không còn gì để đọc.
+2. **Pitch:** "Giới thiệu…" — guard dựng lên tức thì.
+
+**Mở loop thay vào đó:** *"Mẹ tôi dắt con chó đó đi bộ mỗi sáng suốt 11 năm. Rồi một thứ Ba, bà ấy dừng."* Không thể không muốn biết vì sao.
+
+### 4 pattern in tiền xuyên mọi niche (board 10 winner, score 98-100)
+| Pattern | Cơ chế | Vì sao ăn |
+|---|---|---|
+| **The confession** | Narrator tự thú thứ xấu hổ TRƯỚC | Guard của reader tụt xuống cùng lúc |
+| **The rage** | Nói to thứ reader vẫn chửi thầm | Được xác nhận = đọc thành sự thật |
+| **The double standard** | "Họ bảo bạn X, rồi họ làm Y" | Us-vs-them tức thì |
+| **The witness** | Narrator CHỨNG KIẾN nó xảy ra với người khác | Stake đi mượn, **zero claim về reader** → an toàn compliance |
+
+> [!important] Body thắng thì ĐỪNG viết body mới — viết hook mới
+> Đổi **CHỈ dòng đầu** qua 4 pattern trên, giữ nguyên body → auction đọc thành 4 ad khác nhau. Đây là biến thể rẻ nhất của [[hook-swap-method]] và là tầng 1 của prompt multiplier ở [[native-copy-prompt-chain]].
+
+### 2 hook-mechanic mạnh nhất từ teardown
+- **Obedience-failed** ⭐ — mở màn bằng nhân vật làm ĐÚNG mọi thứ rồi vẫn thua: *"Ông ấy làm đúng mọi thứ bác sĩ dặn. Bỏ muối. Đi bộ 3 dặm mỗi ngày. Uống đủ từng viên. Ông ấy chết vì suy thận."* Mạnh hơn thất-bại-do-lơ-là ở MỌI niche health, vì đó là cơn ác mộng thật của reader (không phải "tôi lười"), và nó biến mặc cảm tội lỗi thành sự chú ý.
+- **Insider vocabulary** — dùng từ vựng người trong ngành (faja, MLD, Arnica) làm **bộ lọc audience mạnh hơn mọi menu targeting**: người ngoài lướt qua, người trong đứng hình.
+
+**Prompt xây hook bank ở quy mô niche** (classify → rank → map entry level trống → viết 20 hook mới): [[native-copy-prompt-chain]] §Prompt 5.

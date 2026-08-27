@@ -34,7 +34,7 @@ jforjacob: default thought pattern đã đổi hẳn từ *"I need to hire a…"
 - **Competitor intelligence:** scrape tự động hàng ngày (Apify) giá/review/sản phẩm-mới/hoạt động ad-library đối thủ, so với snapshot hôm qua, phân tích sentiment, ra báo cáo Slack kèm đề xuất phản ứng chiến lược.
 - **Inventory:** forecast demand từ velocity 90 ngày + mùa vụ, tính ngày-tồn-kho-còn-lại/SKU, cờ SKU cần reorder, soạn PO đúng MOQ/ngưỡng ship supplier chờ duyệt, theo dõi ETA, cập nhật tồn khi nhận hàng.
 - **Content:** sinh full listing (title/bullet/meta/description 3 góc) từ phân tích pattern đối thủ dưới 1 phút; theo dõi CVR rớt theo SKU và tự draft/A-B-test title/ảnh/mô tả thay thế.
-- **Email:** dựng sequence welcome/abandon/win-back cá nhân hoá theo nguồn signup, theo dõi open/click/convert theo segment, đề xuất và chạy A/B subject-line/send-time.
+- **Email** ([[email-marketing]]): dựng sequence welcome/abandon/win-back cá nhân hoá theo nguồn signup, theo dõi open/click/convert theo segment, đề xuất và chạy A/B subject-line/send-time.
 - **Finance:** kéo dữ liệu Shopify+ad-platform+accounting mỗi đêm ra P&L/unit-economics hàng ngày (revenue/CAC/ROAS/margin vs target), cờ anomaly, phân tích lời-lỗ THẬT theo SKU (COGS+ship+processing+return+ad-spend phân bổ) để bắt sản phẩm đang lỗ ẩn.
 - **Supplier:** tự tạo và gửi PO khi trigger reorder, theo dõi ship qua email check-in định kỳ, cập nhật tồn khi nhận hàng — người chỉ can thiệp khi có ngoại lệ.
 
@@ -59,7 +59,7 @@ jforjacob: export data campaign top-spending 30 ngày từ Meta, đưa cho ChatG
 Tool hàng tháng: Claude Pro/API ~$20-100 + Supabase ~$25 + n8n ~$20-50 ≈ **$115-195/tháng**. Setup 1 lần: $3-5k thuê ngoài hoặc 40-80h tự làm. Lương claim thay thế: PPC manager $6k + CS 4 người $18k + ops manager $5.5k + copywriter $4.5k + email marketer $4k + financial analyst $6k = **$44k/tháng** → tiết kiệm ròng claim ~$43.8k/tháng ("30+ điểm margin"). Đòn bẩy thật phụ thuộc rất nhiều vào volume đơn hàng + quy mô team + tỉ lệ công việc thật sự SOP-hoá được — coi số này là minh hoạ, không phải benchmark đảm bảo.
 
 ## Lỗi thường gặp (tác giả tự nêu)
-Tự động hoá 1 quy trình CHƯA hệ thống hoá (không automate được thứ chưa có SOP — document trước). Context thiếu (instruction chung chung → output chung chung không khớp business). Không có người giám sát lúc rollout (lỗi cộng dồn âm thầm — chạy L1→L2→L3 tuần tự, giữ review người ~30 ngày trước khi giảm checkpoint). Cố tự động hoá MỌI chức năng cùng lúc (chọn 1, làm cho chạy, rồi mới mở rộng). Đánh giá thấp thời gian setup thật (claim 40-80h, không phải 1 cuối tuần).
+Tự động hoá 1 quy trình CHƯA hệ thống hoá (không automate được thứ chưa có SOP — document trước; cùng nguyên lý [[execution-mindset]] §Tools không sửa được skill problem). Context thiếu (instruction chung chung → output chung chung không khớp business). Không có người giám sát lúc rollout (lỗi cộng dồn âm thầm — chạy L1→L2→L3 tuần tự, giữ review người ~30 ngày trước khi giảm checkpoint). Cố tự động hoá MỌI chức năng cùng lúc (chọn 1, làm cho chạy, rồi mới mở rộng). Đánh giá thấp thời gian setup thật (claim 40-80h, không phải 1 cuối tuần).
 
 ## Trình tự rollout gợi ý
 Tháng 1: document quy trình, dựng agent L1 advisor đầu tiên (thường PPC hoặc CS — ROI cảm nhận cao nhất), nối 3 MCP đọc-only, dựng 5 skill đầu. Tháng 2: nâng L2 (quyền ghi + workflow tự động đầu tiên), nhân bản pattern cho chức năng thứ 2. Tháng 3: dựng L3 cho quy trình đã chứng minh an toàn ở L2, chuyển team sang vai trò giám sát.

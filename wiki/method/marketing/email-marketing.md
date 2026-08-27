@@ -283,7 +283,7 @@ maxwellcopy (2026-07-17): brands will increase ad spend thousands of dollars wit
 
 → MaxPro: nếu đang do dự tăng Klaviyo plan hoặc thuê email help, so sánh với số daily ad spend — nếu ad spend hơn 10× email invest, cần rebalance.
 
-## Workflow Claude Code cho production + mining data ([[is-this-the-end-of-email-agencies]])
+## Workflow Claude Code cho production + mining data ([[is-this-the-end-of-email-agencies]]) — [[ai-agent-automation-stack]]
 Case brand tự vận hành email (không agency), copy tốt = **+40% rev khi đang scale**. Không phải mẹo mới về COPY — là quy trình VẬN HÀNH bằng Claude Code, bổ sung cho §AI trong email ở trên:
 - **Setup:** viết copy tốt trước → dùng Claude convert thành template với CTA sẵn + 1 khung HTML chuẩn (chỉ header/footer cố định) → mọi email sau chỉ cần thay section, không dựng lại layout.
 - **Nối Claude Code với Klaviyo:** hỏi thẳng Claude Code cách connect API Klaviyo — làm theo bước nó đưa, xong trong vài phút.

@@ -173,7 +173,7 @@ Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] (agency scale Demand Gen 
 **Build mechanics** ([[dtcquizbuilder-primalvikings-listicle-10reasons]], 10-reasons supplement):
 - **Comparison table = anchor đầu trang:** không bán "X tốt" (đã tin sẵn), chỉ redirect belief sang mechanism mới — *"bạn chọn sai loại"* (concentration: frame trước khi argue).
 - **10-reasons pattern:** mỗi reason = "thứ bạn tưởng [đối thủ] làm tốt → [mình] làm tốt hơn, đây là vì sao."
-- **Awareness progression trên 1 trang:** Problem-aware → Mechanism-aware → Solution-aware → Product-aware (product page chỉ CHỐT, không educate lại).
+- **Awareness progression trên 1 trang:** Problem-aware → Mechanism-aware → Solution-aware → Product-aware (product page chỉ CHỐT, không educate lại). → [[market-awareness]].
 - **Launch sequence:** 1 broad page → ads nhiều angle → angle hứa hẹn nhất → build 1 page tailored riêng (= "new angle = new page").
 - **Segmented variants, same USP:** Jones Road 4 biến thể (general/mature/minimalist/busy-mom) · HollowSocks gendered — cùng USP, đổi reason nào nhấn theo persona → [[angles]], [[market-awareness]].
 
@@ -291,7 +291,7 @@ Cùng nguồn. §Ops ở trên mới nói "check page đang ngủ của chính m
 **Review-DOMAIN builder** ([[top5choices-seamoss-review-funnel-teardown]], verified): top5-choices chạy review page trên **GoHighLevel** (CDN `leadconnectorhq` + `filesafe.space`), offer trên **Shopify + GemPages** (long-form sale page, không PDP trơ), reviews Judge.me, cả 2 sau Cloudflare. Attribution = params `?refdomain=…&funnelid=…&cmc_vid=…` → 1 offer nhận nhiều review-domain, đo cái nào đẻ đơn = **mô hình media-buy/affiliate**. Domain **rời hẳn** rẻ + disposable + giấu brand tốt hơn `reviews.brand.com` (subdomain vẫn lộ brand).
 
 ## Advertorial 4-step psychology — logic builds trust, brand inherits it ([[ecomamin-advertorial-4step-psychology]])
-eCom_Amin: cùng keyword · cùng ad copy · cùng người click → 1 landing page cho 1.5× ROAS, cái kia cho 13×. Sự khác biệt duy nhất là **tâm lý sau click**. 80% non-branded Google traffic là problem-aware hoặc solution-aware — biết vấn đề, chưa biết bạn. PDP = ký hợp đồng ngay khi vừa gặp → bounce 3 giây. Advertorial fix bằng 4 bước tuần tự:
+eCom_Amin: cùng keyword · cùng ad copy · cùng người click → 1 landing page cho 1.5× ROAS, cái kia cho 13×. Sự khác biệt duy nhất là **tâm lý sau click**. 80% non-branded Google traffic là problem-aware hoặc solution-aware ([[market-awareness]]) — biết vấn đề, chưa biết bạn. PDP = ký hợp đồng ngay khi vừa gặp → bounce 3 giây. Advertorial fix bằng 4 bước tuần tự:
 
 1. **Validation** — mô tả struggle chính xác đến mức não đăng ký "người này hiểu mình." *"You fall asleep fine. The 3am wake-up is destroying you."*
 2. **Education** — tiết lộ nguyên nhân ẩn họ chưa biết. Một khi đã đầu tư nhận thức, rời trang = rời với hiểu biết chưa hoàn chỉnh về vấn đề của chính mình.

@@ -30,11 +30,11 @@ jforjacob liệt kê SaaS đang/đã dùng thấy thật sự đáng tiền ho�
 | First-party tracking | Upstack Data |
 | UTM tracking / profit tracking / AI agent | Triple Whale |
 | Social listening | Archive.com |
-| Subscriptions (low volume) | Seal |
-| Subscriptions | Loop |
+| Subscriptions (low volume) — [[subscription-retention]] | Seal |
+| Subscriptions — [[subscription-retention]] | Loop |
 | Parcel + PayPal tracking sync | Track123 |
 | Post-purchase upsell | Aftersell |
-| Chargeback management | Disputifier |
+| Chargeback management — [[growth-ops]] | Disputifier |
 | Bundles + offer testing | Kaching Bundles |
 | Split testing | Intelligems |
 | Split testing | Elevate |

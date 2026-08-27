@@ -79,7 +79,7 @@ Root cause: *"Customers having too much product is what kills most subscriptions
 2. Rebuild trong **Klaviyo** với framing khác: vẫn confirm order → nhưng **reaffirm product benefits + remind what subscription includes** + trông như email brand thật (không phải transactional)
 3. Khách vẫn bị charge — nhưng **không rage-cancel** vì context đã đổi
 
-**Billing-reminder A/B = −33% cancel (SUB-2, [[maxwellcopy-billing-email-ab-test-cancel]], confirmed [[maxwellcopy-billing-reminder-ab-test]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%** — xác nhận thêm bởi source mới (2026-07-09): *"Every brand we come into, we're able to significantly decrease Day 27 cancellations just by optimizing this one message."* Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email. Cơ chế = psych-of-framing (cùng họ mystery-discount [[email-marketing]] §1 — cách *nói* đổi outcome, không phải cái offer). → Khi có subscription: đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
+**Billing-reminder A/B = −33% cancel (SUB-2, [[maxwellcopy-billing-email-ab-test-cancel]], confirmed [[maxwellcopy-billing-reminder-ab-test]]):** email "bạn sắp bị charge, cancel ở đây" = **driver churn lớn nhất**. AB-test giảm cancel **−33%** — xác nhận thêm bởi source mới (2026-07-09): *"Every brand we come into, we're able to significantly decrease Day 27 cancellations just by optimizing this one message."* Luật: customize email **trong Klaviyo** (không trong subscription platform) · KHÔNG transactional — **reaffirm benefit** · **đừng đặt nút cancel cao** trong email (ranh giới dark-pattern/FTC click-to-cancel → [[compliance]]). Cơ chế = psych-of-framing (cùng họ mystery-discount [[email-marketing]] §1 — cách *nói* đổi outcome, không phải cái offer). → Khi có subscription: đây là tuần-1 quick win trước khi build bất kỳ retention tactic nào khác.
 
 **Good vs Bad billing reminder — framework cụ thể ([[maxwellcopy-billing-reminder-good-bad]]):**
 
@@ -215,7 +215,7 @@ Bổ sung + xác nhận các framework trên. **Rule 8** là insight MỚI chưa
 | 5 | **Sub-maxx PDP:** auto-select sub · 30+90 day option · aggressive discount | §take-rate (SUB-1) |
 | 6 | **Onboarding = habit + educate + community** — không push upsell sớm | §21-day framework |
 | 7 | **Không hứa kết quả nhanh** — sell 90+ day commitment trước khi thấy gì | §Phase-1 pre-frame |
-| 8 | **Không cho pause — chỉ delay hoặc cancel** ⭐ MỚI | — |
+| 8 | **Không cho pause — chỉ delay hoặc cancel** ⭐ MỚI (compliance risk → [[compliance]]) | — |
 | 9 | **Cancel incentives theo lý do:** too-much-product → skip/delay · price-worry → discount | §recovery 15-20% |
 | 10 | **Take rate ≠ win** nếu cancel trước Order 3 — track O-series | §4 metric O2/O4/O6 |
 

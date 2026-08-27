@@ -496,7 +496,7 @@ Cơ chế: paid structure feed clean, intent-matched traffic vào pages built đ
 Điều kiện để byproduct này xảy ra: intent-tier isolation nghiêm (TOF problem-aware → advertorial, brand-aware → PDP, không share landing page giữa 2 intent) + pages built để answer first, sell second. = 7-campaign structure + landing-page strategy ([[blvckledge-5-brands-1m-google-ads]]) áp đúng.
 
 ## AI media buyer — Fable 5 + Google Ads MCP ([[ecomamin-fable5-google-ads-mcp]])
-eCom_Amin (2026-07-07, $10M+ Google ads): kết nối **Fable 5** vào **Google Ads MCP** để tạo AI media buyer tự động hoá:
+eCom_Amin (2026-07-07, $10M+ Google ads): kết nối **Fable 5** vào **Google Ads MCP** để tạo AI media buyer tự động hoá (agent/automation setup nói chung → [[ai-agent-automation-stack]]):
 
 **Cái nó làm:**
 - Scrape search terms / campaigns / audiences / keywords 24/7
@@ -560,9 +560,9 @@ Nguồn: [[vysta-native-image-ads-demand-gen-scale]] (growwithvysta). Bổ sung 
 - **Kill kiểu gì (Step 2 thao tác):** Google Ads → campaign → ad group → tab **Ads** → thêm cột CTR, sort giảm → ad dưới bar **VÀ đã đủ impression** → **Pause/Remove** (KHÔNG xoá campaign; budget tự chảy sang ad sống) → lặp tới còn 1-3 ad. ⚠️ **Đừng kill trên impression quá ít** — "48-72h" là thời gian, cái cần là **đủ data** (~1-2k impression/vài chục click mới tin được tỉ lệ — *giả định, nguồn không cho số*). Max-Conv tự dồn impression về ad engagement cao nên ad yếu dễ bị bỏ đói → chỉ kill khi nó đã được đấu công bằng. Case vysta đốt **$1-3k/Days 1-3** để cả batch đủ data.
 - **Chia adset/ad khi nào:** batch test creative thuần = **1 ad group** (audience giống hệt → chênh CTR thuần do hình). Chỉ **tách campaign theo angle** khi angle dẫn tới **landing khác nhau** (informational→advertorial / comparison→review / offer→sale, theo §3-angle) — không share ad group được. → **MaxPro:** cả batch về 1 advertorial [[maxpro-top5-review-funnel]] (4pawsreview) = cùng informational = **1 campaign / 1 ad group / ~20 ad**, ~$100-150/ngày. Ngưỡng kill: task queue dùng **<3%** (rộng hơn bar vysta <5%) — kill <3% ngay, giữ 3-5% để làm biến thể batch sau. Style thêm ngoài cartoon/news/curiosity: **ugly candid iPhone** ([[ugly-ads-method]]).
 - **⚠️ ĐO SAI = giết winner/scale loser:** **KHÔNG** judge Demand Gen bằng in-platform ROAS (under-report + convert trễ + attribution window hụt). Stack đo: CTR (Google, đọc nhanh hằng ngày) · **New-Customer CAC + NC ROAS (Triple Whale/Northbeam)** · **top-line Shopify = source of truth** (spend tăng mà Shopify không nhúc nhích = đang cannibalize/retarget khách cũ, không phải net-new). → khác biệt lớn với cách đọc Meta.
-- **3 disapproval hay gặp:** misleading claims ("guaranteed", "lose 10 lbs") → soften, để advertorial gánh proof · before/after → blur/bỏ "before", focus "after" hoặc mechanism (Discover khắt khe hơn placement khác) · too-much-text → 1 dòng overlay, text <20%. **Fix asset + re-upload RỒI mới appeal** (appeal trên creative hỏng = Google flag account tái phạm).
+- **3 disapproval hay gặp:** misleading claims ("guaranteed", "lose 10 lbs") → soften, để advertorial gánh proof · before/after → blur/bỏ "before", focus "after" hoặc mechanism (Discover khắt khe hơn placement khác) · too-much-text → 1 dòng overlay, text <20%. **Fix asset + re-upload RỒI mới appeal** (appeal trên creative hỏng = Google flag account tái phạm). → [[compliance]].
 
-## YouTube VIDEO Demand Gen — scale playbook + benchmark bar (vysta) ⭐ net-new (video, không phải image)
+## YouTube VIDEO Demand Gen — scale playbook + benchmark bar (vysta) ⭐ net-new (video, không phải image) — [[youtube-ads]]
 Nguồn: [[vysta-youtube-demand-gen-scaling]] (growwithvysta). §Demand Gen ở trên + §Native image ads = **image**; đây là **video** Demand Gen với benchmark cứng — dùng khi có creative video (60-90s). Subtype: **Demand Gen (Video Focused)**, goal Conversions, bidding **Max-Conv → tCPA khi stable**.
 - **Placement — cắt rác TRƯỚC (weak placement giết ROAS):** **TẮT optimized targeting** (đốt budget trừ khi đã >$5-10k/day) · exclude mobile-app placement + YouTube Kids + Discovery/Gmail/Display partners + low-quality foreign geo · **giữ chỉ** YouTube in-stream/in-feed/shorts · build **custom exclusion list 2,000+ junk channel, update hằng tháng**.
 - **Audience — tự engineer, KHÔNG tin Google "optimization":** in-market **narrow purchase-driven** categories + **competitor-URL custom segment** (serve cho người đã ghé site đối thủ); tránh auto-expansion + affinity (quá rộng cho TOF); **1 audience group/campaign** = clean signal.
@@ -571,7 +571,7 @@ Nguồn: [[vysta-youtube-demand-gen-scaling]] (growwithvysta). §Demand Gen ở 
 - **Structure + scaling:** min **$100/day** ($200 preferred cho data flow đều), **1 ad group/campaign × 5 creative**, cùng thumbnail format. Targeting sequence: **broad → +lookalike broad → +lookalike narrow → in-market → custom keyword** (nếu chưa stable ngày 7-10, đi từ tự-do-max xuống controlled-intent). Retargeting = **campaign RIÊNG** (30-45s direct-offer, less education more urgency; YouTube viewer 30d + site visitor + ATC-no-purchase) — không trộn để khỏi bẩn cold data/CAC.
 - **Presell bonus (35-100% lift scale):** cold → **presell** → product page (không thẳng PDP); retarget người hit presell mà không mua. Dùng khi product cần education / AOV >$50 / native storytelling / cold-CAC stuck nhưng on-site CVR ổn. Presell "warm-up" giúp YouTube traffic hành xử như paid-advertorial traffic. → [[presell-pages]].
 
-## TOF cross-channel halo — YouTube nâng cả funnel (echelonn TOF Machine) ⭐ data
+## TOF cross-channel halo — YouTube nâng cả funnel (echelonn TOF Machine) ⭐ data — [[youtube-ads]]
 Nguồn: [[echelonn-tof-machine-youtube-search]] (echelonn/$20M+). Bằng chứng số cho "YouTube không chỉ awareness": user **xem YouTube ad rồi** có **+34% Shopping CVR · +28% AOV · nhiều branded-search/direct return hơn** — kể cả không mua ngay, họ **nâng performance toàn funnel** (khớp §demand-CAPTURE: Meta/YouTube gieo → Google bắt). **$1.2M AUD từ cold YouTube**, **$406k từ traffic bỏ quên nhiều năm**.
 - **TOF Search = informational-kw layer:** với MỖI commercial keyword có **5-10 informational keyword** volume cao hơn + competition thấp hơn ("how to lose belly fat", "natural ways to reduce bloating"). Click rẻ tới **$0.07**. Người search intent cao, cạnh tranh thấp — bắt bằng đúng message = convert. (= cold-funnel #1 + §16-stream #9 ở trên, thêm 1 nguồn xác nhận.)
 
@@ -795,7 +795,7 @@ eCom_Amin (2026-08-21): mở incognito window và search brand của mình trong
 > [!tip] Áp cho MaxPro ngay
 > Search "dog nail grinder", "how to grind dog nails at home", "dog scared of nail clipper" — bạn có hiện không? Problem query = nguồn cold traffic rẻ nhất chưa được khai thác. Screenshot kết quả = roadmap 30 ngày tiếp theo.
 
-## YouTube Shorts = creative parity với Meta — compound ecosystem 1 cú ([[ecomamin-meta-google-compound]])
+## YouTube Shorts = creative parity với Meta — compound ecosystem 1 cú ([[ecomamin-meta-google-compound]]) — [[youtube-ads]]
 eCom_Amin (2026-08-21): *"Google spent the last two years building a SECOND Meta inside YouTube and almost nobody in ecom noticed."*
 
 **YouTube Shorts 2026 = social feed thật:** same swipe behaviour · same creative logic · same hook rules · same UGC aesthetic thắng over polished brand video. Creative đã validate trên Meta → transfer sang YouTube Shorts với **~20 phút reformatting** — giết objection "chúng tôi không có creative cho Google."

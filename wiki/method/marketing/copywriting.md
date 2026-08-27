@@ -5,11 +5,11 @@ updated: 2026-08-26
 
 # Copywriting — DR fundamentals
 
-Trang gốc về **nguyên lý viết bán hàng** (psychology + mechanics), tách khỏi implementation: hook cụ thể → [[hooks]], góc → [[angles]], offer/CTA → [[offer-and-cta]], long-form → [[long-form-native-ads-copy skill]]. Nguồn xương sống: **Sam Parr** (founder The Hustle, co-host MFM) — masterclass "Become a Dangerously Good Writer" ([[sam-parr-copywriting-slippery-slope]], [[sam-parr-copywriting-storytelling-rhythm]], [[sam-parr-repurpose-bad-ads]], [[sam-parr-objections-price-personality]], [[sam-parr-copywork]]). Sam tự nhận gần hết là "stolen" từ Ogilvy + Joe Sugarman + pickup-artist books — tức đây là **DR kinh điển đã lọc**, không phải mẹo mới.
+Trang gốc về **nguyên lý viết bán hàng** (psychology + mechanics), tách khỏi implementation: hook cụ thể → [[hooks]], góc → [[angles]], offer/CTA → [[offer-and-cta]], long-form → `long-form-native-ads-copy` skill. Nguồn xương sống: **Sam Parr** (founder The Hustle, co-host MFM) — masterclass "Become a Dangerously Good Writer" ([[sam-parr-copywriting-slippery-slope]], [[sam-parr-copywriting-storytelling-rhythm]], [[sam-parr-repurpose-bad-ads]], [[sam-parr-objections-price-personality]], [[sam-parr-copywork]]). Sam tự nhận gần hết là "stolen" từ Ogilvy + Joe Sugarman + pickup-artist books — tức đây là **DR kinh điển đã lọc**, không phải mẹo mới.
 
 ## 1. Copywriting = tâm lý, không phải chữ ⭐
 Hai định nghĩa Sam: (a) *không phải viết chữ — là hiểu người ta muốn gì và làm sao khiến họ làm điều mình muốn, RỒI mới chọn chữ*; (b) *"getting what's in my head into yours and influencing your behavior."*
-- Mục tiêu **KHÔNG phải 100% người mua** — là đúng người đọc hết ad, rồi một phần lớn trong số đó mua. "No one will read this, it's too long" = sai chẩn đoán; đúng ra là *"nó không đủ interesting"*. → biện hộ cho long-form ([[long-form-native-ads-copy skill]], [[presell-pages]]).
+- Mục tiêu **KHÔNG phải 100% người mua** — là đúng người đọc hết ad, rồi một phần lớn trong số đó mua. "No one will read this, it's too long" = sai chẩn đoán; đúng ra là *"nó không đủ interesting"*. → biện hộ cho long-form (`long-form-native-ads-copy` skill, [[presell-pages]]).
 - **Weak / good / great copy** ([[ecomchasedimond-copy-result-moment]], Chase Dimond): weak copy tả *sản phẩm* · good copy tả *kết quả* · **great copy tả khoảnh khắc họ nhận ra nó đã hiệu quả**. *"People don't buy products. They buy the feeling of being right."* → khớp dream-outcome "felt not stated" ở [[offer-and-cta]].
 
 ## 2. Slippery slope (Joe Sugarman) — trục xương sống
@@ -44,13 +44,13 @@ Câu ngắn, câu vừa, câu dài, câu ngắn. Đừng ramble cùng một đ�
 - Buffett: giải thích thứ cực phức tạp bằng câu đơn giản; độ dài câu TB trong thư thường niên tụt **25 → 17 chữ**. Constraint → clarity.
 
 ## 9. Kill your darlings / write with your eraser
-Viết draft xong **cắt 1/3, rồi cắt 1/3 nữa, rồi cắt tiếp**. *"Write drunk, edit sober."* Ogilvy: *"Tôi là writer tệ nhưng editor giỏi."* Cắt bước bạn nói đúng thứ cần nói, không lan man clause. → cùng tinh thần [[humanizer skill]] (cắt filler, negative parallelism).
+Viết draft xong **cắt 1/3, rồi cắt 1/3 nữa, rồi cắt tiếp**. *"Write drunk, edit sober."* Ogilvy: *"Tôi là writer tệ nhưng editor giỏi."* Cắt bước bạn nói đúng thứ cần nói, không lan man clause. → cùng tinh thần `humanizer` skill (cắt filler, negative parallelism).
 
 ## 10. Story, story, story ⭐
 Không có "quá dài", chỉ có **"quá chán"**. Cách interesting nhất = biến thành story (mở - thân - kết + chút tension).
 - WSJ *"Tale of Two Boys"* chạy **28 năm, >$2 tỷ** doanh thu. Sam ăn cắp nguyên xi cho publication Trends của The Hustle, "twist 3%", và nó crush.
 - **Customer = HERO, brand = GUIDE** (Hero's journey / StoryBrand) — WSJ là người dẫn cậu bé thành công. Đừng để brand làm hero.
-- **"But / therefore" (Trey Parker/South Park):** mỗi beat nối bằng *but* hoặc *therefore*, KHÔNG phải *"and then"* (and-then = liệt kê rời rạc, chán). = động cơ nhịp của [[long-form-native-ads-copy skill]].
+- **"But / therefore" (Trey Parker/South Park):** mỗi beat nối bằng *but* hoặc *therefore*, KHÔNG phải *"and then"* (and-then = liệt kê rời rạc, chán). = động cơ nhịp của `long-form-native-ads-copy` skill.
 - **Failed solution / absolve guilt:** thay vì nhồi benefit, gỡ tội cho người xem — *"Bạn đã thử giải quyết bằng X nhưng không được. Đó không phải lỗi của bạn, chỉ là thiếu đúng nguyên liệu."* Bắc cầu sang phần sau. → = "not your fault" ở [[angles]], [[market-awareness]].
 - **Vì sao story bypass được "guard" của cold traffic** ([[dtcmidas-storytelling-ads-algorithm-reward]]): não người tiến hoá để hiểu thế giới qua story (Hy Lạp cổ giải thích sấm sét bằng Zeus), không phải fact — nên 1 ad kể chuyện tránh được phản xạ "trông giống ad → lướt qua ngay." Cơ chế hoá học: story kích **dopamine** (giữ chú ý + trí nhớ) + **oxytocin** (xây trust) — kể "sản phẩm tôi tốt nhất cho X" thì bị resist, nhưng để reader TỰ đi tới kết luận đó qua story thì không. **Hệ quả thuật toán (không chỉ tâm lý):** story giữ chú ý + engagement cao → platform coi là content người ta MUỐN xem → đẩy vào audience LẠNH hơn (không chỉ pool đã in-market) + CPM thấp hơn — ad bán cứng chỉ với tới pool nhỏ đã sẵn sàng mua. Reader vào funnel qua story đã tự tin vào giải pháp trước khi thấy trang bán. **3 format story đang chạy tốt nhất (2026-07):** AI Animation Ads (nhiều biến thể/style khi message đã chốt) · Yapper Ads (talking-head kể chuyện) · Native statics + long-form copy ([[native-ads]], [[ugly-ads-method]]).
 
@@ -142,7 +142,7 @@ Lý do: để AI viết copy **thực sự chạy được**, bạn phải biế
 **1 dòng cuối prompt để nâng chất lượng copy AI** ([[jforjacob-one-line-makes-ai-write-better-copy]]): jforjacob — kết thúc MỌI prompt copywriting cho AI bằng câu *"make this the best you possibly can with absolutely no room for improvement"* — claim: "10x's the quality of the result I get back every time". Không thay được §15 (judgement vẫn là nhân tử quyết định output tốt hay không) — đây là 1 tactic tầng prompt-wording bổ sung, rẻ, luôn đáng thêm vào cuối bất kỳ prompt copy nào bất kể đã có judgement tốt hay chưa.
 
 ## Meta-note (Sam về chính mình)
-*"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần [[direct-response-copy skill]]: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
+*"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần `direct-response-copy` skill: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
 
 ## Claim + receipt — mỗi claim tạo 1 câu hỏi, receipt trả lời nó ([[ecomchasedimond-claims-receipts-framework]])
 ecomchasedimond: mọi marketing claim tạo ra câu hỏi trong đầu reader. "Fast" → How fast? "Trusted" → By whom? "Easy" → What do I have to do? "Better" → Compared to what? Copy tốt **trả lời câu hỏi đó TRƯỚC khi reader phải hỏi**.

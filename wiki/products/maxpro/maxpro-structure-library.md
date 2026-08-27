@@ -16,7 +16,7 @@ Index 72: Peer 32 · Institution 20 · Expert 15 · Cause 5. Seed ≥60d: 29.
 
 > 1. Giữ **xương tu từ + emotional trigger** của hook KS. Đừng đụng cấu trúc.
 > 2. Chỉ thay **danh từ**: villain (taurine→grinder), subject (cat→dog), pain (kidney→móng dày/quick).
-> 3. **Số phải THẬT** (bịa→proof Maxpro: 18,587 / 40dB / 150lb / 99-day). Số cụ thể lẻ > số tròn (Ogilvy/Hopkins).
+> 3. **Số phải THẬT** (bịa→proof Maxpro: 18,587 / 40dB / 150lb / 99-day) — landmine "bịa số" → [[compliance]]. Số cụ thể lẻ > số tròn (Ogilvy/Hopkins).
 > 4. Giữ **nhịp + line-break + peak word** (chửi kiểm duyệt, ALL-CAPS chỗ KS nhấn).
 > 5. Giữ **LOẠI hook** (warning / shock-number / forbidden-truth / rant / direct-challenge / authority-demotion).
 
@@ -76,7 +76,7 @@ Index 72: Peer 32 · Institution 20 · Expert 15 · Cause 5. Seed ≥60d: 29.
 ## ▶ PORT sang Maxpro — Carol the Honest Groomer
 
 ### Re-staged skeleton (slot đã cắm)
-`[cheap-villain]` = nail grinder rẻ Amazon / PediPaws / Dremel · `[authority]` = 15 năm groomer, hàng trăm chó/tuần · `[niềm-tin-cũ]` = "máy nào cũng được, cứ review cao là mua" · `[cơ chế test]` = 11 máy trên bàn groom (KHÔNG lab) · `[con số]` = bog down móng dày, drum giấy nhám nóng cháy quick, ồn >40dB chó hoảng · `[product+spec]` = MaxPro diamond drum, dưới 40dB, two-speed, xử móng dày đen large tới 150lb · `[proof]` = chó ngủ gật, 18,587 review thật, Denver, 99-day · `[criteria]` = đủ mạnh / êm / không cháy quick.
+`[cheap-villain]` ([[villains]]) = nail grinder rẻ Amazon / PediPaws / Dremel · `[authority]` = 15 năm groomer, hàng trăm chó/tuần · `[niềm-tin-cũ]` = "máy nào cũng được, cứ review cao là mua" · `[cơ chế test]` = 11 máy trên bàn groom (KHÔNG lab) · `[con số]` = bog down móng dày, drum giấy nhám nóng cháy quick, ồn >40dB chó hoảng · `[product+spec]` = MaxPro diamond drum, dưới 40dB, two-speed, xử móng dày đen large tới 150lb · `[proof]` = chó ngủ gật, 18,587 review thật, Denver, 99-day · `[criteria]` = đủ mạnh / êm / không cháy quick.
 
 ### Full body Maxpro (hook lead `[A]`)
 
