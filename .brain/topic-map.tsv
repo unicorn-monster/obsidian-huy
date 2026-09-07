@@ -79,6 +79,16 @@ benchmark churn rate agency maxwellcopy july 2026 maxwellcopy-agency-july-stats	
 9-figure brand service model khac hoan toan maxwellcopy-nine-figure-agency-complexity	wiki/method/marketing/agency-ops.md
 bai test duy nhat khi danh gia agency co kiem ra tien hon phi tra khong jforjacob-evaluate-agencies-roi	wiki/method/marketing/agency-ops.md
 cho agency du thoi gian truoc khi ket luan ket qua thang 1 khong phai ket qua that jforjacob-give-agencies-time	wiki/method/marketing/agency-ops.md
+aeo vs geo hai viec khac nhau can ca hai	wiki/method/marketing/ai-search-aeo-geo.md
+3 lop du lieu phai co mat o ca ba	wiki/method/marketing/ai-search-aeo-geo.md
+reasoning phase ai that su quyet dinh the nao p 7 8	wiki/method/marketing/ai-search-aeo-geo.md
+pillar 1 schema lam catalog may doc duoc p 12	wiki/method/marketing/ai-search-aeo-geo.md
+pillar 2 content viet de trich xuat khong phai de doc p 13	wiki/method/marketing/ai-search-aeo-geo.md
+pillar 3 trust signal geo p 14	wiki/method/marketing/ai-search-aeo-geo.md
+ucp readiness feed field cho agentic checkout	wiki/method/marketing/ai-search-aeo-geo.md
+mau thuan voi nhanh ugly-ads phan tuyen khong phai phai chon mot	wiki/method/marketing/ai-search-aeo-geo.md
+claim cua alex groberman khong phai cua microsoft	wiki/method/marketing/ai-search-aeo-geo.md
+ap dung cho maxpro uu tien theo cong suc loi ich	wiki/method/marketing/ai-search-aeo-geo.md
 luan diem goc	wiki/method/marketing/ai-video-production.md
 bang gia chuan-hoa per-second doc tu screenshot day du hon text	wiki/method/marketing/ai-video-production.md
 3 phat hien dang tien	wiki/method/marketing/ai-video-production.md
@@ -145,6 +155,7 @@ niche hop khong hop	wiki/method/marketing/bing-ads.md
 affluent professional profile tai sao ho convert ecomamin-bing-wealthy-buyer	wiki/method/marketing/bing-ads.md
 claim ve cua so co hoi giu nguyen nhu tuyen bo tac gia khong coi la fact chac chan	wiki/method/marketing/bing-ads.md
 meta bing demand capture 2 8k 20k 4 tuan case ecomamin-bing-ads-7x-roas	wiki/method/marketing/bing-ads.md
+microsoft dang gop bing copilot mmc thanh mot mat tran microsoft-aeo-geo-guide	wiki/method/marketing/bing-ads.md
 ranh gioi	wiki/method/marketing/compliance.md
 2 landmine double-confirmed boi ca 2 research	wiki/method/marketing/compliance.md
 guarantee trap heusom dinh maxpro phai tranh	wiki/method/marketing/compliance.md
@@ -411,6 +422,7 @@ lifestyle image quiz-embedded pdp 4x conversions cung budget ecomamin-quiz-pdp-l
 double css 25 auction power mien phi eu-specific ecomamin-google-untapped-strategies	wiki/method/marketing/google-shopping.md
 round number pricing trong shopping a b test xac nhan ecomamin-shopping-ad-format	wiki/method/marketing/google-shopping.md
 2 delta nho tu 48-laws ban amin ecomamin-48-laws-google-advertising	wiki/method/marketing/google-shopping.md
+feed gio co doc gia thu hai llm microsoft-aeo-geo-guide	wiki/method/marketing/google-shopping.md
 nguyen ly 1 hook engine giu skin thay	wiki/method/marketing/hook-swap-method.md
 3 buoc decompose lam voi bat ky hook nao	wiki/method/marketing/hook-swap-method.md
 worked decompose danh dau tung phan	wiki/method/marketing/hook-swap-method.md
@@ -674,6 +686,7 @@ format thu 6 long sales copy 2 000-5 000 chu ecomamin-6-google-ads-funnel-types-
 tim nguyen lieu funnel truoc khi dung 5 mo mo 2 la net-new	wiki/method/marketing/presell-pages.md
 advertorial 4-step psychology logic builds trust brand inherits it ecomamin-advertorial-4step-psychology	wiki/method/marketing/presell-pages.md
 hero section copy maxxing sell before cta maxwellcopy-hero-section-copy-maxxing	wiki/method/marketing/presell-pages.md
+doc gia thu hai cua presell page ai agent microsoft-aeo-geo-guide	wiki/method/marketing/presell-pages.md
 vi sao quiz arbitrage	wiki/method/marketing/quiz-funnels.md
 1-cau-hoi lam cua truoc advertorial dynamic headline hero theo dap an dtcmidas-can-a-one-question-quiz-lift-advertorial…	wiki/method/marketing/quiz-funnels.md
 consumer evolution tai sao personalization khong con optional dtcquizbuilder-quiz-funnel-personalization-scale	wiki/method/marketing/quiz-funnels.md
@@ -857,6 +870,7 @@ ugly checklist 6 8 moi dung	wiki/products/maxpro/maxpro-image-prompt-system.md
 kho raw-shot cho dog nails chon de gen	wiki/products/maxpro/maxpro-image-prompt-system.md
 andromeda distinctness	wiki/products/maxpro/maxpro-image-prompt-system.md
 luu y	wiki/products/maxpro/maxpro-image-prompt-system.md
+lop ai-readable con thieu tren toan bo page system microsoft-aeo-geo-guide	wiki/products/maxpro/maxpro-pages.md
 blueprint 4 tier	wiki/products/maxpro/maxpro-persona-network.md
 naming conventions tu de them vo han	wiki/products/maxpro/maxpro-persona-network.md
 5 page khoi dong phase 0 bio congruency cue	wiki/products/maxpro/maxpro-persona-network.md

@@ -1,8 +1,8 @@
 ---
 title: "MaxPro — page system (fill của personas voice-signature blueprint)"
 date: 2026-06-20
-sources: [maxpro-elle-birdie-winning-native, kittysupps-adlib-verbatim-skin]
-updated: 2026-06-22
+sources: [maxpro-elle-birdie-winning-native, kittysupps-adlib-verbatim-skin, microsoft-aeo-geo-guide]
+updated: 2026-09-07
 ---
 
 # MaxPro pages (fill)
@@ -20,3 +20,11 @@ Fill product-specific của blueprint [[personas]] (voice-signature). Mỗi page
 > ⚠️ Carol = **groomer, KHÔNG vet** → giữ stage 2-3 ([[market-awareness]]). Cause hợp pháp vì MaxiMutt donate thật (50% → shelter).
 > **Quy ước mỗi creative pack:** mở đầu bằng dòng *"Mirror: <page> = KittySupps <persona> (<slot>)"* + chạy build-routing (có row voice-congruence). Page mới = chọn slot trống → đặt tên theo convention [[personas]] → viết theo voice signature.
 > **BẮT BUỘC — mỗi pack kết thúc bằng §QA checklist run** (3 cái): primary text ([[ugly-ads-method]] §QA) · title-card ([[maxpro-headline-system]]) · image ([[maxpro-image-prompt-system]] 8-point). Bảng ✅/⚠️ + bằng chứng từng dòng. Còn ⚠️ = chưa được ship.
+
+## Lớp AI-readable còn thiếu trên toàn bộ page system ([[microsoft-aeo-geo-guide]])
+Bảng persona ở trên tối ưu **voice cho người**. Không page nào trong hệ hiện có structured data — nghĩa là với assistant/agent, cả funnel đang gần như vô hình. Việc cần làm, theo thứ tự công-ít-lợi-nhiều *(suy luận từ nguồn, chưa test — giả định)*:
+
+1. **Schema trước tiên trên [[maxpro-top5-review-funnel]]** — trang đã sẵn comparison table + Q&A + spec, chỉ thiếu markup `Product`/`Review`/`AggregateRating`/`FAQ`/`ItemList`. Đây là trang có tỉ lệ nội-dung-sẵn-có trên công-bỏ-ra cao nhất.
+2. **Biến VOC ([[maxpro-voc-insights]]) thành câu sentiment trích được** trên PDP — dạng *"highly rated for quiet operation on anxious dogs"* — thay vì để review thô. Đây là format AI copy nguyên vào câu trả lời.
+3. **Nhất quán feed ↔ PDP**: description trong GMC/MMC phải khớp description trên landing page; thêm `return_policy_labels` (99-day return đã là USP sẵn — [[maxpro-product-truth]]). Chi tiết feed ở [[google-shopping]].
+4. **Persona page vẫn giữ giọng riêng** — rule "consistent brand voice mọi touchpoint" của Microsoft KHÔNG áp cho hệ multi-persona này; xem phân tuyến ở [[ai-search-aeo-geo]] §Mâu thuẫn.

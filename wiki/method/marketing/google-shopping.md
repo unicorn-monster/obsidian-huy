@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping]
-updated: 2026-08-20
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes]
+updated: 2026-09-07
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -204,3 +204,13 @@ eCom_Amin: split test $39.99 vs $40 trên Australian brand — **$40 converted b
 ## 2 delta nhỏ từ 48-laws bản Amin ([[ecomamin-48-laws-google-advertising]])
 - **Urgency STRUCTURAL, không phải COSMETIC (Law 32):** "limited time offer" + countdown trong ad copy = trang trí, buyer bỏ qua. Thứ thật sự đổi CPC/CTR là **promotion feed qua Merchant Center** → listing tự hiện **was/now + badge special offer** ngay trong grid. Bồi §Promotions + pricing ở trên: anchoring không chỉ là con số, nó là **badge do Google render** (tín hiệu bên thứ 3, không phải brand tự nói). ⏱ nhớ lead-time duyệt promo 2 tuần ([[google-ads]] §BFCM).
 - **Feed title xoay theo mùa (Law 31):** nhét keyword mùa (`christmas gift for dad`, `summer …`) vào title Shopping **trong window rồi rút ra sau** — §Seasonal ở [[google-ads]] đã có budget/target/LP nhưng chưa có đòn feed-title này. Deploy qua **supplemental feed** để revert 1 nút (cùng cơ chế §3-từ-đầu-không-branded), đừng sửa feed gốc.
+
+## Feed giờ có độc giả thứ hai: LLM ([[microsoft-aeo-geo-guide]])
+Toàn bộ trang này đọc feed như input cho **Shopping ads**. Tài liệu chính thức của Microsoft cho biết cùng cái feed đó còn là input **xếp hạng của Copilot/Bing AI**: trong reasoning phase, feed là nơi cung cấp giá hiện tại, tồn kho và key spec — và ví dụ của họ kết luận sản phẩm **lọt top-3 recommendation vì feed cho thấy giá cạnh tranh + còn hàng**, chứ không phải vì trang viết hay. Nghĩa là mọi việc feed đã ghi ở trên (GTIN, item_group_id, attribute completeness, title front-load) giờ trả cổ tức ở hai kênh. Chi tiết cơ chế → [[ai-search-aeo-geo]].
+
+**Delta thực thi mới, chưa có ở các §trên:**
+- **Nhất quán 3 chỗ.** Giá trị phải khớp giữa feed ↔ schema JSON-LD trên site ↔ thứ khách nhìn thấy. Spec MMC nói thẳng: *"description trong feed phải khớp description trên landing page"* ([[microsoft-merchant-center-feed-attributes]]). Cùng họ với ranh giới price-baiting ở §GTIN — cùng loại phát hiện.
+- **`dateModified` + start/end date cho promotion** phải expose trong structured data, không chỉ nằm trong feed.
+- **UCP readiness** (nhóm attribute mới của MMC): `return_policy_labels` — return policy cấp store, Microsoft ghi **bắt buộc cho UCP/agentic checkout** — cùng `consumer_message_type` / `consumer_message_content` cho cảnh báo pháp lý.
+- **Lead-time ẩn:** đổi title / description / ảnh / product URL → item về **pending review tới 3 ngày làm việc**. Đừng sửa feed sát ngày launch (ăn khớp với lead-time promo 2 tuần ở §trên).
+- **`link` không được redirect** (dùng `ads_redirect`), domain product URL phải khớp domain store, và **robots.txt phải cho crawler Microsoft vào** — không thì ad không serve.

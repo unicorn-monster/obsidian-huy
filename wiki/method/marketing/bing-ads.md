@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer]
-updated: 2026-08-21
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer, microsoft-aeo-geo-guide]
+updated: 2026-09-07
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -88,3 +88,6 @@ Meta ad chạm ai đó đang dùng **Microsoft Edge** (default browser trên Win
 **Cảnh báo tác giả:** *"The window is open specifically because nobody is there. Once more operators figure this out, CPCs rise."* — cùng pattern Meta 2016-2018. → Tie §Claim về "cửa sổ cơ hội" ở trên (author's framing, nhưng case data 7x ROAS từ fresh account là thật).
 
 **Tie [[google-ads]] §5-traffic-leaks (Leak #5 = Bing gap, xác nhận cùng $2.8k→$20k case)** + §Ecosystem (Bing = demand pool song song, không cannibalize) — case 7x ROAS lặp lại ở 2 nguồn độc lập (eCom_Amin Q3 2026). Setup 15 phút = đòn bẩy có ROI cao nhất tính theo giờ bỏ ra.
+
+## Microsoft đang gộp Bing + Copilot + MMC thành một mặt trận ([[microsoft-aeo-geo-guide]])
+Trang này coi Bing là **kênh paid search cho audience senior**. Tài liệu chính thức 2026 của Microsoft Advertising cho thấy họ đang định vị lại: cùng một Merchant Center feed nuôi Shopping ads **và** câu trả lời của Copilot, và họ nói thẳng retailer "đã nắm phần lớn tín hiệu ảnh hưởng tới **xếp hạng Copilot và Bing**". Hàm ý cho ta: account Bing dựng theo §Setup ở trên đã kéo theo bề mặt AI-search miễn phí — chỉ cần feed và schema đủ chuẩn. Cơ chế + checklist → [[ai-search-aeo-geo]], phần feed → [[google-shopping]].
