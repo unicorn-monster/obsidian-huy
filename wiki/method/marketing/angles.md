@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example]
-updated: 2026-08-27
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture]
+updated: 2026-09-08
 ---
 
 # Angles
@@ -162,3 +162,19 @@ Matrix ở §Matrix grinder đang là angle × avatar × persona. Guide native-s
 ### 2 angle-mechanic mới cho bank
 - **Wrong-solution mechanic** — *"thứ bạn đã mua đang xử lý SAI LOẠI vấn đề"*. Khác hẳn "thứ bạn mua là đồ dởm": nó cho reader mua tiếp **mà không phải thừa nhận mình đã thất bại**. (Sandra Reynolds, post-lipo: chai Arnica $40 nhắm sai loại sưng.) Tie §Belief-shift diagnosis.
 - **Sell the relationship, not the product** — ở pet, vấn đề thật gần như không bao giờ là con vật mà là **ma sát giữa người với người quanh con vật**. Cattasaurus bán cat cave bằng story một cuộc hôn nhân đang căng, 961 ad live. → MaxPro chưa test góc này ([[maxpro-avatars]], [[villains]]).
+
+## "Bundles of do's" — ad chết thì đổi VIỆC bán, không đổi chữ ⭐⭐ ([[schwartz-rodale-method-lecture]])
+Schwartz gọi việc ad hết pull là **fatigue factor** và coi là **tất yếu**: bán rất mạnh lần 1, kém hơn lần 2, đủ nhiều lần thì chết. Phản xạ của mọi người là **viết lại quảng cáo**. Ông nói phản xạ đó sai.
+
+> *"A product is not a book. You do not sell books, you do not sell magazines, you do not sell newsletters — you sell bundles of do's. Functions. Things that the thing will do."* (1:11:06)
+
+**Cơ chế:** khi sản phẩm mệt, quay lại VÀO TRONG sản phẩm tìm **một BỘ VIỆC hoàn toàn khác mà nó làm được** — và về mặt hiệu lực, bạn đang bán một sản phẩm mới với cùng cái hộp.
+
+**Case Healing Foods (ông thắng như thế nào):** package cũ — bác sĩ chỉ ra 75 loại thực phẩm chữa lành nhất, củ cà rốt to trên bìa — ông gọi thẳng là *"một trong những copy và layout đẹp nhất tôi từng thấy trong đời"*. Cách duy nhất để cạnh tranh là **đi vòng hoàn toàn quanh nó**: vứt sạch mọi thứ writer trước đã làm, vào lại sách lấy **một bộ việc khác — food cures**, thứ chưa từng được nhấn, kèm quote bác sĩ chạy dọc lề. Và thắng. (Ông tự thêm: package cũ lúc đó cũng đã hơi mệt rồi — không nhận hết công về mình.)
+
+> *"Never say a product is dead unless you've exhausted all its bundles of do."* (1:11:52)
+
+**Dùng được ngay — bài tập liệt kê:** viết ra MỌI việc riêng biệt sản phẩm làm cho người ta, rồi đếm xem bao nhiêu việc **chưa bao giờ được dựng thành 1 ad**. Danh sách đó chính là mấy campaign kế tiếp.
+→ Đây là nguồn thứ 3 cho matrix, bên cạnh **avatar** và **awareness**: trục **job/function**. Tie §Matrix grinder (angle × avatar × persona) và §50-angle strategy ở trên — 50-angle nói *chọn product bán được 50 góc*; "bundles of do's" nói *cách MOI 50 góc đó ra khỏi product mình đã có*.
+> [!note] Áp cho MaxPro
+> MaxPro gần như luôn được bán bằng 1 job duy nhất: *cắt móng không làm chó đau/chảy máu*. Bộ việc chưa khai thác (kiểm chứng ở [[maxpro-product-truth]] trước khi dùng): mài móng mèo để khỏi cào sofa · giữ móng chó già không quặp gây đau khớp khi đi · dùng cho chó sợ tiếng bấm (job = **giữ bình tĩnh**, không phải cắt móng) · làm móng cho chó rescue chưa cho ai chạm chân · tiết kiệm phí groomer định kỳ (job = **tiền**, không phải đau). Mỗi cái là 1 product khác trên giấy.

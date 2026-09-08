@@ -1,6 +1,6 @@
 ---
-sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven, jforjacob-bottom-of-funnel-in-saturated-markets, jforjacob-track-spend-by-awareness-stage, jforjacob-awareness-stages-are-not-a-linear-scale, jforjacob-iterate-awareness-stage-not-just-hooks, jforjacob-belief-shifts-by-awareness-level, jforjacob-persona-desire-sophistication-awareness-angle-format, jforjacob-method-acting-audience-research, jforjacob-customer-surveys-are-mostly-bs, jforjacob-product-launch-research-process, dtcmidas-creative-diversity-to-scale-past-plateaus, dtcmidas-diversify-angles-formats-creators-pages, dtcmidas-deep-research-prompt-for-competitor-analysis]
-updated: 2026-08-26
+sources: [heusom-silent-groom-research, avcanthony-sophistication-ump-match, avcanthony-copy-that-prints-fundamentals, maxpro-elle-birdie-winning-native, carlweische-presell-listicle-7reasons, study-unaware-ads-nicktheriot, dtcmidas-awards-certifications, dtcmidas-awareness-sophistication-funnel-stages, dtcmidas-awareness-sophistication-funnel-stage-guide, dtcmidas-500k-month-4months, 9-figure-quiz-breakdown-liven, jforjacob-bottom-of-funnel-in-saturated-markets, jforjacob-track-spend-by-awareness-stage, jforjacob-awareness-stages-are-not-a-linear-scale, jforjacob-iterate-awareness-stage-not-just-hooks, jforjacob-belief-shifts-by-awareness-level, jforjacob-persona-desire-sophistication-awareness-angle-format, jforjacob-method-acting-audience-research, jforjacob-customer-surveys-are-mostly-bs, jforjacob-product-launch-research-process, dtcmidas-creative-diversity-to-scale-past-plateaus, dtcmidas-diversify-angles-formats-creators-pages, dtcmidas-deep-research-prompt-for-competitor-analysis, schwartz-rodale-method-lecture]
+updated: 2026-09-08
 ---
 
 # Market awareness + sophistication (grinder)
@@ -217,3 +217,20 @@ jforjacob: trong market đông đúc, đa số ads vẫn chạy problem/solution
 **Cho người mới bắt đầu/đang struggle:** cách dễ nhất là đi full bottom-of-funnel — từ ads tới ảnh sản phẩm tới landing page copy — "ăn ké" phần education tốn kém mà player lớn đã làm sẵn cho cả thị trường (feeder-fish strategy). Khi đã có scale mới quay lại làm sophisticated hơn, leo dần lên awareness cao hơn.
 
 → Reconcile với ladder Awareness/Sophistication/Funnel-stage ở trên: đây là lựa chọn **funnel-stage entry point** (BOF ngay từ đầu) khi sophistication của market đã cao — không mâu thuẫn với 3-trục, chỉ là 1 chiến thuật cụ thể khi trục sophistication ở mức cao.
+
+## Claim exhaustion — bản gốc của "sophistication" từ chính Schwartz ⭐⭐ ([[schwartz-rodale-method-lecture]])
+Cả thang sophistication ở trên là hậu duệ của **một chẩn đoán** Schwartz nói thẳng trong lecture Rodale (1:05:42–1:08:48), và bản gốc rõ hơn phiên bản đã bị truyền miệng:
+
+**Chẩn đoán:** mọi market đều đi tới chỗ *chỉ có ngần ấy cách nói bạn sẽ chữa được viêm khớp, ngần ấy số cân bạn dám hứa người ta giảm*. Cuối cùng **mọi claim nghe giống mọi claim khác — kể cả ad cũ của chính bạn** — và cả category nhoè thành tiếng ồn.
+→ Khi đó **claim không còn làm việc được nữa. MECHANISM phải gánh.**
+
+Đây chính xác là chỗ Level 3-4 ở trên nói "phải có unique mechanism", nhưng Schwartz cho **lý do cấu trúc**: không phải mechanism "hiệu quả hơn", mà là **claim đã cạn kiệt như một tài nguyên**. Nên đây là hiện tượng KHÔNG thể thoát bằng cách viết claim hay hơn — nó là tính chất của thị trường, không phải của copywriter.
+
+**Bằng chứng ông đưa — Boardroom / Mel Martin:** đọc 1 bullet của họ, **lời hứa gần như nhạt**: *không nên ăn gì trên máy bay*, *khi nào trả hoá đơn trễ vẫn ổn*. Dễ chịu, không hề áp đảo. Ông nói đa số copywriter không hiểu nổi vì sao chúng chạy tốt đến thế — câu trả lời là **mechanism ngầm mà người đọc buộc phải nhìn thấy**. Bullet ruột của ông: *"không thể lĩnh tiền một tấm séc chưa ký — đúng không? Sai. Xem trang 72."*
+
+> *"The more crowded a field becomes, the harder you have to twist."* — ông gọi độ lạ leo thang này là **twist**.
+
+**Hệ quả cho việc chọn góc ở market đã bão hoà:** không đi tìm claim TO HƠN (đó là leo thang mà ai cũng thua), mà đi tìm **mechanism LẠ HƠN gắn vào claim VỪA PHẢI**. Quy tắc kích thước của ông: *claim to → mechanism phải phẳng/dễ tin; mechanism lạ → claim phải khiêm tốn*. Claim to + mechanism lạ = **hoài nghi**, không phải tò mò.
+→ Cấu tạo hook cụ thể từ nguyên lý này (line 1/line 2, kỹ thuật "can't be done"): [[hooks]] §Schwartz. Khai thác góc mới khi claim cạn: [[angles]] §Bundles of do's.
+
+→ Tie §Market "saturated" → đi bottom-of-funnel ở trên: cùng chẩn đoán (sophistication cao), hai lối ra khác nhau — jforjacob chọn **đổi funnel-stage** (ăn ké education của player lớn), Schwartz chọn **đổi trục thuyết phục** (từ claim sang mechanism). Không loại trừ nhau; với MaxPro (nail grinder, market đông, claim "cắt móng không đau" đã nhàm) thì dùng cả hai: entry BOF + mechanism-led hook.

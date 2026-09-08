@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error]
-updated: 2026-08-26
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture]
+updated: 2026-09-08
 ---
 
 # Copywriting — DR fundamentals
@@ -199,3 +199,84 @@ jforjacob: study **TikTok** để lấy **format/hook** (cách mở, cách cắt
 - **"Save 30% off" là lỗi ngữ pháp phổ biến, đừng lặp lại**: đúng là *"Save 30%"* hoặc *"Get 30% off"* — 2 cấu trúc, không trộn. jforjacob: *"doesn't make any sense"* — lỗi nhỏ nhưng lặp khắp ecom copy.
 
 → Không thay thế QA content/structure (§1-§15) — bổ sung tầng cuối, ở mức TỪNG CÂU/TỪNG CHỮ: tự nhiên khi đọc to, đúng ngữ pháp offer, đúng idiom thị trường, đúng định dạng headline dễ skim.
+
+## 18. Schwartz method — quy trình gốc, không phải mẹo ⭐⭐ ([[schwartz-rodale-method-lecture]])
+Eugene Schwartz giảng cho nhân viên Rodale Press (1990s, 86 phút): 27/30 package thắng, ~8 triệu sách, ~$200M doanh thu cho 1 publisher, **làm 3 giờ/ngày**. Đây là nguồn GỐC của thứ mà Sam Parr/Ogilvy/Sugarman ở §1-§14 đang truyền lại — đọc trang này như tầng nền, không phải thêm 1 bộ tactic.
+
+### 18.1 "Copy không được VIẾT — copy được LẮP RÁP" ⭐
+> *"Copy is not written — copy is assembled. You are working with a series of building blocks."* (25:36)
+
+Building block = **claim**. Quy trình 8 bước thật của ông với 1 bản thảo 1,100 trang / 5 tuần:
+1. **Vứt mục lục đi** — không đọc. Không muốn bản đồ của người khác, muốn phần hay tự đập vào mặt mình.
+2. **Đọc từng trang, khoanh bút đỏ MỌI claim** — tối đa **1 giờ/ngày** (quá 1 giờ là hết đọc thật). Vì vậy mất 2 tuần.
+3. **Đánh máy hết phần khoanh** → 50-60 trang toàn lời hứa. Ông gọi đây là **"the vocabulary"** — nguyên liệu thô của mọi thứ sau đó.
+4. **Ghi ý tưởng lên giấy vụn khi đang đọc**, không hành động ngay.
+5. Chia file thành block (file to làm máy chậm → chính sự bực đó làm luôn vòng phân loại đầu tiên).
+6. **Viết TOÀN BỘ body mà KHÔNG có headline nào** — không headline, không subhead, không chữ to. Chỉ claim, xếp lại. Hết tuần 3.
+7. **Bây giờ mới chọn claim mạnh nhất để dựng envelope/headline** — headline được CHỌN từ vật liệu đã hoàn thành, không phải nghĩ ra trên trang trắng. Tuần 4.
+8. Rà lại toàn bộ đối chiếu sản phẩm gốc, đánh dấu chỗ thiếu. Giao tuần 5.
+
+**Test đã chuẩn bị đủ chưa:** *bạn có sửa được người LÀM RA sản phẩm về chính sản phẩm của họ không?* (Ông từng gọi điện trích trang 164 để cãi lại chính tác giả cuốn sách — và biết ad sẽ thắng ngay lúc đó.) Chưa làm được = chưa được phép viết.
+> *"The power of the ad is always in the product itself. It's not in the copywriter. The copywriter simply finds it and expresses it."* (15:30)
+
+**Hệ quả trực tiếp:** *bí chữ = chẩn đoán sai; thật ra là **thiếu block**.* Bí thì quay lại thu claim, đừng ngồi vặn câu.
+
+> [!warning] Mâu thuẫn có chủ ý với §4 "Headline = 80% ngân sách" — CHƯA reconcile
+> §4 (Ogilvy/Sam Parr): *viết hook TRƯỚC, đừng viết article rồi mới đặt headline.* Schwartz: **viết body trước, headline sau cùng, chọn từ claim đã có.**
+> Hoà giải khả dĩ: hai bên nói về hai pha khác nhau — §4 đúng ở pha **ideation/packaging** (biết mình bán góc gì trước khi tốn công), Schwartz đúng ở pha **sản xuất bản final** (dòng headline hay nhất là dòng được chọn từ 50 trang claim, không phải dòng nghĩ ra khi chưa biết sản phẩm). Cả hai đều chống lại thứ tự tệ nhất: viết body mà chưa biết claim nào tồn tại.
+> **Chưa test.** Cách test rẻ nhất cho MaxPro: 1 vòng creative làm đúng kiểu Schwartz (harvest claim từ [[maxpro-product-truth]] + review + VOC → viết body → CHỌN headline) và so với vòng làm kiểu §4.
+
+### 18.2 "Chữ là cửa kính" — được khen chữ đẹp là dấu hiệu SẮP THUA ⭐
+> *"Words in advertising are like the windows in a store. You must be able to look right through them and see the product. If you see the window, it's dirty… and you're going to lose."* (27:09)
+
+Người đọc phải nhìn XUYÊN QUA chữ để thấy sản phẩm. Ai khen "câu này hay quá, chữ đẹp quá" = họ nhìn vào cửa kính chứ không nhìn hàng. Bằng chứng của chính ông: *"Sneaky little arthritis tricks"* — 4 chữ, không chữ nào lạ, sức mạnh nằm hoàn toàn ở **tổ hợp** (= "connectivity", xem [[focus-and-deep-work]] §Schwartz).
+**QA dùng được ngay** (bổ sung §17): với từng dòng hỏi — *tôi tự hào vì nó NGHE hay, hay vì nó khiến người đọc THẤY gì?* Dòng tự hào vì âm thanh = dòng phải soi kỹ nhất.
+
+### 18.3 Mỗi dòng chỉ có 1 việc: kiếm được dòng tiếp theo ⭐
+> *"The headline has absolutely nothing in the world to do except one thing: get you to read the sentence underneath. The sentence underneath has absolutely nothing to do except get you to read the sentence that follows it."* (46:23)
+
+Ông ghét luật cũ ("headline phải BÁN, phải có power, phải đưa ra 1 lời hứa áp đảo"). Headline **không cần bán, không cần nêu tên công ty, không cần claim khổng lồ** — chỉ cần tạo **thói quen đọc**. Đây chính là slippery slope của Sugarman ở §2, nhưng ở dạng nguyên thuỷ và cực đoan hơn.
+**QA:** đọc bản nháp từng câu một, chỉ hỏi *câu này có làm câu kế tiếp trở nên bắt buộc không?* — bài test này sửa được nhiều copy hơn mọi vòng gọt câu cho hay.
+
+**Câu trả lời cho "copy nên dài bao nhiêu":**
+> *"The copy should be as long as you need to contain the claims and not bankrupt the company that sends you out."* (51:47)
+
+Kèm 1 điều kiện: vì người đọc có thể bỏ đi bất cứ lúc nào → **surface đầu tiên (envelope) và trang đầu, mỗi cái tự nó phải đủ hoàn chỉnh để ai đó chịu thử.** Và luôn chừa **lối thoát ra order form** ở mọi điểm (guarantee/trial làm việc đó — xem [[offer-and-cta]]). Hai độc giả chạy song song: người muốn đọc hết (chồng belief lên belief) và người sắp bỏ (đưa họ đường tắt tới mua).
+
+### 18.4 Viết cho 1 người, và chữ mạnh nhất là "you"
+> *"You're writing to an individual, a single person, always — who shares a problem or a desire with a huge mass of other people."* (53:19)
+
+Hai nửa đều bắt buộc: **1 người** giữ giọng thân mật; **vấn đề chung của hàng triệu** mới làm nó thành business. Người mới thường chỉ giữ 1 nửa (ấm áp nhưng nhắm vào không ai, hoặc lạnh lùng nhắm vào 1 demographic).
+> *"The most powerful word in the English language is not yes, and it's not free — it's you."* (54:04)
+
+**Pass cơ học chạy được trên mọi bản nháp:** đổi mọi **"the" → "your"** khi nói về đời sống người đọc. Không có *the hands*, *the face* — chỉ có **your hands, your face**. (Ông nói đây là việc đầu tiên ông làm khi biên tập copy người khác.)
+
+**Dùng TỪ VỰNG CỦA HỌ, kể cả khi mình không hiểu:** viết package arthritis, ông cố tình **nhồi càng nhiều thuật ngữ y khoa càng tốt** — vì người đọc đã đi bác sĩ nhiều năm và thất bại, những từ đó là từ CỦA HỌ. → *"Viết đơn giản"* nghĩa là **viết bằng ngôn ngữ của người đọc**, đôi khi kỹ thuật hơn ngôn ngữ của bạn, không phải đơn giản hơn. Tie [[hooks]] §Insider vocabulary (faja/MLD/Arnica) — cùng một cơ chế: từ vựng nội bộ = bộ lọc audience mạnh hơn mọi targeting.
+**Pass 2:** tìm 5 từ khách hàng thật sự dùng (review, support ticket, forum) và kiểm xem có từ nào xuất hiện trong copy không. Thường là không — vì đã bị thay bằng từ của ngành.
+
+### 18.5 Nhịp phim hành động — thư không phải chuỗi đoạn văn, là chuỗi headline ⭐
+Bấm đồng hồ xem *Lethal Weapon*: **~3 phút lại 1 cú nổ**, xen giữa là vài phút thoại chẳng có nghĩa gì, rồi lại nổ.
+> *"This letter is not a series of paragraphs. This letter is a series of headlines… every one of them can be taken and put up here. You've got to give them the punch."* (1:01:01)
+
+Lý do **melodramatic** — và đây là chỗ ông tử tế nhất: KHÔNG phải vì người đọc ngu (ông gọi khách của mình là *"the finest people in the world"*, dẫn chứng: gửi nhầm 2 cuốn sách thì người ta tự bỏ $2.50 gửi trả lại 1 cuốn). Mà vì **họ chỉ cho bạn MỘT PHẦN sự chú ý**:
+> *"It's like a painting on a wall. If you make the painting very small… they can't see it. So you make it very big, and with a great deal of contrast… So you have to be melodramatic — and be fair, and be honest, and fill your stuff with proof."* (1:04:54)
+
+**QA (bổ sung §17):** đánh dấu mọi điểm trong bản nháp mà thứ gì đó THẬT SỰ đấm trúng. Khoảng trống dài giữa 2 dấu = chỗ đang là đoạn văn trong khi lẽ ra phải là headline. Tie §8 rhythm + §5 open-loop mỗi ~8 giây (short-form) — cùng nguyên lý, khác đơn vị thời gian theo medium.
+
+### 18.6 Ham muốn ngầm — kể cả thứ họ không thừa nhận
+Hỏi cách bán newsletter đầu tư $99 cho người tử tế, ông trả lời 1 chữ: **Gekko** (Wall Street 1987). Ai đọc newsletter đó cũng muốn thành Gekko — quyền lực, hơi bất lương, mà vẫn đàng hoàng và không bao giờ bị bắt. Không phải hoài nghi con người, mà là **đủ đầy**: người ta bị dẫn dắt bởi những thứ họ không thừa nhận, giả vờ ngược lại làm copy yếu. Tie [[angles]] §Niche xuống tới cảm xúc + §Desire selection.
+
+> [!warning] Câu hỏi ông KHÔNG trả lời — và nó là câu quan trọng nhất
+> Package arthritis chạy được vì nó tìm ra **mặc cảm tội lỗi** của người đọc khi cãi lời bác sĩ, rồi giải quyết mặc cảm đó **theo hướng mua hàng** — trong 1 sản phẩm sức khoẻ. Đối trọng của ông là thật (fair, honest, đầy proof, tôn trọng khách). Nhưng ông **không bao giờ đặt ranh giới giữa GỌI TÊN 1 ham muốn ngầm và KHAI THÁC nó**. Ở niche health/money, phán đoán đó để lại hoàn toàn cho người viết. → giữ chung khung với [[compliance]].
+
+### 18.7 Ông không làm research (đọc cho đúng)
+Hỏi về audience research: không focus group, không demographic, không gì cả — *"extremely primitive"*. **NHƯNG:** ông mail 2 package cạnh tranh vào list thật và đếm đơn — đó là feedback loop cực khắt khe. Ông bác **việc hỏi trước xem người ta thích gì**, KHÔNG bác đo lường. Ai trích câu này để biện minh cho "ship theo cảm tính, không đọc số" là hiểu ngược. Thay cho research: 2 tuần trong vật liệu (§18.1) + cả đời cố ý nghe người thường (§18.8).
+
+### 18.8 Nghe — và mối nguy từ chính thành công của mình ⭐
+> *"The greatest asset after hard work is the ability to listen."* (57:09)
+
+Phải biết người mình xin tiền đủ rõ để **nói giống họ tới mức họ tưởng đang soi gương**. 3 tầng phải nghe: người có vấn đề → tầng lớp xã hội của họ → xã hội đó.
+**Cảnh báo tự soi:** ông sống 15 năm đầu ở Butte, Montana, rồi lên New York, thành "extremely sophisticated", giao du với người sophisticated — mà ông gọi thẳng là **horrible về mặt nghề nghiệp**, và phải liên tục cố thoát ra. Càng thành công càng trôi xa khỏi người mình bán hàng cho; **phải chủ động xây lại tiếp xúc, nó không tự xảy ra.**
+Homework list của ông (bản 1990s): National Enquirer đọc TỪNG CHỮ (*"there are your headlines, there are your people and their feelings"*), Vanity Fair + tabloid TV, mọi phim doanh thu $100M+ xem 2-3 lần, nhạc hit thập niên 50-60 (audience già) + top 10 teen hiện tại.
+> [!note] Áp cho MaxPro
+> Bản 2026 của "National Enquirer" cho pet/senior audience = review 1-3★ ở Amazon/Chewy ([[maxpro-voc-insights]]), group Facebook pet-owner, r/dogs. Đây đúng là thứ đã sinh ra breakthrough arthritis: ông đọc thư khách kỹ đủ để **nhận ra sự tội lỗi** — không phải "người ta muốn bớt đau".

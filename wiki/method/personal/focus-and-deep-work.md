@@ -1,6 +1,6 @@
 ---
-sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy, jforjacob-founders-information-diet, jforjacob-guard-your-attention-seek-boredom, jforjacob-most-productive-48-hour-cycle, dtcmidas-ice-scoring-daily-priorities, dtcmidas-making-decisions-at-40-percent-certainty, dtcmidas-single-reason-decision-model]
-updated: 2026-08-26
+sources: [timdenning-dangerously-focused, maxwellcopy-slack-founder-autonomy, jforjacob-founders-information-diet, jforjacob-guard-your-attention-seek-boredom, jforjacob-most-productive-48-hour-cycle, dtcmidas-ice-scoring-daily-priorities, dtcmidas-making-decisions-at-40-percent-certainty, dtcmidas-single-reason-decision-model, schwartz-rodale-method-lecture]
+updated: 2026-09-08
 ---
 
 # Focus & deep work (meta)
@@ -63,3 +63,44 @@ jforjacob: chu kỳ 48h năng suất nhất = thức xuyên đêm ngày 1 → ng
 **Vì sao 3 cái này là 1 bộ, không phải 3 mảnh rời:** ICE score trả lời "làm việc GÌ hôm nay" (ưu tiên trong đống việc đã biết phải làm), single-reason model trả lời "có nên bắt đầu 1 việc/quyết định MỚI không" (lọc option trước khi nó vào list), 40%-certainty là TÂM THẾ chạy nền cho cả 2 — chấp nhận sẽ không bao giờ chắc chắn hoàn toàn, nên vẫn quyết + ship thay vì chờ thêm data.
 
 → Tie §1 ưu tiên duy nhất ở đầu trang (Tim Denning) — ICE scoring là CƠ CHẾ CỤ THỂ hằng ngày để thực thi "nói không với gần như mọi thứ": thay vì chỉ là nguyên tắc trừu tượng, có công thức tính điểm để biết việc nào nên bỏ. Với Huy: đúng vào chỗ "Stuck on" — quá nhiều idea — dùng ICE để lọc list idea trước khi nó chiếm chỗ trong ngày.
+
+## Schwartz — timer 33.33 phút, và vì sao ông chưa bao giờ bí ⭐⭐ ([[schwartz-rodale-method-lecture]])
+Eugene Schwartz làm **3 giờ/ngày**, 27/30 package thắng, ~$200M doanh thu cho 1 publisher. Nguyên văn: qua 9 cuốn sách + 30 package + hàng chục cái khác, **chưa bao giờ bị writer's block**, chưa bao giờ nhìn trang trắng quá vài phút. (Phần copywriting của lecture: [[copywriting]] §18.)
+
+### Cơ chế thật không phải cái timer — mà là thứ ông GỠ BỎ
+Nghi thức: cùng một bàn suốt 28 năm, **luôn ở nhà, không bao giờ ở văn phòng**. Nhắm 9:30, thường bắt đầu 10:00. Lấy ra 3 cây bút. Một tách cà phê — và ông nói nghiêm túc rằng **bình kem nhỏ phải có mặt** để ông rót và khuấy. Mở file. Đặt **33.33 phút**. Bấm.
+> *"This is the Liberator. This is the thing that frees you from all the anxiety and all the lack of self-confidence in the world. It is a timer… I have no goal for the next 33.33 minutes except to work on the copy."* (22:33)
+
+Trong 33 phút đó: **1 quyền và 1 luật.**
+- **Quyền: KHÔNG PHẢI làm việc.** (Ông nói 2 lần.) Được ngồi. Được nhìn tường. Được uống cà phê rồi nhìn tường tiếp.
+- **Luật: không được đứng dậy, không được làm việc khác.** Kể cả viết tên mình.
+
+**Thứ phá thế bế tắc không phải ý chí — mà là SỰ CHÁN, và mất khoảng 1-2 phút.** Chán thì ông bắt đầu cuộn file. Có cái gì đó túm lấy ông: *claim này hay đấy, nhưng chưa đúng chữ — bỏ mấy từ này có hơn không?* Và thế là đang làm việc. Bài test, tiền, tiền nhà đều biến mất, vì **không cái nào từng là mục tiêu của 33 phút đó.**
+> *"You should be so absorbed that you shouldn't notice the time passing."* (24:06 — lý do timer phải KÊU TO)
+
+6 block = 3 giờ = **toàn bộ ngày làm việc**. Ba giờ là đủ vì phần chuẩn bị đã làm xong ở tầng khác ([[copywriting]] §18.1).
+
+> [!important] Điểm dễ hiểu sai nhất
+> Block có deliverable gắn vào **chỉ là một cái deadline ngắn hơn** — và sẽ có cảm giác y hệt như cũ. **Sự cho phép mới là hoạt chất.** Mục tiêu của phiên không phải "viết xong hook" mà là *"ở trong file 33 phút, được phép không sản xuất gì cả"*.
+> → Tie §Chủ động tìm sự nhàm chán ở trên ([[jforjacob-guard-your-attention-seek-boredom]]) — jforjacob dùng chán để **bảo vệ attention**; Schwartz dùng chán làm **động cơ khởi động**. Cùng một cơ chế, hai công dụng: não không chịu nổi trống rỗng, nên nó sẽ tự bám vào thứ gần nhất — vấn đề chỉ là bạn đặt cái gì gần nhất.
+
+### "Làm việc" và "sáng tạo" là 2 trạng thái khác nhau ⭐
+Giữa mỗi block là **5 phút nghỉ — và đó KHÔNG phải nghỉ ngơi, đó là nửa còn lại của phương pháp**, chỗ ý tưởng thật sự sinh ra.
+> *"When you're working you're not creating. The whole secret is to know when you're working, and leave work, and go on to creation."* (25:36)
+
+**Ông vứt chữ "creativity"** vì bên trong nó không có hình ảnh nào → không dùng làm chỉ dẫn được. Ông muốn **operational words** — chữ làm việc được. Thay bằng:
+> *"Creativity to me is what I call **connectivity** — the ability to take two ideas that already exist, that are in two different sentences or even in two different fields, and put them together, connect them."* (31:46)
+
+Bạn **không được yêu cầu triệu hồi thứ gì từ hư không**. Bạn được yêu cầu **ghép 2 thứ đã tồn tại** — và một cặp ghép chưa ai làm chính là thứ chặn người đọc lại.
+
+**Focused vs unfocused (ông cũng vứt "conscious/unconscious" vì mơ hồ):** phần chú ý tập trung giữ được **~7 thứ cùng lúc** — vì thế loài người mới phát minh ra kiểu viết chạy theo dòng, xuống dòng, chạy tiếp. Quanh 7 thứ đó là **một hồ vật liệu rộng hơn nhiều đang trôi lửng**. **Logic xảy ra trong 7 thứ. Kết nối mới xảy ra ngoài hồ.** → Cách duy nhất chạm tới hồ là **giao cho phần tập trung một việc không cần tới nó**.
+Bản thực dụng của ông (dễ copy hơn giai thoại Mozart-bi-a, vốn gần như chắc chắn là truyền thuyết): viết headline khi **cạo râu** nhiều hơn khi ngồi bàn · để sổ tay khắp nhà, **mang bút vào phòng tắm** · phần lớn ad và sách hay nhất viết **khi đi nghỉ**, trong lề sách của người khác, ngồi trước biển không làm gì.
+
+### Không bao giờ làm 1 việc một lúc — "creative triangle" ⭐
+Ông **luôn chạy 3 dự án song song** — 1 cuốn sách, 1 bài báo, 1 quảng cáo, mỗi thứ 1 giờ. Đó chính là chỗ 3 giờ đến từ đâu. Đang viết tiểu sử Chúa Jesus thì ý tưởng cho sách sức khoẻ tự nhảy ra. Trong lúc phần tập trung ở dự án A, phần không tập trung **âm thầm làm B và C** — ping-pong 3 chiều.
+
+> [!warning] Nghe như mâu thuẫn với "1 ưu tiên duy nhất" ở đầu trang — nhưng không cùng tầng
+> Tim Denning nói về **cái gì được vào ngày của bạn** (nói không với gần như mọi thứ). Schwartz nói về **cấu trúc của 3 giờ ĐÃ được chọn** (chia thành 3 track có chủ đích để phần vô thức làm việc chéo). Cái đầu là bộ lọc ĐẦU VÀO; cái sau là lịch thực thi. Ba dự án của Schwartz đều là dự án ông ĐÃ nói có — không phải 3 thứ ngẫu nhiên.
+> **Rủi ro cho Huy:** đúng chỗ "Stuck on — quá nhiều idea". Nếu áp "3 dự án" trước khi có bộ lọc ICE thì nó thành lý do chính đáng để phân tán. Thứ tự đúng: ICE lọc trước → *rồi* mới xếp 2-3 track đã chọn cạnh nhau. **Test rẻ:** một tuần xếp 2 dự án không liên quan liền nhau, quan sát xem ý cho cái thứ nhất có tới trong lúc đang ở cái thứ hai không.
+
+**Rút gọn dùng ngay:** ngừng coi đi bộ / tắm / lái xe là thời gian NGOÀI công việc — đó là chỗ kết nối được tạo ra. **Luôn mang thứ gì để ghi.**

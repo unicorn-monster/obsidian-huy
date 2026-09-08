@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads]
-updated: 2026-08-27
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture]
+updated: 2026-09-08
 ---
 
 # Hooks
@@ -130,3 +130,43 @@ Meta cắt primary text ở "…See more" quanh **125 ký tự**. Đó mới là
 - **Insider vocabulary** — dùng từ vựng người trong ngành (faja, MLD, Arnica) làm **bộ lọc audience mạnh hơn mọi menu targeting**: người ngoài lướt qua, người trong đứng hình.
 
 **Prompt xây hook bank ở quy mô niche** (classify → rank → map entry level trống → viết 20 hook mới): [[native-copy-prompt-chain]] §Prompt 5.
+
+## Schwartz — CLAIM × MECHANISM là động cơ, không phải hook hay ⭐⭐ ([[schwartz-rodale-method-lecture]])
+> *"The engine that moves mail order copy can be summarised as the contrast between the claim and the mechanism."* (1:05:42)
+
+**Claim** = hứa cái gì. **Mechanism** = làm bằng cách nào. Sức mạnh nằm ở **KHOẢNG CÁCH giữa hai cái** — lời hứa nghe HỢP LÝ, phương pháp nghe BẤT KHẢ THI, nên người đọc **không tự giải quyết được câu hỏi trong đầu**. Cách duy nhất để hết ngứa là lấy sản phẩm.
+
+**Specimen chạy 8-10 năm:** *"A way to vacuum dust from drawers without removing their contents"* — claim nhỏ tí, tầm thường (chả ai đổi đời vì cái ngăn kéo sạch). Nhưng **cách làm nghe không thể được**. Lời hứa nhạt là CỐ Ý.
+
+### Quy tắc kích thước (chỗ 90% hook mới chết)
+| Claim | Mechanism | Kết quả |
+|---|---|---|
+| To | Phẳng, dễ tin | ✅ ổn |
+| Vừa | Lạ, "không thể được" | ✅ mạnh nhất |
+| To | Lạ | ❌ **hoài nghi**, không phải tò mò |
+| To | KHÔNG có | ❌ lỗi phổ biến nhất của người mới — không cho người đọc gì để tò mò, chỉ cho thứ để nghi ngờ |
+
+### Kỹ thuật "can't be done" — họ mua ĐỂ CHỨNG MINH BẠN SAI
+Gắn mechanism ngầm vào 1 claim **cỡ vừa** (vừa mới tin được), rồi trình bày một thứ **đơn giản là không thể làm được**.
+> *"He will even send for the book if he doesn't believe you, because he wants to prove you wrong — because it itches, and he can't sleep at night."* (1:08:01)
+
+⭐ Điểm tinh tế: **tò mò sống sót qua sự KHÔNG TIN mạnh hơn thuyết phục** — vì bạn không còn cần người đọc tin mình nữa. Đây là cửa thoát cho cold traffic không có brand trust.
+Headline mẫu kiểu này: *"unspoken rules that will make or break your career"* — nó **tự mâu thuẫn** (làm sao tuân theo luật chưa ai nói ra?) nên buộc phải tìm hiểu.
+→ Vì sao cái này quan trọng DẦN theo thời gian (claim exhaustion): [[market-awareness]] §Claim exhaustion.
+
+### Cấu trúc 2 dòng: dòng 1 claim hoang, dòng 2 làm nó KHẢ THI ⭐
+Bóc envelope arthritis nổi tiếng nhất của ông:
+- **Dòng 1 (hook):** *"Sneaky little arthritis tricks"* — 4 chữ, không chữ nào lạ. **Việc duy nhất: khiến đọc dòng 2.** Không giải thích, không chứng minh, không bán.
+- **Dòng 2 (làm cho tin được + làm được):** *"…with natural foods and do-it-yourself secrets that have pain-proofed over 100 men and women like you"* — 1 câu làm 3 việc: **nêu method** (natural foods, do-it-yourself) + **nêu kết quả** (pain-proofed) + **dời rủi ro khỏi người đọc** (100 người đã chứng minh rồi, bạn không phải người liều).
+- **Caption ảnh = surrogate.** Định nghĩa "case history" của ông rất chặt: **bằng chứng từ người đã đóng vai thế thân, chịu rủi ro để người đọc khỏi phải chịu.** Caption thứ 3 đánh thẳng vào mặc cảm: *"I have found my salvation — it was my idea, not the doctor's."*
+
+> [!warning] "Sneaky" là chữ ông nói KHÔNG BAO GIỜ được dùng trong quảng cáo
+> Không ai muốn bị mô tả là kẻ lén lút. Nó chạy được **chỉ vì nó gọi đúng tên vị trí người đọc đang đứng sẵn**: họ đang lén làm trái lời bác sĩ và thấy có lỗi. → Bài học cho hook bank: từ "bị cấm" không cấm tuyệt đối, nó chỉ cấm khi bạn ÁP nó lên người đọc thay vì MÔ TẢ thứ họ đang tự thấy về mình.
+
+**Cách tìm dòng 1:** không đi tìm nhu cầu, đi tìm **cảm xúc họ chưa nói thành lời** — phần lấn cấn, hơi xấu hổ trong hoàn cảnh của họ. Schwartz không tìm ra *"người ta muốn bớt đau"* (= 1 category), ông tìm ra *"người ta đang lén cãi lời bác sĩ và thấy tội lỗi"* (= 1 headline). Ông đọc ~700 lá thư khách để thấy điều đó.
+> [!note] Áp cho MaxPro
+> Tương đương cho nail-grinder: cảm xúc chưa nói ra không phải "sợ cắt vào quick" mà có thể là **xấu hổ vì đã bỏ cuộc / đã làm chó chảy máu một lần rồi né mãi**, hoặc **thấy tội lỗi vì trả tiền groomer cho việc đáng lẽ mình làm được**. Đào ở [[maxpro-voc-insights]] để xác nhận trước khi viết — đừng đoán.
+
+### Headline chỉ có 1 việc — không phải bán
+> *"The headline has absolutely nothing to do except get you to read the sentence underneath."* (46:23)
+Headline **không cần bán, không nêu tên brand, không claim áp đảo** — chỉ xây **thói quen đọc**. Tie [[copywriting]] §18.3 và §2 slippery slope.
