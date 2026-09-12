@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer, microsoft-aeo-geo-guide]
-updated: 2026-09-07
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer, microsoft-aeo-geo-guide, ecom-amin-bing-87k-framework]
+updated: 2026-09-12
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -91,3 +91,55 @@ Meta ad chạm ai đó đang dùng **Microsoft Edge** (default browser trên Win
 
 ## Microsoft đang gộp Bing + Copilot + MMC thành một mặt trận ([[microsoft-aeo-geo-guide]])
 Trang này coi Bing là **kênh paid search cho audience senior**. Tài liệu chính thức 2026 của Microsoft Advertising cho thấy họ đang định vị lại: cùng một Merchant Center feed nuôi Shopping ads **và** câu trả lời của Copilot, và họ nói thẳng retailer "đã nắm phần lớn tín hiệu ảnh hưởng tới **xếp hạng Copilot và Bing**". Hàm ý cho ta: account Bing dựng theo §Setup ở trên đã kéo theo bề mặt AI-search miễn phí — chỉ cần feed và schema đủ chuẩn. Cơ chế + checklist → [[ai-search-aeo-geo]], phần feed → [[google-shopping]].
+
+## $87k/mo tại 501% ROAS — framework đầy đủ ([[ecom-amin-bing-87k-framework]]) ⭐
+eCom_Amin (2026-09-12): case study ecom brand scale từ $2.8k → $17.3k spend/tháng, $20.6k → **$87k revenue**, **501% ROAS**, cùng Bing Ads. Data cụ thể mạnh hơn tất cả case trước.
+
+### Audience insight số thật
+- 45+ skew, household income cao, **desktop buyer với saved credit cards**
+- CTR branded: **12.62%** — gần double chuẩn Google (branded Google thường 5-8%)
+- Non-skeptical: chưa bị saturate bởi ecom ads như Instagram/TikTok → scepticism reflex yếu hơn đáng kể
+
+### Copy rules cho 45+ demographic
+- **Font to hơn, button to hơn** — không phải nhỏ mắt squint được
+- **Zero gen-Z language** — nghe unserious với demographic này (câu "no cap", "lowkey")
+- **Trust signals thế hệ 45+ đã tin:** doctor approved / clinically tested / made in USA / phone number lớn
+- **AOV-leaning offers** (bundle / quantity break), không discount-brand energy
+
+### Import walkthrough — 6 thứ bị break im lặng
+Import 1-click từ Google: pull toàn bộ structure → nhưng **6 thứ import không xử lý đúng**:
+1. **UET tag** — tag conversion chết nếu không cài UET riêng (≠ gtag Google)
+2. **Bids** — cắt xuống **70-80%** của Google bid (Bing CPC tự nhiên thấp hơn; giữ nguyên = overbid)
+3. **Budgets** — cân lại theo CPC thấp hơn
+4. **Audiences** — rebuild (audience segment của Google không chuyển 1:1 sang Bing)
+5. **Extensions** — một số extension không map hoàn toàn, cần rebuild thủ công
+6. **Negatives** — check lại và bổ sung (negative list Google chuyển nhưng không đủ cho context Bing)
+
+### 2 builds import KHÔNG làm được (phải dựng tay)
+1. **Microsoft Merchant Center** — tách riêng khỏi Google Merchant Center; titles cần adapt cho older buyer (khác gốc Google feed, không phải copy paste)
+2. **Audience Network với LinkedIn profile targeting** — đây là UNIQUE advantage Bing: target theo LinkedIn job title/company/industry — không kênh nào khác làm được. Đặc biệt mạnh cho B2B2C hoặc professional-adjacent product.
+
+### Campaign numbers thật (live account)
+| Campaign | ROAS | Notes |
+|---|---|---|
+| Branded | **1,320%** | $14.54 CPA |
+| PMax | **723%** | sau khi đủ conversion history |
+| Broad match advertorial | 417% | **$10.5k spend → $43.7k revenue** (nửa cả account) |
+
+Broad match advertorial campaign là driver chính — không phải branded, không phải PMax. Advertorial landing page phục vụ demand-aware buyer đang browse, không phải search-intent cao nhất.
+
+### Fable 5.1 data analysis workflow (monthly)
+- **MoM breakdown prompt**: phân tích tháng-qua-tháng theo từng campaign
+- **Budget reallocation prompt** với **30-day evidence rule**: không chuyển ngân sách nếu chưa đủ 30 ngày data
+- **Search terms review** → feed vào advertorial angles (tương tự §7-prompt research stack trong [[google-ads]])
+
+### Scale path tháng-qua-tháng (với ROAS dip và recovery)
+- Tháng 1: $2.8k spend → $20.6k revenue
+- Tháng 2-3: scale dần lên $8-10k spend
+- Tháng 4-5 (June dip): ROAS non-brand giảm 339% → can thiệp: correct bids + refresh advertorial angles
+- Recovery: non-brand ROAS phục hồi 415% trong khi spend scale thêm 49%
+- Tháng cuối: $17.3k spend → $87k revenue
+
+**Lesson từ dip:** không panic-cut khi ROAS dip; diagnose nguyên nhân (thường là: bids quá cao sau scale, angles mòn, audience fatigue) → adjust đúng biến.
+
+→ Tie §Affluent professional profile (45-65 audience) + §Setup 3-campaign ở trên — case này là bản có số liệu thật nhất. MaxPro: branded $14.54 CPA + 1,320% ROAS = validation đáng thử với $20-30/ngày test nhỏ.

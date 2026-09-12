@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide]
-updated: 2026-09-07
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority]
+updated: 2026-09-12
 ---
 
 # Presell pages — build guide (4 format)
@@ -325,3 +325,32 @@ Mọi format ở trên được thiết kế cho **người đang scroll**. Từ
 - **Review sentiment ở dạng câu trích được** (*"highly rated for quiet operation"*) chứ không chỉ sao + số lượng — đây là format AI copy thẳng vào câu trả lời.
 - **Transcript cho mọi video** nhúng trong page; alt text chi tiết + `ImageObject` schema.
 - ⚠️ **Ranh giới:** Microsoft cảnh báo *"AI systems penalize low-trust language"*. Trang presell là **giao điểm** giữa hype (đọc bởi người, từ ad) và verifiable (đọc bởi máy) → giữ hype ở hook, nhưng claim trong thân phải **định lượng được**. Phân tuyến đầy đủ ở [[ai-search-aeo-geo]] §Mâu thuẫn.
+
+## Advertorial narrator authority — 3 lỗi tự phát hiện khi viết persona tester ([[maxpro-advertorial-narrator-authority]])
+Rút từ buổi viết lại `4pawsreview.com/best-nail-grinder` (persona Maggie Kniery). Ba lỗi này lặp lại được ở **bất kỳ advertorial nào dùng first-person tester**.
+
+### 1. First-person tester KHÔNG trích người thứ ba trong phần body kể
+Nếu nhân vật vừa tự test 5 sản phẩm, nhưng phần đánh giá từng cái lại viết *"Amazon buyers call it under-powered"* hay *"owners split on the noise"* → giọng trượt sang **trang tổng hợp review**, không còn là người vừa ngồi trên sàn bếp với con chó. Tự trích người thứ ba ngay giữa lời kể ngôi thứ nhất = tự khai không thật sự test.
+
+**Sửa:** kể cái đã xảy ra + kết bằng hình ảnh cụ thể ngắn gọn.
+
+| Trước | Sau |
+|---|---|
+| "Amazon buyers call it under-powered, thirty minutes for four paws" | "Chạm vào móng là đứng máy. *The tool quit before she did.*" |
+| "Buyers split on speed, plenty calling it slow" | "Kẹt, phải nhấc ra cho drum quay lại, làm 4-5 lần thì chó hết chịu." |
+| "owners split on the noise, plenty calling it loud" | "*She stayed, but she stayed the way a dog stays for a bath.*" |
+
+**Quy tắc:** claim cần substantiate cho FTC → đặt vào ô CONS của comparison card, **không nhét vào văn kể**. Hai chỗ đó phục vụ hai mục đích khác nhau: card = prove, văn = kể. Kiểm tra nhanh: xoá hết câu trích người thứ ba → nếu đoạn rỗng ruột = chưa từng viết phần test.
+
+### 2. Spec số PHẢI neo vào vật trong nhà — đừng xoá số
+Khi bị chê *"khách không hiểu 30-37 decibels"*, phản xạ sai là **xoá con số**. Ogilvy: specifics beat generalities — số tạo tin. Cái phải làm là **dịch số sang vật người ta đã biết**:
+- `Under 40 dB` → `Under 40 dB, quieter than your fridge`
+- `30 to 37 decibels` → `30 to 37 decibels, about the level of a whisper across a room`
+- `no-load number` → `measured with the drum spinning in mid-air, touching nothing`
+
+Cùng nguyên tắc với §Mechanism section ([[carlweische-100kday-advertorial-teardown-rejuvacare]]: *"spec số, không phải tính từ"*) + thêm 1 bước: spec phải **dịch được**, không thì chỉ là tiếng ồn với người đọc.
+
+### 3. ĐỪNG chối "đây không phải quảng cáo"
+Câu *"I know that sounds like an ad. It is not."* → nêu lên cáo buộc rồi chối chỉ làm reader nghĩ tới cáo buộc đó nhiều hơn. Advertorial thắng ad-detector bằng cách **trông như bài báo**, không bằng cách tuyên bố mình không phải quảng cáo — khớp §Hook thắng 2 trận cùng lúc ([[carlweische-100kday-advertorial-teardown-rejuvacare]]). Rà soát các câu tự-chối tương tự: *"I was not trying to review anything"* / *"it is not brand snobbery"* → cùng cấu trúc, cùng lỗi.
+
+→ Áp cho [[maxpro-top5-review-funnel]]: persona Maggie = first-person tester → apply cả 3 quy tắc trên.

@@ -1,5 +1,7 @@
 ---
 status: building
+sources: [maxpro-tracking-url-param, maxpro-conquest-search-term-method]
+updated: 2026-09-12
 ---
 # MaxPro Top-5 Review Funnel (4pawsreview.com)
 
@@ -57,5 +59,36 @@ Nguồn: [[blvckledge-editorial-ad-comparison-funnel]] — chính bài này lấ
 - **IP:** badge/seal tái dựng (brand 4Paws, "4PAWS #1 PICK"), KHÔNG bê file seal "Top5 Choices" của họ. Ảnh sản phẩm = ảnh MaxPro/đối thủ tự chụp-tải, không hotlink file của họ.
 - **Compliance:** disclosure rõ + mọi claim chê đối thủ phải có bằng chứng review thật, không bịa study. Claim "large-breed ~150lb" để modest. Xem [[compliance]].
 
+## Tracking — sự thật của store (đã verify 2026-08-31) ([[maxpro-tracking-url-param]])
+Store **KHÔNG dùng wetracked** (ghi chú cũ trong tags.js sai). Store thật sự chạy:
+- Google Ads gtag: `AW-18178279287`
+- GA4: `G-N4N79ME432`
+- Nạp qua Google Tag Manager (app Google & YouTube của Shopify)
+
+**Không có server-side Conversion API** → gtag phải nhìn thấy `gclid` trong URL ngay lúc landing để quy attribution. Không pass click-id qua domain jump → attribution chết.
+
+### URL param convention (đã chốt)
+- Auto-tagging: **BẬT** → gclid tự gắn
+- Tracking template: **để trống**
+- Final URL suffix ở cấp **CAMPAIGN**:
+  ```
+  utm_source=google&utm_medium=cpc&utm_campaign=<slug>&utm_id={campaignid}&utm_term={keyword}&utm_content={creative}
+  ```
+
+### Bug: `utm_id` không tới GA4 ⚠️
+`tags.js` chỉ pass 9 param (fbclid/gclid/gbraid/wbraid/utm_source/medium/campaign/content/term) — **`utm_id` bị thiếu**. Mọi camp đang đặt `utm_id={campaignid}` trong suffix nhưng param này chết ở domain jump, không tới GA4. Camp Heusom dính đúng lỗi này.
+
+Fix: thêm `utm_id` vào mảng `KEYS` trong tags.js, hoặc bỏ `utm_id` khỏi suffix. Không để lệch.
+
+**Bài học chung:** khi funnel đi qua 2 domain → đối chiếu param trong Final URL suffix vs param script passthrough thật sự chuyền. Lệch 1 cái = mất 1 chiều báo cáo không ai biết (không có lỗi nào nổ ra).
+
+### Sitelink deep-link `?sl=<key>`
+React render timing → `?sl=<key>` flaky lúc cold load (loop nhắm trước khi React mount xong → trượt về scrollY 0). Chấp nhận được (trang không vỡ, người dùng ở đầu trang). Neo bằng `id=` trong HTML ổn định hơn `[data-sl=]` gắn bằng JS sau render.
+
+## Conquest routing — page phải mention brand bị conquest ([[maxpro-conquest-search-term-method]])
+Camp conquest LuckyTail KHÔNG trỏ `/nailgrinderreview/` (trang đó không có LuckyTail) — trỏ `/best-nail-grinder/` là trang rank LuckyTail.
+
+Conquest priority theo search_term_view 30 ngày thật (Maximutt account), không theo editorial ranking trên review page. Dremel = 26.3 conv/tháng $26 CPA = cơ hội to nhất chưa có camp riêng. Xem [[google-ads]] §Conquest bằng search_term_view thật.
+
 ## Nguồn liên quan
-[[presell-pages]] · [[top5choices-seamoss-review-funnel-teardown]] · [[reviewscout-3rd-party-review-domain-teardown]] · [[maxpro-product-truth]] · [[maxpro-competitors]] · [[maxpro-avatars]] · [[maxpro-ugly-ads-plan]] · [[funnel-and-landing]]
+[[presell-pages]] · [[top5choices-seamoss-review-funnel-teardown]] · [[reviewscout-3rd-party-review-domain-teardown]] · [[maxpro-product-truth]] · [[maxpro-competitors]] · [[maxpro-avatars]] · [[maxpro-ugly-ads-plan]] · [[funnel-and-landing]] · [[maxpro-tracking-url-param]] · [[maxpro-conquest-search-term-method]]
