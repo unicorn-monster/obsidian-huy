@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority]
-updated: 2026-09-12
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic]
+updated: 2026-09-14
 ---
 
 # Presell pages — build guide (4 format)
@@ -354,3 +354,27 @@ Cùng nguyên tắc với §Mechanism section ([[carlweische-100kday-advertorial
 Câu *"I know that sounds like an ad. It is not."* → nêu lên cáo buộc rồi chối chỉ làm reader nghĩ tới cáo buộc đó nhiều hơn. Advertorial thắng ad-detector bằng cách **trông như bài báo**, không bằng cách tuyên bố mình không phải quảng cáo — khớp §Hook thắng 2 trận cùng lúc ([[carlweische-100kday-advertorial-teardown-rejuvacare]]). Rà soát các câu tự-chối tương tự: *"I was not trying to review anything"* / *"it is not brand snobbery"* → cùng cấu trúc, cùng lỗi.
 
 → Áp cho [[maxpro-top5-review-funnel]]: persona Maggie = first-person tester → apply cả 3 quy tắc trên.
+
+## Primal Queen advertorial-on-shopping — cold Google funnel pattern ([[ecom-amin-primal-queen-google-funnel]], [[ecom-amin-google-funnels-cold-traffic]])
+eCom_Amin (2026-09-14): 2 source cùng xác nhận — funnels (advertorial/listicle/quiz/comparison) consistently beat PDPs cho cold Google traffic. Primal Queen ($2M/mo) = case study đầy đủ nhất.
+
+**Primal Queen: shopping listings → advertorial (không dump thẳng PDP):**
+Cold shopping clicks → story-driven education page → product page. Advertorial làm việc: bridge YT ancestral identity → physical symptoms in body → mechanism → offer. Kết quả: người đến từ shopping đã warm trước khi thấy giá.
+
+**Cold Google traffic map:**
+| Traffic type | Temperature | Best presell |
+|---|---|---|
+| Non-branded search | Cold | Advertorial / listicle |
+| Non-branded shopping | Cold | Advertorial |
+| Demand gen / PMax | Cold-lukewarm | Quiz / advertorial |
+| "X vs Y" comparison search | Hot intent | Comparison page |
+| Branded search | Hot | PDP + light sales copy |
+
+**Primal Queen homepage = long-form sales letter:**
+Mechanism section + double-blind placebo-controlled clinical trial (only beef organ brand) + objection handling + review walls. *"A landing page wearing a homepage costume."* — mọi traffic đều enter một sales environment liên tục, không phải brand interface.
+
+**Actionable ngay cả trên hot traffic:** thêm light sales copy vào PDP thuần — một số buyer gõ exact product name vẫn chưa 100% chắc chắn. *"Light persuasion catches them and puts you ahead of 99% of your market because nobody else on Google bothers."*
+
+**Through-line Primal Queen:** YT ad sells identity → advertorial connects identity to body → homepage kills skepticism. Selling không bao giờ dừng ở bất kỳ touchpoint nào.
+
+→ MaxPro: non-branded "nail grinder dogs large breed" → advertorial Maggie trước PDP. Demand gen → quiz funnel. Shopify homepage → thêm mechanism block + top review cluster + objection section. Tie [[google-ads]] §Google funnels cold traffic + §Primal Queen teardown + [[presell-pages]] §Narrator technique.

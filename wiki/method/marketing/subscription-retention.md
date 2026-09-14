@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells]
-updated: 2026-08-26
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page]
+updated: 2026-09-14
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -345,3 +345,20 @@ eCom_Amin teardown Lumin ($1M/mo men's skincare): **cách acquisition qua free t
 **Liên kết:** Tie [[offer-and-cta]] §Free trial front-end (cơ chế acquisition đầu phễu). ⚠️ Cần unit economics: shipping cost phải < value của long-term subscriber. Với MaxPro (one-time product, không consumable) — model này chưa áp được trực tiếp; nhưng bit refill subscription có thể dùng cấu trúc tương tự.
 
 **Hàm ý với §10 driver LTV:** Driver #8 (Free gift/incentive) đã có ở trang này — tactic này là cách ÁP Driver #8 ở giai đoạn churn-risk, không chỉ lúc onboarding. Tie §Rule 2 (billing reminder A/B) — thêm quà reveal vào billing email là 1 variant đáng test. Tie §Recovery 15-20% (khi khách định cancel → show upcoming gift = incentive giữ tự nhiên, không cần discount).
+
+## Cancel splash page — save cancellation tại điểm cancel ([[maxwellcopy-cancel-splash-page]])
+maxwellcopy (2026-09-14): thời điểm save cancellation hiệu quả nhất = ngay khi khách click cancel — không phải sau đó qua email win-back.
+
+**3 bước:**
+1. **Splash page fires ngay khi khách click "Cancel"** — intercept trước khi họ commit vào quyết định
+2. **Founder video trên splash:** thank them + address lý do cancel trực tiếp (không defensive, không generic "we're sorry to see you go")
+3. **Delay hoặc Skip option ngay tại đó** — không bắt cancel outright; cho option "tạm hoãn 1 tháng" hoặc "skip kỳ này" → thoát khỏi tình huống bằng flexibility, không phải cancel
+
+**Tại sao work:** người click cancel thường chưa hoàn toàn quyết tâm — màn hình "bạn có chắc không?" standard chỉ confirm quyết định. Splash với founder video + soft option = intercept TRƯỚC khi confirm. Cancel intent thường = burn-out, không phải hate — delay/skip giải quyết trực tiếp burn-out mà không cần discount.
+
+**3 tầng phòng thủ churn:**
+- §Rule 2 Billing reminder A/B = save TRƯỚC khi khách nghĩ đến cancel (proactive)
+- **Cancel splash = save khi đã click cancel (reactive, last-chance)**
+- §Recovery 15-20% = win-back sau khi đã churn
+
+→ MaxPro: nếu launch bit/balm refill subscription → implement cancel splash với Huy video + delay 1 tháng option. Recharge (Shopify sub app) có cancel flow customization. Tie §Trial-to-subscription Lumin model + [[offer-and-cta]] §Free trial front-end.

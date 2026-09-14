@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture]
-updated: 2026-09-08
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional]
+updated: 2026-09-14
 ---
 
 # Copywriting — DR fundamentals
@@ -280,3 +280,19 @@ Phải biết người mình xin tiền đủ rõ để **nói giống họ tớ
 Homework list của ông (bản 1990s): National Enquirer đọc TỪNG CHỮ (*"there are your headlines, there are your people and their feelings"*), Vanity Fair + tabloid TV, mọi phim doanh thu $100M+ xem 2-3 lần, nhạc hit thập niên 50-60 (audience già) + top 10 teen hiện tại.
 > [!note] Áp cho MaxPro
 > Bản 2026 của "National Enquirer" cho pet/senior audience = review 1-3★ ở Amazon/Chewy ([[maxpro-voc-insights]]), group Facebook pet-owner, r/dogs. Đây đúng là thứ đã sinh ra breakthrough arthritis: ông đọc thư khách kỹ đủ để **nhận ra sự tội lỗi** — không phải "người ta muốn bớt đau".
+
+## Personal copy triggers emotion, not price logic ([[ecomchasedimond-personal-copy-emotional]])
+ecomchasedimond (2026-09-14): ví dụ 2 sign so sánh:
+
+- **Sign 1** (feature/price framing) → reader think about the **price**
+- **Sign 2** ("as a dad of two young daughters, this got me") → reader think about **their own girls**
+
+**Core principle:** good copy makes it personal — tạo kết nối cá nhân với reader, không chỉ trình bày thông tin.
+
+**Cơ chế:** khi copy gợi lên persona cụ thể và experience thật → reader map vào experience của CHÍNH HỌ → emotion kích hoạt trước khi brain kịp evaluate theo logic giá. Price logic là layer SAU, không phải layer đầu tiên khi emotion đã mở.
+
+**Áp dụng thực tế:** thay "This grinder is quiet (30-37 dB)" bằng *"If you've ever watched your dog flinch away from clippers — you know that moment."* → reader thinks about their dog, not the dB spec. Spec có thể đến sau khi emotional anchor đã kết nối.
+
+**Liên kết:** cùng họ với §18.5 Kennedy — "Emotional selling: pin their identity to the act of buying." Khác nhau: Kennedy = identity (ai họ trở thành); ecomchasedimond = memory/experience (cái gì họ đã sống). Cả hai bypass price logic bằng đường khác nhau. Tie [[angles]] §Emotional angles + [[maxpro-voc-insights]] (đọc VoC để tìm "daughters moment" cụ thể cho pet owner).
+
+→ MaxPro: tìm "the daughters moment" trong VoC — không phải spec mà là 1 khoảnh khắc cụ thể ("the first time your big dog sat still," "watching your dog trust you more after a calm groom"). Đó là emotional anchor thay thế price frame.
