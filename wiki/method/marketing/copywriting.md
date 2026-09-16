@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional]
-updated: 2026-09-14
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar]
+updated: 2026-09-16
 ---
 
 # Copywriting — DR fundamentals
@@ -296,3 +296,23 @@ ecomchasedimond (2026-09-14): ví dụ 2 sign so sánh:
 **Liên kết:** cùng họ với §18.5 Kennedy — "Emotional selling: pin their identity to the act of buying." Khác nhau: Kennedy = identity (ai họ trở thành); ecomchasedimond = memory/experience (cái gì họ đã sống). Cả hai bypass price logic bằng đường khác nhau. Tie [[angles]] §Emotional angles + [[maxpro-voc-insights]] (đọc VoC để tìm "daughters moment" cụ thể cho pet owner).
 
 → MaxPro: tìm "the daughters moment" trong VoC — không phải spec mà là 1 khoảnh khắc cụ thể ("the first time your big dog sat still," "watching your dog trust you more after a calm groom"). Đó là emotional anchor thay thế price frame.
+
+## Outcome copy > feature copy — bán lý do bắt đầu, không phải nội dung
+*[[ecomchasedimond-outcome-copy-guitar]]*
+
+**Nguyên tắc:** feature copy → mô tả sản phẩm làm gì; outcome copy → cho người đọc lý do bắt đầu.
+
+> "Guitar lessons" tells you what you'll learn.
+> "Play her favorite song" gives you a reason to start.
+> Good copy makes it personal.
+
+**Cơ chế:**
+- Feature copy mô tả nội dung/công dụng → cognitive evaluation
+- Outcome copy gợi **khoảnh khắc cụ thể + người cụ thể** ("her") → emotional commitment trước
+- "Personal" không có nghĩa là về bản thân người đọc — mà là về người họ yêu thương (daughter, pet, partner)
+
+**Khác với §Weak/good/great copy** (ecomchasedimond-copy-result-moment):
+- Great copy = khoảnh khắc nhận ra đã hiệu quả (nhìn lại)
+- Outcome copy = lý do để BẮT ĐẦU (nhìn về phía trước, ai đang chờ kết quả đó)
+
+→ MaxPro: thay "Quiet nail grinder for dogs" → *"Groom your dog without the struggle — she'll stay calm this time."* Không phải tả sản phẩm; là hứa hẹn 1 khoảnh khắc mà pet owner đang cần. Tie §Personal copy + [[angles]] §Emotional angles.

@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov]
-updated: 2026-09-12
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine]
+updated: 2026-09-16
 ---
 
 # Offer + CTA mechanics
@@ -299,3 +299,27 @@ Khách Rodale mua qua **TV ad 2 phút** perform TỆ trên mailing list. Ông gi
 
 > [!warning] Premium overload — và cách response sụp
 > Khi MỌI dòng trên envelope đều ghi *yours free*, đống quà bắt đầu quay ra chống lại bạn. Theo dõi số sát, vì trong ngành này **response thường không trôi xuống từ từ — nó rơi thẳng đứng.** Cùng họ với ⚠️ §Offer quá tốt phá vỡ trust ở trên.
+
+## Gamified pop-up A/B: pick-a-card BEATS plinko (2026 data)
+*[[maxwellcopy-popup-gamification-dopamine]]*
+
+**Swipe (A/B confirmed):** Pop-up card-picker form đang win vs. plinko — *"seeing a nice meaningful lift."*
+
+**Format:**
+- Visitor lands on page → sees 3 cards face-down
+- Picks one → reveals free gift behind it
+- All 3 cards = same gift (mechanic is illusion of choice, not real variance)
+
+**Cơ chế tâm lý:**
+- **Active agency:** pick-a-card yêu cầu choice (gesture + decision) vs. plinko = passive watching ball drop
+- **Illusion of control:** dù kết quả như nhau, cảm giác "tôi đã chọn" làm tăng ownership của reward
+- **Dopamine spike:** anticipation trước khi lật bài > animation plinko landing (mystery peak ở khoảnh khắc chọn)
+
+**Trend (2026 context):** *"gamifying experiences for the dopamine-fried 2026 customer"* — passive gamification (plinko, spin-wheel) đang flatten; interactive choice (pick-a-card, scratch card) = next iteration.
+
+**Liên kết với §Gambling mechanics (maxwellcopy-gambling-mechanics-offer):**
+- §Gambling mechanics = trend observation (card-match là "hot" vào 2026-09)
+- §Pick-a-card = A/B confirmed win vs plinko (concrete benchmark)
+- Cùng luận điểm: dopamine-driven UX > discount-driven UX cho opt-in
+
+→ MaxPro: Test pick-a-card popup form cho email capture → reveal free gift (PDF "5 breeds that hate clippers + nail grinding guide"). Tie §Mystery discount + [[email-marketing]] §Gamification pop-ups.

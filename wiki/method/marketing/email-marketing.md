@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email]
-updated: 2026-09-14
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email, maxwellcopy-expectations-checkin-email, ecomchasedimond-email-sms-orchestration]
+updated: 2026-09-16
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -672,3 +672,32 @@ Interactive email → tap 1 lần trong inbox → xong. Ví dụ: **add-to-order
 **Hiện trạng (2026-09-14):** tool chính là @zaymodotcom. Tính năng còn mới, inbox/ESP compatibility chưa đồng đều — check compatibility trước khi roll out.
 
 → MaxPro: khi có repurchase flow (bit/balm refill) → test interactive "reorder bộ mài mới trong 1 tap" cho segment mua 90+ ngày trước. Review flow: 1-tap star rating ngay trong email thay vì redirect form. Tie §Post-purchase flow + §Order confirmation 4-element. Theo dõi Zaymo adoption — signal mới.
+
+## Expectations check-in email (week 2) — saves order-2 customers
+*[[maxwellcopy-expectations-checkin-email]]*
+
+Email gửi **tuần 2** — thời điểm khách bắt đầu nghi ngờ sản phẩm chưa có kết quả. Cấu trúc 6 yếu tố:
+
+1. **Pre-empt nghi ngờ trước khi khách tự hỏi** — mở đầu ngay: *"chưa thấy kết quả là hoàn toàn bình thường"* (đừng chờ họ tự kết luận)
+2. **Giải thích cơ chế** — nói chính xác điều gì đang xảy ra trong cơ thể ngay lúc này, dù họ chưa cảm nhận được
+3. **Timeline dài hơi** — 90–120 ngày thay vì hứa mơ hồ; chốt kỳ vọng cụ thể
+4. **Testimonial đúng segment** — từ người đã kiên trì qua điểm 90–120 ngày đó
+5. **Một CTA duy nhất** — tiếp tục dùng, không thêm bước phức tạp
+
+Đây là email **tiết kiệm khách mà bạn sẽ mất ở đơn 2**. Cơ chế: đặt lại kỳ vọng trước khi churn xảy ra, không phải sau.
+
+→ MaxPro (nail grinder): tuần 2 sau mua, gửi email giải thích "móng mèo cần 3–4 lần mài để quen với lưỡi mới" + video demo + testimonial khách dùng 3 tháng. CTA: chia sẻ tip với gia đình nuôi thú.
+
+## Multi-channel orchestration — email trước, SMS chỉ bắn khi email không convert
+*[[ecomchasedimond-email-sms-orchestration]]*
+
+**Vấn đề:** email tool và SMS tool hoạt động độc lập → khách mua xong từ email vẫn nhận SMS "finish checkout" 20 phút sau. Lãng phí tiền SMS + trông như brand không ai kiểm soát.
+
+**Giải pháp (Omnisend):** đặt tất cả channel vào **1 automation duy nhất**:
+- Email đi trước
+- SMS chỉ fire nếu email không convert
+- Push notification cũng nằm trong cùng flow
+
+Nguyên tắc: **1 automation, nhiều channel** — không phải nhiều automation cùng người. Kết quả: ít tool hơn, zero trùng lặp, brand trông coherent.
+
+→ Kiểm tra ngay: MaxPro abandoned cart có đang dùng email + SMS riêng không? Nếu có → merge vào 1 flow Omnisend/Klaviyo với conditional SMS.
