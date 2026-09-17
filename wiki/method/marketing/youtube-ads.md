@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-youtube-ads-scaling-system, ecomamin-youtube-shorts-repurposing-blueprint]
-updated: 2026-07-17
+sources: [ecomamin-youtube-ads-scaling-system, ecomamin-youtube-shorts-repurposing-blueprint, ecom-amin-youtube-ads-10x-search]
+updated: 2026-09-17
 ---
 
 # YouTube Ads — hệ thống end-to-end cho ecom
@@ -73,3 +73,28 @@ Khác toàn bộ phần trên (VSL dài/native YouTube) — đây là nhánh RI�
 **Kỹ thuật nâng cao:** 1 testimonial mạnh tách được 3-4 Shorts độc lập KHÔNG cần quay mới (problem-hook cut / result-reveal cut / specific-moment cut / direct-product cut) — nhân creative 4x từ 1 nguồn. Series 3-phần (problem→mechanism→result) mỗi phần kết mở loop — Shorts thưởng hành vi xem-nhiều-video-cùng-kênh. Comment-seeding: reply sớm + câu hỏi cuối video mời comment = tín hiệu phân phối. UGC-loop: xin khách để lại review VIDEO theo ĐÚNG khung hook/structure đã dạy (không chỉ "quay testimonial") — claim 10-15 creative Shorts-ready/tháng từ chính customer base.
 
 **Kinh tế theo quy mô (claim tác giả, mang tính định hướng):** brand $500k-1M/năm Meta → test $5-8k/tháng Shorts → kỳ vọng +$200-350k/năm nếu duy trì 12 tháng. $2-5M/năm → $15-25k/tháng → +$400-800k/năm. $5M+/năm → $30-60k/tháng, coi Shorts là kênh chính thức không phải thử nghiệm, kỳ vọng +20-30% lift. Benchmark: ROAS Shorts thường cao hơn Meta 20-40% sau 60-90 ngày học (chủ yếu do CPM rẻ hơn, không phải CVR khác biệt), completion-rate 35-55%, CTR 0.8-1.5% (thấp hơn Meta nhẹ) nhưng click→purchase cao hơn (intent mạnh hơn).
+
+## Case Google: YouTube → 10x branded search + 52% incremental conversions ([[ecom-amin-youtube-ads-10x-search]])
+Nguồn: @eCom_Amin (2026-09-17). Google case study thực tế cho ecom brand — data đủ cụ thể để làm projection.
+
+**Case Marley Spoon (meal kit brand, Google-run study):**
+- YouTube paid campaign → **10x tăng branded search volume** cho brand
+- **+49% ad recall lift**
+- **+52% incremental conversions** — conversions ON TOP OF những gì các kênh khác đã drive
+
+**Cơ chế — YouTube tạo SEARCHES:**
+1. Người xem YouTube video ad → tò mò → tự search brand trên Google
+2. Search campaign bắt luôn những search đó → close sales
+3. YouTube tạo supply cho search campaigns → branded search volume tăng thấy rõ theo tuần
+
+*"Unlike a meta ad forgotten 3 seconds after it scrolls past, YouTube leaves behind searches for your brand name that keep showing up in your dashboard"*
+
+**Product feeds → +60% conversions at lower cost:**
+Google shoppable video study: thêm **product feeds** vào video action + demand gen campaigns → **60%+ more conversions at lower cost**. Feed đặt product ngay dưới video → viewer đi từ discover → browse → buy **mà không cần biết brand trước**. Cơ chế: cold TOF YouTube + feed Shopping = bypass brand-awareness requirement.
+
+**Practical takeaway:**
+- Winning Meta creative = **80% của YouTube campaign** → chỉ cần adapt placement, add product feed
+- YouTube là TOP của pipeline **đo được**: spend on video → branded search volume tăng → search campaigns đóng sales
+- "Google is not just search" — YouTube/Shorts/Discover/Gmail/Shopping/Maps = 1 connected ecosystem
+
+→ MaxPro: connect product feed vào video campaign từ đầu, không phải sau. Branded search volume = early signal YouTube đang work (dù CPA chưa hit). Liên kết §Ecosystem 6 mảnh ([[ecomamin-youtube-ads-scaling-system]]) — YouTube fill §(1) Branded search đó.

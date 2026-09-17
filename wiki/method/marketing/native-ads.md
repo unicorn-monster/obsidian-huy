@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow]
-updated: 2026-08-25
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework]
+updated: 2026-09-17
 ---
 
 # Native ads (kênh open-web)
@@ -240,3 +240,18 @@ eCom_Amin: trong khi §trang này cover Taboola/Outbrain (open-web native), có 
 **Ứng dụng:** saves brief-writing time khi muốn match competitor voice cho native placement. Input = FB library scrape → output = copy gần sát original "DNA" của brand đó. Đặc biệt hữu ích cho: tìm reading grade level thật của category (native đọc ở L6-8, không L12+) · reverse-engineer emotional hook pattern của competitor đang win impressions.
 
 → Tie §Headline structures (7 cấu trúc) — sau khi có copy DNA, map các cấu trúc đó vào 7 slot + [[hooks]] (extract hook pattern từ winner) + [[media-buying]] §Reverse-engineer winner (Meta Ad Library sort by impressions). MaxPro: khi chuẩn bị native, chạy workflow này cho 2-3 pet brand competitor → extract ngôn ngữ + hook → build headline test set.
+
+## Drama ads — format DR ecom đang nổi ([[0xroas-drama-ads-framework]])
+Nguồn: @0xROAS + @hookrate_ (2026-09-17). Drama ads = format dùng narrative kịch tính (cheating, conflict, rejection) thay vì product pitch. Đã chạy >5-6 tháng trước khi "popular."
+
+**Checklist làm đúng:**
+- **Problem ID rõ ngay:** người xem phải NGAY LẬP TỨC nhận ra mình trong vấn đề → nếu không, thu hút sai audience = bad traffic
+- **Conflict phải controversial:** cheating husband, dismissive husband, rejected simp — cảm xúc mạnh = scroll-stop + share bản năng
+- **Introduce solutions trước:** mention 2-3 cách người ta thường thử TRƯỚC khi giới thiệu product (cấu trúc "cách cũ thất bại")
+- **Không show product:** lý tưởng là product không xuất hiện trong video → dẫn về **article/advertorial** nói về product mà actor đang dùng (editorial disguise)
+- **Hook = ưu tiên #1:** clickbaity + controversial — *"think like chinese guys"* (nghĩa là cách hook mà content viral TikTok Trung Quốc dùng: shock-first, explain-later)
+- **Landing page = article** về product, không phải PDP → cùng nguyên tắc [[presell-pages]] §Advertorial (trust trước pitch)
+
+**Phân biệt với drama AI format (0xROAS trước):** các source cũ (`0xroas-drama-ads-ai-format-list`, `0xroas-drama-ads-ai-formats-fb`) tập trung vào AI generation workflow. Bài này là **conceptual framework** — hiểu tại sao drama works trước khi production.
+
+→ MaxPro: drama angle có thể là "chủ nhân nhẫn tâm cắt móng chó bằng clipper → chó tránh" vs "người chủ dịu dàng dùng grinder → chó ngủ gật." Không phải product demo, là câu chuyện cảm xúc. Liên kết [[hooks]] §Controversy hook + [[presell-pages]] §Advertorial (article landing page).

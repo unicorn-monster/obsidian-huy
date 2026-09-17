@@ -1,6 +1,6 @@
 ---
-sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows, cyrilxbt-50-obsidian-workflows, greg-isenberg-ai-native-company-brain, shann-marketing-engineer-agent-orchestration]
-updated: 2026-06-30
+sources: [cyrilxbt-kimi-obsidian-second-brain, engkhairallah-obsidian-ai-workflows, cyrilxbt-50-obsidian-workflows, greg-isenberg-ai-native-company-brain, shann-marketing-engineer-agent-orchestration, maxwellcopy-master-guide-deep-learning]
+updated: 2026-09-17
 ---
 
 # Second-brain system (meta)
@@ -60,6 +60,23 @@ Shann³ (marketing/GTM engineer): vai trò đang chuyển từ "mở chat, promp
 5. **Thiết kế loop TRƯỚC khi chạy** — steps, checks, budget, done-state. Loop thiết kế lỏng lẻo = tốn token + trả slop.
 6. **Orchestrate agent theo vertical** (SEO/PR/paid/CRO...), con người giữ vai *"champion"* giữ brain sạch — vault này 1 vertical (marketing content), domain finance/fulfillment sẽ là vertical kế.
 7. **Đóng eval loop** — chấm output so với "good" đã định nghĩa, feed miss ngược vào brain. Vault chưa có bước này tường minh; đây là input thêm cho gap connection-finder/`/lint` ở trên — `/lint` có thể đóng vai eval loop nếu thêm bước "so khớp output gần đây với chuẩn đã định".
+
+## 50-page guide method — cách học sâu nhất ([[maxwellcopy-master-guide-deep-learning]])
+Nguồn: @maxwellcopy (2026-09-17). Tip thực dụng: muốn master một chủ đề thật sự → tự viết **50+ trang master guide / research paper** về nó.
+
+**Cơ chế học sâu:**
+- Ép phải làm research ngoài (không chỉ dùng kiến thức có sẵn)
+- Ép phải tìm examples thật
+- Ép phải articulate thoughts rõ ràng
+- Ép phải "dumb it down" cho người khác đọc = deepens own understanding nhất
+
+*"Teaching it >>> consuming it"* — viết guide = dạy người khác, không chỉ tiêu thụ content.
+
+**Kết quả:** các theories rời rạc + half-formed ideas → structured lessons với central framework. Ví dụ maxwellcopy áp vào ecom subscription: "đã có mọi theories về offers, onboarding, retention — nhưng không có central framework, chỉ là vague ideas. Viết guide ép phải go find real examples, break every piece down, and actually connect it all together."
+
+**Danh sách chủ đề đã làm:** welcome flows, cart abandonment, post-purchase, segmentation, copywriting, email design.
+
+→ Vault này: áp dụng vào **vault operation** — thay vì chỉ `/ingest` rời rạc, thi thoảng viết 1 "master guide" tổng hợp cho 1 topic (vd "Hệ thống Google Ads cho MaxPro pet store — 50-page playbook") → ép phải nối mọi mảnh đã học thành framework có thể execute. Không phải `/synthesis` (thesis tuần) mà là deep-dive 1 chủ đề. Phân biệt với [[focus-and-deep-work]] (focus management) — đây là học method, không phải time management.
 
 ## Plugin nền (Obsidian, từ engkhairallah)
 Smart Connections (RAG chat-with-vault) · Templater · Dataview (vault → DB query) · Tasks · **Obsidian Git** (auto-commit, đã bật ✓) · Periodic Notes · **Obsidian CLI 2026** (cầu nối Claude Code ↔ vault, có `obsidian-cli` skill). Steph Ango (CEO Obsidian) ra bộ Claude Skills chính chủ — đang dùng (`obsidian-markdown`, `json-canvas`, `obsidian-bases`).

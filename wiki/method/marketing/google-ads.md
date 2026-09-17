@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound, eCom_Amin-google-ads-funnel-tiers, eCom_Amin-native-placement-advertorial, ecomamin-meta-impressions-google-search, ecom-amin-google-funnel-as-product, ecomamin-gadget-brand-google-funnel-casestudy, ecomamin-meta-vs-google-intent-product, ecomamin-ai-prompts-google-ads-creative, dtcmidas-sales-moments-after-black-friday, ecom-amin-7prompt-angle-research-stack, ecom-amin-gruns-google-ads-funnel-teardown, ecom-amin-search-capture-meta-demand, maxpro-conquest-search-term-method, ecom-amin-branded-search-defense, ecom-amin-google-funnels-cold-traffic, ecom-amin-primal-queen-google-funnel, ecom-amin-ai-prompts-google-creatives]
-updated: 2026-09-16
+sources: [ecomamin-google-ads-pet-store-1m, ecomamin-google-ads-57k-to-1.2m, ecomamin-google-ads-funnel-types, ecomamin-pet-brand-1m-google-at-19, blvckledge-google-shopping-duplication, grinder-avatar-bank, ecomamin-google-listicle-comparison-intent, ecomamin-seasonal-promotions-bfcm, ecomamin-meta-to-google-1m-at-19, ecomamin-demand-gen-24k-75k-30days, iamgalba-impression-share-headroom-pmax, ecomamin-supps-advertorial-155k-242k-30days, ecomamin-15m-high-intent-google-funnels, ecomamin-shopping-masterclass, blvckledge-5-brands-1m-google-ads, blvckledge-cold-traffic-funnels, ecomamin-manus-ai-google-ads-funnel, ecomamin-google-ads-0-to-14m-teardown, blvckledge-control-narrative-brand-serp, ecomamin-7-google-ads-mistakes, ecomamin-opus48-google-ads-funnel, blvckledge-16-revenue-streams-google-ads, ecomamin-google-bing-youtube-ecosystem, ecomamin-google-ads-burn-8-mistakes, ecomamin-fable5-google-ads-mcp, blvckledge-native-image-ads-3-angles, blvckledge-google-search-ads-full-guide, ecom-amin-5-google-ads-funnels-13m, comparison-page-playbook-3rd-party, vysta-native-image-ads-demand-gen-scale, ecomamin-fable5-higgsfield-mcp-workflow, vysta-youtube-demand-gen-scaling, echelonn-tof-machine-youtube-search, echelonn-native-style-demand-gen-image-ads, ecom-amin-meta-generates-google-demand, ecomamin-google-ads-7step-ecosystem-21x, ecomamin-3-layer-google-search-system-5m, ecomamin-fable5-advertorial-workflow, vysta-48-laws-google-ads, ecomamin-google-ads-revolution-starter-system, ecomamin-meta-ban-survival-protocol, ecomamin-untapped-country-advantage, ecomamin-black-friday-google-ads-advantage, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-ads-7.5x-case-study, ecomamin-20m-ecom-google-ads-101, ecomamin-geographic-arbitrage-playbook, ecomamin-higgsfield-mcp-google-ads-starter-kit, ecom-amin-jewelry-google-ads, dtcmidas-local-market-ads, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, ecomamin-google-5-traffic-leaks, blvckledge-demand-gen-image-ads-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-ai-overview-serp-domination, bony-ghadiya-competitor-brand-conquest, ecomamin-48-laws-google-advertising, ecomamin-branded-search-impression-leak, ecomamin-seedance-google-ads-creative, ecomamin-google-ads-full-ecosystem, ecomamin-meta-demand-google-close, ecomamin-google-fashion-170k, ecomamin-google-native-ads-psychology, ecomamin-discovery-ads-google, ecomamin-google-untapped-strategies, ecomamin-brand-search-audit, ecomamin-meta-google-compound, eCom_Amin-google-ads-funnel-tiers, eCom_Amin-native-placement-advertorial, ecomamin-meta-impressions-google-search, ecom-amin-google-funnel-as-product, ecomamin-gadget-brand-google-funnel-casestudy, ecomamin-meta-vs-google-intent-product, ecomamin-ai-prompts-google-ads-creative, dtcmidas-sales-moments-after-black-friday, ecom-amin-7prompt-angle-research-stack, ecom-amin-gruns-google-ads-funnel-teardown, ecom-amin-search-capture-meta-demand, maxpro-conquest-search-term-method, ecom-amin-branded-search-defense, ecom-amin-google-funnels-cold-traffic, ecom-amin-primal-queen-google-funnel, ecom-amin-ai-prompts-google-creatives, ecom-amin-untapped-google-ads-9, ecom-amin-funnel-stack-prompts]
+updated: 2026-09-17
 ---
 
 # Google Ads (kênh search-intent)
@@ -1127,3 +1127,60 @@ eCom_Amin (2026-09-14): women's wellness beef organ supplement, $2M/mo. Funnel 3
 *"The creative quality from AI is no longer the bottleneck. The prompting quality is."*
 
 → MaxPro: Shopping creative prompt = NOT "nail grinder product shot." Instead: "a woman sitting cross-legged on the floor of a cozy living room, golden afternoon light from a window, dog relaxed in her lap, she's focused and calm, the grinder barely visible in her hand — a moment of trust, not a grooming session." Tie [[creative-and-angles]] §Native-style + §Scene-prompting vs product-prompting.
+
+## 9 untapped Google Ads strategies — từ dễ đến "degenerate" ([[ecom-amin-untapped-google-ads-9]])
+Nguồn: @eCom_Amin (2026-09-17). Hầu hết brand chỉ chạy 2 trong số này.
+
+| # | Strategy | Ghi chú |
+|---|---|---|
+| 1 | **Low-friction front-end offer** | Free trial / intro product rẻ trên Shopping listing thay vì giá đầy đủ → wins click trên price perception → upsell bundle/subscription backend. Case: Lumin $1M/mo trên cấu trúc này |
+| 2 | **Search → advertorial** (không phải PDP) | Cold CVR roughly doubles mọi niche đã test → [[presell-pages]] |
+| 3 | **Shopping → comparison page** (product $150+ AOV) | Thay vì Shopping → PDP → đưa về comparison page cho high-consideration product → [[presell-pages]] §Comparison |
+| 4 | **Quiz funnels trên demand gen** | Mỗi câu hỏi = micro-commitment → đến câu 5 rời đi = "bỏ cuộc" về mặt tâm lý → [[quiz-funnels]] |
+| 5 | **Native ads** (Discover/Gmail/MSN placements) | CTR 2-5x standard display vì trông như content, scepticism reflex không kích hoạt → [[native-ads]] |
+| 6 | **VSL + long-form sales copy** (high ticket) | Depth = authority signal |
+| 7 | **Competitor conquesting → comparison page** | Bid tên đối thủ, dẫn về comparison page — [[google-ads]] §Conquesting |
+| 8 | **Bing** | Same campaign, 1-click import, CPC thấp hơn 20-40%, buyer lớn tuổi + giàu hơn → [[bing-ads]] |
+| 9 | **Double CSS (EU) — chiến thuật "degenerate"** ⭐ | Xem mục riêng dưới |
+
+### Double CSS Shopping — EU arbitrage ít người biết
+Bình thường mỗi store vào Shopping auction qua **1 CSS** (Comparison Shopping Service). Kết nối 2 CSS providers → Google có **2 đường riêng biệt** cho sản phẩm vào ĐÚNG auction đó:
+
+- *Trước:* competitor · competitor · you · competitor
+- *Sau:* **you** · competitor · **you** · competitor (xuất hiện 2 lần)
+
+**Vì sao CSS cho competitive advantage thật (EU antitrust mechanism):**
+- Google Shopping EU tự động trừ ~20% margin từ bid TRƯỚC khi vào auction
+- Independent CSS partner KHÔNG bị trừ margin đó
+- Bid €1.00 qua Google Shopping → ~€0.80 compete; bid €1.00 qua CSS riêng → **€1.00 compete**
+- Cùng số tiền chi → **~25% auction power cao hơn**
+
+Cơ chế này tồn tại vì European Commission bắt buộc Google mở auction sau phán quyết antitrust. → Áp dụng nếu target EU market.
+
+## AI funnel stack — 4 prompt chuẩn xây full Google funnel ([[ecom-amin-funnel-stack-prompts]])
+Nguồn: @eCom_Amin (2026-09-17). Với Fable 5.1, 1 session có thể reason funnel logic + code deployable page. Toàn bộ prompt set để dùng.
+
+**Bước 0 — Brand Brain (load vào Project):** product pages + bestsellers + mọi review export + objection docs + competitor URLs + winning Meta creatives + search terms report + landing pages hiện tại. Prompt:
+> *"act as the funnel architect for this brand. read everything uploaded and build a working brand profile: ICP segments, pain points in customer's own words, buying triggers, objections in order of frequency, proof assets we already have, and where the current funnel leaks. do not recommend anything yet. summarise what you found and tell me what context is missing"*
+
+**Bước 1 — Awareness Map (chọn đúng funnel cho đúng keyword):**
+> *"pull our search terms report. sort every query into problem-aware, solution-aware, product-aware, and brand-aware. for each cluster: the emotional state behind the search, what the buyer already tried, what they need to believe before purchase, and which funnel type converts them best. flag any cluster we're currently sending to a product page"*
+
+*Flag ở cuối là chỗ tiền đang bị giấu — query có intent solution/product nhưng đang về PDP thẳng = conversion leak.*
+
+**Build 1 — Advertorial** (problem-aware queries + cold YouTube TOF):
+> *"write a long-form advertorial for [PRODUCT] targeting [SYMPTOM QUERY]. open by describing the symptom so precisely reader thinks we've been watching them. name 3 solutions they've already tried and why each failed. then the hidden cause. then the mechanism that fixes it structurally. only then introduce product as implementation of that mechanism. close with proof and soft CTA. editorial tone throughout, zero brand voice until product appears"*
+
+**Build 2 — Quiz Funnel** (solution-aware, $100+ AOV hoặc personal product):
+> *"build a 5-question quiz funnel for [PRODUCT LINE]. each question feels diagnostic, not data collection. question order escalates commitment. map every answer combination to a recommended product and a result page explaining WHY this recommendation fits their answers. write result page so buyer feels they arrived at the conclusion themselves. code the whole thing as a single working page with logic built in"*
+
+**Build 3 — Comparison Page** (product-aware, competitor queries):
+> *"build a comparison page for [OUR PRODUCT] vs [COMPETITOR]. research both from real reviews. 7 evaluation criteria where our genuine strengths carry most weight. let competitor win 1-2 criteria honestly. third-party editorial voice. handle 3 objections a buyer has about switching. code as responsive comparison table page"*
+
+**Build 4 — Long-form PDP** (brand-aware, BOF):
+> *"rewrite our PDP for [PRODUCT] as a long-form sales page. sequence: hero, proof bar, transformation before spec sheet, mechanism, ingredient breakdown as reasons to believe, review wall organised by objection, comparison against 2 alternatives, FAQ from real support tickets, risk reversal, offer. code as shopify-ready section"*
+
+**Optimize loop (mỗi 14 ngày):**
+> *"take last 14 days of landing page data and cross-reference against query clusters feeding each page. tell me which pages are receiving traffic they were not built for, then rewrite the section where each page is losing them"*
+
+→ MaxPro: Bước awareness map áp ngay vào search terms report — flag mọi "dog nail grinder" (product-aware) đang về PDP generic thay vì long-form PDP. Liên kết [[market-awareness]] §Awareness stages + [[presell-pages]] §Advertorial + [[quiz-funnels]].
