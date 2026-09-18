@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-quiz-pdp-lifestyle-shopping, ecomamin-google-untapped-strategies, dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, dtcquizbuilder-quiz-iteration-v4-system, dtcquizbuilder-quiz-8point-ad-alignment, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, dtcquizbuilder-testosterone-quiz-17steps, ecomamin-quiz-funnel-google-cold-traffic, dtcquizbuilder-root-activator-18step-funnel, dtcquizbuilder-quiz-feedback-loop, dtcquizbuilder-menopause-funnel-teardown, dtcquizbuilder-fiber-supplement-quiz, dtcquizbuilder-solution-aware-quiz, DTC_Quizbuilder-beef-fat-quiz-funnel, dtcquizbuilder-heyflow-native-migration, dtcmidas-can-a-one-question-quiz-lift-advertorial-performance, dtcquizbuilder-menopause-quiz-funnel, dtcquizbuilder-erodus-quiz-teardown, dtcquizbuilder-glp1-rejuveen-quiz-funnel]
-updated: 2026-09-16
+sources: [ecomamin-quiz-pdp-lifestyle-shopping, ecomamin-google-untapped-strategies, dtcquizbuilder-quiz-funnel-2m-90days, dtcquizbuilder-im8-quiz-teardown, dtcquizbuilder-web2app-email-capture, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-javvy-quiz-solution-aware, dtcquizbuilder-mars-men-quiz-funnel, dtcquizbuilder-clickmaxx-quiz-5stage, stefangeorgi-quiz-funnel-swipe, dtcquizbuilder-quiz-emotional-charge-questions, dtcquizbuilder-positive-framing-648-pct-rev, dtcquizbuilder-moerie-hair-quiz-gender-segment, dtcquizbuilder-testosterone-quiz-9m-visits, dtcquizbuilder-quiz-funnel-3day-cpa-win, dtcquizbuilder-winning-ad-angle-method, dtcquizbuilder-quiz-personalized-sales-call, dtcquizbuilder-golden-hippo-ugly-quiz, dtcquizbuilder-quiz-prepurchase-data-validation, dtcquizbuilder-quiz-funnel-personalization-scale, dtcquizbuilder-quiz-angle-validation-pre-purchase, dtcquizbuilder-9fig-quiz-operating-principles, rubiinov-gruns-100m-funnel-teardown, dtcquizbuilder-quiz-funnel-diagnosis, dtcquizbuilder-quiz-start-rate-continuity, ecom-amin-5-google-ads-funnels-13m, dtcquizbuilder-quiz-funnel-dtc-advantages, froya-quiz-funnel-teardown, gruns-quiz-funnel-breakdown-2026-re-teardown, spoiled-child-quiz-funnel-breakdown, 9-figure-quiz-breakdown-liven, building-testing-iterating-quiz-funnels, funnel-arbitrage-bringing-a-quiz-to-a-new-market-is-as-powerful-as-a-new-mechanism, does-this-quiz-make-you-stop-gooning, get-inflow-breakdown-how-this-dr-webapp-scaled-with-their-quiz, how-to-create-a-quiz-customers-want-to-complete, how-to-iterate-on-a-quiz-funnel, how-i-retarget-build-segments-from-quiz-answers, here-s-how-i-build-my-quiz-funnels, how-walkfit-gets-8-1-million-monthly-visits, quiz-funnels-for-non-problem-solution-products, we-built-a-quiz-for-9-fig-dog-company-copy-it, we-built-a-quiz-for-elare-copy-it, the-hidden-system-every-successful-quiz-funnel-runs-on, the-worst-quiz-funnel, skinny-fit-post-purchase-flow, resilia-scaled-to-20m-pm, ecomamin-quiz-funnel-playbook, dtcquizbuilder-gruns-kids-poop-quiz-funnel, dtcquizbuilder-lp-to-quiz-clone-technique, dtcquizbuilder-arctic-haircare-quiz-funnel, dtcquizbuilder-quiz-funnel-applovin, dtc-quizbuilder-hims-quiz-funnel, dtcquizbuilder-dog-food-spin-win-funnel, ecomamin-google-quiz-funnel-manus-workflow, ecom-amin-google-ads-awareness-funnel, dtcquizbuilder-quiz-iteration-v4-system, dtcquizbuilder-quiz-8point-ad-alignment, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, dtcquizbuilder-testosterone-quiz-17steps, ecomamin-quiz-funnel-google-cold-traffic, dtcquizbuilder-root-activator-18step-funnel, dtcquizbuilder-quiz-feedback-loop, dtcquizbuilder-menopause-funnel-teardown, dtcquizbuilder-fiber-supplement-quiz, dtcquizbuilder-solution-aware-quiz, DTC_Quizbuilder-beef-fat-quiz-funnel, dtcquizbuilder-heyflow-native-migration, dtcmidas-can-a-one-question-quiz-lift-advertorial-performance, dtcquizbuilder-menopause-quiz-funnel, dtcquizbuilder-erodus-quiz-teardown, dtcquizbuilder-glp1-rejuveen-quiz-funnel, dtcquizbuilder-mars-mens-quiz-template-copy, dtcquizbuilder-if-seniors-funnel-16-step]
+updated: 2026-09-18
 ---
 
 # Quiz funnels (interactive pre-sell)
@@ -614,3 +614,38 @@ DTC_Quizbuilder (2026-09-14): Erodus ED supplement quiz teardown — 3 kỹ thu�
 - Skippable + no-gate = lower entry friction, compensated by diagnostic credibility
 
 → MaxPro angle tương tự: pet owners đang dùng trend (raw food diet, specific breed care) → quiz "Does your dog's diet cause nail brittleness?" — bán vào fear stat gắn với trend họ đang theo. Tie §Emotional-charge questions + §Fear-stat sequencing.
+
+## Copy any quiz funnel in 20 minutes — template-first approach ([[dtcquizbuilder-mars-mens-quiz-template-copy]])
+@DTC_Quizbuilder (2026-09-18).
+
+**Nguyên tắc:** thay vì build quiz từ đầu, clone structure từ quiz đang chạy tốt → plug brand + copy → xong trong 20 phút.
+
+**Quy trình:**
+1. Chọn quiz reference (Mars Men's, DTC_Quizbuilder template, hay bất kỳ quiz đang live)
+2. Screenshot/map từng step: câu hỏi, answer options, result page structure, CTA
+3. Replace brand name + product copy + ICP-specific language — giữ nguyên structure
+4. Test flow end-to-end trước khi launch
+
+**Ứng dụng:** tool này cho phép "lấy inspiration từ bất kỳ quiz nào, plug brand + copy, leverage template của họ." Tốt cho: clone funnel của đối thủ (legal nếu chỉ copy structure, không copy copy); iterate nhanh trên quiz đang test.
+
+**Caveat:** template copy = speed, không phải differentiation. Cần đổi copy + angle để không giống hệt — structure giống OK, messaging giống = no differentiation trong market.
+
+→ MaxPro: map quiz "dog nail health" từ Froya hoặc Mars Men's structure → adapt cho pet owner angle. Tie §LP-to-quiz clone technique ([[dtcquizbuilder-lp-to-quiz-clone-technique]]) + [[quiz-funnels]] §GLP-1 side-effect economy pattern.
+
+## IF Seniors — 16-step quiz funnel teardown (1.6 ★, 295k visits/mo) ([[dtcquizbuilder-if-seniors-funnel-16-step]])
+@DTC_Quizbuilder (2026-09-18). Case study negative — 1.6 sao Trustpilot nhưng vẫn 295k visits/tháng. Teardown 16 bước:
+
+**Sequence funnel:**
+1. Age gate cards (stage cam kết thấp)
+2. Meal-time audit questions (thói quen → personalization hook)
+3. "You're amazing!" validation card (positive reinforcement giữa chừng)
+4. BMI gate (thu thập data cụ thể → personalization tăng)
+
+**Page title tiết lộ:** page title là template re-skin → thiếu đầu tư vào customization. Tuy nhiên: 295k visits/tháng = template convert đủ để drive traffic.
+
+**Bài học rút ra:**
+- **1.6 ★ vẫn scale được** nếu funnel capture đủ — không phải lý do để chấp nhận bad product/experience, nhưng là bằng chứng traffic-to-conversion có thể high ngay cả khi post-purchase experience tệ
+- **Validation card giữa funnel** ("You're amazing!") = pattern tăng completion rate — người dùng nhận positive signal → tiếp tục
+- **BMI gate late trong funnel** (sau 30+ câu) = micro-commitment đủ sâu trước khi hỏi data nhạy cảm → ít drop hơn
+
+→ Counter-lesson: 295k visits + 1.6 ★ = funnel drive mua nhưng product không deliver. Scale funnel tốt + product tốt = compound. Tie §16 bước = quá nhiều? Xem §Quiz start-rate continuity ([[dtcquizbuilder-quiz-start-rate-continuity]]) — drop-off ở mỗi step = measurable cost.

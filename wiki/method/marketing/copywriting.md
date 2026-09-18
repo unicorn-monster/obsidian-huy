@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar]
-updated: 2026-09-16
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits]
+updated: 2026-09-18
 ---
 
 # Copywriting — DR fundamentals
@@ -316,3 +316,20 @@ ecomchasedimond (2026-09-14): ví dụ 2 sign so sánh:
 - Outcome copy = lý do để BẮT ĐẦU (nhìn về phía trước, ai đang chờ kết quả đó)
 
 → MaxPro: thay "Quiet nail grinder for dogs" → *"Groom your dog without the struggle — she'll stay calm this time."* Không phải tả sản phẩm; là hứa hẹn 1 khoảnh khắc mà pet owner đang cần. Tie §Personal copy + [[angles]] §Emotional angles.
+
+## Kỹ thuật → benefit — người mua không mua spec ([[ecomchasedimond-copywriting-technical-benefits]])
+Nguồn: @ecomchasedimond (2026-09-18).
+
+**Nguyên tắc cốt lõi:** switch technical terms → benefits. Người mua không mua spec; họ mua kết quả.
+
+| Technical | Benefit |
+|---|---|
+| Portable media player | 1000 songs in your pocket |
+| Waterproof phone case | Stress-free pictures at the beach |
+| 25 GB of cloud space | All your files in one place |
+
+**Cơ chế:** spec mô tả sản phẩm → brain processing → evaluation. Benefit mô tả khoảnh khắc/trạng thái → emotional recognition → desire. Spec là ngôn ngữ engineer; benefit là ngôn ngữ người dùng.
+
+**Khác với §Outcome copy:** outcome copy cho lý do để bắt đầu (nhìn về phía trước — "play her favorite song"). Technical → benefit là về dịch spec thành ngôn ngữ thực tế ngay trong headline/bullet — không nhất thiết cần emotional charge, chỉ cần **translate** cái abstract thành cái cụ thể.
+
+→ MaxPro: "30-37 dB motor" → "quieter than your fridge — dog stays calm". "Rechargeable battery" → "groom anywhere, no cord, no rush". "Diamond-bit drum" → "can't cut the quick — even on dark nails". Tie §Spec số phải neo vào vật trong nhà ([[presell-pages]] §Narrator authority) + [[angles]] §Benefit angles.

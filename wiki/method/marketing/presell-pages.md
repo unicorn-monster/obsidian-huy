@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon]
-updated: 2026-09-15
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable]
+updated: 2026-09-18
 ---
 
 # Presell pages — build guide (4 format)
@@ -382,3 +382,32 @@ Mechanism section + double-blind placebo-controlled clinical trial (only beef or
 **Through-line Primal Queen:** YT ad sells identity → advertorial connects identity to body → homepage kills skepticism. Selling không bao giờ dừng ở bất kỳ touchpoint nào.
 
 → MaxPro: non-branded "nail grinder dogs large breed" → advertorial Maggie trước PDP. Demand gen → quiz funnel. Shopify homepage → thêm mechanism block + top review cluster + objection section. Tie [[google-ads]] §Google funnels cold traffic + §Primal Queen teardown + [[presell-pages]] §Narrator technique.
+
+## AI advertorial pipeline — statics + Fable 5.1 code → full funnel 1 buổi chiều ([[ecom-amin-ai-advertorial-pipeline-fable]])
+@eCom_Amin (2026-09-18). Pipeline 3 bước build advertorial funnel hoàn chỉnh trong 1 buổi — thay thế 3-week dev queue.
+
+### Bước 1 — Before/after statics (Nano Banana Pro)
+Prompt tạo editorial split-frame image:
+> *"create a split-frame editorial image. left: [woman/man matching ICP] experiencing [problem state], muted desaturated tones, tired expression, documentary photography style. right: same person experiencing [outcome state], warm natural light, subtle confidence. centre dividing line. no text. looks like a magazine feature, NOT an ad"*
+
+**Không được bỏ dòng "looks like a magazine feature"** — Demand Gen traffic là ice cold. Image trông như ad → scroll. Image trông như story → click. Đây là difference giữa CPM waste và CPM đổi thành click.
+
+### Bước 2 — Fable 5.1 vibe-codes advertorial trong Claude Code
+**Skill file load trước (paste vào đầu session):**
+> *"you build advertorials styled as editorial articles. structure: editorial-style header and category breadcrumb, headline quoting a real authority figure, byline from a real expert with their actual credentials, story-driven opening from a personal crisis, the industry villain reveal, the discovery narrative, a 3-part named mechanism, transformation proof, 3 real customer testimonials with first names and cities, a comment section built from real reviews, a scarcity block based on real stock or offer limits, guarantee, P.S. stack. only use claims, reviews and credentials that exist in the uploaded research. design: newspaper serif headlines, clean article body, zero brand fonts. mobile-first. output as 1 deployable html page"*
+
+**Prompt build:**
+> *"build the advertorial for [PRODUCT] targeting [ICP] using the uploaded research. the villain is [industry]. the mechanism has 3 named steps. write it as [real expert and their credentials] exposing what the industry won't say"*
+
+**Output:** Fable writes copy AND ships coded page trong cùng 1 session. Deploy-ready HTML.
+
+### Bước 3 — Run trên Demand Gen
+- Static sells the click
+- Advertorial sells the product  
+- PDP closes
+
+**Positioning:** Meta's most sophisticated advertising style (advertorial) vào channel mà competitor còn upload product photos từ 2019.
+
+**Cost:** "3-week dev queue is gone" — toàn bộ pipeline ~1 buổi chiều vs standard agency timeline.
+
+→ MaxPro: áp pipeline này cho "nail safety angle" — ICP = dog owner sợ cắt đứt quick. Static: left = vet với vẻ mặt lo lắng / right = owner tự tỉa tại nhà bình thản. Advertorial: expert = pet groomer "exposing what nail clippers don't tell you". Villain: clipper industry. Mechanism 3 bước: grinding approach = gradual contact = quick-safe by design. Tie [[google-ads]] §Demand Gen + §AI funnel stack prompts ([[ecom-amin-funnel-stack-prompts]]).
