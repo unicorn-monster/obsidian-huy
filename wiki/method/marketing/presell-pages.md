@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable]
-updated: 2026-09-18
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026]
+updated: 2026-09-20
 ---
 
 # Presell pages — build guide (4 format)
@@ -409,5 +409,30 @@ Prompt tạo editorial split-frame image:
 **Positioning:** Meta's most sophisticated advertising style (advertorial) vào channel mà competitor còn upload product photos từ 2019.
 
 **Cost:** "3-week dev queue is gone" — toàn bộ pipeline ~1 buổi chiều vs standard agency timeline.
+
+## Advertorial vs PDP cho Google traffic — 21x ROAS confirmation ([[ecom-amin-advertorial-vs-pdp-21x-roas-2026]])
+
+eCom_Amin (2026-09-20): cùng keyword, cùng ad, cùng người click — 1 landing page produce 1.5x ROAS, cái kia produce 13x. Chênh lệch duy nhất: **tâm lý học sau click**.
+
+**Tại sao PDP fail với cold Google traffic:**
+- 80% non-branded Google traffic = problem-aware hoặc solution-aware: biết có vấn đề, chưa biết brand.
+- Gửi họ đến PDP = "bước thẳng vào và ký hợp đồng ngay" — không rapport, không trust, không context → 3-second bounce.
+
+**4 bước advertorial psychology:**
+1. **Validation** — describe struggle chính xác đến mức brain register "người này hiểu mình." ("You fall asleep fine. The 3am wake-up is destroying you.")
+2. **Education** — reveal hidden cause họ chưa biết → reader trở nên cognitively invested; rời đi = rời đi với kiến thức không hoàn chỉnh về vấn đề của chính họ.
+3. **Mechanism** — giải thích cơ chế fix vấn đề ở structural level. Trust transfers từ tác giả sang logic. ("90% of adults are deficient in a mineral controlling the entire sleep cycle.")
+4. **Product last** — sản phẩm xuất hiện như best implementation của 1 mechanism reader đã tin vào. **Product inherits trust mechanism built** — reader không trust brand, họ trust logic; brand trở thành vehicle.
+
+**Số liệu thật: $57k spend → $1.21M revenue = 21x ROAS** trên keywords bất kỳ agency nào cũng target.
+
+**Advertorial evergreen vs Meta creative fatigue:**
+- Meta creative chết sau 14-21 ngày (audience saturate, phải refresh liên tục).
+- Google advertorial funnel print trong nhiều tháng: intent-based traffic rotates tự nhiên. Người search "best collagen for joints" lần đầu hôm nay chưa bao giờ thấy advertorial của bạn.
+- 1 funnel build, traffic tươi mãi, psychology compound thay vì fatigue.
+
+**Áp MaxPro:** cold Google traffic search "dog nail grinder" → advertorial: "Your dog avoids grooming? Here's why (nail anxiety vs grinding noise vs bad past experience)" → mechanism (gradual grinding = no split = no pain) → Maxpro as solution. Không gửi thẳng vào PDP.
+
+→ Tie [[google-ads]] §cold traffic funnel types + [[funnel-and-landing]] §PDP = too many distractions for cold.
 
 → MaxPro: áp pipeline này cho "nail safety angle" — ICP = dog owner sợ cắt đứt quick. Static: left = vet với vẻ mặt lo lắng / right = owner tự tỉa tại nhà bình thản. Advertorial: expert = pet groomer "exposing what nail clippers don't tell you". Villain: clipper industry. Mechanism 3 bước: grinding approach = gradual contact = quick-safe by design. Tie [[google-ads]] §Demand Gen + §AI funnel stack prompts ([[ecom-amin-funnel-stack-prompts]]).

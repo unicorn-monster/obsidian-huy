@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency]
-updated: 2026-08-26
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency, maxwellcopy-august-agency-stats-2026]
+updated: 2026-09-20
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -134,3 +134,17 @@ jforjacob: nhiều người cắt agency quá sớm, trước khi agency kịp h
 
 > [!note] Áp cho MaxPro
 > Nếu/khi thuê agency creative cho MaxPro: đặt kỳ vọng rõ ràng ngay từ đầu — tháng 1-2 là giai đoạn agency học brand, đánh giá thật sự nên chờ tới tháng 4-6. Đừng churn agency sớm chỉ vì kết quả tháng đầu chưa "amazing", miễn agency đã qua được bộ lọc red-flags lúc tuyển.
+
+## Talent & fulfillment capacity = trần tăng trưởng thật — case tháng 8 maxwellcopy ([[maxwellcopy-august-agency-stats-2026]])
+
+maxwellcopy August 2026: 16 brand mới ký (bao gồm multiple 8-figure và 9-figure brand), highest average deal size ever, most calls booked ever — nhưng **bị 4-week waitlist** cho brand đã ký hợp đồng và nộp tiền mà không thể onboard vì thiếu team.
+
+Nguyên nhân: team members key chuyển sang industry khác cùng lúc với surge brand mới vào → không forecast được, không kịp train người mới.
+
+**Bài học hệ thống:**
+- **Demand mạnh + talent yếu = không thể convert pipeline** — revenue ceiling thật đến từ capacity, không phải sales.
+- **Forecast talent theo pipeline bán hàng**, không chỉ theo headcount hiện tại. Nếu sales tốt bất ngờ, fulfillment sẽ bị vỡ trước khi team kịp phản ứng.
+- **BFCM planning = đóng onboarding mới sớm** — maxwellcopy đóng onboarding mid-to-late October để toàn team focus BFCM cho client hiện tại. Mở rộng trong mùa cao điểm = rủi ro gấp đôi (client mới chưa kịp onboard, client cũ bị chia bớt attention).
+- **Waitlist như double-edged sword:** bằng chứng demand tốt, nhưng brand đã trả tiền chờ = trust erosion + operational headache.
+
+Điểm reconcile với [[growth-ops]] §lean ops: agency ops và brand ops cùng chung vấn đề talent forecasting — không phải mảng riêng. "Talent constraints" là lý do chính khiến nhiều 9-fig operation không scale tuyến tính dù có demand.

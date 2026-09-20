@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work]
-updated: 2026-08-26
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026]
+updated: 2026-09-20
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -248,5 +248,18 @@ DTCMidas (2026-03-13): full AI animation ads hiện là top spender ở **nhiề
 - Ghép toàn bộ trong 1 editing tool
 
 **Hàm ý:** stack dịch chuyển từ "1 tool/việc lớn" (image-gen, copy, backup) sang "1 tool/1 bước cụ thể trong pipeline" — mỗi tool chỉ làm đúng phần nó mạnh nhất. Cùng triết lý §3 phát hiện đáng tiền ở đầu trang (route theo shot, không có model thắng tuyệt đối) nhưng áp ở cấp **toàn pipeline** thay vì chỉ chọn model video. Cùng shape với §AI UGC hyper-realistic (0xROAS: Gemini deconstruct → GPT Image generate → Seedance upload references → Seedance render) — 2 stack khác nhau (Kling vs Seedance cho bước video) nhưng chung nguyên lý: **ảnh/prompt luôn đi TRƯỚC bước animate**, không gen thẳng video từ text.
+
+## Script + story là biến số duy nhất quan trọng — không phải visual quality ([[0xroas-ai-video-script-story-2026]])
+
+0xROAS (2026-09-20): "seedance 2.5 + pixar ads = $$$ — the only thing that you need to nail is the script and the story... no matter how good your AI video looks like, if your story is shit your ad won't work... I have seen slop video ads spend 6 fig a day."
+
+**Hàm ý thực tế:**
+- Visual quality (tool choice, render quality, "pixar level") = hygiene tối thiểu, không phải lever chính.
+- Script + emotional story arc = driver thực sự của performance.
+- Slop video (visual quality thấp) vẫn spend 6-fig/day nếu story tốt.
+- **⚠️ Reconcile với §Obvious AI slop outperform polished** (dtcmidas): cùng xác nhận — aesthetic không phải vấn đề, story/concept mới là vấn đề. Không mâu thuẫn.
+- **Implication cho MaxPro:** khi build AI video ad, đầu tư vào script và narrative (problem/emotion/mechanism/product) trước; chỉ nâng visual quality sau khi story đã proven.
+
+→ Tie [[copywriting]] §story bypass guard cold traffic: dopamine + oxytocin cơ chế — nguyên lý áp cho cả AI video lẫn text-heavy ad.
 
 → MaxPro: nếu build pipeline riêng, dùng Claude cho script (đã có Claude Project theo §Áp cho tôi ở [[ai-agent-automation-stack]]) → ChatGPT viết prompt ảnh → Gemini/GPT Images gen ảnh → chọn Kling (physics) hay Seedance (lipsync/UGC) tuỳ shot theo bảng giá đầu trang → ElevenLabs VO nếu cần giọng ngoài native audio.
