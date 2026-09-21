@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow, ecomamin-competitor-weakness-opus-mcp]
-updated: 2026-08-18
+sources: [ecomamin-untapped-opportunity-cowork-prompts, ecomamin-ai-audit-battle-plan-workflow, ecomamin-competitor-weakness-opus-mcp, ecom-amin-opus5-icp-research-prompt]
+updated: 2026-09-21
 ---
 
 # Tìm cơ hội untapped bằng AI research (Claude Cowork/browsing)
@@ -52,6 +52,25 @@ Quy trình 5 bước ở trên tìm **cơ hội sản phẩm/thị trường**; 
 
 > [!tip] Áp cho "quá nhiều idea, cần nơi sắp xếp"
 > Đây là quy trình NGƯỢC lại brainstorm tự do — bắt đầu từ research có cấu trúc (5 bước, mỗi bước có prompt cụ thể) thay vì từ ý tưởng cá nhân. Có thể dùng để mở rộng ngoài MaxPro (nail grinder) khi cần tìm sản phẩm #2 cho pet store, hoặc để kiểm chứng 1 ý tưởng đã có sẵn bằng bước 2+3+4 (pain-point → segment → competitive-gap) thay vì đoán.
+
+## Opus 5 ICP research — 2 prompts replacing 6h manual research ([[ecom-amin-opus5-icp-research-prompt]]) ⭐
+eCom_Amin: 2 chained prompts → full ICP map với exact psychological triggers + buyer language, faster and deeper than manual research.
+
+**Prompt 1 — pain point cluster map (paste into Opus 5, fill [product category]):**
+> *"research the top 5 pain point clusters for [product category] buyers. for each cluster identify: the primary frustration in the buyer's own language, the failed solutions they have tried, the exact phrases they use on reddit, quora, amazon reviews, and niche forums, the emotional state behind the search query, the belief preventing them from solving the problem, and the trigger event moving them from browsing to buying. return as a structured table ranked by estimated search demand"*
+
+Output: table ranked by search demand. Each row = exact buyer language → becomes ad headlines, advertorial hooks, shopping titles, remarketing copy directly.
+
+**Prompt 2 — deep-dive on highest-ranked cluster:**
+> *"for pain point cluster [highest-ranked cluster], identify: the 3 most common objections about purchasing a solution, the competitor solutions they have tried and why each failed, the 'aha moment' converting previous buyers, and the language gap between how brands describe this product and how buyers describe their need"*
+
+Output: conversion triggers + objections landing page must handle + competitor weaknesses for conquesting copy.
+
+**Why it beats manual research:** output is NOT demographic data ("women 25-45 interested in health") — it's the ACTUAL words buyers use. Phrase like *"i fall asleep fine but wake up at 3am every night"* becomes headline directly. Buyers respond to their own language, not marketing language.
+
+**Compounding effect (moat):** run weekly for 12 weeks → ICP library contains patterns no competitor can replicate without doing same 12 weeks. Learns which pain point clusters convert by season, which competitor weaknesses are worsening, which queries spike during cultural moments.
+
+Tie §5 bước tìm cơ hội (bước 2: pain-point mining) — these 2 prompts are the accelerated, structured version of that step. Tie [[angles]] §Belief-shift diagnosis (30-min audience diagnosis before writing) — same concept, AI does the research. Tie [[google-ads]] §ICP cluster.
 
 ## Competitor weakness profile — Opus 5 + Google Ads MCP ([[ecomamin-competitor-weakness-opus-mcp]])
 eCom_Amin (2026-08-17): prompt Opus 5 được nối trực tiếp vào Google Ads account qua MCP → đọc live auction insights → research toàn bộ profile đối thủ → biến điểm yếu của họ thành ad copy.

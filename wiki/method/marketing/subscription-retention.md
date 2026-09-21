@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page]
-updated: 2026-09-14
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom]
+updated: 2026-09-21
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -362,3 +362,18 @@ maxwellcopy (2026-09-14): thời điểm save cancellation hiệu quả nhất =
 - §Recovery 15-20% = win-back sau khi đã churn
 
 → MaxPro: nếu launch bit/balm refill subscription → implement cancel splash với Huy video + delay 1 tháng option. Recharge (Shopify sub app) có cancel flow customization. Tie §Trial-to-subscription Lumin model + [[offer-and-cta]] §Free trial front-end.
+
+## Post-purchase "$X Refund" → 1-click subscription conversion ([[maxwellcopy-subscription-refund-upsell]])
+maxwellcopy (@aftersell use case): instead of "subscribe & save 10%", frame it as *"$X has been added to your account as a refund — apply it to subscribe and it disappears on checkout"*. Same discount mechanics under the hood, completely different psychology.
+
+**Why it converts better than standard sub upsell:**
+- Only 5-10% of one-time buyers ever self-subscribe after the fact — most need the offer NOW at the post-purchase moment
+- "You already have $X" triggers loss aversion (losing money already received ≠ missing a discount). See [[email-marketing]] §Loss aversion discount frame for the same mechanic in email
+- @aftersell = post-purchase 1-click upsell app → no re-entry of payment info, lowest friction moment in the funnel
+
+**Mechanic:** set refund amount = the sub discount value. Frame copy: *"as a thank you, $X has been added to your account — apply to your subscription before checkout closes."* Add countdown timer → expiry urgency.
+
+→ MaxPro: usable when consumable subscription exists (bit mài, balm refills). Not applicable to one-time grinder. Tie §Operational reality (convert at post-purchase = cheapest moment) + [[email-marketing]] §loss aversion frame.
+
+---
+*Reference: [[maxwellcopy-subscription-playbook-ecom]] — maxwellcopy full subscription playbook video (first-time buyer → win-back). 3-month deep resource for full implementation when launching sub.*
