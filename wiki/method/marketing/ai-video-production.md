@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026]
-updated: 2026-09-20
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026]
+updated: 2026-09-22
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -261,5 +261,13 @@ DTCMidas (2026-03-13): full AI animation ads hiện là top spender ở **nhiề
 - **Implication cho MaxPro:** khi build AI video ad, đầu tư vào script và narrative (problem/emotion/mechanism/product) trước; chỉ nâng visual quality sau khi story đã proven.
 
 → Tie [[copywriting]] §story bypass guard cold traffic: dopamine + oxytocin cơ chế — nguyên lý áp cho cả AI video lẫn text-heavy ad.
+
+## GPT-6 + Seedance 2.5 full automation — 10 phút, 0 manual step ([[0xroas-gpt6-seedance-automation-2026]])
+
+0xROAS (2026-09-22): GPT-6 với "agentic skills" (hiểu tools, gọi API, chuỗi action) kết hợp Seedance 2.5 cho phép **toàn bộ pipeline AI video chạy tự động** — từ script đến render cuối, không cần can thiệp thủ công. Trước: 20-25 phút/video. Sau: ~10 phút fully automated.
+
+**Tại sao GPT-6 là bước nhảy:** "agentic skills" nghĩa là model không chỉ generate text mà **hiểu context của từng tool trong pipeline** (image gen prompt, video gen params, lipsync trigger, VO) và tự gọi đúng thứ tự — thay vì operator paste output từ bước này sang bước kia. Seedance 2.5 phù hợp vì native audio + UGC-style + consistent character là những gì pipeline cần cho ad format.
+
+**Hàm ý:** khi GPT-6 stable, pipeline §AI UGC hyper-realistic (Gemini→GPT Image→Seedance) có thể collapse từ 4-5 manual step thành 1 agentic trigger. Không đổi triết lý "route theo shot" — vẫn áp, nhưng routing logic nằm trong agent thay vì trong tay operator. → MaxPro: theo dõi khi GPT-6 API stable để upgrade pipeline.
 
 → MaxPro: nếu build pipeline riêng, dùng Claude cho script (đã có Claude Project theo §Áp cho tôi ở [[ai-agent-automation-stack]]) → ChatGPT viết prompt ảnh → Gemini/GPT Images gen ảnh → chọn Kling (physics) hay Seedance (lipsync/UGC) tuỳ shot theo bảng giá đầu trang → ElevenLabs VO nếu cần giọng ngoài native audio.

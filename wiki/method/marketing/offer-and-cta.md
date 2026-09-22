@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test]
-updated: 2026-09-21
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026]
+updated: 2026-09-22
 ---
 
 # Offer + CTA mechanics
@@ -166,6 +166,27 @@ eCom_Amin (2026-09-11): brands "printing hardest" đã biến price-reveal (ma s
 
 → MaxPro: progress bar *"Add 1 more bit set ($12.95) to unlock free shipping + free nail file"* → khách không tính toán chi phí, họ đang "gần đạt mốc." Tie [[ecom-amin-gamified-checkout-aov]] + tiered bundle §Bundle construction.
 
+## "Account Credit" > "X% OFF" — ownership frame 2.5x revenue ([[maxwellcopy-account-credit-offer-framing-2026]])
+
+maxwellcopy (2026-09-22): đổi offer từ **"$75 OFF"** → **"$75 Account Credit"** — cùng backend code, cùng discount value. Kết quả: **2.5x revenue** trên cùng sale.
+
+**Cơ chế:** "$75 off" = brand cho đi 1 thứ đang có. "$75 account credit" = khách đã SỞ HỮU $75 và đang chọn dùng nó. Framing ownership kích hoạt loss aversion (Kahneman) mạnh hơn discount thông thường — mất $75 *đã là của mình* đau hơn tiết kiệm $75.
+
+Khác biệt với §1b Loss aversion email ("$X already in your account, expires") — cơ chế giống nhau, nhưng áp ở điểm khác: loss-aversion email dùng cho email flows (urgency tạm thời), account-credit frame này dùng trực tiếp trên **offer copy** (landing page, ad, PDP) mọi lúc. Cùng họ tâm lý, deployment points khác.
+
+→ MaxPro: test đổi "Take $10 off" → "$10 account credit — use at checkout" trên bundle offer. Cần backend support (discount code đổi tên hiển thị) nhưng không đổi mechanics.
+
+## CTA specificity — "Buy now" là câu yếu nhất ([[ecomchasedimond-cta-specificity-tip-2026]])
+
+ecomchasedimond (2026-09-22): CTA cụ thể → nhiều click hơn → nhiều $$ hơn. Công thức: CTA chung chung → CTA mô tả ĐÚNG việc khách sắp nhận được.
+
+**Swipe bank CTA cụ thể:**
+- "Buy now" → **"Get instant access + lifetime updates"**
+- "Sign up" → **"Get weekly value-packed emails"**
+- "Join today" → **"Join 11,920 other marketers inside"**
+
+**Nguyên lý:** CTA cụ thể giảm cognitive friction (khách không phải tự tưởng tượng sẽ nhận gì) + tăng perceived value (nghe có giá trị hơn "buy now"). Tie §CTA framework dưới (deny-the-sale, rescue) + [[copywriting]] §1 (outcome > product). → MaxPro: thay "Shop Now" → "Start Grinding Safely at Home" / "Get the MaxPro Grinder" (mô tả outcome hoặc action cụ thể hơn).
+
 ## CTA framework
 - **Urgency = act-now-or-consequence** (problem compounds, defensible — không "tiện/êm hơn") → [[angles]].
 - **Rescue + warning**, không "buy now".
@@ -233,6 +254,8 @@ Tie §Test 3 offer cùng lúc (risk-reversal → pricing → bonus-stack, isolat
 
 > [!note] Áp cho MaxPro
 > Chưa có "1 offer proven" cho Black Friday — vẫn còn vài tuần trước Q4 (hôm nay 26/08) để chạy 2-3 weekend promo test (Buy-1-Get-bit-free / %off bundle / spend-X-get-gift) trên các offer type ở trên, track đúng 5 số (revenue/CVR/AOV/margin/CAC) → chốt 1 offer proven trước khi vào mùa BFCM chính thức, đừng để BFCM là lần đầu test offer mới.
+
+**Creative format BF: simple > clever ([[dtcmidas-black-friday-ad-formats-2026]]):** Đừng phát minh lại bánh xe về creative format trong mùa này — *"don't reinvent the wheel... even as simple as putting an offer banner over your winning video ads works really well."* Offer + urgency + scarcity phải **ngay lập tức obvious** từ đầu ad, không cần đọc toàn bộ. Bám winning creative có sẵn + dán offer banner = ít rủi ro nhất trong mùa thu hoạch. → Tie Rule BF ở trên: 1 offer proven + creative tối giản = formula BFCM.
 
 ## Tăng giá 1-món, giữ nguyên giá bundle — bundle nhìn hời hơn + AOV lên + retention tốt hơn ([[dtcmidas-raise-base-price-keep-bundles]])
 
