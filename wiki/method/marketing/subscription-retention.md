@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom]
-updated: 2026-09-21
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026]
+updated: 2026-09-23
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -374,6 +374,29 @@ maxwellcopy (@aftersell use case): instead of "subscribe & save 10%", frame it a
 **Mechanic:** set refund amount = the sub discount value. Frame copy: *"as a thank you, $X has been added to your account — apply to your subscription before checkout closes."* Add countdown timer → expiry urgency.
 
 → MaxPro: usable when consumable subscription exists (bit mài, balm refills). Not applicable to one-time grinder. Tie §Operational reality (convert at post-purchase = cheapest moment) + [[email-marketing]] §loss aversion frame.
+
+## 3-track subscription conversion playbook ([[maxwellcopy-subscription-conversion-tactics-2026]])
+maxwellcopy (2026-09-23): comprehensive tactics organized by conversion goal.
+
+**Track 1 — Get customers to subscribe (welcome + abandonment):**
+- Welcome offer = subscription-only (not available to one-time buyers) — push in every welcome email and SMS
+- **Abandonment emails should sell the sub offer** — most brands give 30-50% OFF sub but NEVER mention it in abandonment. The biggest offer is invisible where intent is highest.
+- Show subscribe price NEXT to one-time price in emails so the gap is obvious → loss aversion through visible comparison
+
+**Track 2 — Turn one-time buyers into subscribers (post-purchase upgrade):**
+- Don't send generic "thanks for your order" — hit with dedicated subscription upgrade email
+- Give an exclusive offer only available by subscribing
+- **Day-20 reorder targeting** — check data for actual reorder timing, send upgrade right before that window (tie §4 metric SUB-1 + §WellTV reorder window)
+- Keep follow-up going for weeks — one email won't move it
+
+**Track 3 — Campaign framing that converts to subscription:**
+- Lead with sub offer in every send
+- Mix in campaign content explaining why subscribing is smarter
+- **Sitewide sale framing:** if sub already gives 20% and sitewide sale = 20% off one-time → advertise it as *"40% off subscription, 20% off one-time"* — same economics, radically different perceived value gap
+- Stop optimizing PDP for subscription and then ignoring it everywhere else in the funnel
+
+> [!note] Reinforces §Post-purchase "$X Refund" conversion + §Rule 9 incentive targeting
+> The sitewide-sale framing (40% vs 20%) is a variant of the loss-aversion frame from [[email-marketing]] §loss aversion discount. Track 2 day-20 timing = same as driver #7 (replenishment timing per data). Tie [[offer-and-cta]] §perceived value and [[maxwellcopy-subscription-refund-upsell]] for post-purchase execution.
 
 ---
 *Reference: [[maxwellcopy-subscription-playbook-ecom]] — maxwellcopy full subscription playbook video (first-time buyer → win-back). 3-month deep resource for full implementation when launching sub.*
