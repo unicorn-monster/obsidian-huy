@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email, maxwellcopy-expectations-checkin-email, ecomchasedimond-email-sms-orchestration, maxwellcopy-one-takeaway-per-email, maxwellcopy-9-bfcm-email-nonnegotiables, maxwellcopy-mudwtr-game-email-discount, maxwellcopy-email-loss-aversion-discount, maxwellcopy-post-purchase-email-flow-2026]
-updated: 2026-09-22
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email, maxwellcopy-expectations-checkin-email, ecomchasedimond-email-sms-orchestration, maxwellcopy-one-takeaway-per-email, maxwellcopy-9-bfcm-email-nonnegotiables, maxwellcopy-mudwtr-game-email-discount, maxwellcopy-email-loss-aversion-discount, maxwellcopy-post-purchase-email-flow-2026, maxwellcopy-deliverability-booster-2026, maxwellcopy-golden-ticket-gift-card-email-2026, maxwellcopy-repeat-purchase-rate-flows-2026]
+updated: 2026-09-24
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -140,6 +140,8 @@ Red-flags 21 điểm + communication cadence chuẩn → **[[agency-ops]]** (202
 
 ## Pre-event deliverability warmup ([[maxwellcopy-email-deliverability-pre-event]])
 maxwellcopy tips (2026-06-30): before a big promotional send (BFCM, product launch, sale), send a **deliberate "smart" email** to prime deliverability first — primes ISP signals (opens, clicks) in the days before → inbox placement improves for the main event. Concept only (tweet teases, no mechanics shared). Standard interpretation: send a high-value, easy-to-engage email 2-3 days before to warm the list → algorithms treat your next send as trusted sender.
+
+**Update 2026-09-23 ([[maxwellcopy-deliverability-booster-2026]]):** maxwellcopy names this tactic "The Deliverability Booster" — send a few days before a product drop or sale. "You'll land in the inbox at a much higher rate and make a lot more money." Name solidifies: standard tactic cho mọi pre-event window.
 
 → MaxPro: before BFCM or a major creative push, run a re-engagement send (founder note, unboxing video clip, free grooming tip) to prime the list. No cost, upside = better placement on the big day.
 
@@ -773,5 +775,32 @@ Nguồn: @maxwellcopy (2026-09-17). Unspoken rule mà top brands tuân theo như
 **Pattern tái dụng được:**
 - Score-based dynamic discount là format scalable: bất kỳ game nào → kết quả số → discount tier
 - Không cần game phức tạp — spin wheel, quiz score, scratch card đều theo cùng mechanic
+
+## Golden ticket v2 + digital gift card frame — same discount, different psychology ([[maxwellcopy-golden-ticket-gift-card-email-2026]])
+
+maxwellcopy (2026-09-24): hai cách frame discount sale email thắng "10% off" mặc định:
+
+1. **Golden ticket:** thay vì blast discount, frame như người nhận được chọn. *"Here's your golden ticket for $15 credit."* → identity cảm giác đặc biệt, không phải deal mass.
+2. **Digital gift card graphic:** cùng code $10, nhưng wrap trong graphic gift card. *"A $10 digital gift card, from us to you."* → cảm giác nhận quà thay vì nhận coupon.
+
+Cơ chế: **exact same discount, completely different psychology**. Frame thay đổi emotional valence — từ "tôi đang bán cho bạn" → "tôi tặng bạn thứ gì đó." Tie [[maxwellcopy-golden-ticket-email]] §Golden ticket email (lucky winner framing) ở trên — bổ sung frame thứ 2 (gift card) + confirm cơ chế "framing scratches a completely different itch."
+
+→ MaxPro: test A/B 2 frame này trong sale email — (a) "golden ticket $X credit" vs (b) "gift card graphic $X". Cùng offer, đo click rate + CVR. Kỳ vọng: gift card frame thắng với audience ít quen với brand (cảm giác nhận quà mạnh hơn với stranger).
+
+## Repeat purchase rate by product — hiroanalytics cho flow timing ([[maxwellcopy-repeat-purchase-rate-flows-2026]])
+
+maxwellcopy (2026-09-24): hiroanalytics ra mắt **repeat purchase rate by product** — cho thấy sản phẩm nào có khả năng cao nhất đưa khách quay lại order thứ 2. Kèm theo: **median days between first and second order** per product.
+
+**Tại sao quan trọng:**
+- Biết product nào "hook" khách → push sản phẩm đó trong welcome flow + abandonment flows thay vì push product margin cao nhất.
+- *"You're acquiring people on the product most likely to turn them into a repeat customer instead of just the one with the best margin."*
+- Median days giữa order 1 và 2 → set time delay trong post-purchase flows chính xác, không đoán mò.
+
+**Hàm ý cho flow architecture:**
+- Welcome flow: feature sản phẩm có RPR cao nhất (không nhất thiết là bestseller).
+- Post-purchase flow: trigger email tiếp theo vào ngày median × 0.8 (nhắc trước khi họ bắt đầu search lại).
+- Abandonment flows: pitch sản phẩm RPR cao nếu người abandon là new visitor chưa mua.
+
+→ MaxPro: khi có data Klaviyo + hiro đủ, pull RPR by product. Nếu Maxpro Grinder có RPR thấp (one-time purchase) → welcome flow focus vào accessories/consumables có RPR cao hơn để build repeat. Cross-reference [[maxwellcopy-cross-sell-repeat-purchase-data]].
 
 → MaxPro: "Spin the wheel: 3 giây, 1 lần, nhận discount tương ứng trước khi BFCM." Tie §Interactive email ([[maxwellcopy-interactive-email]]) + §Gamified mechanics trong [[quiz-funnels]].

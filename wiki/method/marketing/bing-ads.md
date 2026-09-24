@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer, microsoft-aeo-geo-guide, ecom-amin-bing-87k-framework]
-updated: 2026-09-12
+sources: [ecomamin-1m-bing-ads-playbook, ecomamin-bing-ads-7x-roas, ecomamin-google-untapped-strategies, ecomamin-bing-wealthy-buyer, microsoft-aeo-geo-guide, ecom-amin-bing-87k-framework, ecom-amin-bing-professional-buyer-dtc-2026]
+updated: 2026-09-24
 ---
 
 # Bing Ads — kênh senior (55-65+), gần zero cạnh tranh
@@ -63,8 +63,10 @@ eCom_Amin (2026-08-21): mở rộng từ "senior 65+" sang **"professional 45-65
 
 **Categories print hardest:** supplements · home goods · premium accessories · **pet** · fitness equipment — xác nhận thêm Maxpro/pet store là viable target.
 
+**Update 2026-09-24 ([[ecom-amin-bing-professional-buyer-dtc-2026]]):** eCom_Amin reconfirms toàn bộ thesis trong thread mới: 41% US Bing users earn $100k+, median 45-65 desktop, $20k/$2.8k trong 4 tuần health category, pet category explicitly trong danh sách "prints hardest." Fresh confirmation không có số mới nhưng tăng conviction.
+
 > [!tip] Áp cho MaxPro
-> Bing wealthy buyer 45-65 professional = pet owner có disposable income, ít nhạy giá, ít bị burned bởi fake ads. Pet category được tác giả list cụ thể là "print hardest." Test nhỏ $20-30/ngày branded + category trước khi tin — lower bar hơn health/senior niche (đã có $2.8k→$20k case).
+> Bing wealthy buyer 45-65 professional = pet owner có disposable income, ít nhạy giá, ít bị burned bởi fake ads. Pet category được tác giả list cụ thể là "print hardest" — xác nhận 2 lần (08/2026 + 09/2026). Test nhỏ $20-30/ngày branded + category trước khi tin — lower bar hơn health/senior niche (đã có $2.8k→$20k case).
 
 ## Claim về "cửa sổ cơ hội" (giữ nguyên như tuyên bố tác giả, KHÔNG coi là fact chắc chắn)
 2023 discovery (CPC $0.40-0.80) → 2024 early-adopter (CPC $0.60-1.20) → 2025 "hiện tại" (CPC $0.80-2.00, vẫn under-utilized) → 2026 dự đoán (CPC $1.50-3.50) → 2027-28 dự đoán bão hoà (CPC ngang Google). Tác giả tự nhận **~18-24 tháng "easy money"** tính từ lúc viết (11/2025). *(Ghi chú: đây là framing bán hàng của tác giả, không phải số liệu ngành độc lập — coi là giả định cần tự kiểm chứng trước khi đặt cược ngân sách lớn.)*
@@ -72,7 +74,7 @@ eCom_Amin (2026-08-21): mở rộng từ "senior 65+" sang **"professional 45-65
 **Lý do gap tồn tại (theo tác giả):** đa số ecom brand không biết Bing là kênh khả thi, bận đối phó Meta/TikTok/iOS14 · Bing "không sexy" nên không viral, không hype-cycle → không bị lấp đầy nhanh · đa số founder ecom 25-35 tuổi vô thức build/market cho người giống mình, bỏ qua senior · cần copy/LP/creative khác hẳn — lọc bớt người chỉ muốn copy-paste playbook Meta sẵn có.
 
 > [!tip] Có áp được cho pet store MaxPro không?
-> Category hiện tại (nail grinder cho dog) không nằm trong list niche "hợp" (health/mobility/senior-care) — pet owner 40+ đã được note trong [[google-ads]] §Ecosystem như "nằm sát cụm" audience Bing nhưng KHÔNG phải chính diện. Đáng thử nghiệm nhỏ ($50/ngày, branded+problem) trước khi tin, không nên coi đây là kênh chính cho MaxPro dựa trên guide này — guide viết cho category health/senior rõ ràng hơn pet.
+> **Update 09/2026:** "pet" được list explicitly là category "prints hardest" trong 2 thread khác nhau của eCom_Amin (08/2026 + 09/2026). Không còn là suy luận — là xác nhận thẳng. Vẫn nên test nhỏ ($20-30/ngày branded) trước khi scale, nhưng conviction level tăng từ "guess" lên "confirmed category signal."
 
 ## Meta→Bing demand capture — $2.8k → $20k/4 tuần case ([[ecomamin-bing-ads-7x-roas]])
 eCom_Amin (2026-08-17): fresh account, zero history, 4 tuần → **$20k revenue từ $2.8k spend = 7x ROAS**. Setup: 15 phút.
