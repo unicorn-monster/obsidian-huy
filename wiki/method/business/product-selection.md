@@ -1,6 +1,6 @@
 ---
-sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research, dtcmidas-requirements-for-a-brilliant-ecom-product, dtcmidas-validate-demand-before-ordering-inventory]
-updated: 2026-08-26
+sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research, dtcmidas-requirements-for-a-brilliant-ecom-product, dtcmidas-validate-demand-before-ordering-inventory, ecomamin-overrated-underrated-ecom-2026]
+updated: 2026-10-12
 ---
 
 # Product selection criteria
@@ -29,7 +29,7 @@ DTCMidas (tweet khác, cùng tác giả): 1 sản phẩm ecom xuất sắc cần
 > [!note] Áp cho MaxPro
 > Maxpro Grinder: giải quyết vấn đề thật (grooming/nail an toàn tại nhà) ✓, consumable/expandable (phụ kiện/refill/product line grooming khác) ✓ tiềm năng, dễ/rẻ ship (nhỏ gọn) ✓. TAM cần đánh giá kỹ hơn — pet grooming niche vs tổng pet-owner market. 4/5 tiêu chí có vẻ khớp, TAM là điểm nên verify.
 
-## Validate demand trước khi đặt hàng inventory — pre-sell test $2-5K ([[dtcmidas-validate-demand-before-ordering-inventory]])
+## Validate demand trước khi đặt hàng inventory — pre-sell test $2-5K ([[dtcmidas-validate-demand-before-ordering-inventory, ecomamin-overrated-underrated-ecom-2026]])
 
 DTCMidas: cách giảm rủi ro khi launch brand mới, tránh order 1000 units thứ không ai mua:
 1. **Renders chất lượng** (~$500) — đủ chuyên nghiệp để dùng trong ads và landing page
@@ -90,3 +90,19 @@ Cùng 1 người, cùng skill set, cùng process, cùng team — **stuck dưới
 - Financial model CM1: mảng `finance` — mở sau, chưa có trang
 - Lean ops khi product/funnel đã proven: [[growth-ops]]
 - Validate demand trước khi đặt hàng inventory: [[sourcing-and-fulfillment]]
+
+## Overrated vs underrated ecom 2026 ([[ecomamin-overrated-underrated-ecom-2026]])
+
+eCom_Amin (2026-10-12): góc nhìn operator đang chạy multi-million ecom 2026.
+
+**Overrated:**
+- AliExpress / TikTok dropshipping: saturated, margin tệ, không defensible.
+- "$20 Facebook ads test": không đủ data để quyết định gì cả.
+- 50-product testing approach: volume testing không compensate cho product selection quality.
+
+**Underrated:**
+- **Selling things people type into Google.** Search-intent demand = người đang actively tìm mua, không phải interrupt. CPC có thể cao hơn Meta, nhưng intent = close rate cao hơn nhiều. Ít cạnh tranh từ dropshippers vì kênh này require more setup và higher buy-in.
+
+**Hàm ý cho product selection:** nếu product có search demand (người actively Google it) → defensible channel advantage over Meta-only competitors.
+
+→ MaxPro: "dog nail grinder" có search volume → Google strategy đang đúng hướng. Người gõ vào Google đang tìm mua, không phải scroll TikTok. Verify search volume bằng Google Keyword Planner trước khi scale spend. Tie [[google-ads]] §Day-0 starter system + §$0→$191K new account build.

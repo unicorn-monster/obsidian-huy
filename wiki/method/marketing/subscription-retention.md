@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026]
-updated: 2026-09-23
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal]
+updated: 2026-10-12
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -375,7 +375,7 @@ maxwellcopy (@aftersell use case): instead of "subscribe & save 10%", frame it a
 
 → MaxPro: usable when consumable subscription exists (bit mài, balm refills). Not applicable to one-time grinder. Tie §Operational reality (convert at post-purchase = cheapest moment) + [[email-marketing]] §loss aversion frame.
 
-## 3-track subscription conversion playbook ([[maxwellcopy-subscription-conversion-tactics-2026]])
+## 3-track subscription conversion playbook ([[maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal]])
 maxwellcopy (2026-09-23): comprehensive tactics organized by conversion goal.
 
 **Track 1 — Get customers to subscribe (welcome + abandonment):**
@@ -400,3 +400,16 @@ maxwellcopy (2026-09-23): comprehensive tactics organized by conversion goal.
 
 ---
 *Reference: [[maxwellcopy-subscription-playbook-ecom]] — maxwellcopy full subscription playbook video (first-time buyer → win-back). 3-month deep resource for full implementation when launching sub.*
+
+## Subscription Master Guide — offer framework + 30-day onboarding + churn rebuild ([[maxwellcopy-subscription-master-guide-signal]])
+
+maxwellcopy (2026-10-12): resource mới release — Subscription Master Guide.
+
+**3 thành phần chính:**
+1. **Offer framework** — doubles first-order subscription take rate. (Offer design trước khi traffic, không phải flow design first.)
+2. **30-day onboarding sequence** — đưa subscribers đến orders 2/3/4. (Onboarding = retention phase quan trọng nhất — churn peak ở 30-day window.)
+3. **Email causes of churn + rebuild** — identify specific email patterns dẫn đến cancel, và cách restructure.
+
+**Signal (không phải full content):** đây là resource signal — nội dung đầy đủ trong guide. Core insight: offer design drives take rate; onboarding drives orders 2-4; email sequence design drives churn.
+
+→ MaxPro: khi launch subscription model cho grinder accessories/consumables — dùng guide này làm blueprint. Priority: (1) fix offer structure first (đừng bắt đầu với flows), (2) build 30-day onboarding trước khi scale traffic. Tie [[subscription-retention]] §onboarding 21 ngày + §Billing email A/B test.

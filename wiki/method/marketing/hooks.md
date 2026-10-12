@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture]
-updated: 2026-09-08
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure]
+updated: 2026-10-12
 ---
 
 # Hooks
@@ -131,7 +131,7 @@ Meta cắt primary text ở "…See more" quanh **125 ký tự**. Đó mới là
 
 **Prompt xây hook bank ở quy mô niche** (classify → rank → map entry level trống → viết 20 hook mới): [[native-copy-prompt-chain]] §Prompt 5.
 
-## Schwartz — CLAIM × MECHANISM là động cơ, không phải hook hay ⭐⭐ ([[schwartz-rodale-method-lecture]])
+## Schwartz — CLAIM × MECHANISM là động cơ, không phải hook hay ⭐⭐ ([[schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure]])
 > *"The engine that moves mail order copy can be summarised as the contrast between the claim and the mechanism."* (1:05:42)
 
 **Claim** = hứa cái gì. **Mechanism** = làm bằng cách nào. Sức mạnh nằm ở **KHOẢNG CÁCH giữa hai cái** — lời hứa nghe HỢP LÝ, phương pháp nghe BẤT KHẢ THI, nên người đọc **không tự giải quyết được câu hỏi trong đầu**. Cách duy nhất để hết ngứa là lấy sản phẩm.
@@ -170,3 +170,18 @@ Bóc envelope arthritis nổi tiếng nhất của ông:
 ### Headline chỉ có 1 việc — không phải bán
 > *"The headline has absolutely nothing to do except get you to read the sentence underneath."* (46:23)
 Headline **không cần bán, không nêu tên brand, không claim áp đảo** — chỉ xây **thói quen đọc**. Tie [[copywriting]] §18.3 và §2 slippery slope.
+
+## Drama ads — ragebait hook structure ([[0xroas-drama-ads-ragebait-structure]])
+
+0xROAS (2026-10-11): hook cụ thể cho drama ads format.
+
+**3-beat hook structure:**
+1. **Ragebait open** — tình huống khiến người xem tức/đồng cảm ngay lập tức. Không explain, không soft-open — bắt đầu bằng conflict đỉnh điểm.
+2. **Plot twist** — flip tình huống bất ngờ → tạo satisfaction + keep watching.
+3. **Revenge/resolution** — protagonist thắng, product là catalyst không phải subject.
+
+**Hook anatomy:** controversial enough để stop scroll + specific enough để right audience nhận ra chính họ. Test nhiều hook variation với cùng plot structure.
+
+**Liên kết với §Drama ads framework:** conceptual "tại sao drama works" ([[native-ads]] §Drama ads) + execution structure này = complete system.
+
+→ MaxPro: "Dog owner ignores nail trimming for months → vet bills → discovers grinder → guilt gone." Ragebait = owner seeing neglected dog. Twist = finding easy solution existed all along. Resolution = peaceful grooming. Tie [[native-ads]] §Drama ads framework + [[presell-pages]] §Advertorial.

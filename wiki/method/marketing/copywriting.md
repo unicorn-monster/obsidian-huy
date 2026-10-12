@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026]
-updated: 2026-09-24
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework]
+updated: 2026-10-12
 ---
 
 # Copywriting — DR fundamentals
@@ -141,7 +141,7 @@ Lý do: để AI viết copy **thực sự chạy được**, bạn phải biế
 
 **1 dòng cuối prompt để nâng chất lượng copy AI** ([[jforjacob-one-line-makes-ai-write-better-copy]]): jforjacob — kết thúc MỌI prompt copywriting cho AI bằng câu *"make this the best you possibly can with absolutely no room for improvement"* — claim: "10x's the quality of the result I get back every time". Không thay được §15 (judgement vẫn là nhân tử quyết định output tốt hay không) — đây là 1 tactic tầng prompt-wording bổ sung, rẻ, luôn đáng thêm vào cuối bất kỳ prompt copy nào bất kể đã có judgement tốt hay chưa.
 
-**Model update 2026-09-24 — Opus 5.5 fixes AI slop ([[ecom-amin-opus55-ecom-copy-2026]]):** eCom_Amin: Opus 5.5 tốt hơn Fable 5.1 mọi metric, rẻ hơn, nhanh hơn — nhưng điều quan trọng nhất là **sounds human**: eliminates AI slop feel mà skill files + prompts trước không làm được hết. Các dấu hiệu slop bị xóa: em dashes quá nhiều, "it's not X, it's Y" cliché, cadence đều đều như robot. Test trên: landing pages, advertorials, YT ad scripts, search headlines, shopping feed descriptions — tất cả tốt hơn đáng kể. *"Your entire brand trust relies on whether the reader's guard goes up or not when they read your AI slop."* Implication thực tế: nếu đang dùng Fable cho copy, switch thử Opus 5.5 — rẻ hơn + bỏ đi revision cycle dài hơn.
+**Model update 2026-09-24 — Opus 5.5 fixes AI slop ([[ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework]]):** eCom_Amin: Opus 5.5 tốt hơn Fable 5.1 mọi metric, rẻ hơn, nhanh hơn — nhưng điều quan trọng nhất là **sounds human**: eliminates AI slop feel mà skill files + prompts trước không làm được hết. Các dấu hiệu slop bị xóa: em dashes quá nhiều, "it's not X, it's Y" cliché, cadence đều đều như robot. Test trên: landing pages, advertorials, YT ad scripts, search headlines, shopping feed descriptions — tất cả tốt hơn đáng kể. *"Your entire brand trust relies on whether the reader's guard goes up or not when they read your AI slop."* Implication thực tế: nếu đang dùng Fable cho copy, switch thử Opus 5.5 — rẻ hơn + bỏ đi revision cycle dài hơn.
 
 ## Meta-note (Sam về chính mình)
 *"Tôi không giỏi copywriting, chỉ là đa số người ta dở. Tôi như thằng biết chơi vài bài guitar ở tiệc, thế là được gọi là nhạc công giỏi."* → tinh thần `direct-response-copy` skill: framework kinh điển + reps (copywork), không phải tài năng bẩm sinh.
@@ -335,3 +335,37 @@ Nguồn: @ecomchasedimond (2026-09-18).
 **Khác với §Outcome copy:** outcome copy cho lý do để bắt đầu (nhìn về phía trước — "play her favorite song"). Technical → benefit là về dịch spec thành ngôn ngữ thực tế ngay trong headline/bullet — không nhất thiết cần emotional charge, chỉ cần **translate** cái abstract thành cái cụ thể.
 
 → MaxPro: "30-37 dB motor" → "quieter than your fridge — dog stays calm". "Rechargeable battery" → "groom anywhere, no cord, no rush". "Diamond-bit drum" → "can't cut the quick — even on dark nails". Tie §Spec số phải neo vào vật trong nhà ([[presell-pages]] §Narrator authority) + [[angles]] §Benefit angles.
+
+## VSL 20-step DR script framework ([[jforjacob-dr-vsl-script-framework]])
+
+jforjacob (2026-10-12): full direct response VSL structure từ hook đến close.
+
+**20-step sequence:**
+1. Before/after hook
+2. Introduce pain point
+3. Aggravate pain point
+4. List everyday struggles
+5. Mention failed solutions
+6. Confides in friend (intimacy + credibility moment)
+7. Introduces solution
+8. Introduces authority figure
+9. Acknowledges skepticism
+10. Introduces unique mechanism
+11. Introduces common enemy (big corporations)
+12. Introduces brand and product
+13. Explains ingredients / components
+14. Timeline of benefits
+15. Confirmation from authority figure
+16. Regression after forgetting (consequence of not using)
+17. Social proof
+18. Gives reason for making this video
+19. Call to action
+20. Money back guarantee
+21. Scarcity
+22. Final soft CTA
+
+**Key structural insight:** product không xuất hiện đến bước 12 — trước đó toàn bộ là building context, trust, and desire. Authority figure xuất hiện 2 lần (step 8 và step 15) = trust sandwich quanh mechanism + product.
+
+**Regression beat (step 16):** hiếm gặp trong framework ngắn hơn — nhắc "what happens if you stop" = keep using message. Particularly mạnh cho supplement/habit-forming products.
+
+→ MaxPro: áp VSL structure cho video ad dài (60-90s): Hook = before (dog running từ clipper) / after (dog sleeping while being groomed). Aggravate = cost of bad nails (vet bill, injury, anxiety). Common enemy = "clipper companies don't tell you this". Mechanism = grinding approach. Step 16 (regression) = "dogs that go back to clippers revert to anxiety." Tie [[hooks]] §Drama ads structure + [[presell-pages]] §5-beat native page.

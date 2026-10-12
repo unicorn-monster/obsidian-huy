@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026]
-updated: 2026-09-24
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing]
+updated: 2026-10-12
 ---
 
 # Offer + CTA mechanics
@@ -166,7 +166,7 @@ eCom_Amin (2026-09-11): brands "printing hardest" đã biến price-reveal (ma s
 
 → MaxPro: progress bar *"Add 1 more bit set ($12.95) to unlock free shipping + free nail file"* → khách không tính toán chi phí, họ đang "gần đạt mốc." Tie [[ecom-amin-gamified-checkout-aov]] + tiered bundle §Bundle construction.
 
-**Update 2026-09-24 ([[ecom-amin-gamified-reward-ladder-cart-2026]]):** eCom_Amin extends thesis với concrete reward ladder example: *spend $60 → free shipping · spend $90 → free gift drops in · spend $120 → 15% off everything* — progress bars filling up in cart. Thêm insight: **"a buyer adding a second unit to unlock free shipping feels like they beat the system"** = không có discount energy, không phá brand. Bonus: bigger first order → more emotional attachment → higher chance they return anyway. Cũng reinforce 9/10 customers never return → AOV của đơn đầu phải carry the weight. MacroPoint: reward ladder = solution cho tension "tăng AOV mà không giảm giá trị brand."
+**Update 2026-09-24 ([[ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing]]):** eCom_Amin extends thesis với concrete reward ladder example: *spend $60 → free shipping · spend $90 → free gift drops in · spend $120 → 15% off everything* — progress bars filling up in cart. Thêm insight: **"a buyer adding a second unit to unlock free shipping feels like they beat the system"** = không có discount energy, không phá brand. Bonus: bigger first order → more emotional attachment → higher chance they return anyway. Cũng reinforce 9/10 customers never return → AOV của đơn đầu phải carry the weight. MacroPoint: reward ladder = solution cho tension "tăng AOV mà không giảm giá trị brand."
 
 ## "Account Credit" > "X% OFF" — ownership frame 2.5x revenue ([[maxwellcopy-account-credit-offer-framing-2026]])
 
@@ -348,3 +348,19 @@ Khách Rodale mua qua **TV ad 2 phút** perform TỆ trên mailing list. Ông gi
 - Cùng luận điểm: dopamine-driven UX > discount-driven UX cho opt-in
 
 → MaxPro: Test pick-a-card popup form cho email capture → reveal free gift (PDF "5 breeds that hate clippers + nail grinding guide"). Tie §Mystery discount + [[email-marketing]] §Gamification pop-ups.
+
+## Tier pricing tự kill single-bottle — anchoring qua checkout ([[dtcquizbuilder-offer-tier-pricing]])
+
+DTC_Quizbuilder (2026-10-12): structure 1-bottle vs 3-pack khiến single-bottle trông như bad deal khi đến checkout.
+
+**Setup:**
+- **1 bottle:** không discount + khách trả shipping.
+- **3-pack:** free shipping + free gift (bonus item).
+
+**Cơ chế:** khi user nhìn vào checkout, 1 bottle = trả thêm ship, không nhận gì thêm. 3-pack = ship miễn phí + nhận thêm quà. Perceived value gap rõ ràng → nhiều người tự upgrade.
+
+**Không cần nói "3-pack là deal tốt hơn"** — structure tự nói lên. Brain tự tính: "tại sao tôi lại mua 1 cái?"
+
+**Kết hợp với bundle anchoring:** §No-brainer quantity break anchoring ([[jforjacob-no-brainer-quantity-break-anchoring]]) — giá 3-pack < 3× giá 1 bottle = logic hiển nhiên. Tier pricing này thêm tầng: free gift + free ship = double psychological win.
+
+→ MaxPro: test structure này cho Maxpro — 1 grinder: standard price + trả ship; 2-pack: free ship + free dog nail care guide (PDF). Xem AOV + CVR tại checkout. Tie §Quantity break anchoring + §Bundle construction ([[offer-and-cta]] §4-lever Hormozi).

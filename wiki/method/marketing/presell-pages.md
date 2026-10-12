@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026]
-updated: 2026-09-22
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split]
+updated: 2026-10-12
 ---
 
 # Presell pages — build guide (4 format)
@@ -10,7 +10,7 @@ Nguồn: [[vysta-presell-build-guide]] (agency 150+ brand, 50+ page/tuần). Đ�
 ## Math (vì sao đáng làm)
 Cold thẳng PDP = **1-3% CVR**. Cold → presell → PDP = presell **CTR 8-12%**, end **CVR 4-7%**. Subdomain advertorial giảm **CPA 30-40%**. *"Không phải media problem, là landing page problem."* PDP (nhất là Shopify) build cho repeat shopper, không convert cold → khớp [[funnel-and-landing]] (cold bỏ PDP).
 
-**Benchmark isolate từ thực chiến ([[ecom-amin-advertorial-vs-pdp-cold-cvr-2026]]):** advertorial cold CVR **2.8%** vs PDP cold CVR **0.9%** — cùng keywords, cùng budget, cùng product. 3× multiplier không phải từ better creative mà từ layer warmup trước PDP. Xác nhận "không phải media problem, là landing page problem" ở trên với số thực, không phải estimate.
+**Benchmark isolate từ thực chiến ([[ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split]]):** advertorial cold CVR **2.8%** vs PDP cold CVR **0.9%** — cùng keywords, cùng budget, cùng product. 3× multiplier không phải từ better creative mà từ layer warmup trước PDP. Xác nhận "không phải media problem, là landing page problem" ở trên với số thực, không phải estimate.
 
 ## 4 format + benchmark CTR→PDP
 | format | hợp | traffic | CTR→PDP |
@@ -438,3 +438,32 @@ eCom_Amin (2026-09-20): cùng keyword, cùng ad, cùng người click — 1 land
 → Tie [[google-ads]] §cold traffic funnel types + [[funnel-and-landing]] §PDP = too many distractions for cold.
 
 → MaxPro: áp pipeline này cho "nail safety angle" — ICP = dog owner sợ cắt đứt quick. Static: left = vet với vẻ mặt lo lắng / right = owner tự tỉa tại nhà bình thản. Advertorial: expert = pet groomer "exposing what nail clippers don't tell you". Villain: clipper industry. Mechanism 3 bước: grinding approach = gradual contact = quick-safe by design. Tie [[google-ads]] §Demand Gen + §AI funnel stack prompts ([[ecom-amin-funnel-stack-prompts]]).
+
+## Willis Judd dual-door — listicle + quiz cho cold traffic ([[dtcquizbuilder-willis-judd-listicle-quiz-split]])
+
+DTC_Quizbuilder (2026-10-11): 1 curiosity hook → 2 presell paths tùy user type.
+
+**Hook:** "man handed a note at Sturgis" — không mention product, pure curiosity.
+
+**2 paths:**
+- **Listicle door:** skimmers → scannable format, headline-led, đọc lướt.
+- **Quiz door:** skeptics → bằng chứng + personalization trước khi trust.
+
+**Mechanics:** 1 ad → 1 page → 2 CTA buttons rõ → cả 2 path converge về cùng offer. Không cần 2 landing page riêng biệt nếu intro copy đủ neutral trước khi split.
+
+→ MaxPro: "Why most dog owners give up on nail care" → Listicle: "5 reasons dogs hate it" / Quiz: "Find out why YOUR dog hates clippers." Tie [[quiz-funnels]] §Willis Judd.
+
+## Switching listicle — 5 lý do dứt bỏ routine cũ ([[dtcquizbuilder-switching-listicle-old-routine]])
+
+DTC_Quizbuilder (2026-10-12): structure listicle "switching away from old habit" — 5 beats cho từng reason.
+
+**5-reason structure:**
+1. **Reason 1 — attacks old hassle:** "Morning pill routine? I finally quit — here's why." Tấn công friction của routine cũ mà reader đang chịu đựng.
+2. **Reason 2 — kills silent objection (blames format, not buyer):** "It's not that pills don't work. The format is the problem." Tháo gỡ guilt ("tôi thất bại vì lười") → "sản phẩm cũ có thiết kế tệ" — buyer không bị blame, product cũ bị blame.
+3. **Reason 3 — installs mechanism:** giới thiệu cơ chế WHY new solution works differently ở structural level.
+4. **Reason 4 — removes friction:** convenience angle — dễ làm hơn, fit vào daily routine tốt hơn.
+5. **Reason 5 — kills risk:** guarantee / social proof / "worst case" framing.
+
+**Key psychological mechanic ở Reason 2:** blame shift — người đọc đã thử format cũ và thất bại, họ đang blame bản thân. Listicle này release blame về phía format/product cũ → opens them up to trust new solution.
+
+→ MaxPro: "5 reasons dog owners switch from clippers to grinders" — Reason 2 đặc biệt mạnh: "It's not that you're doing it wrong. Clippers weren't designed for dogs that have been traumatized before." Tie [[hooks]] §Blame shift + [[native-ads]] §5-beat framework.

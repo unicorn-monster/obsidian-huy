@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting]
-updated: 2026-09-19
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats]
+updated: 2026-10-12
 ---
 
 # Native ads (kênh open-web)
@@ -255,3 +255,51 @@ Nguồn: @0xROAS + @hookrate_ (2026-09-17). Drama ads = format dùng narrative k
 **Phân biệt với drama AI format (0xROAS trước):** các source cũ (`0xroas-drama-ads-ai-format-list`, `0xroas-drama-ads-ai-formats-fb`) tập trung vào AI generation workflow. Bài này là **conceptual framework** — hiểu tại sao drama works trước khi production.
 
 → MaxPro: drama angle có thể là "chủ nhân nhẫn tâm cắt móng chó bằng clipper → chó tránh" vs "người chủ dịu dàng dùng grinder → chó ngủ gật." Không phải product demo, là câu chuyện cảm xúc. Liên kết [[hooks]] §Controversy hook + [[presell-pages]] §Advertorial (article landing page).
+
+## Drama ads ragebait — hook + plot twist + revenge ([[0xroas-drama-ads-ragebait-structure]])
+
+0xROAS (2026-10-11): cập nhật framework drama ads với structure ragebait cụ thể.
+
+**3-beat structure:**
+1. **Ragebait hook** — introduce situation khiến người xem tức hoặc đồng cảm mạnh (vd: chồng bỏ qua vợ vì phone).
+2. **Plot twist** — tình huống đảo chiều bất ngờ, tạo satisfaction và tiếp tục xem.
+3. **Revenge/resolution** — nhân vật chính thắng, product là công cụ/catalyst cho chiến thắng đó.
+
+**Tại sao ragebait works:** rage + satisfaction = share bản năng. Plot twist = retention đến cuối clip. Product = hero tool, không phải ad message.
+
+**Multiple cuts:** test nhiều version với cùng structure — hook khác nhau, cut point khác nhau. Data quyết định cut nào giữ attention tốt nhất.
+
+**Liên kết với §Drama ads framework (0xroas-drama-ads-framework):** bài cũ = conceptual "tại sao drama works". Bài này = execution structure 3-beat. Dùng song song: hiểu concept → apply structure.
+
+→ MaxPro: ragebait dog nail: "chó cắn tay chủ khi thấy clipper" (rage/sympathy) → "owner switch sang grinder" (plot twist, discovery) → "chó ngủ ngoan trong khi được grind" (resolution/product win). Tie [[hooks]] §Drama ads + [[presell-pages]] §Advertorial.
+
+## Nova Pod — native static persona page + hospital confession copy ([[dtcquizbuilder-nova-pod-ugly-static-native]])
+
+DTC_Quizbuilder (2026-10-11): teardown nova pod supplement dùng native static ads với advertorial angle.
+
+**Approach:**
+- **Persona page:** ad trông như personal page của 1 người (không phải brand page) — editorial disguise.
+- **Hospital confession copy:** narrator confesses từ góc độ cá nhân sâu ("tôi ở bệnh viện và nhận ra...") — builds instant intimacy + credibility.
+- **Competitor = medical hazard:** tablets (competitor format) được frame là hazardous — villain rõ ràng, product hero mặc nhiên.
+- **Advertorial as dental review site:** landing page = editorial review, không phải PDP. Appear objective, curate toward product.
+
+**Key pattern:** persona page (authentic feel) + confession narrative (emotional hook) + competitor vilification (mechanism setup) + editorial review page (pre-sell trust) = full native funnel.
+
+→ MaxPro: dog nail angle có thể dùng persona page: "dog owner discovers [grinder] after vet visit." Confession narrative: "I cut my dog's quick once, and it changed how I do this forever." Competitor vilification: traditional clippers = "split nail risk = vet visit." Tie §5-beat native page framework.
+
+## 5-beat native page framework ([[dtcquizbuilder-native-page-five-beats]])
+
+DTC_Quizbuilder (2026-10-12): structure tóm gọn bất kỳ native presell page nào đang chạy.
+
+**5 beats:**
+1. **Crisis** — điều gì đó đang sai hoặc đã sai (tình huống reader nhận ra chính mình).
+2. **Failed fixes** — những gì họ đã thử và tại sao không work (validates struggle, removes "it's just me" shame).
+3. **Discovery** — narrator tìm ra thứ gì đó khác, tình cờ hoặc qua research.
+4. **Mechanism** — explain HOW it works — logic trước product.
+5. **Offer** — product xuất hiện như best vehicle cho mechanism đã được tin.
+
+**Tại sao 5 beat này works:** tuân theo psychology path: acknowledge pain → remove blame → introduce hope → earn trust → present solution. Product chỉ đóng vai "phần cuối của chuỗi tất yếu", không phải thứ bị push.
+
+**Cách dùng:** paste page vào Claude → hỏi "identify the 5 beats" → thấy beat nào thiếu hoặc yếu → draft từ những gì đang run tốt.
+
+→ MaxPro: áp 5 beats cho advertorial nail: (1) chó chảy máu vì cắt quá sâu, (2) tried slower clippers / vet visits / just giving up, (3) discovered electric grinding after vet recommendation, (4) gradual contact = nerve endings protected by design, (5) Maxpro Grinder = easiest implementation. Tie [[presell-pages]] §Advertorial 4-step psychology.
