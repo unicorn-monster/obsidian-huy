@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split]
-updated: 2026-10-12
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial]
+updated: 2026-10-13
 ---
 
 # Presell pages — build guide (4 format)
@@ -467,3 +467,30 @@ DTC_Quizbuilder (2026-10-12): structure listicle "switching away from old habit"
 **Key psychological mechanic ở Reason 2:** blame shift — người đọc đã thử format cũ và thất bại, họ đang blame bản thân. Listicle này release blame về phía format/product cũ → opens them up to trust new solution.
 
 → MaxPro: "5 reasons dog owners switch from clippers to grinders" — Reason 2 đặc biệt mạnh: "It's not that you're doing it wrong. Clippers weren't designed for dogs that have been traumatized before." Tie [[hooks]] §Blame shift + [[native-ads]] §5-beat framework.
+
+## Swipe: Strawberry — "5 causes of hyperpigmentation" mechanism advertorial ([[dtcquizbuilder-strawberry-triple-acid-advertorial]])
+DTC_Quizbuilder: skincare advertorial đang chạy, cơ chế "Triple-Acid Complex treats all five causes of hyperpigmentation."
+
+**Mechanics đáng học:**
+- **Naming số nguyên nhân = làm routine cũ thành "incomplete fix":** nói "5 causes" buộc khách nhìn lại: *"giải pháp tôi đang dùng chỉ treat 1-2 trong 5 — không phải tôi thất bại, là giải pháp cũ thiếu."* Blame-shift toàn bộ về format cũ, không về khách. (Cùng cơ chế §Switching listicle Reason 2 ở trên.)
+- **Doctor persona ad → Skin Insider advertorial listicle:** ad dùng giọng dermatologist → click vào editorial site "Skin Insider" → listicle format, không trông như brand page. Credibility transfer: reader đang trong "doctor's world", không trong "brand's world."
+- **Comparison table + keep-bottle guarantee:** cuối advertorial có bảng so sánh với giải pháp cũ + guarantee "nếu không thấy kết quả, giữ sản phẩm vẫn được hoàn tiền." Guarantee kiểu này kill risk mà không mất product back.
+
+**Transferable pattern:** mechanism số-nguyên-nhân ("5 causes" / "3 root issues" / "4 reasons your X fails") là công thức reframe mạnh nhất khi product giải quyết nhiều hơn 1 vấn đề — áp cho bất kỳ sản phẩm multi-benefit nào.
+
+## Swipe: Blackout Water — prepper identity advertorial 120 ngày ([[dtcquizbuilder-blackout-water-advertorial]])
+DTC_Quizbuilder: advertorial đang run 120 ngày liên tục, editorial site "THE OUTSIDER," framing clean water là **grid issue**, không phải plumbing issue.
+
+**Anatomy đầy đủ:**
+1. **Headline:** *"Your Family Has 72 Hours. Here's What Happens After That."* — urgency + specificity số (72h = thật, không vague "soon").
+2. **Credibility frame:** author byline + dark kitchen lit by lantern (editorial photography, không phải product studio). Người đọc cảm thấy đang đọc báo, không xem ad.
+3. **Grid-issue reframe:** *"Your municipal water supply doesn't run on gravity."* = khi grid drop, pumps stop, tap runs dry → không phải về pipes, về điện. Mechanism mới khiến mọi "có đủ nước dự trữ" plan trở thành incomplete (cùng logic "5 causes" ở trên).
+4. **Identity hook:** *"You've thought about this more than most people."* + validate food pantry và go-bag đã có → *"nhưng bạn bỏ sót water."* Không tạo nghi ngờ — tạo cảm giác "tôi gần hoàn chỉnh rồi, chỉ thiếu mảnh này."
+5. **$25 fix frame:** subhead gọi là "$25 fix" trước storm season → paying $25 = *finish the prep they already started*, không phải mua sản phẩm camping mới.
+6. **Pop-up giữa advertorial:** ảnh dirty water cạnh clean water cho trẻ em → giác quan + emotion trước khi lý trí kịp phản ứng. Đặt giữa chừng scroll = interrupt lúc engagement cao nhất.
+7. **Shameful decline link:** *"No thanks, I'll pay full price"* — classic shame-frame decline (= cost of NO). Người đọc phải chủ động chọn reject deal, không chỉ bỏ qua.
+8. **CTA:** "PREPARE TODAY!" — không phải "Buy now", không phải "Add to cart". Identity-action: hành động = hoàn thành việc chuẩn bị, không phải mua đồ.
+
+**Transferable pattern:** tương tự Sculpiflex (§dưới) — prepper angle dùng **existing identity** của reader ("tôi là người chuẩn bị") để frame offer là bước tiếp theo logic của họ, không phải thứ brand bán. Bất kỳ product survival/preparedness nào đều áp được khung này.
+
+→ Tie [[angles]] §Prepper identity (fear-avoid angle + observable consequence); [[hooks]] §"bạn đã sẵn sàng nhưng còn thiếu 1 mảnh" = validation + gap reveal; [[offer-and-cta]] §shame-decline (cost-of-no language).
