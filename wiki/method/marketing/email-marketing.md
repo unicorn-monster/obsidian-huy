@@ -1,6 +1,6 @@
 ---
-sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email, maxwellcopy-expectations-checkin-email, ecomchasedimond-email-sms-orchestration, maxwellcopy-one-takeaway-per-email, maxwellcopy-9-bfcm-email-nonnegotiables, maxwellcopy-mudwtr-game-email-discount, maxwellcopy-email-loss-aversion-discount, maxwellcopy-post-purchase-email-flow-2026, maxwellcopy-deliverability-booster-2026, maxwellcopy-golden-ticket-gift-card-email-2026, maxwellcopy-repeat-purchase-rate-flows-2026, ecomchasedimond-ai-email-setup-steps, ecomchasedimond-bfcm-email-rampup, maxwellcopy-244k-email-case-study, ecomchasedimond-13-email-fixes-30day, ecomchasedimond-welcome-series-audit-prompt, maxwellcopy-bimi-inbox-logo-setup, ecomchasedimond-ai-newsletter-workflow]
-updated: 2026-10-13
+sources: [maxsturtevant-5-email-marketing-hacks, maxwellcopy-email-3m-month-attribution, maxwellcopy-odd-send-times-email, maxwellcopy-founder-email-template-winback, maxwellcopy-12m-email-sms-30days, maxwellcopy-sms-welcome-flow-109k, maxwellcopy-email-headline-angle-framework, maxwellcopy-10-email-lessons-chase-dimond, maxwellcopy-prism-ai-popup-personalization, maxwellcopy-email-hero-section-framework, maxwellcopy-email-deliverability-pre-event, maxwellcopy-reach-beats-segmentation, maxwellcopy-3-text-email-formats, rubiinov-gruns-100m-funnel-teardown, maxwellcopy-email-welcome-flow, maxwellcopy-quiz-popup-welcome-flow, maxwellcopy-email-audit-300k-brand, maxwellcopy-ai-email-copy-briefing, maxwellcopy-short-snappy-email-test, stefangeorgi-list-reactivation-fable, ecomchasedimond-revenue-per-recipient, maxwellcopy-email-pattern-interrupt, maxwellcopy-sku-heavy-email-frequency, maxwellcopy-chatgpt-email-custom-gpt, is-this-the-end-of-email-agencies, maxwellcopy-email-revenue-2x-14-months, maxwellcopy-ad-spend-email-sms-mindset, maxwellcopy-character-emails-brand, maxwellcopy-cross-sell-repeat-purchase-data, maxwellcopy-cross-sell-supplement-ltv, maxwellcopy-email-cta-click-hacks, maxwellcopy-non-discount-email-types, maxwellcopy-email-masterclass-elements, maxwellcopy-alia-popup-ab-test, maxwellcopy-secret-page-pdp-tactic, ecomchasedimond-email-copy-customer-words, ecomchasedimond-welcome-flow-segmentation, maxwellcopy-dr-squatch-5day-email-event, ecomchasedimond-email-reputation-compounding, maxwellcopy-order-confirmation-upgrade, maxwellcopy-hiro-ab-subject-lines, maxwellcopy-email-hills-framework, maxwellcopy-unsubscribe-buyer-segment, maxwellcopy-popup-time-delay-cvr, ecomchasedimond-email-audit-fix-list, maxwellcopy-plain-text-email-performance, ecomchasedimond-welcome-email-timezone-bug, maxwellcopy-email-list-tier-list, maxwellcopy-order-confirmation-email-formula, maxwellcopy-popup-form-good-bad, maxwellcopy-golden-ticket-email, maxwellcopy-plain-text-bfcm-email, jforjacob-product-tutorial-videos-cut-returns, jforjacob-cut-refunds-with-post-purchase-education, dtcmidas-which-email-campaigns-squeeze-the-most-out-of-bfcm, dtcmidas-how-often-should-you-email-during-bfcm-season, dtcmidas-post-purchase-email-flow-essentials, maxwellcopy-10day-sale-email-banner, maxwellcopy-interactive-email, maxwellcopy-expectations-checkin-email, ecomchasedimond-email-sms-orchestration, maxwellcopy-one-takeaway-per-email, maxwellcopy-9-bfcm-email-nonnegotiables, maxwellcopy-mudwtr-game-email-discount, maxwellcopy-email-loss-aversion-discount, maxwellcopy-post-purchase-email-flow-2026, maxwellcopy-deliverability-booster-2026, maxwellcopy-golden-ticket-gift-card-email-2026, maxwellcopy-repeat-purchase-rate-flows-2026, ecomchasedimond-ai-email-setup-steps, ecomchasedimond-bfcm-email-rampup, maxwellcopy-244k-email-case-study, ecomchasedimond-13-email-fixes-30day, ecomchasedimond-welcome-series-audit-prompt, maxwellcopy-bimi-inbox-logo-setup, ecomchasedimond-ai-newsletter-workflow, maxwellcopy-bfcm-segment-specific-offers, maxwellcopy-klaviyo-flow-offer-testing, maxwellcopy-resend-strong-email-hack, ecomchasedimond-bfcm-email-calendar]
+updated: 2026-10-14
 ---
 
 # Email marketing — owned-channel / retention tactics
@@ -923,3 +923,58 @@ ecomchasedimond: workflow hybrid AI-human cho newsletter tuần, không phải A
 **Insight cốt lõi:** AI draft + human sign-off tốt hơn AI hoàn toàn VÀ tốt hơn viết tay hoàn toàn. AI xử lý structure/volume; human giữ voice/judgment/accuracy. Claude làm accuracy check (step 3) là vị trí phù hợp nhất cho AI trong chain.
 
 → MaxPro: nếu mở newsletter cho pet-owner segment, workflow này là blueprint vận hành từ đầu. Không cần writer full-time; cần người có ideas + judgment để duyệt. Tie [[email-marketing]] §AI email copy briefing (cùng hybrid approach, khác scope).
+
+## BFCM segment-specific offers — 6 segment thay vì 1 sitewide discount ([[maxwellcopy-bfcm-segment-specific-offers]])
+Thay vì blast "30% off" cho toàn list: chia thành 6 segment với offer khác nhau. Người đã mua 5 lần full-price không nên thấy cùng email với người chưa từng trả đủ.
+
+**6 segment + offer logic:**
+| Segment | Định nghĩa | Offer phù hợp |
+|---|---|---|
+| **VIPs** | Top 10% revenue 12 tháng | Early access 24-48h trước sale |
+| **At-risk** | Mua trước, không engage 6-12 tháng | Winback angle — cửa sổ BFCM là cơ hội vàng/năm |
+| **Cart abandoners** | Đã để hàng trong giỏ | Exact products họ để + deadline |
+| **Price-sensitive** | Dùng code ≥50% lần mua | Sitewide discount — đây MỚI là đối tượng thật của discount |
+| **Full-price buyers** | Ít dùng code | Early access hoặc new arrivals thay vì discount |
+| **Recent buyers** | Đã mua trong campaign | Recommendations, KHÔNG phải offer cũ lại |
+
+**Tại sao ăn:** Omnisend AI build segment từ plain-language prompt; RFM analysis tự group theo recency/frequency/spend. Cost chủ yếu là 1 lần setup segment trước BFCM.
+
+→ MaxPro/pet store: VIP + at-risk + cart abandoner là 3 segment build được ngay với Klaviyo. "Price-sensitive" = khách dùng code nhiều nhất → họ mới cần discount lớn, không phải full list. Tie §Reach >> segmentation (đừng over-segment danh sách nhỏ — áp khi list đủ lớn, BFCM là trigger hợp lý để thử lần đầu).
+
+## Flow offer testing — 8 test compounds backend ([[maxwellcopy-klaviyo-flow-offer-testing]])
+*"If you only change one thing in your Klaviyo flows, make it your offers."* Offer test là lever lớn nhất trong flow (tie §10 lessons Chase Dimond — "highest lever = offer, không copy").
+
+**8 offer tests cụ thể (theo flow):**
+- **Welcome:** % off vs $ off → tìm frame thắng cho cold subscriber
+- **Abandonment (early emails):** 0 offer ở email 1-2 → nhiều brand skip discount sớm thắng ngay
+- **Abandonment email 3:** tăng offer thay vì lặp lại cùng offer
+- **Cart abandon:** mystery discount (tie §1 mystery discount — curiosity gap ~2×)
+- **Checkout abandon:** countdown trên offer
+- **Post-purchase PS:** test product nào push — đây là chỗ cross-sell phù hợp nhất
+- **Winback:** số lẻ "$7.14 credit" — số lẻ = perceived specificity, cảm giác calculated-for-you
+- **Abandoned flows:** loyalty offer cho past buyers thay vì welcome discount
+
+**Cơ chế compounding:** cả backend (flows toàn bộ) build trên offer layer → đổi 1 offer test đúng chỗ tác động nhiều flow cùng lúc. Tie §9 hills (offer test = high-leverage AB test duy nhất thật sự dịch chuyển 2× performance).
+
+→ MaxPro: start với mystery discount trên cart abandon (đã có data §1) + test "0 offer ở email 1" trong welcome flow. Cả hai low-risk, high-upside.
+
+## BFCM email calendar — bot template từ $200M playbook ([[ecomchasedimond-bfcm-email-calendar]])
+Chase Dimond (agency 250+ brand, $200M revenue): biến playbook BFCM thành bot template. Input: store info + offer + sale dates + last year's numbers → output đầy đủ:
+
+1. Full calendar từ warm-up đến shipping cutoff
+2. Ai nhận mỗi send / ai bỏ qua (segmentation)
+3. Offer angle cho từng email
+4. Subject lines + preview text mỗi send
+5. Automation changes trong sale period
+6. Deliverability checklist trước khi ramp up volume
+
+**2 điểm bot push back mạnh nhất:**
+- Gửi toàn list vào Black Friday (ý kiến: đừng — segment trước)
+- Urgency email cho người đã mua (ý kiến: send recommendations thay thế)
+
+**Cơ chế tăng độ sắc:** chia sẻ best/worst send năm ngoái → plan specific hơn nhiều.
+
+→ MaxPro BFCM 2026: dùng template này làm khung + bổ sung insight §BFCM segment-specific offers ở trên (segment trước khi lock calendar). Tie [[ecomchasedimond-bfcm-email-rampup]] (warm-up phase đã có) + §Pre-event deliverability warmup (deliverability checklist ăn khớp).
+
+> [!note] Resend top-performer — explicit confirmation ([[maxwellcopy-resend-strong-email-hack]])
+> maxwellcopy: *"You do realize you can just... resend past strong-performing emails... right? Your list doesn't remember, they won't give a shit, and with 50% open rates half the recipients didn't open the first email anyways."* — confirmation ngắn gọn nhất của §5 (resend top performer). Áp được ngay, 0 cost. Dùng trước BFCM để warm list.

@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks]
-updated: 2026-10-13
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel]
+updated: 2026-10-14
 ---
 
 # Funnel + landing congruency
@@ -391,3 +391,28 @@ Mở rộng trực tiếp §Trust recession — legitimacy stack điểm 4 đã 
 
 > [!note] Áp cho MaxPro
 > Đã có 18,587 review 5★ trên site ([[maxpro-product-truth]]) nhưng chưa khai thác nguồn ngoài — cơ hội: pull screenshot review Amazon (nếu có bán), ad comment thật, bất kỳ mention Reddit/FB nào, dán cạnh review count hiện có trên PDP/pre-sell. Cùng niềm tin "thật thắng đẹp" đã có ở [[ugly-ads-method]] (candid > polished cho ad image) — đây là bản áp cho REVIEW thay vì ảnh sản phẩm.
+
+## Intent-page-channel chain — diagnostic trước khi blame product ([[ecomamin-product-not-selling-chain]])
+*"It's almost NEVER the product. It's who saw it, what they were doing when they saw it, and where you sent them after."*
+
+Framework: **product → offer → traffic source → intent → page → channel**. Sai bất kỳ mắt xích nào → product chịu tội toàn bộ.
+
+**Dog ramp case study — cùng sản phẩm, cùng giá, 2 kết quả khác nhau:**
+- TikTok: không ai tìm kiếm — must interrupt. 2 giây để khiến người lạ quan tâm → creative burnout liên tục.
+- Google "senior dog struggling with stairs": người đã có vấn đề, nhưng **chưa biết ramp là câu trả lời** (problem-aware, solution-unaware). Send to PDP → gone. Send to page giải thích *vì sao điều này xảy ra + ramp là giải pháp* → ramp CẢM GIÁC như câu trả lời thay vì thứ để mua.
+- Google "best dog ramp for couch": solution-aware, đang so sánh → comparison page.
+- Brand search: ready to buy → PDP.
+
+**Rule:** *"A discount never fixes someone who doesn't understand the problem yet. An explanation does."*
+
+**Diagnostic ngược chiều:** trước khi bỏ product, đi ngược chain: *ai* thấy nó → *đang làm gì* khi thấy → *page nào* nhận họ → page đó có *meet them where their head was at* không?
+
+→ MaxPro: Google search cho "nail grinder dog" (solution-aware) → PDP làm đúng. Google "dog scared of nail trimmer" (problem-aware) → needs educational page, not PDP. TikTok cold → needs symptom hook. Từng kênh = từng page, không phải mọi traffic về 1 chỗ. Tie [[quiz-funnels]] §PetLab Co (search intent segmentation ở quy mô hệ thống) + §Congruency (intent-level match là form của congruency cho search).
+
+## PetLab Co — search intent segmentation architecture ([[ecomamin-petlabco-youtube-funnel]])
+PetLab Co ($200M+ pet): blueprint cho multi-channel, intent-based routing. Xem chi tiết trong [[quiz-funnels]] §Pet Lab Co. Intent-routing tóm tắt:
+- **Problem search** ("dog eating grass?") → *"is it a warning sign?"* advertorial (educate trước)
+- **Product search** ("dog probiotic") → offer page (vets + proof + subscribe pre-selected)
+- **Brand search** → homepage + full branded extension stack (rating, price-per-day, reviews ad, login ad)
+
+Key cho MaxPro: *"every click lands on a page built for where the owner's head is at"* — mỗi kênh/intent = page riêng. Không cần product khác nhau, chỉ cần funnel match intent. Tie [[ecomamin-product-not-selling-chain]] §intent-page-channel chain (framework) và [[quiz-funnels]] §PetLab Co (full teardown).
