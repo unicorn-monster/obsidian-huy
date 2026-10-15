@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026]
-updated: 2026-09-24
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero]
+updated: 2026-10-15
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -214,3 +214,16 @@ Toàn bộ trang này đọc feed như input cho **Shopping ads**. Tài liệu c
 - **UCP readiness** (nhóm attribute mới của MMC): `return_policy_labels` — return policy cấp store, Microsoft ghi **bắt buộc cho UCP/agentic checkout** — cùng `consumer_message_type` / `consumer_message_content` cho cảnh báo pháp lý.
 - **Lead-time ẩn:** đổi title / description / ảnh / product URL → item về **pending review tới 3 ngày làm việc**. Đừng sửa feed sát ngày launch (ăn khớp với lead-time promo 2 tuần ở §trên).
 - **`link` không được redirect** (dùng `ads_redirect`), domain product URL phải khớp domain store, và **robots.txt phải cho crawler Microsoft vào** — không thì ad không serve.
+
+## Google Shopping from zero — $30/day 5-step system ([[ecomamin-google-ads-from-zero]])
+eCom_Amin: if starting ecom from zero with $1,000 in 2026, skip Meta and TikTok. Do this instead:
+
+1. **Pick 1 product people already search for** — demand exists, no guessing needed
+2. **Put it on Google Shopping** — show up where intent already is
+3. **Spend $30/day** — enough data without burning budget
+4. **Don't touch anything for 7 days** — let algorithm learn before optimizing
+5. **Keep what makes money, kill what doesn't** — ruthless pruning
+
+"No viral videos. No creatives. No guessing what people want. They're already typing it into Google. You just show up." System behind $50M+ across ecom brands.
+
+Tie §GMC feed = 70% kết quả (feed trước campaign) — "from zero" system giả định feed clean từ đầu, không tối ưu sau. Tie [[google-ads]] §7-campaign structure: $30/day = catch-all Shopping + 1 Performance Max, scale sau khi có data. → MaxPro: search intent "dog nail grinder" đã có (grooming tool = nhóm high-intent search category). $30/day → 7 ngày → xem search terms report → prune non-converting, double down on converting. Tie §Title keyword-first (đảm bảo title đúng trước ngày 1, không sửa sau khi campaign live).

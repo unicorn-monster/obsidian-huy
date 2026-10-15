@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure]
-updated: 2026-10-12
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time]
+updated: 2026-10-15
 ---
 
 # Hooks
@@ -60,6 +60,11 @@ Swipe (eCom_Amin, gốc B2B): *"pov: you've been torching your google ads budget
 Test 3-4 hook trên CÙNG body → tìm scroll-stopper → rồi test hook thắng across persona.
 
 → Lấy 1 hook proven (KS/đối thủ) đổi sang MaxPro mà không mất sức: [[hook-swap-method]] (giữ ENGINE cảm xúc + nhịp, chỉ thay SKIN danh-từ/số/tên).
+
+## Storytelling = 34s avg watch time, 1,500+ ads ([[jforjacob-story-watch-time]])
+@jforjacob: account-wide average watch time = **34 seconds** across 1,500+ ads — driven almost entirely by storytelling, "nothing crazy." Formula: find everyday struggles your customer faces → turn into a story → weave your product in naturally. "That is literally it." Real-world benchmark: 34s average watch time is exceptional (industry average closer to 7-10s for cold traffic). Method = find the daily struggle first, story structure second, product third.
+
+Tie §Storytelling = next unlock (cơ chế tâm lý dưới) + [[angles]] (everyday-struggle = pain angle framing). → MaxPro: "chó giãy lúc cắt móng" = daily struggle; story = "hôm qua lại bỏ cuộc giữa chừng"; product = MaxPro đặt cuối như giải pháp tự nhiên.
 
 ## Storytelling = next unlock sau khi direct-sell hit ceiling ([[dtcmidas-storytelling-ads-scale-unlock]])
 Nguồn: @DTCMidas. Khi direct-sell đã khai thác hết in-market pool, storytelling là đòn mở cửa colder audiences — với **lower CPM**.

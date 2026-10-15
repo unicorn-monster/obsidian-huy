@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown, the-villain-framework]
-updated: 2026-07-17
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown, the-villain-framework, dtcquizbuilder-villain-before-writing]
+updated: 2026-10-15
 ---
 
 # Villain stack + landmines
@@ -51,6 +51,18 @@ Bổ sung METHOD (không chỉ danh mục villain) cho toàn trang: (1) **liệt
 3. **Groomer / vet visit** = $15-45/lần, dồn mãi. Profiteer (cứng): "They're renting you a calm dog for 20 minutes at $45, forever." Soft / giữ khách *yêu* groomer của họ (dial mềm ở trên): "Groomer không moi tiền bạn — họ với lấy cái tông-đơ vì trường dạy thế, nhanh cho 30 con/ngày; không ai dạy họ con chó ở NHÀ bạn cần gì khác." → [[hooks]] overheard.
 4. **Sedation** = trazodone/muzzle/head-lock. "Sedation is not training, it's surrender. You drugged your dog so a tool could hurt her quietly."
 5. **Máy mài Amazon rẻ** = yếu, overheat, fake. "It did nothing because it's underpowered and half are counterfeits. That's why you think grinders don't work. You used a fake."
+
+## AI workflow — pull villain TRƯỚC khi viết chữ đầu ([[dtcquizbuilder-villain-before-writing]])
+@DTC_Quizbuilder: trước khi viết 1 từ copy, chạy qua bước này:
+1. Lấy 1 scaling page's headline (từ competitor đang chạy tốt)
+2. Paste vào Claude
+3. Prompt: *"What is the named cause this headline implies, and what every failed fix does that named cause kill?"*
+
+Output = named cause + list failed fixes đã bị invalidate. By the time bạn reach the offer, buyer đã cảm thấy past failures were never their fault — they were fighting the wrong mechanism.
+
+Tie §3-bước tìm villain (method luận) + §"Three Mistakes" nén failed-solutions thành 1 câu — AI workflow này là cách tìm NHANH cả villain lẫn failed-fix list thay vì làm research tay. Hiệu quả nhất khi có scaling headline làm input (headline đang ăn = đã encode villain thật sự resonates với market).
+
+→ MaxPro: lấy top competitor headline (Dremel, Millers Forge, groomer promo) → paste vào Claude → extract "named cause" + mọi failed fix → dùng làm skeleton §5 villain grinder ở trên.
 
 ## 2 landmine HARD-AVOID
 1. **"Microfracture / X-ray bone damage"** -> vet debunk là bịa. Ở lại keratin-splinter / pinched-quick / pressure-pain (defensible).

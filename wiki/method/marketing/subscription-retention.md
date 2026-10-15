@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate]
-updated: 2026-10-13
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs]
+updated: 2026-10-15
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -53,6 +53,19 @@ Job đảo chiều: không còn là convince nữa — là build habit + belongi
 3. **Day 7 nudge** — recommit TRƯỚC khi rebill đầu hit
 
 Tie [[offer-and-cta]] churn-as-value-gap.
+
+## 5 jobs every onboarding email must do ([[maxwellcopy-email-onboarding-5-jobs]])
+"Your email onboarding flow to new subscribers is your most impactful flow in your account." Each email in the first two weeks should do ONE specific thing that gets them closer to orders 4+.
+
+| Job | Cơ chế | Tại sao |
+|---|---|---|
+| **1. Get excited** | Email 1: hype the decision + social proof từ subscribers 6+ month | Buyer's remorse kicks in the second someone subscribes — kill it immediately |
+| **2. Set proper expectations** | "Life-changing in 7 days" → cancel at week 2. Instead: 90+ days, week-by-week timeline, 6-month testimonials | Unrealistic timeline = churn right when results would start showing |
+| **3. Drive consumption** | Push HOW to use, WHEN to use, HOW TO PAIR với thói quen hàng ngày | "Over half of cancels: I still have too much product left." Habit formed = subscription retained. |
+| **4. Build buy-in** | Founder stories, mission, other subscribers. Identity framing > discount | "People don't cancel on things they feel part of." |
+| **5. Show benefits of staying** | Discounts, free gifts, early access, never-run-out convenience — reinforce mọi email | Never let them forget what they'd lose |
+
+Khớp trực tiếp với §5 nguyên tắc + §21-day framework ở trên — đây là frame **theo job** (mỗi email làm GÌ) thay vì frame theo phase (trước/sau nhận hàng). Dùng song song: dùng phase framework để set cadence, jobs framework để check mỗi email có mục đích chưa. Job 4 (identity > discount) cùng tinh thần driver #4 trong §10 driver LTV (AG1-style identity-fit branding). Job 3 (habit pairing) = cơ sở cho streak tracker dưới.
 
 ## Daily usage streak tracker — gamified habit + churn defense ([[maxwellcopy-subscription-streak-tracker]])
 Root cause: *"Customers having too much product is what kills most subscriptions. People forget to take it, so it piles up, and they cancel."* — maxwellcopy (2026-07-12). Cùng driver #1 churn trong §onboarding (quá nhiều hàng tồn + không dùng).
