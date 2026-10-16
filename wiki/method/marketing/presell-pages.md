@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown]
-updated: 2026-10-15
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku]
+updated: 2026-10-16
 ---
 
 # Presell pages — build guide (4 format)
@@ -507,5 +507,24 @@ Mechanism: a flat shoe = looks like a water shoe = price-shoppable on Amazon. **
 - Offer: Buy 1, Get 1 FREE — at offer point, *"ordering doesn't feel like chasing a gimmick; it feels like throwing out the foam blocks that caused the ache."* Framing the purchase as removing the villain, not buying a product.
 
 **Transferable pattern:** any product with a physical differentiator (material, mechanism, design feature) → name it specifically in the listicle body before the offer → buyer can't price-shop against unnamed generics. Works best when mechanism is *visible* (can be described in 1 sentence, buyer can conceptually imagine it).
+
+## Multiple listicles per SKU — separate angle doors ([[dtcquizbuilder-multiple-listicles-one-sku]])
+@DTC_Quizbuilder: Mars Men, Artuvate, và Bloomin đều chạy **nhiều listicle khác nhau cho cùng 1 SKU** — mỗi page sell 1 cause riêng biệt, cùng bottle ở cuối tất cả.
+
+**Cấu trúc:**
+- Ad 1 hooks morning exhaustion → listicle "5 reasons you still wake up tired after 8 hours"
+- Ad 2 hooks afternoon focus → listicle "5 signs your brain fog is actually an absorption issue"
+- Same bottle, same offer, 2 completely different entry points
+
+**5-bước walk một buyer (transferable):**
+1. Validate symptom → khách cảm thấy được hiểu
+2. Name the cause (*"it's not aging, it's low cellular uptake"*)
+3. Kill the failed fixes (coffee, basic multivitamins)
+4. Comparison table: generic pills vs sản phẩm
+5. Close on discounted bundle
+
+**Tại sao ăn:** "Cold traffic bounces when an angle feels too broad. Building separate doors lets one product speak to five different problems." Buyer ở cuối không cảm thấy mua supplement — họ cảm thấy "tìm được đúng fix cho đúng triệu chứng đã dẫn mình vào."
+
+Tie [[dtcquizbuilder-mars-men-cortisol-villain]] (named cause per door) + [[villains]] §Named cause kills price shopping (named cause = inoculation against comparison shopping). → MaxPro: Door 1 "chó sợ clipper" → listicle "5 lý do chó vẫn sợ sau hàng chục lần cắt"; Door 2 "móng chó quặp đau khớp" → listicle "5 dấu hiệu móng chó đang ảnh hưởng cột sống." Cùng grinder ở cuối. Tie [[quiz-funnels]] §Willis Judd qualify (có thể test thêm quiz gate trước mỗi listicle door).
 
 → MaxPro: "built into the grinder is a flexible guard that automatically adjusts pressure — clipper blades apply fixed force; this reads resistance." Once named, $8 Amazon grinder has no "flexible pressure-guard." Tie [[angles]] §named-mechanism + [[villains]] §AI workflow (extract cause = extract what named mechanism fixes).

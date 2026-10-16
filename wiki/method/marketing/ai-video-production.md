@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026]
-updated: 2026-09-24
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access]
+updated: 2026-10-16
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -287,3 +287,20 @@ DTCMidas (2026-03-13): full AI animation ads hiện là top spender ở **nhiề
 - "Yapping" style (high-energy monologue) phù hợp DTC — giọng founder/user, nhiều claim, liên tục. Test angle khác nhau với marginal cost ~$0.
 - Kết hợp với §GPT-6 + Seedance automation: khi agentic pipeline stable, có thể gen 50+ variation/ngày.
 - **MaxPro:** test yapping format cho dog nail grinder — hook problem (scratching furniture/floors, anxious dog), mechanism (quiet motor), proof (before/after). Mỗi variation dưới $1.
+
+## Muse AI — truy cập từ Europe/UK/outside US ([[dtcmidas-muse-europe-access]])
+@DTCMidas: Muse (AI creative tool) không available ngoài US theo default. Workaround step-by-step:
+
+**Browser:**
+1. Bật US VPN → tạo account tại muse.ai
+2. Tắt VPN → dùng trong browser bình thường (account không bị flag khi dùng không có VPN)
+
+**iPhone app:**
+1. Settings → Media & Purchases → Country/Region → United States (dùng address Mỹ ngẫu nhiên + số thật)
+2. Download Muse từ US App Store
+3. Bật US VPN → mở app lần đầu + login (cần VPN khi login lần đầu)
+4. Tắt VPN → dùng bình thường
+
+**Note:** tắt VPN TRƯỚC khi dùng, chỉ cần VPN khi tạo account và login lần đầu trên mobile.
+
+→ Hữu ích nếu test Muse cho AI creative workflow bên cạnh Seedance/Veo đang dùng.

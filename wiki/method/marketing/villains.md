@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown, the-villain-framework, dtcquizbuilder-villain-before-writing]
-updated: 2026-10-15
+sources: [maxpro-operating-system, maxpro-skeleton-and-banks, kittysupps-ugly-ads-teardown, ecomtable-dental-hooks-swipe, henrycrochemore-provitalize-three-mistakes, avcanthony-sophistication-ump-match, dtcquizbuilder-primalvikings-listicle-10reasons, fotw-bencivenga-listicle-collagen, gruns-quiz-funnel-breakdown-2026-re-teardown, viasox-turned-socks-into-a-pain-relief-empire, everyone-in-their-industry-got-crushed, my-favorite-vsl-breakdown, the-villain-framework, dtcquizbuilder-villain-before-writing, dtcquizbuilder-mars-men-cortisol-villain]
+updated: 2026-10-16
 ---
 
 # Villain stack + landmines
@@ -63,6 +63,19 @@ Output = named cause + list failed fixes đã bị invalidate. By the time bạn
 Tie §3-bước tìm villain (method luận) + §"Three Mistakes" nén failed-solutions thành 1 câu — AI workflow này là cách tìm NHANH cả villain lẫn failed-fix list thay vì làm research tay. Hiệu quả nhất khi có scaling headline làm input (headline đang ăn = đã encode villain thật sự resonates với market).
 
 → MaxPro: lấy top competitor headline (Dremel, Millers Forge, groomer promo) → paste vào Claude → extract "named cause" + mọi failed fix → dùng làm skeleton §5 villain grinder ở trên.
+
+## Named cause kills price shopping — Mars Men cortisol case ([[dtcquizbuilder-mars-men-cortisol-villain]])
+@DTC_Quizbuilder teardown Mars Men cortisol listicle:
+
+**Ad**: *"Cortisol is just running the show"* → pins gut + fatigue on that one villain.  
+**Page**: everything anchors to cortisol as the named cause.  
+**Result**: "A named cause kills price shopping." By the offer, the stack feels like the **only real fix** — because no generic supplement is sold as "the cortisol fix."
+
+**Mechanism:** generics are priced against each other. The moment you name a *specific cause* ("cortisol"), you've created a category-of-one for your product. Buyer can't type "cortisol fix" into Amazon and find meaningful substitutes.
+
+Tie §Villain làm ĐÚNG 3 việc (named villain = kẻ thù ngoài = chuyển cơn giận ra, mua thành hành động nổi loạn). Đây là **kiểu villain vô hình / gradual-gap** (§Villain vô hình): cortisol là quá trình sinh lý bên trong, không phải competitor/ngành, không ai "tự nhận tội" — blame an internal biochemistry, not a choice the buyer made.
+
+→ MaxPro: "It's not that your dog is difficult — it's that the tool triggers their hardwired stress response" → named cause = sensory alarm mechanism. Stack: every clipper/Dremel pins on that cause → MaxPro = only fix that doesn't trigger it.
 
 ## 2 landmine HARD-AVOID
 1. **"Microfracture / X-ray bone damage"** -> vet debunk là bịa. Ở lại keratin-splinter / pinched-quick / pressure-pain (defensible).

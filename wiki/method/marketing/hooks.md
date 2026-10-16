@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time]
-updated: 2026-10-15
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost]
+updated: 2026-10-16
 ---
 
 # Hooks
@@ -190,3 +190,10 @@ Headline **không cần bán, không nêu tên brand, không claim áp đảo** 
 **Liên kết với §Drama ads framework:** conceptual "tại sao drama works" ([[native-ads]] §Drama ads) + execution structure này = complete system.
 
 → MaxPro: "Dog owner ignores nail trimming for months → vet bills → discovers grinder → guilt gone." Ragebait = owner seeing neglected dog. Twist = finding easy solution existed all along. Resolution = peaceful grooming. Tie [[native-ads]] §Drama ads framework + [[presell-pages]] §Advertorial.
+
+## Grok bot auto-finds best post + boosts it ([[ecomchasedimond-grok-bot-boost]])
+@ecomchasedimond: built a Grok bot that finds their best X post each day and puts ad spend behind it automatically — targeting, budget, everything set up by the bot; human just hits approve.
+
+**Insight (signal amplification):** bài đã có engagement organic (engaged, shared, bookmarked) = đã prove với thuật toán → paid boost = get it in front of nhiều hơn, không phải guess what'll resonate. **Best signal = existing engagement, not content you think will work.**
+
+**Transferable principle:** organic content that already wins → boost it paid; don't boost cold content. Cơ chế này áp được dù không dùng Grok bot — manual version: check X/TikTok/IG analytics weekly → put $5-10/ngày behind top organic post → observe. "Let the audience tell you what to amplify." Tie §Hook = 3-second filter ([[jforjacob-hook-promise-of-payoff-retention]]): hook mà đã dừng scroll organic = đã prove hook strength → paid amplification only accelerates what already works.

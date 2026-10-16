@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate]
-updated: 2026-10-13
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow]
+updated: 2026-10-16
 ---
 
 # Angles
@@ -206,3 +206,10 @@ Schwartz gọi việc ad hết pull là **fatigue factor** và coi là **tất y
 → Đây là nguồn thứ 3 cho matrix, bên cạnh **avatar** và **awareness**: trục **job/function**. Tie §Matrix grinder (angle × avatar × persona) và §50-angle strategy ở trên — 50-angle nói *chọn product bán được 50 góc*; "bundles of do's" nói *cách MOI 50 góc đó ra khỏi product mình đã có*.
 > [!note] Áp cho MaxPro
 > MaxPro gần như luôn được bán bằng 1 job duy nhất: *cắt móng không làm chó đau/chảy máu*. Bộ việc chưa khai thác (kiểm chứng ở [[maxpro-product-truth]] trước khi dùng): mài móng mèo để khỏi cào sofa · giữ móng chó già không quặp gây đau khớp khi đi · dùng cho chó sợ tiếng bấm (job = **giữ bình tĩnh**, không phải cắt móng) · làm móng cho chó rescue chưa cho ai chạm chân · tiết kiệm phí groomer định kỳ (job = **tiền**, không phải đau). Mỗi cái là 1 product khác trên giấy.
+
+## Competitor ads → own product workflow ([[dtcmidas-competitor-ads-product-workflow]])
+@DTCMidas: updated 8-page, 11-step workflow for turning winning competitor ads into your own product's ads. "The guy in this screenshot is still making winning ads with last year's version."
+
+**Method luận:** competitor đang scale = đã chứng minh angle ăn với thị trường. Thay vì research từ đầu, bắt đầu từ ad đang chạy tốt (visible spend signal) → decode angle/hook/mechanism → adapt cho sản phẩm của mình.
+
+**Tại sao có giá trị cao:** không phải copy (claim khác nhau, compliance không overlap) mà decode winning belief structure → áp vào brief của mình. Tie [[dtcquizbuilder-villain-before-writing]] (AI workflow extract named cause từ headline đang scale — cùng nguyên lý: scale signal → extract structure → rebuild). → MaxPro: lấy top Dremel/Casfuy ads trên Facebook Ad Library đang spend lớn → decode angle (fear/pain/authority/social proof) → adapt vào MaxPro brief với cùng belief structure nhưng claim MaxPro.

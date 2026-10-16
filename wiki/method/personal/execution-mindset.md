@@ -1,6 +1,6 @@
 ---
-sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics, maxwellcopy-ai-vs-real-bottleneck, jforjacob-midas-touch-self-fulfilling-prophecy, jforjacob-zig-when-the-market-zags, jforjacob-stress-what-you-resist-persists, jforjacob-stop-nitpicking-ads-just-publish, jforjacob-click-your-fingers-test-brand-ideas, jforjacob-would-you-launch-if-ready-now, jforjacob-what-9-figure-founders-have-in-common, jforjacob-what-a-real-operators-week-looks-like, jforjacob-only-metric-that-matters-bank-account, jforjacob-copywriting-beats-technical-marketing, jforjacob-dropshipper-skill-stack-vs-brand-founders, jforjacob-listen-to-the-few, jforjacob-funnel-hacking-beats-guru-sauce, jforjacob-learn-from-doers-not-thought-leaders, jforjacob-whose-free-advice-can-you-trust, jforjacob-dtc-misinformation-incentives-filter, jforjacob-big-numbers-morality-not-skill-issue, jforjacob-first-kalodata-rip-trap, jforjacob-how-to-actually-network, jforjacob-give-without-making-it-transactional, jforjacob-add-value-to-people-ahead-of-you, jforjacob-agency-calls-reveal-little, jforjacob-dont-do-business-financially-worse-off, dtcmidas-tools-dont-fix-skill-problems, dtcmidas-do-everything-yourself-before-hiring, dtcmidas-dont-start-dropshipping-with-2k, dtcmidas-pick-one-industry-and-stay]
-updated: 2026-08-26
+sources: [dtcmidas-strategy-blame-execution, maxwellcopy-business-mosaic-proven-tactics, maxwellcopy-ai-vs-real-bottleneck, jforjacob-midas-touch-self-fulfilling-prophecy, jforjacob-zig-when-the-market-zags, jforjacob-stress-what-you-resist-persists, jforjacob-stop-nitpicking-ads-just-publish, jforjacob-click-your-fingers-test-brand-ideas, jforjacob-would-you-launch-if-ready-now, jforjacob-what-9-figure-founders-have-in-common, jforjacob-what-a-real-operators-week-looks-like, jforjacob-only-metric-that-matters-bank-account, jforjacob-copywriting-beats-technical-marketing, jforjacob-dropshipper-skill-stack-vs-brand-founders, jforjacob-listen-to-the-few, jforjacob-funnel-hacking-beats-guru-sauce, jforjacob-learn-from-doers-not-thought-leaders, jforjacob-whose-free-advice-can-you-trust, jforjacob-dtc-misinformation-incentives-filter, jforjacob-big-numbers-morality-not-skill-issue, jforjacob-first-kalodata-rip-trap, jforjacob-how-to-actually-network, jforjacob-give-without-making-it-transactional, jforjacob-add-value-to-people-ahead-of-you, jforjacob-agency-calls-reveal-little, jforjacob-dont-do-business-financially-worse-off, dtcmidas-tools-dont-fix-skill-problems, dtcmidas-do-everything-yourself-before-hiring, dtcmidas-dont-start-dropshipping-with-2k, dtcmidas-pick-one-industry-and-stay, ecomamin-ecom-skill-pays-late, ecomchasedimond-first-version-rough-launch]
+updated: 2026-10-16
 ---
 
 # Execution mindset
@@ -168,3 +168,34 @@ Cái nhận được từ route này: kinh nghiệm thật thấy cái gì thự
 DTCMidas: người thành công nhất mà DTCMidas biết đều chọn **1 ngành** rồi ở lại "unreasonably long" — trong lúc số đông đuổi theo shiny object mới. Ở lại lâu → trở thành chuyên gia không ai tranh cãi trong ngành đó: biết mọi player, mọi trend, mọi cơ hội TRƯỚC KHI nó trở nên rõ ràng với người ngoài; build được quan hệ với supplier/khách hàng/đối tác mất nhiều năm mới có; hiểu được nuance người ngoài nhìn không ra. Khi cơ hội mới xuất hiện trong ngành, họ thấy trước và move nhanh nhất. Ngược lại, người nhảy ngành mỗi 2-3 năm luôn bắt đầu lại từ số 0.
 
 → Tie [[focus-and-deep-work]] §1 ưu tiên duy nhất — cùng kỷ luật "narrow xuống 1 thứ" nhưng ở timescale khác: focus-and-deep-work nói về ưu tiên HẰNG NGÀY, insight này áp cùng nguyên lý ở timescale NHIỀU NĂM (chọn ngành). Với Huy: pet grooming (Maxpro) là ngành đã chọn — nguyên lý này ủng hộ đào sâu thêm thay vì nhảy sang ngành/niche khác khi chưa "unreasonably long" trong pet grooming.
+
+## Ecom is a skill that pays late — đừng quit trước đỉnh ([[ecomamin-ecom-skill-pays-late]])
+@eCom_Amin: "mfs quit their ecom store after 3 weeks, then pay $997 for a course on 'finding winners.' The product was never the problem."
+
+**Core reframe:** ecom là **skill pays late** — người muốn được trả TRƯỚC khi học xong thì không bao giờ tới đỉnh.
+
+Principles (từ tác giả):
+- First product = dạy bạn, không thường trả tiền bạn
+- Bạn đang bán "fix cho thứ đã làm phiền ai đó nhiều tháng" — không phải sản phẩm
+- People buy with emotion, justify with logic → page phải làm được cả 2
+- Nếu không giải thích được tại sao họ cần trong 1 câu → ad cũng không thể
+- Không ai trust store tìm thấy 10 giây trước → reviews / guarantee / real face / phone
+- Customer không nghĩ về brand của bạn, họ nghĩ về bản thân họ
+- Tháng tệ = feedback, không phải verdict
+- Mọi store rực rỡ đều có giai đoạn trông như chết
+
+*"The real skill isn't finding winners. It's sitting in the uncomfortable part long enough to understand your customer better than they understand themselves."*
+
+Tie §Chọn 1 ngành ở lại lâu ([[dtcmidas-pick-one-industry-and-stay]]) — cùng trục: stay long enough. Đây là phiên bản **product-level** (đừng bỏ store), kia là **niche-level** (đừng nhảy ngành). Cả 2 cùng diagnose "shiny object syndrome" ở 2 scale khác nhau.
+
+## Launch rough, iterate từ feedback thật ([[ecomchasedimond-first-version-rough-launch]])
+@ecomchasedimond: *"The first version of whatever you're launching is allowed to be rough. It just has to get in front of real people."*
+
+**Framework 3 bước:**
+1. Launch rough → gửi cho vài chục customer → hỏi "điều gì chưa rõ?"
+2. Fix những gì nhận được → version 2 tốt hơn bất kỳ thứ gì build mà chưa có feedback
+3. Rồi mới launch rộng
+
+*"The polishing still happens. It just happens after customers have seen it."*
+
+Tie §Đừng nitpick ads — cứ publish ([[jforjacob-stop-nitpicking-ads-just-publish]]): cùng một nguyên lý. Cả 2 đều kết luận: **feedback thật > polish trước launch**. Xác nhận bởi 2 nguồn độc lập = áp dụng được với MaxPro: quiz funnel draft / email flow mới / landing page variation → test với 20-50 người trước khi polish và scale.
