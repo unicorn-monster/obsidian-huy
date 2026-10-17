@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost]
-updated: 2026-10-16
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics]
+updated: 2026-10-17
 ---
 
 # Hooks
@@ -190,6 +190,16 @@ Headline **không cần bán, không nêu tên brand, không claim áp đảo** 
 **Liên kết với §Drama ads framework:** conceptual "tại sao drama works" ([[native-ads]] §Drama ads) + execution structure này = complete system.
 
 → MaxPro: "Dog owner ignores nail trimming for months → vet bills → discovers grinder → guilt gone." Ragebait = owner seeing neglected dog. Twist = finding easy solution existed all along. Resolution = peaceful grooming. Tie [[native-ads]] §Drama ads framework + [[presell-pages]] §Advertorial.
+
+### Ragebait scenario bank — relationship betrayal (keep product core inside) ([[0xroas-drama-ads-ragebait-tactics]])
+0xROAS (2026-10-17): 99% làm drama ads sai — lỗi cốt lõi là ragebait WITHOUT tying it back to product. Formula: **controversial situation + product's core idea baked into the conflict/resolution**.
+
+Scenario templates đang chạy:
+- Man gets cheated on → gets better → gets back with wife (redemption + product as catalyst)
+- Man presents old wife like she was his mom in front of friends (public humiliation → confidence recovery)
+- Wife's ex husband marries her sister (betrayal within family → revenge glow-up)
+
+**Quy tắc:** controversy = stop scroll; product's core benefit = the "why this matters" baked into drama arc. Không phải đặt product vào cuối như afterthought — product core phải là LÝ DO protagonist thắng. → MaxPro: chó bị neglected, chủ xấu hổ trước khách, twist = grinder = hàng xóm thấy chó đẹp ra. Tie §3-beat hook structure ([[0xroas-drama-ads-ragebait-structure]]).
 
 ## Grok bot auto-finds best post + boosts it ([[ecomchasedimond-grok-bot-boost]])
 @ecomchasedimond: built a Grok bot that finds their best X post each day and puts ad spend behind it automatically — targeting, budget, everything set up by the bot; human just hits approve.

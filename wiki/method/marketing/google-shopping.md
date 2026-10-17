@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform]
-updated: 2026-10-16
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent]
+updated: 2026-10-17
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -221,6 +221,16 @@ Toàn bộ trang này đọc feed như input cho **Shopping ads**. Tài liệu c
 Cơ chế: Google Shopping = **search-intent traffic** — người đang GÕẶT để tìm mua, không cần giáo dục họ muốn gì. Tie [[ecomamin-google-ads-from-zero]] §$30/day system (confirm: skip Meta/TikTok khi mới bắt đầu). 2 nguồn xác nhận Google-first mindset cho brand mới = conviction cao.
 
 → MaxPro: nếu chưa test Google Shopping, đây là case thứ 2 push priority lên "do first." Combine với quiz-PDP embed (§[[quiz-funnels]] §Quiz-embedded PDP) và lifestyle feed image (§Lifestyle image).
+
+## Meta vs Google buyer intent — same product, completely different buyer ([[ecomamin-meta-vs-google-intent]])
+eCom_Amin: framing cốt lõi giải thích khi nào Google beat Meta và ngược lại.
+
+- **Meta** = interrupts someone scrolling past friends' wedding photos → must make them WANT it in 2 seconds; bắt đầu từ 0 desire
+- **Google** = catches someone who already typed "best posture corrector for back pain" → they WANT it, just picking who to buy from; desire đã sẵn
+
+**Rule:** if nobody's searching for what you sell → no ad platform saves it. If they are → you've been fishing in the wrong pond by only running Meta.
+
+→ MaxPro: "dog nail grinder" = search-intent category, demand tồn tại → Google Shopping là kênh PRIMARY theo logic này. Tie §Google = boring platform + §from zero system (cùng tác giả, cùng conviction).
 
 ## Google Shopping from zero — $30/day 5-step system ([[ecomamin-google-ads-from-zero]])
 eCom_Amin: if starting ecom from zero with $1,000 in 2026, skip Meta and TikTok. Do this instead:

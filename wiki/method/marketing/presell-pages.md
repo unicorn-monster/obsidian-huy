@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku]
-updated: 2026-10-16
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles]
+updated: 2026-10-17
 ---
 
 # Presell pages — build guide (4 format)
@@ -528,3 +528,43 @@ Mechanism: a flat shoe = looks like a water shoe = price-shoppable on Amazon. **
 Tie [[dtcquizbuilder-mars-men-cortisol-villain]] (named cause per door) + [[villains]] §Named cause kills price shopping (named cause = inoculation against comparison shopping). → MaxPro: Door 1 "chó sợ clipper" → listicle "5 lý do chó vẫn sợ sau hàng chục lần cắt"; Door 2 "móng chó quặp đau khớp" → listicle "5 dấu hiệu móng chó đang ảnh hưởng cột sống." Cùng grinder ở cuối. Tie [[quiz-funnels]] §Willis Judd qualify (có thể test thêm quiz gate trước mỗi listicle door).
 
 → MaxPro: "built into the grinder is a flexible guard that automatically adjusts pressure — clipper blades apply fixed force; this reads resistance." Once named, $8 Amazon grinder has no "flexible pressure-guard." Tie [[angles]] §named-mechanism + [[villains]] §AI workflow (extract cause = extract what named mechanism fixes).
+
+## Swipe: Metabolae blood sugar — outdated-advice villain, "WHY past attempts failed" ([[dtcquizbuilder-metabolae-native-ad-teardown]])
+Native static ad từ **persona page** (không phải brand page). Candid photo của người phụ nữ 64 tuổi trên cruise vacation. "Day four, cobblestone streets, health scare" → doctor from Switzerland asks ONE question making her doctor look "15 years behind."
+
+**Advertorial anatomy:**
+- Headline flip: "Why I Stopped Buying Every Other Blood Sugar Supplement"
+- Instant absolution dòng đầu: *"Usually, it wasn't cinnamon that failed them."* = blame rơi vào wrong form (cheap cinnamon), không phải buyer
+- Villain = outdated advice + wrong form (không đủ bioavailable), không phải ngành lớn hay competitor
+- Mechanism: Ceylon cinnamon + MCT oil for absorption = "right version, not starting over"
+
+**Cơ chế tâm lý key:** older buyers đã thử natural remedies không work → **showing WHY past attempts failed BEFORE pitch kills objection entirely** — buyer không cảm thấy thêm 1 bottle, họ cảm thấy "lần này là đúng vì lý do đã giải thích rõ."
+
+→ Tie [[villains]] §Outdated-advice villain (undertrained dial 3) + §Wrong-mechanism villain. Pattern tái dụng: (1) name failed category; (2) blame specific flaw in category (form/formulation/mechanism), không phải buyer; (3) introduce right version with mechanism explanation; (4) offer = implementing the right version.
+
+## Swipe: Minxy menopause belly — wrong mechanism = shapewear becomes only fix ([[dtcquizbuilder-minxy-menopause-advertorial]])
+Ad mở bằng women doing Pilates, tummy never budges → advertorial với **gynecologist byline** → "you've been fighting the wrong fight."
+
+**Key anatomy:**
+- **"Not Weight?" breadcrumb** dưới headline — reframe category trước khi đọc body
+- Raw mirror selfie (không phải fitness model) = persona fit, không aspirational
+- Absolution beat sớm: *"menopause belly isn't fat to burn off"* → diets/exercise = wrong mechanism về mặt sinh học
+- Forum quotes: *"covering up in oversized tops"* / "feeling months pregnant while eating clean" = private shame validated
+- Offer: shapewear brief (Buy 1 Get 1) → "mechanical fix" because diets were the wrong fight all along
+
+**Tại sao shapewear convert trên cold traffic ở đây mà bình thường rất khó:** framing pooch là menopause anatomy = shapewear **không cạnh tranh với ý chí** (diet/gym), nó là solution cho 1 category problem mà willpower không giải được. Không cảm thấy give up — cảm thấy đúng lần đầu.
+
+→ Tie [[villains]] §Wrong-mechanism villain (same exact mechanic) + §2 lớp advertorial (arc cảm xúc: absolution beat sớm, forum quote = breaking point, mechanism = belief shift, shapewear = payoff). MaxPro: grinder = not competing with clipper, competing with biology — dog's stress response to cutting motion is hardwired, grinding approach doesn't trigger it.
+
+## Swipe: Mature beauty listicles — complaint-first doctor byline format ([[dtcquizbuilder-mature-beauty-listicles]])
+@DTC_Quizbuilder: mature beauty listicles đang "ripping right now" — Skincu, Zyren, Legacare, Prime Prometics. Template chung: **doctor byline + complaint regular products ignore + deeper mechanism**.
+
+- **Skincu (crepey skin oil):** *"Leads with a doctor byline listicle on a body oil that absorbs deeper than creams to firm sagging skin."* Mechanism: standard moisturizers sit ON TOP of crepey skin (no structural impact); deeper-absorbing oil = actual treatment. Villain = standard moisturizer's mechanism (surface-only).
+- **Zyren (tech neck):** *"Leads with a doctor byline listicle targeting horizontal tech neck creases that face creams never touch."* Private shock = seeing neck creases in photos. Targeted fix > general face cream = resonates because face creams don't address the exact zone.
+
+**Pattern chiết xuất:**
+1. Doctor byline → borrowed authority without brand claim
+2. Complaint = thing product's category normally IGNORES (not "pain" in general — specific thing existing solutions skip)
+3. Mechanism = why standard products can't address it + why this one can (structural/absorption/zone-specific)
+
+→ Tie §Listicle build mechanics (criteria-funnel set by specific complaint) + [[villains]] §Wrong-mechanism (standard products = wrong mechanism for structural problem). Format tốt cho Maxwell/beauty/skincare với avatar mature = complaint họ đang silent về vì "ai cũng just live with it."
