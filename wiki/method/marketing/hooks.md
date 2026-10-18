@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics]
-updated: 2026-10-17
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026]
+updated: 2026-10-18
 ---
 
 # Hooks
@@ -207,3 +207,37 @@ Scenario templates đang chạy:
 **Insight (signal amplification):** bài đã có engagement organic (engaged, shared, bookmarked) = đã prove với thuật toán → paid boost = get it in front of nhiều hơn, không phải guess what'll resonate. **Best signal = existing engagement, not content you think will work.**
 
 **Transferable principle:** organic content that already wins → boost it paid; don't boost cold content. Cơ chế này áp được dù không dùng Grok bot — manual version: check X/TikTok/IG analytics weekly → put $5-10/ngày behind top organic post → observe. "Let the audience tell you what to amplify." Tie §Hook = 3-second filter ([[jforjacob-hook-promise-of-payoff-retention]]): hook mà đã dừng scroll organic = đã prove hook strength → paid amplification only accelerates what already works.
+
+## Lead với nỗi nghi ngờ riêng của người mua — Hears + Improov ([[dtcquizbuilder-hears-improov-doubt-hook]])
+DTC_Quizbuilder (Oct 2026): hook technique mạnh nhất = identify exact excuse customer uses to close the tab → kill that blocker in line one.
+
+**Case 1 — Hears earplugs (~$733k/tháng):** top ad đã run 121 ngày (5 duplicates). Hook: *"How many nights has his snoring cost you?"* Không pitch người ngáy. Pitch partner mất ngủ vì ngáy. Buyer = partner, không phải snorer. Hook ngay lập tức đặt buyer vào role "victim of the problem" thay vì "person buying a product."
+
+**Case 2 — Improov sleep supplement:** hook *"5 Reasons Ditching Sleep Pills Won't Leave You Groggy in the Morning."* Blocker của buyer = "sleep aids = morning hangover." Hook kills that specific objection in subject line / first line. Không đợi đến copy để xử lý — hook = preemptive objection removal.
+
+**Framework: Buyer's Private Doubt → Hook**
+1. List top 3 lý do buyer KHÔNG mua (objections / excuses)
+2. Identify cái nào là "tab-closer" — lý do họ scroll past hoặc close page
+3. Viết hook GIẾT ĐÚNG blocker đó trước khi nói về product
+
+Ví dụ chain:
+- Dog nail grinder buyer doubt: "sẽ làm đau chó" → Hook: "Tại sao hầu hết nail grinder làm chó đau (và cách MaxPro không làm vậy)"
+- Sleep supplement doubt: "sẽ groggy sáng" → Hook như Improov
+
+**Insight liên quan:** hook không cần benefit — hook cần neutralize fear/doubt. Benefit comes after doubt is removed. Tie §False-premise reversal (pattern #3) + §Confession hook (pattern #2).
+
+→ MaxPro: top buyer doubts = (1) "sẽ cắt quick" → Hook: "Tại sao MaxPro không thể cắt quick" (2) "chó sẽ sợ tiếng ồn" → Hook: "How many baths have YOU skipped because of the clipper noise?" (3) "grooming quá complicated" → Hook: "I used to need 2 people to trim my dog's nails." → Test hook #1 trên static ad.
+
+## Seedance 2.5 + drama ads — AI video nâng production value ([[0xroas-seedance-drama-ads-2026]])
+0xROAS (Oct 2026): Seedance 2.5 AI video tool + drama ads = "literally one of the best times to be in direct response."
+
+**Core update từ source mới này so với [[0xroas-drama-ads-ragebait-structure]] (existing):** production value. AI video tools (Seedance 2.5) now enable "whole movies" in direct response — multiple cuts per video, cinematic quality, without full production crew.
+
+**Cùng 3-beat structure (từ source cũ):**
+1. Aggressive hook (stop scroll immediately)
+2. Plot twist (unexpected turn)
+3. Revenge / resolution (protagonist wins)
+
+**Update mới:** multiple cuts = key. Một cảnh liên tục dài → người thoát. Multiple cuts per beat = visual stimulus đủ nhanh để giữ attention. "We are doing whole movies out here."
+
+**Áp dụng với MaxPro:** không chỉ single static scene nữa — drama sequence: Cut 1 (5s): dog owner embarrassed at grooming salon. Cut 2 (3s): vet shows neglected nails. Cut 3 (4s): owner discovers MaxPro at 2am. Cut 4 (5s): peaceful home grooming, dog calm. Multiple cuts = cinematic drama arc. Tie §Drama ads 3-beat hook structure ([[0xroas-drama-ads-ragebait-structure]]) + §Ragebait scenario bank ([[0xroas-drama-ads-ragebait-tactics]]).

@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent]
-updated: 2026-10-17
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner]
+updated: 2026-10-18
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -244,3 +244,31 @@ eCom_Amin: if starting ecom from zero with $1,000 in 2026, skip Meta and TikTok.
 "No viral videos. No creatives. No guessing what people want. They're already typing it into Google. You just show up." System behind $50M+ across ecom brands.
 
 Tie §GMC feed = 70% kết quả (feed trước campaign) — "from zero" system giả định feed clean từ đầu, không tối ưu sau. Tie [[google-ads]] §7-campaign structure: $30/day = catch-all Shopping + 1 Performance Max, scale sau khi có data. → MaxPro: search intent "dog nail grinder" đã có (grooming tool = nhóm high-intent search category). $30/day → 7 ngày → xem search terms report → prune non-converting, double down on converting. Tie §Title keyword-first (đảm bảo title đúng trước ngày 1, không sửa sau khi campaign live).
+
+## Google lemonade framework — beginner mental model ([[ecomamin-google-ads-lemonade-beginner]])
+eCom_Amin (Oct 2026): explain Google ads cho người chưa biết gì, dùng lemonade analogy. "Running Google ads before you understand how it works is a DEATH WISH — especially if all you've ever run is TikTok or Meta."
+
+**Meta vs Google — core difference:**
+- **Meta** = walking into a park and shouting. Bạn trả cho mọi người nghe — interrupt model, pay per attention.
+- **Google** = đứng ở chỗ người hỏi "where can I get lemonade?" — search intent model, người ĐÃ muốn mua trước khi thấy ad.
+
+**4 loại Google ad:**
+1. **Search** (text-based, bạn chọn keywords) — bắt intent bằng text, control cao nhất
+2. **Shopping** (product image + price) — *"for online store, this is the big one"* — buyer thấy sản phẩm + giá ngay lập tức
+3. **Performance Max** (Google quyết định placement) — tốt sau khi có sales data; KHÔNG dùng ngay từ đầu
+4. **YouTube** (interrupt như TikTok) — useful sau khi Shopping đã chạy và có data
+
+**Shopping = product feed IS the ad:**
+- Google Shopping = hiển thị product image + price khi ai search. Ad của bạn = chính sản phẩm.
+- **Title là quan trọng nhất:** "If your sign says 'Drink #4', fresh-pink-lemonade searchers never find you." Title phải match search intent — descriptive, keyword-first.
+- Fix titles TRƯỚC khi spend bất cứ gì.
+
+**Sequence khởi động chuẩn:**
+1. Start Shopping, 1 campaign, best 3-5 products, fix titles first
+2. Leave alone 2 weeks (algorithm cần thời gian học)
+3. Add Search cho exact buyer-ready terms (product name + transactional intent)
+4. PMax + YouTube only after sales data exists
+
+**Cơ chế tại sao không start với PMax:** PMax = Google tự chọn placements. Khi mới start, không có conversion signal → Google đặt ở chỗ rẻ nhất (không phải tốt nhất). Shopping = bạn control category + title → clear signal về who you're targeting.
+
+→ MaxPro: "dog nail grinder" = search intent đã có. Shopping first. Title: "MaxPro Dog Nail Grinder — Quiet Electric Nail File for Dogs, No Vibration Fear." Fix title trước khi click "Launch." 2 tuần không touch. Sau: add Search "dog nail grinder quiet" + "nail grinder for dogs afraid of clippers". Tie §from zero 5-step system + §Title keyword-first.
