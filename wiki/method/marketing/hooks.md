@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026]
-updated: 2026-10-18
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook]
+updated: 2026-10-19
 ---
 
 # Hooks
@@ -241,3 +241,9 @@ Ví dụ chain:
 **Update mới:** multiple cuts = key. Một cảnh liên tục dài → người thoát. Multiple cuts per beat = visual stimulus đủ nhanh để giữ attention. "We are doing whole movies out here."
 
 **Áp dụng với MaxPro:** không chỉ single static scene nữa — drama sequence: Cut 1 (5s): dog owner embarrassed at grooming salon. Cut 2 (3s): vet shows neglected nails. Cut 3 (4s): owner discovers MaxPro at 2am. Cut 4 (5s): peaceful home grooming, dog calm. Multiple cuts = cinematic drama arc. Tie §Drama ads 3-beat hook structure ([[0xroas-drama-ads-ragebait-structure]]) + §Ragebait scenario bank ([[0xroas-drama-ads-ragebait-tactics]]).
+
+## No-product hook — nightmare scenario as scroll-stop ([[dtcquizbuilder-hospital-knee-no-product-hook]])
+DTC_Quizbuilder: knee ad, no product shown. Raw stitched knee strapped to hospital machine. 113 dupes, 74 days.
+Why it works: sells the nightmare the prospect wants to avoid (surgery), not the product. Hook = exact fear scenario → viscerally real scroll-stop.
+Pattern: product-less hook where IMAGE = before-state they're running from. Best when: (a) there's a feared medical/procedural alternative; (b) product = "avoid that alternative."
+MaxPro transfer: ad showing paw bleeding from clipper nick (no grinder in frame) = same pattern. Tie pattern #6 symptom-reframe + §Primary text = story (hook decides click, not product reveal).

@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue]
-updated: 2026-08-27
+sources: [native-statics-machine-guide, low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue, dtcmidas-doomscroll-new-ad-formats]
+updated: 2026-10-19
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -211,3 +211,13 @@ Cấu trúc launch: **1 campaign testing, ABO, cost cap ở target CPA**; batch 
 
 > [!note] Nhịp này KHÁC nhịp 10-test/tuần ở §Law 18/46
 > 10-test/tuần là nhịp cho Google Ads / creative đắt (video, UGC). 30-50 static/ngày là nhịp cho ad **$2-4/cái**. Chọn nhịp theo **giá 1 câu hỏi**, đừng bê ngưỡng từ kênh này sang kênh kia. Chi tiết máy sản xuất: [[native-statics-machine]].
+
+## Format discovery — doomscroll with intent ([[dtcmidas-doomscroll-new-ad-formats]])
+DTCMidas: angles are finite; formats emerge daily. First to bring a new format into your market = growth spike.
+4-step framework:
+1. Look outside your market — competitors show what your audience has already seen. Other categories = formats new to your market.
+2. Consume content your customers actually watch — YouTube: search problems/interests around your product; read comments, click through to creators. TikTok: phrases customers use when talking about their problem. Same for IG.
+3. Build swipe file with angle-format fit — for each format candidate: which of my winning angles could work with this format? Angle ↔ format fit is required.
+4. Be first to test — don't wait for competitors. Being first doesn't guarantee the ad works; execution still matters.
+Distinction: format discovery = PRE-testing research phase. Once in swipe file, enters R2 (Execution round) in 3-layer framework.
+→ MaxPro: 30 min/week doomscrolling dog/pet content on TikTok + YouTube. Note any format not in [[ugly-ads-method]]. Tie [[creative-brief]] §Format bank + [[hooks]] §swipe file.
