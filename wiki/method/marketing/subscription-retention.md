@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct]
-updated: 2026-10-19
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct, maxwellcopy-billing-reminder-churn-proof, maxwellcopy-subscription-non-negotiables]
+updated: 2026-10-20
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -438,3 +438,34 @@ Result: clear decrease in same-day cancellations, −38% rebill day cancel rate.
 Mechanism: default post-charge email leads with charge amount → buyer's remorse → cancel. Leading with benefits → "I'm getting value" → no cancel impulse. Killing duplicate = removing second "you were just charged" moment.
 Tie §Day-30 rebill ([[maxwellcopy-day30-rebill-klaviyo-reframe]]) + [[email-marketing]] §Order confirmation.
 → MaxPro: when consumable/sub launches, audit every Recharge/billing email — lead with benefit or charge? Check for duplicate billing emails (Recharge + Klaviyo both firing = 2× "you were charged").
+
+## Churn-proof billing reminder — 7-item checklist ([[maxwellcopy-billing-reminder-churn-proof]])
+maxwellcopy: customer decides whether to stay **the second that billing email lands**. Give them the obvious reasons not to cancel.
+
+**7 elements to include:**
+1. What's actually shipping to them (specific, not generic)
+2. A free gift coming in this order
+3. How much they've saved by staying subscribed (running total)
+4. Where they are in their results journey (progress framing)
+5. Testimonials from people further along than them
+6. The perks they'd lose by leaving
+7. What's waiting for them in the next order (forward momentum)
+
+**Structural note:** bury the cancel button at the bottom — not hidden (dark pattern), just not the first option their eye goes to.
+
+Tie §Day-30 rebill ([[maxwellcopy-day30-rebill-klaviyo-reframe]]) — reframe billing from "you're about to be charged" to "get excited, here's what's coming." Tie §Good vs Bad billing reminder ([[maxwellcopy-billing-reminder-good-bad]]) — same direction, different execution.
+
+→ MaxPro: checklist to apply when consumable subscription launches. Item 3 (savings total) and item 5 (testimonials from further-along users) are highest leverage for a pet care product where results build over time.
+
+## 7 subscription non-negotiables — setup checklist ([[maxwellcopy-subscription-non-negotiables]])
+maxwellcopy: 7 things every subscription ecom brand must have from day 1.
+
+1. **Get first orders on subscription** — first-order subscribers are worth 2-3× more than one-time buyers at the 12-month mark. Tie §4 metric SUB-1.
+2. **Front-load the offer** — 30% off first order + 10% recurring, not flat 20% every order. Saves margin on backend while incentivizing the first subscription commit.
+3. **Auto-select subscription on PDP** — increases take rate with minimal effort. Make subscribe the default; OTP = the opt-out.
+4. **Align pop-up offer with subscription offer** — use popup best offer = subscription offer. No stacked discount needed; save margin.
+5. **Strong email onboarding** — daily-use education for first 30 days. Goal: customer uses product every day and buys into 6+ months. Tie §Onboarding sequence.
+6. **Customize billing reminder** — change "you're about to be charged" to "get excited, here's what's coming." Tie §Churn-proof billing reminder above + §Good vs Bad billing reminder.
+7. **Customize order confirmation** — change "congrats on your order" to "congrats on the benefits you now have." Benefit-led, not transaction-led.
+
+→ MaxPro: run this as a checklist when launching any subscription model. Items 1-4 = offer/funnel layer (build before launch). Items 5-7 = email layer (build in Klaviyo before first rebill).

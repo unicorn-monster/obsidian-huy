@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles]
-updated: 2026-10-17
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles, dtcquizbuilder-cupids-mechanism-first, dtcquizbuilder-musabela-blocker-first-listicle, dtcquizbuilder-dtc-listicles-dread-hook]
+updated: 2026-10-20
 ---
 
 # Presell pages — build guide (4 format)
@@ -568,3 +568,43 @@ Ad mở bằng women doing Pilates, tummy never budges → advertorial với **g
 3. Mechanism = why standard products can't address it + why this one can (structural/absorption/zone-specific)
 
 → Tie §Listicle build mechanics (criteria-funnel set by specific complaint) + [[villains]] §Wrong-mechanism (standard products = wrong mechanism for structural problem). Format tốt cho Maxwell/beauty/skincare với avatar mature = complaint họ đang silent về vì "ai cũng just live with it."
+
+## Listicle: sell mechanism first, drop offer after ([[dtcquizbuilder-cupids-mechanism-first]])
+DTC_Quizbuilder (Cupid, $2.3M/mo case): pushing a scratch-card discount on screen 1 **before proving the mechanism** kills trust on cold clicks.
+
+**Rule:** sell the mechanism first, then drop the offer.
+- Screen 1 = "here's why this works / why past fixes failed" (mechanism + belief shift)
+- Screen 2+ = once desire is built, introduce the deal
+
+**Why discounting before desire fails cold traffic:** cold click hasn't formed desire yet — seeing a discount before understanding value reads as "this brand is cheap" or "must be on sale because it doesn't sell." Mechanism first = desire; discount after = reward for existing desire.
+
+Tie §Listicle build mechanics §2 (mechanism section) + [[villains]] §Wrong-mechanism villain. Aligns with [[copywriting]] §1 (great copy = the moment they realize it worked, not just the product).
+
+→ MaxPro: on any listicle for grinder, reason 1-3 = mechanism (grinding vs cutting, no vibration triggers dog fear response). Offer (if any) = after mechanism proven, not on first screen.
+
+## Listicle: sell the reader's blocker first, not the product ([[dtcquizbuilder-musabela-blocker-first-listicle]])
+DTC_Quizbuilder (Musabela 7-reasons listicle): small brands use 7 reasons to sell the product. **Scaling brands sell the reader's blocker first.**
+
+**Structure:** spend first 3 reasons on **why their past fixes failed** — then pitch.
+- Reasons 1-3 = blocker / failed past solutions (not product features)
+- Reasons 4-7 = why this product solves what past fixes couldn't
+
+**Why it converts better:** buyer isn't sitting there thinking "I need a product" — they're thinking "I've tried X and it didn't work." Meeting them at that thought = higher trust before the pitch starts. They stop feeling like a failure (past failures = wrong product, not wrong person).
+
+Tie [[villains]] §Outdated-advice villain + §Wrong-mechanism villain (same absolution mechanic). Tie §Dread hook below (blocker-first = reasons 1-3 of this exact structure).
+
+→ MaxPro listicle: Reason 1 = "clipper causes panic because of the vibration, not because your dog is bad." Reason 2 = "most quiet grinders are still too loud at the right frequency." Reason 3 = "speed control matters more than motor size." Then: reason 4-7 = MaxPro mechanism.
+
+## Listicle hook: built around exact daily dread ([[dtcquizbuilder-dtc-listicles-dread-hook]])
+DTC_Quizbuilder: DTC listicles printing now because they don't pitch formulas — **they're built around the exact dread the buyer hates dealing with**.
+
+**Pattern from winning examples:**
+- **NØRD BODY (cellulite oil):** leads with "Most Talked-About Cellulite Oil" targeting smooth thighs/booty → dread = avoiding shorts/swimwear, not "I want smoother skin"
+- **Skincu (loose skin):** leads with "loose skin after weight loss" + blames cheap creams → dread = feeling like you did everything right and still look wrong; absolution = cheap creams failed, not you
+- **Gohomie / Zyren:** same pattern — headline = the specific thing buyer dreads daily (not the product benefit)
+
+**Formula:** headline = **specific daily dread** (not product category) → absolution = past fixes failed, not buyer → mechanism = why this one addresses the actual dread.
+
+Tie §Listicle: sell blocker first (first 3 reasons = past failures = this exact absolution beat). Tie [[hooks]] §Drama / empathy hooks (dread-hook = the "burden I'm carrying" version of a hook). Tie §Minxy menopause belly (same dread-first anatomy: *"you've been fighting the wrong fight"*).
+
+→ MaxPro: what is the actual daily dread? Not "my dog's nails are too long" — it's "I have to cancel grooming appointments because my dog panics / vet says nails causing problems / I feel like a bad owner." Lead with that dread in listicle headline, not "best nail grinder."

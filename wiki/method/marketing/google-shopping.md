@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner]
-updated: 2026-10-18
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown]
+updated: 2026-10-20
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -272,3 +272,13 @@ eCom_Amin (Oct 2026): explain Google ads cho người chưa biết gì, dùng le
 **Cơ chế tại sao không start với PMax:** PMax = Google tự chọn placements. Khi mới start, không có conversion signal → Google đặt ở chỗ rẻ nhất (không phải tốt nhất). Shopping = bạn control category + title → clear signal về who you're targeting.
 
 → MaxPro: "dog nail grinder" = search intent đã có. Shopping first. Title: "MaxPro Dog Nail Grinder — Quiet Electric Nail File for Dogs, No Vibration Fear." Fix title trước khi click "Launch." 2 tuần không touch. Sau: add Search "dog nail grinder quiet" + "nail grinder for dogs afraid of clippers". Tie §from zero 5-step system + §Title keyword-first.
+
+## Google Shopping algorithm — full 15-min breakdown ([[ecomamin-google-shopping-algorithm-breakdown]])
+eCom_Amin: video resource — entire Shopping algorithm explained in 15 minutes. Signal only (no actionable detail in tweet).
+
+**Topics covered (per signal):**
+- Why Google shows competitor's product and not yours
+- What actually decides which products get the spend
+- Stuff most brands get wrong and pay for every single day
+
+→ Watch before scaling Shopping spend past $100/day. Tie §Feed = 70% kết quả (feed is likely why competitor outranks — this video presumably explains the mechanism).

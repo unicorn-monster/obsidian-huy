@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework]
-updated: 2026-10-12
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework, ecomchasedimond-reviews-ai-prompt-ads, ecomchasedimond-headline-plain-then-dress, ecomchasedimond-persuasion-structure-pick]
+updated: 2026-10-20
 ---
 
 # Copywriting — DR fundamentals
@@ -369,3 +369,47 @@ jforjacob (2026-10-12): full direct response VSL structure từ hook đến clos
 **Regression beat (step 16):** hiếm gặp trong framework ngắn hơn — nhắc "what happens if you stop" = keep using message. Particularly mạnh cho supplement/habit-forming products.
 
 → MaxPro: áp VSL structure cho video ad dài (60-90s): Hook = before (dog running từ clipper) / after (dog sleeping while being groomed). Aggravate = cost of bad nails (vet bill, injury, anxiety). Common enemy = "clipper companies don't tell you this". Mechanism = grinding approach. Step 16 (regression) = "dogs that go back to clippers revert to anxiety." Tie [[hooks]] §Drama ads structure + [[presell-pages]] §5-beat native page.
+
+## VOC mining — AI prompt to extract copy from reviews ([[ecomchasedimond-reviews-ai-prompt-ads]])
+ecomchasedimond: customers already wrote your best ads. The prompt mines them.
+
+**5-part prompt structure:**
+1. List pre-buy problem phrases (exact words they used before buying)
+2. List exact result words (what they said happened after)
+3. List worries + what changed their mind
+4. Write 5 headlines + 5 ad hooks using exact phrases from the reviews
+5. Show source review per each headline/hook
+
+**How to run it:** paste 50-100 reviews across all star ratings. Also works with support emails and post-purchase survey answers.
+
+**QC steps before using:**
+- Remove names + emails before pasting
+- Spot-check every quote against the original review
+- Use output across: ads, product pages, landing pages, homepage
+
+Cơ chế: AI can't invent the exact phrase a real buyer used — it can only surface it. Pulling exact words = copy that already passed the market test (the buyer said it unprompted). Tie [[copywriting]] §1 (great copy tả khoảnh khắc họ nhận ra nó worked) — exact review quotes = that moment in the buyer's own words.
+
+→ MaxPro: run this on Amazon + Shopify reviews for "dog nail grinder" and competitor listings. Pull fear/relief language specifically: "I thought he'd never let me" / "no more running away." Tie [[angles]] (VOC as angle input) + [[hooks]] §empathy hook.
+
+## Plain headline first — write it in customer words before dressing up ([[ecomchasedimond-headline-plain-then-dress]])
+ecomchasedimond: founders can describe their business in 1 sentence to a friend — then sit down to write and it comes out "bespoke lifestyle solutions."
+
+**Rule:** write the plain version first. What you do + who it's for, in the words a customer would use. Dress it up after, as long as a stranger can still tell it's a bike shop.
+
+**Test:** read the headline to someone who doesn't know what you do. Ask them to say it back. If they can't → it's not done.
+
+Cơ chế: 2-second rule — people decide in 2 seconds whether to keep reading. Extra words bury the one thing that would have landed.
+
+→ MaxPro: plain version first: "electric nail grinder for dogs that panic during nail clipping." Then dress: "MaxPro — the quiet nail grinder dogs actually tolerate." Check: can a stranger tell what it is? Tie §4 Headline = 80% ngân sách (same first-priority-to-headline principle).
+
+## Persuasion structure from reviews — let customers pick the frame ([[ecomchasedimond-persuasion-structure-pick]])
+ecomchasedimond: don't pick a persuasion structure by formula — read your last 20 reviews and support emails, and customers will tell you which one to use.
+
+**Decision rule:**
+- People keep asking the same question (sizing, "will it work for me?") → **Objection Answer** structure
+- They rave about the result → **Before-After** structure
+- They mention specs → **Feature to Benefit** structure
+
+Cơ chế: the review pattern = a signal about where trust breaks down in the buyer journey. FAQ repetition = objection not being answered pre-purchase. Raving about result = transformation is the draw, lead with that. Spec mention = technically-oriented buyer, benefit-frame the specs.
+
+→ MaxPro: read last 50 reviews. If most say "I was skeptical but…" → Objection Answer is the primary frame for ads/presell. If most say "my dog actually sits still now" → Before-After. Tie §VOC mining above (same review data, different extraction goal). Tie [[presell-pages]] §Listicle structure (chosen persuasion structure determines listicle arc).
