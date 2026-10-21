@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow]
-updated: 2026-10-16
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow, dtcquizbuilder-yoli-menopausal-angle]
+updated: 2026-10-21
 ---
 
 # Angles
@@ -213,3 +213,20 @@ Schwartz gọi việc ad hết pull là **fatigue factor** và coi là **tất y
 **Method luận:** competitor đang scale = đã chứng minh angle ăn với thị trường. Thay vì research từ đầu, bắt đầu từ ad đang chạy tốt (visible spend signal) → decode angle/hook/mechanism → adapt cho sản phẩm của mình.
 
 **Tại sao có giá trị cao:** không phải copy (claim khác nhau, compliance không overlap) mà decode winning belief structure → áp vào brief của mình. Tie [[dtcquizbuilder-villain-before-writing]] (AI workflow extract named cause từ headline đang scale — cùng nguyên lý: scale signal → extract structure → rebuild). → MaxPro: lấy top Dremel/Casfuy ads trên Facebook Ad Library đang spend lớn → decode angle (fear/pain/authority/social proof) → adapt vào MaxPro brief với cùng belief structure nhưng claim MaxPro.
+
+## Name the physical blockage, not the symptom — Yoli case ([[dtcquizbuilder-yoli-menopausal-angle]])
+DTC_Quizbuilder: Yoli eye drops. Top listicle ad running **121 days** built around *"clogged oil glands from menopause."*
+
+**The angle:** the product CAN'T melt hardened oils — so framing around the physical blockage (clogged/hardened) makes all existing fixes look inadequate. This isn't "relief" positioning; it's "your current fix cannot reach the real cause" positioning.
+
+**Rule: name the physical blockage your buyer can't wash away** — not the symptom they're already trying to solve.
+
+**Why it works:** relief angles put you in a crowded pool of "helps with dry eyes." Naming the physical cause (clogged meibomian glands from menopause) does three things:
+1. Creates a new category only this product can address
+2. Makes competitors' "lubrication/drops" look symptomatic at best
+3. Pre-emptively answers "why didn't my old drops work?"
+
+Cơ chế: this is villain-first (the clogged gland IS the villain, not the symptom). The physical, mechanical nature makes it irrefutable — you can't argue with biology. Tie [[villains]] §invisible/gradual villain + §Drivse "it's not your skin, it's your water."
+
+> [!note] Áp cho MaxPro
+> Current angle: "less trauma/pain during nail trimming." Blockage-angle version: "nail quick hardens and recedes when you skip trims — no clipper reaches it once hardened." Positions regular grinding as the *only* mechanical solution. Test this against pain-relief angle. Tie [[angles]] §Belief-shift diagnosis.

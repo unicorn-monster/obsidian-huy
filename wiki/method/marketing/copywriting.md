@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework, ecomchasedimond-reviews-ai-prompt-ads, ecomchasedimond-headline-plain-then-dress, ecomchasedimond-persuasion-structure-pick]
-updated: 2026-10-20
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework, ecomchasedimond-reviews-ai-prompt-ads, ecomchasedimond-headline-plain-then-dress, ecomchasedimond-persuasion-structure-pick, ecomchasedimond-ai-review-prompt-template]
+updated: 2026-10-21
 ---
 
 # Copywriting — DR fundamentals
@@ -401,6 +401,30 @@ ecomchasedimond: founders can describe their business in 1 sentence to a friend 
 Cơ chế: 2-second rule — people decide in 2 seconds whether to keep reading. Extra words bury the one thing that would have landed.
 
 → MaxPro: plain version first: "electric nail grinder for dogs that panic during nail clipping." Then dress: "MaxPro — the quiet nail grinder dogs actually tolerate." Check: can a stranger tell what it is? Tie §4 Headline = 80% ngân sách (same first-priority-to-headline principle).
+
+## AI prompt to mine reviews for ad copy — 6-step template ([[ecomchasedimond-ai-review-prompt-template]])
+ecomchasedimond: use customers' exact words as copy input. Paste 50-100 reviews into this prompt structure.
+
+**The 6-step prompt:**
+1. "Here are customer reviews for [product]. Use only their words. Don't invent anything."
+2. List the phrases they repeat about the **problem before buying**
+3. List the exact words they use to describe the **result** (word for word)
+4. List every **worry** they mention, and what changed their mind
+5. Write 5 headlines and 5 ad hooks from their exact phrases
+6. For each line, show the **review it came from** — flag any claim that needs proof
+
+**Review sourcing by star rating:**
+- 5-star → result words (outcome-first copy)
+- 3-star → doubts + what changed their mind (objection copy)
+- 1-2 star → objections your ads need to answer pre-emptively
+
+**Example output pattern:**
+> Review: "I finally sleep through the night without waking up sweaty"
+> Headline: Finally sleep through the night.
+
+Cơ chế: verbatim customer language bypasses the "ad voice" filter — readers recognize their own words and feel understood before being sold. The citation requirement forces real claims, not AI-hallucinated benefits. Tie §Weak/good/great copy = describe the moment they realized it works (§1) + §VOC mining prompt ([[ecomchasedimond-reviews-ai-prompt-ads]]).
+
+→ MaxPro: run this on [[maxpro-voc-insights]] review clusters + Casfuy reviews ([[casfuy-voc-avatars]]). 5-star → "my dog actually sat still" / 3-star → "I was skeptical it'd work on a big dog" / 1-star → "motor too loud." Use verbatim phrases to populate hooks bank [[hooks]] + presell headlines [[presell-pages]].
 
 ## Persuasion structure from reviews — let customers pick the frame ([[ecomchasedimond-persuasion-structure-pick]])
 ecomchasedimond: don't pick a persuasion structure by formula — read your last 20 reviews and support emails, and customers will tell you which one to use.

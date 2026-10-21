@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook]
-updated: 2026-10-19
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial]
+updated: 2026-10-21
 ---
 
 # Hooks
@@ -247,3 +247,20 @@ DTC_Quizbuilder: knee ad, no product shown. Raw stitched knee strapped to hospit
 Why it works: sells the nightmare the prospect wants to avoid (surgery), not the product. Hook = exact fear scenario → viscerally real scroll-stop.
 Pattern: product-less hook where IMAGE = before-state they're running from. Best when: (a) there's a feared medical/procedural alternative; (b) product = "avoid that alternative."
 MaxPro transfer: ad showing paw bleeding from clipper nick (no grinder in frame) = same pattern. Tie pattern #6 symptom-reframe + §Primary text = story (hook decides click, not product reveal).
+
+## Sell the exact moment the current fix fails — Quiet Protector case ([[dtcquizbuilder-quiet-protector-advertorial]])
+DTC_Quizbuilder: Quiet Protector (generator/power backup product). Hook: **"It Went Silent At 2 AM."** — neighbor's dead generator. Top ad running **30 days, 27 dupes**.
+
+**The hook formula:** name the *specific moment* the solution the prospect is relying on breaks — not the problem they have.
+
+**Why it works:** "I need backup power" is an awareness-level problem. "It went silent at 2 AM" is the moment their current fix (generator) visibly failed. You're not selling against the problem — you're selling against the current fix's failure point. The reader's instant thought is "that could be me."
+
+**Pattern: Failure-moment hook**
+- Don't open with the pain
+- Don't open with the product
+- Open with the exact moment the thing they're currently doing stops working
+
+Cơ chế: this bypasses "I already have a solution" objection. The hook reframes: "your solution will fail — here's the moment it happens." Tie [[villains]] §every-failed-alternative villain (Viasox "47 pairs of failed socks") — same mechanism, applied at hook level instead of body copy.
+
+> [!note] Áp cho MaxPro
+> Failure-moment hooks for nail grinder: "She screamed. I'd used the same clipper for years." / "3 AM, blood on the floor. The old clippers slipped again." Opens on clipper failure moment, not on pain of long nails. Pairs naturally with whiteboard-sketch or plain-static ad format (low production, high specificity). Tie §Drama ads 3-beat ([[0xroas-drama-ads-ragebait-structure]]).

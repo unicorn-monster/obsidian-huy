@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-lean-team-funnel, jforjacob-sauce-is-still-the-same, jforjacob-skip-revenue-projections, jforjacob-opex-inflation-kills-businesses, jforjacob-one-man-team-lean-advantage, jforjacob-temu-tariff-relief-warning-lean-operators, jforjacob-why-dropshippers-never-dox-their-brand, jforjacob-untouched-brand-as-passive-income, jforjacob-12-touchpoints-myth, jforjacob-contrarian-ecom-lessons, jforjacob-why-run-multiple-brands-not-one, jforjacob-one-team-multiple-brands, jforjacob-branding-is-not-that-important, jforjacob-high-margins-absorb-bad-days, jforjacob-managers-own-their-teams, jforjacob-q4-false-confidence-overhiring, jforjacob-customer-service-affiliate-links, jforjacob-customer-service-kpi-incentives, jforjacob-sorority-seeding-strategy, jforjacob-cc-lawyer-support-escalation, dtcmidas-build-your-own-business-manager-and-ad-accounts, dtcmidas-flywheel-vs-fuel-hiring-playbook, dtcmidas-team-structure-behind-1m-month-brand, dtcmidas-where-do-you-find-good-video-editors-for-ads, dtcmidas-skip-the-brand-manager-until-50m, dtcmidas-q4-and-bfcm-prep-checklist, dtcmidas-protecting-your-store-from-chargebacks, dtcmidas-what-levers-4x-an-eight-figure-brand, dtcmidas-break-even-scaling-on-retention-signal, dtcmidas-why-should-you-list-on-amazon-beyond-shopify, dtcmidas-launch-marketplaces-to-capture-channel-locked, dtcmidas-do-you-need-localization-to-expand-internationally, dtcmidas-optimizing-a-new-market-to-profitability]
-updated: 2026-08-26
+sources: [maxwellcopy-lean-team-funnel, jforjacob-sauce-is-still-the-same, jforjacob-skip-revenue-projections, jforjacob-opex-inflation-kills-businesses, jforjacob-one-man-team-lean-advantage, jforjacob-temu-tariff-relief-warning-lean-operators, jforjacob-why-dropshippers-never-dox-their-brand, jforjacob-untouched-brand-as-passive-income, jforjacob-12-touchpoints-myth, jforjacob-contrarian-ecom-lessons, jforjacob-why-run-multiple-brands-not-one, jforjacob-one-team-multiple-brands, jforjacob-branding-is-not-that-important, jforjacob-high-margins-absorb-bad-days, jforjacob-managers-own-their-teams, jforjacob-q4-false-confidence-overhiring, jforjacob-customer-service-affiliate-links, jforjacob-customer-service-kpi-incentives, jforjacob-sorority-seeding-strategy, jforjacob-cc-lawyer-support-escalation, dtcmidas-build-your-own-business-manager-and-ad-accounts, dtcmidas-flywheel-vs-fuel-hiring-playbook, dtcmidas-team-structure-behind-1m-month-brand, dtcmidas-where-do-you-find-good-video-editors-for-ads, dtcmidas-skip-the-brand-manager-until-50m, dtcmidas-q4-and-bfcm-prep-checklist, dtcmidas-protecting-your-store-from-chargebacks, dtcmidas-what-levers-4x-an-eight-figure-brand, dtcmidas-break-even-scaling-on-retention-signal, dtcmidas-why-should-you-list-on-amazon-beyond-shopify, dtcmidas-launch-marketplaces-to-capture-channel-locked, dtcmidas-do-you-need-localization-to-expand-internationally, dtcmidas-optimizing-a-new-market-to-profitability, dtcmidas-ecom-business-pays-you, dtcmidas-copycat-spy-protection, ecomchasedimond-one-star-review-reply, ecomamin-ecom-hard-truths]
+updated: 2026-10-21
 ---
 
 # Growth ops — funnel-first trước khi scale team
@@ -282,3 +282,47 @@ DTCMidas (2 tweet, cùng chủ đề): Shopify không nên là kênh bán DUY NH
 
 > [!note] Áp cho MaxPro
 > Chưa tới lúc mở market quốc tế (Shopify US/domestic funnel chưa proven) — nhưng ghi nhận trình tự cho tương lai: test đa quốc gia bằng ads chưa localize trước, đừng đổ effort dịch/localize trước khi biết market nào có pull thật.
+
+## 5-step ecom business that pays you framework ([[dtcmidas-ecom-business-pays-you]])
+DTCMidas: foundational framework — 5 conditions for a brand that generates cash along the way, not just at exit.
+
+1. **Get really good at direct response** — understand your customer, make ads/offers/LPs that sell. Can't acquire customers = can't grow.
+2. **Know your numbers** — 75%+ margin after COGS, 60%+ after fulfillment. Track unit economics daily. Know your affordable CAC.
+3. **Stay lean with AI** — implement AI across creative, ops, supply chain, CS, email BEFORE adding headcount or agencies. Keep overhead low.
+4. **Have a retention plan** — subscriptions, promos, limited editions, new drops. No flow replaces a good product + good experience.
+5. **Negotiate every major line item** — COGS, shipping, fulfillment, software. Both price AND payment terms. As volume grows, renegotiate from a position of scale.
+
+Cơ chế: items 1-2 are the engine; 3-4 are the multipliers; 5 is the cash-flow unlock. Most brands optimize 1-2 but leak margin at 5 and waste headcount at 3. Reconcile với [[product-selection]] (tiêu chí CM1 ≥70% = same numbers) + [[ai-agent-automation-stack]] (AI ops implementation at step 3).
+
+## Copycat spy protection — don't dox your brand revenue ([[dtcmidas-copycat-spy-protection]])
+DTCMidas: posting your store + revenue publicly is net negative.
+
+**The sequence:** you post revenue → dropship copycats buy spy access to your ad account on Telegram (within minutes) → they clone your winning ads and funnels (within hours) → your ROAS drops (within days).
+
+**Rule:** never publicly share your store URL + revenue numbers together. The upside (clout, community) doesn't offset the downside (competitors with your full funnel blueprint).
+
+Reconcile với [[jforjacob-why-dropshippers-never-dox-their-brand]] (same principle, jforjacob's version: "dropshippers never dox because they understand the game").
+
+## 1-star review reply strategy — write for future buyers, not the reviewer ([[ecomchasedimond-one-star-review-reply]])
+ecomchasedimond: the person who left the 1-star review is already gone. The people reading your reply are **deciding whether to buy from you next week**.
+
+**Rule:** keep the reply to 2 lines.
+- Real issue: "You were right. It's been fixed."
+- Not real / can't verify: stay polite, say what you'd do for them next time.
+
+**Why short wins:** a long defense (3 paragraphs explaining why the customer is wrong) signals to future buyers what kind of company they'd be dealing with. The defense tells them more about you than the review did.
+
+**Quick audit:** read your last 3 replies — would you buy from the company that wrote them?
+
+Cơ chế: review replies are public-facing sales copy, not customer service resolution. The audience is the unconverted prospect, not the unhappy customer. Tie [[presell-pages]] §3rd-party review domain (borrowed authority = public credibility stack).
+
+## Ecom hard truths — eCom_Amin's beginner reality check ([[ecomamin-ecom-hard-truths]])
+eCom_Amin: things nobody says when you start ecom.
+
+- **First product probably won't be the one** — it teaches, it doesn't pay. Treat it as tuition.
+- **Most of the work is boring** — nobody posts about the spreadsheets, the supplier emails, the logistics calls.
+- **You can't out-ad a product nobody wants** — bad product, more ad spend = faster cash burn. Reconcile [[product-selection]] (validate demand BEFORE inventory).
+- **The money is in the margin, not the revenue** — $500k revenue at 10% margin is worse than $200k at 60%. Reconcile §Know your numbers (DTCMidas framework above, same claim).
+- **Improving a winner beats being original** — iteration on a proven angle > launching a new untested angle. Reconcile [[creative-testing]] §iterate-the-shit-out-of-it.
+- **$300 of ad spend > 30 YouTube videos** — market feedback is faster and more honest than passive learning. Buy data, don't study theory.
+- **Consistency beats talent every single time** — operators who show up daily outlast talented people who burst and disappear.
