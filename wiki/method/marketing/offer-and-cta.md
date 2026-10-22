@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x]
-updated: 2026-10-19
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x, ecomchasedimond-free-shipping-threshold]
+updated: 2026-10-22
 ---
 
 # Offer + CTA mechanics
@@ -377,3 +377,21 @@ Offer construction: "Prime Day Sale" + "Buy 1 Get 2 Free!" + "Sell-out Risk: Ver
 Mechanism: skip commodity trap. Anchored against procedure → $89 feels cheap next to needles.
 Transferable: anchor product against pricey/painful alternative. MaxPro: vs $45 groomer visit / vs sedation grooming. "Why Dog Owners Are Switching From Groomers" + CHECK AVAILABILITY.
 Tie [[angles]] §anchor-against-villain + §Urgency that's real (sell-out risk = real scarcity).
+
+## Free shipping threshold psychology — AOV lift without discount ([[ecomchasedimond-free-shipping-threshold]])
+ecomchasedimond: "I refuse to pay $6 for shipping," says the buyer — then adds $12 socks to cart. The store planned it.
+
+**Setup formula:**
+1. **Threshold** = use **median** order value (not mean — outliers inflate average). Set threshold slightly *above* median.
+2. **In-cart progress bar** — show distance to free shipping in real time
+3. **Suggested items** = small, useful products that get customers to threshold
+
+**Unit economics check (before launching):**
+- Extra profit from larger orders must cover shipping you now absorb
+- Threshold must not be so high customers give up and leave
+
+**Benchmark:** Bizrate Insights (2026) — 56% of US shoppers expect free shipping once they spend $25-$49. Most customers already have a number in their heads; your threshold anchors whether they hit it or not.
+
+Cơ chế: the buyer frames adding the $12 item as "beating the system" (avoiding $6 shipping fee). They feel like they won; the store added $12 AOV. Both sides feel good. The key is making the math obvious in the cart (progress bar) and stocking the right low-cost items nearby.
+
+→ MaxPro: calculate median order value. If median is $X, set free shipping at $X + $10-15. Add 1-2 small accessories (nail care kit, replacement bit pack) that hit the gap. Show progress bar in cart. Test: track AOV before/after + net margin after absorbed shipping.

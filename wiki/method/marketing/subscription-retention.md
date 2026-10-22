@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct, maxwellcopy-billing-reminder-churn-proof, maxwellcopy-subscription-non-negotiables]
-updated: 2026-10-20
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct, maxwellcopy-billing-reminder-churn-proof, maxwellcopy-subscription-non-negotiables, maxwellcopy-rebill-free-gift-data, maxwellcopy-subscription-three-options]
+updated: 2026-10-22
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -469,3 +469,31 @@ maxwellcopy: 7 things every subscription ecom brand must have from day 1.
 7. **Customize order confirmation** — change "congrats on your order" to "congrats on the benefits you now have." Benefit-led, not transaction-led.
 
 → MaxPro: run this as a checklist when launching any subscription model. Items 1-4 = offer/funnel layer (build before launch). Items 5-7 = email layer (build in Klaviyo before first rebill).
+
+## Free gift on Order 2 → +7.5pt rebill rate ([[maxwellcopy-rebill-free-gift-data]]) ⭐ hard data
+maxwellcopy A/B data from a subscription brand:
+
+| Cohort | Order-2 rebill rate |
+|---|---|
+| Free gift recipients | **77.9%** |
+| Holdout group | 70.4% |
+| Δ | **+7.5 points** |
+
+COGS on gift was worth it. Recipients also rebilled more times (higher LTV, not just O2 bump).
+
+Cơ chế: free gift on Order 2 makes the second delivery feel like a win, not just "you're being charged again." Rebill event = perceived value event, not cost event. Ties §Churn-proof billing reminder (reframe billing as excitement) — same psychological direction, different lever.
+
+→ MaxPro: when launching subscription (consumables like replacement bits, balm), add a small free gift auto-included at Order 2. Options: 5 spare grinding bits, a travel pouch, a short "nail care guide" booklet. Calculate gift COGS vs 7.5pt rebill lift to confirm unit economics.
+
+## 3 subscription options beat 2 via anchoring ([[maxwellcopy-subscription-three-options]])
+maxwellcopy: instead of offering monthly vs one-time (2 options), offer monthly + quarterly + one-time (3 options).
+
+**Why 3 beats 2:**
+- Two of three options are subscription → subscribing is now the **default frame** (majority)
+- Quarterly anchors monthly as the middle/safe choice (neither extreme)
+- One-time becomes obviously worst value parked next to both subscription tiers
+- Most people subscribe simply because it's 2-out-of-3 on the page
+
+Cơ chế: anchoring via decoy effect — the quarterly option is the decoy that makes monthly feel rational. No one is being tricked; they're being given a clear frame that makes the brand-preferred choice feel like their own logical decision.
+
+→ MaxPro: when subscription launches, structure PDP as: monthly ($X/mo) · quarterly ($Y/mo, billed $Z) · one-time ($W). Set quarterly price so monthly ~20-25% less per unit than one-time, quarterly ~10-15% less than monthly. Monthly becomes the obvious pick.

@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial]
-updated: 2026-10-21
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial, jforjacob-format-longevity-doomscroll]
+updated: 2026-10-22
 ---
 
 # Hooks
@@ -264,3 +264,22 @@ Cơ chế: this bypasses "I already have a solution" objection. The hook reframe
 
 > [!note] Áp cho MaxPro
 > Failure-moment hooks for nail grinder: "She screamed. I'd used the same clipper for years." / "3 AM, blood on the floor. The old clippers slipped again." Opens on clipper failure moment, not on pain of long nails. Pairs naturally with whiteboard-sketch or plain-static ad format (low production, high specificity). Tie §Drama ads 3-beat ([[0xroas-drama-ads-ragebait-structure]]).
+
+## Eternal formats vs trend formats — format longevity framework ([[jforjacob-format-longevity-doomscroll]])
+@jforjacob: not all ad formats decay at the same rate. Key distinction:
+
+**Eternal formats** = formats that have always existed on organic feed and always will.
+- Example: **yappers** (talking-head to camera) — works in paid because viewers don't associate it with ads. High organic prevalence → no "this is an ad" association formed.
+- Rule: if a format is eternal on organic, it will remain effective in paid. Paid yappers have always worked and will keep working.
+
+**Trend formats** = formats native to paid creative, not organic behavior.
+- Example: **song ads** — not common in organic feed → viewers quickly form "song ad = paid ad" association → scroll past.
+- Rule: trend formats have a short window. Scale them early (before "ad association" forms in viewers' minds), then move on.
+
+**Where the alpha is:** be early to trending formats (before scale → before association forms). By the time competitors swipe and copy, you've already scaled and moved on. Speed asymmetry = advantage.
+
+**Doomscrolling as competitive intelligence:** to know what organic formats are trending, you need to be actively on TikTok/IG consuming naturally. Topic trends, buzzwords, trending audios, cultural feel — these inform which formats blend into feed. Cannot be outsourced or batch-researched; requires ongoing active presence.
+
+Cơ chế: ads perform best when they blend into organic feed. Feed-matching lowers "ad radar" response. Eternal formats always blend because they're always organic. Trend formats blend early (novel format = not flagged yet) then stop blending as saturation creates association.
+
+→ MaxPro: yappers = safe evergreen format. Script a talking-head yapper with failure-moment hook. Test trend formats (current: whatever's high on TikTok organic right now) with small budget fast — scale if converts before association forms. Doomscroll TikTok/IG daily for 15 min to track format shifts.

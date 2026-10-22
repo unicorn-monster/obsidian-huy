@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild]
-updated: 2026-10-16
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild, dtcmidas-fb-comments-pdp-social-proof, ecomchasedimond-ai-agents-product-page]
+updated: 2026-10-22
 ---
 
 # Funnel + landing congruency
@@ -423,3 +423,39 @@ Key cho MaxPro: *"every click lands on a page built for where the owner's head i
 **Why it matters for performance:** site speed trực tiếp ảnh hưởng conversion rate — bloated theme = slower LCP/CLS = bounce trước khi funnel even starts. Dawn = Shopify's lightest official theme, optimized for Core Web Vitals.
 
 **Transferable:** bất kỳ brand nào đang dùng premium theme paid mà không cần tất cả features của nó → rebuild on Dawn với Claude. Cost: 1 giờ. Benefit: performance + no licensing. → MaxPro: nếu theme hiện tại chậm trên mobile (check PageSpeed Insights), đây là quick-win trước khi invest vào funnel optimization.
+
+## FB ad comments as social proof on PDP — AI workflow at scale ([[dtcmidas-fb-comments-pdp-social-proof]])
+DTCMidas: for brands with 40+ demographics + heavy Facebook placements, adding real FB ad comments to PDP/presell pages is one of the easiest CVR lifts.
+
+**AI-assisted workflow (no manual screenshots):**
+1. Connect Claude/Codex to Meta Ads MCP + Apify MCP
+2. Give it ad account + landing page URL + product/angle focus
+3. Agent scrapes all comments → shortlists strongest social proof (results shared, objections overcome, repeat-purchase reasons)
+4. Pick comments → ask agent to build comment section using 1:1 Facebook UI (give it a reference screenshot)
+5. Add to PDP and presell pages
+
+**Why it works:** FB comment section UI signals real organic conversation, not curated testimonial. Comments show the exact objections your cold audience has — when prospects see those objections answered by real buyers in comment format, trust transfers faster than styled testimonials.
+
+Cơ chế: visual social proof in native platform UI bypasses the "this is brand copy" filter. Same reason native-style ads outperform polished creative — context = credibility.
+
+→ MaxPro: run this when FB spend is significant enough to have comment volume (100+ comments on winning ads). Pull comments from best-performing ad → sort by: objection-answer (e.g. "my dog never let me do nails before") + result (e.g. "no bleeding, no panic"). Add above the fold on presell page.
+
+## Optimize product pages for AI shopping agents ([[ecomchasedimond-ai-agents-product-page]])
+ecomchasedimond: AI shopping agents are beginning to shop on behalf of customers (Walmart opened beta for developers in 2026). Most stores are not ready.
+
+**Quick diagnostic prompt** — paste product page into Claude/ChatGPT and ask:
+> *"You're an AI shopping agent buying this for a customer. List anything you can't find or aren't sure about: what it is, who it's for, size, materials, total price with shipping, delivery time, return policy. Then rewrite the title so an agent can match it to a search."*
+
+Fix whatever it flags.
+
+**What AI agents need that most PDPs miss:**
+- Exact product dimensions / materials / weight (not just vibes)
+- Who it's for (species, size, age if pet product)
+- Total cost including shipping, stated upfront
+- Delivery estimate stated explicitly
+- Return policy terms in plain language
+- Title structured for search matching (not brand voice)
+
+Cơ chế: AI agents parse structured information, not narrative copy. A PDP optimized for emotional persuasion fails at machine-readability. As AI-assisted shopping scales, PDPs that can't answer agent queries drop out of consideration before humans ever see them. Tie [[ai-search-aeo-geo]] (same structured-for-machine principle, applied to PDP layer).
+
+→ MaxPro: run the diagnostic prompt on MaxPro PDP now. Key gaps likely: delivery time not stated, return policy buried, title brand-first instead of query-first. Fix before AI shopping scales.

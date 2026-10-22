@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles, dtcquizbuilder-cupids-mechanism-first, dtcquizbuilder-musabela-blocker-first-listicle, dtcquizbuilder-dtc-listicles-dread-hook]
-updated: 2026-10-20
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles, dtcquizbuilder-cupids-mechanism-first, dtcquizbuilder-musabela-blocker-first-listicle, dtcquizbuilder-dtc-listicles-dread-hook, dtcquizbuilder-advertorial-expert-front, dtcquizbuilder-facelove-advertorial-thread]
+updated: 2026-10-22
 ---
 
 # Presell pages — build guide (4 format)
@@ -608,3 +608,33 @@ DTC_Quizbuilder: DTC listicles printing now because they don't pitch formulas �
 Tie §Listicle: sell blocker first (first 3 reasons = past failures = this exact absolution beat). Tie [[hooks]] §Drama / empathy hooks (dread-hook = the "burden I'm carrying" version of a hook). Tie §Minxy menopause belly (same dread-first anatomy: *"you've been fighting the wrong fight"*).
 
 → MaxPro: what is the actual daily dread? Not "my dog's nails are too long" — it's "I have to cancel grooming appointments because my dog panics / vet says nails causing problems / I feel like a bad owner." Lead with that dread in listicle headline, not "best nail grinder."
+
+## Expert-front advertorial — let an expert diagnose before the pitch ([[dtcquizbuilder-advertorial-expert-front]])
+DTC_Quizbuilder observation: 3 separate advertorials currently running — all front an expert without that being intentional.
+
+**Live examples:**
+- A **vet** breaks down dirty litter boxes
+- A **dentist** flags bleeding gums
+- A **doctor** tests rival formulas
+
+**Pattern:** let an expert *diagnose the problem* before you pitch the product. The expert names what's wrong; the product is the logical conclusion.
+
+Cơ chế: expert diagnosis pre-handles skepticism before the mechanism even appears. Reader trusts the diagnosis (authority figure + professional judgment), so the product recommendation inherits that credibility. Works especially well when the problem has a hidden cause the reader didn't know about.
+
+Tie §Advertorial byline strategies (authority-front = one method; expert-admits-wrong = Facelove below is a stronger variant). Tie [[angles]] §authority-demonstration angle (expert = hook method; here = structural page format).
+
+→ MaxPro: "A vet explains why most dog nail grinders still stress dogs out — even the quiet ones." Vet-front diagnoses the problem (incorrect frequency, vibration at wrong Hz) → MaxPro is the conclusion. No groomer authority needed — vet credibility is higher and more transferable.
+
+## Facelove advertorial: expert-admits-wrong byline + "whole category is obsolete" frame ([[dtcquizbuilder-facelove-advertorial-thread]])
+DTC_Quizbuilder: Facelove's advertorial listicle — *"7 Reasons Koreans Quit Tubing Mascara"*. Est. revenue: **$5.2M → $13.2M/mo in 29 days**.
+
+**3 mechanisms on first screen:**
+1. **Listicle headline = category indictment** — "quit [dominant product]" positions readers' current product as the thing to leave, not a neutral problem
+2. **Expert-admits-wrong byline** — *"they laughed at me… out loud"* — makeup artist pushed tubing for years until Seoul pros laughed at her. Reads like insider secret, not brand copy. **Skepticism drops when the expert admits she was wrong first.**
+3. **"Whole category is obsolete somewhere smarter"** frame — don't pitch a better version of yesterday's trend. Show why that category is already obsolete in a smarter market (Seoul), name the new fix, turn their favorite product into yesterday's news.
+
+**Formula:** expert-admits-wrong byline + geographic authority (Koreans/Seoul pros) + category-is-obsolete frame = reader's current product becomes the antagonist without ever naming a competitor.
+
+Tie §Expert-front advertorial above (same authority structure, stronger form: expert defects from old category). Tie [[angles]] §villain = mechanism that used to be trusted + [[presell-pages]] §Listicle: dread-hook (category = the thing they trusted is the dread).
+
+→ MaxPro: "I used clippers professionally for 8 years. Then I tried grinding — my clients stopped canceling." Expert-admits-wrong + whole category (clipper-first grooming) made obsolete by a smarter method (grinding). Category = clippers; smarter market = professional groomers switching. Likeliest format: short listicle, byline above headline.
