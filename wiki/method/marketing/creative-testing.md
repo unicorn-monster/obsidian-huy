@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue, dtcmidas-doomscroll-new-ad-formats]
-updated: 2026-10-19
+sources: [native-statics-machine-guide, low-budget-creative-testing-playbook, maxwellcopy-ab-testing-scale, dtcmidas-net-new-vs-iteration-ratio, rubiinov-gruns-100m-funnel-teardown, 0xroas-ai-ads-agent, maxwellcopy-1b-dtc-funnel-6-stages, 0xroas-ai-ugc-under-dollar-infinite-video, dtcmidas-500k-month-4months, ecomamin-48-laws-google-advertising, jforjacob-what-a-winning-ad-looks-like, jforjacob-soft-metrics-hide-winning-ads, jforjacob-cpa-doesnt-tell-full-story, jforjacob-soft-metrics-before-after-reveal-hook, jforjacob-soft-metrics-tell-the-story-behind-cpa, jforjacob-testing-is-for-learnings-not-low-cpa, jforjacob-track-every-element-instead-of-spam-testing, jforjacob-single-variant-changes-in-testing-ad-sets, jforjacob-keep-single-variable-tests-despite-andromeda, jforjacob-cheap-cpc-no-conversions-build-the-lander, jforjacob-dedicated-lander-for-good-soft-metrics, dtcmidas-test-concepts-not-creatives, dtcmidas-test-every-ad-seven-days-with-intent, dtcmidas-is-the-image-or-the-copy-driving-your-winning-static, dtcmidas-why-should-you-analyze-your-losing-ads, dtcmidas-weekly-creative-testing-feedback-loop, dtcmidas-should-you-speed-up-your-video-ads, dtcmidas-how-do-you-iterate-a-winning-ad, dtcmidas-how-to-milk-a-winning-ad-for-months, dtcmidas-iterate-your-top-spender-never-kill-it, dtcmidas-fighting-creative-fatigue, dtcmidas-doomscroll-new-ad-formats, dtcmidas-discount-margin-test]
+updated: 2026-10-23
 ---
 
 # Creative testing — isolate-one-layer (low-budget)
@@ -221,3 +221,16 @@ DTCMidas: angles are finite; formats emerge daily. First to bring a new format i
 4. Be first to test — don't wait for competitors. Being first doesn't guarantee the ad works; execution still matters.
 Distinction: format discovery = PRE-testing research phase. Once in swipe file, enters R2 (Execution round) in 3-layer framework.
 → MaxPro: 30 min/week doomscrolling dog/pet content on TikTok + YouTube. Note any format not in [[ugly-ads-method]]. Tie [[creative-brief]] §Format bank + [[hooks]] §swipe file.
+
+## Discount changes CAC bidirectionally — test, don't assume ([[dtcmidas-discount-margin-test]])
+DTCMidas: changing discount level isn't a clean margin lever — it ripples into CAC in both directions, and you can't assume the effect.
+
+**Two scenarios:**
+- **Reduce discount** (→ higher price) → higher CAC can eat into the extra margin gained. Net result may be worse, not better.
+- **Increase discount** (→ lower price) → lower per-order margin BUT lower CAC + expanded pool → may enable higher total profit even with less margin per order.
+
+**Rule:** test discount changes and track numbers day-by-day. You cannot model the outcome from a spreadsheet — the CAC effect is empirical.
+
+Cơ chế: discount is not just a margin lever — it's also a traffic-quality and conversion-rate lever. Lower price expands the audience that can say yes and lowers the cognitive barrier to first purchase, which feeds back into algorithm-driven CAC. Modeling from margin math alone ignores the demand curve.
+
+→ MaxPro: when testing offer variants, treat discount level as a variable that affects BOTH margin AND CAC. Run two ad sets for 7 days, same creative, same audience — one with 20% off, one with 30% off. Compare: revenue net of discount AND CAC. Don't kill the deeper-discount version based on margin alone if CAC drops enough to compensate. Tie §Test 3 offer cùng lúc [[offer-and-cta]] + §Test with intention ([[dtcmidas-test-every-ad-seven-days-with-intent]]).

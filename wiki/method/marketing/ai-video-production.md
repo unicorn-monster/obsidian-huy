@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access]
-updated: 2026-10-16
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline]
+updated: 2026-10-23
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -304,3 +304,22 @@ DTCMidas (2026-03-13): full AI animation ads hiện là top spender ở **nhiề
 **Note:** tắt VPN TRƯỚC khi dùng, chỉ cần VPN khi tạo account và login lần đầu trên mobile.
 
 → Hữu ích nếu test Muse cho AI creative workflow bên cạnh Seedance/Veo đang dùng.
+
+## Drama ads automated pipeline — 21 ads in <1 day ([[0xroas-ai-drama-ads-automated-pipeline]])
+0xROAS: 21 AI drama ads fully generated and edited in under a day — 160+ minutes of content, fully by AI.
+
+**8-step pipeline:**
+1. Analyze top 15 drama ads (US market)
+2. Create stories based on those drama structures
+3. Create characters, scenes, objects
+4. Create storyboard
+5. Generate videos
+6. Stitch videos, cut pauses, add captions
+7. Name files
+8. Upload to drive
+
+Cơ chế: drama ad format = emotional story structure (conflict → resolution) applied to product benefits. The pipeline is a systematic factory approach — analyze winner inputs, generate at scale, not one creative at a time. Marginal cost near $0 with AI tools.
+
+**Why drama ads work:** story format bypasses ad-pattern recognition; viewer follows the narrative arc before realizing they're being sold to. Compatible with quiz funnel — story arc builds belief before the offer appears ([[quiz-funnels]]).
+
+→ MaxPro: map drama structure to pet owner story (conflict: dog panics at clipper, owner feels like bad pet parent; resolution: quiet grinder, dog finally relaxed during grooming, owner proud). Build storyboard → generate 5+ drama variations via Seedance/Kling (tie §Route-by-shot table for model selection). Tie [[hooks]] §dramatic-scenario hook.

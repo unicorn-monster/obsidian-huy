@@ -1,6 +1,6 @@
 ---
-sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework, ecomchasedimond-reviews-ai-prompt-ads, ecomchasedimond-headline-plain-then-dress, ecomchasedimond-persuasion-structure-pick, ecomchasedimond-ai-review-prompt-template]
-updated: 2026-10-21
+sources: [sam-parr-copywriting-slippery-slope, sam-parr-copywriting-storytelling-rhythm, sam-parr-copywork, sam-parr-repurpose-bad-ads, sam-parr-objections-price-personality, ecomchasedimond-copy-result-moment, mark-copy-depth-levels-mind-body-psyche, my-favorite-vsl-breakdown, dtcmidas-storytelling-ads-algorithm-reward, dtcmidas-ai-copy-judgement-scale, dtcmidas-vsl-ad-structure, ecomchasedimond-claims-receipts-framework, ecomchasedimond-word-of-mouth-repeatability, jforjacob-features-vs-benefits-blanket-statements, jforjacob-one-line-makes-ai-write-better-copy, jforjacob-read-your-copy-out-loud, jforjacob-tiktok-formats-schwartz-ogilvy-subject, jforjacob-all-caps-headlines, jforjacob-localise-offer-idioms-1-plus-1-sale, jforjacob-save-30-percent-off-copy-error, schwartz-rodale-method-lecture, ecomchasedimond-personal-copy-emotional, ecomchasedimond-outcome-copy-guitar, ecomchasedimond-copywriting-technical-benefits, ecom-amin-opus55-ecom-copy-2026, jforjacob-dr-vsl-script-framework, ecomchasedimond-reviews-ai-prompt-ads, ecomchasedimond-headline-plain-then-dress, ecomchasedimond-persuasion-structure-pick, ecomchasedimond-ai-review-prompt-template, ecomchasedimond-ai-copy-review-panel]
+updated: 2026-10-23
 ---
 
 # Copywriting — DR fundamentals
@@ -437,3 +437,26 @@ ecomchasedimond: don't pick a persuasion structure by formula — read your last
 Cơ chế: the review pattern = a signal about where trust breaks down in the buyer journey. FAQ repetition = objection not being answered pre-purchase. Raving about result = transformation is the draw, lead with that. Spec mention = technically-oriented buyer, benefit-frame the specs.
 
 → MaxPro: read last 50 reviews. If most say "I was skeptical but…" → Objection Answer is the primary frame for ads/presell. If most say "my dog actually sits still now" → Before-After. Tie §VOC mining above (same review data, different extraction goal). Tie [[presell-pages]] §Listicle structure (chosen persuasion structure determines listicle arc).
+
+## AI 7-expert copy review panel — score before going live ([[ecomchasedimond-ai-copy-review-panel]])
+ecomchasedimond: prompt that runs any marketing copy through 7 expert lenses and iterates until all scores ≥90/100. Works on emails, ads, landing pages, anything.
+
+**The 7 experts:**
+1. **Offer** — value clear? price justified? real reason to act now?
+2. **Headline** — hooks the right reader and makes one clear promise?
+3. **Clarity** — plain words, short sentences, one idea per line. Stranger gets it in one read?
+4. **Proof** — reviews, specifics, or guarantees that make claims believable?
+5. **Design** — clear visual order, easy to scan? (judges from structure: headers, spacing, line length)
+6. **Mobile** — short lines, short paragraphs, buttons easy to tap. Works on phone?
+7. **CTA** — one clear next step, obvious what to click?
+
+**Process:**
+- Round 1: each expert scores /100 with 1-line reason
+- If any score <90: rewrite to fix every issue raised — keep brand voice, offer, and all facts; add `[placeholder]` for missing elements (e.g., missing proof)
+- Score new version; repeat up to 3 rounds or until all ≥90
+
+**Output:** score table per round · final copy · what changed and why (bullets) · [placeholders] to fill in
+
+Cơ chế: systematic coverage of the 7 dimensions most copy fails on. Proof and CTA are most commonly low-scored — most drafts either have weak social evidence or split the CTA. [Placeholder] mechanic keeps momentum: never skip proof because you don't have it yet — add the placeholder and fill it before launch.
+
+→ MaxPro: run every email, ad, and landing page through this before launch. Watch Proof score (MaxPro has 18,587 reviews — always inject real numbers) and CTA score (one link, one action). Tie §Weak/good/great copy (§1 in this file) + [[presell-pages]] §Advertorial wireframe (same 7 dimensions).

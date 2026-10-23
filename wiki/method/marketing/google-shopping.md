@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown]
-updated: 2026-10-20
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown, ecomamin-google-shopping-boring-product-play]
+updated: 2026-10-23
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -282,3 +282,19 @@ eCom_Amin: video resource — entire Shopping algorithm explained in 15 minutes.
 - Stuff most brands get wrong and pay for every single day
 
 → Watch before scaling Shopping spend past $100/day. Tie §Feed = 70% kết quả (feed is likely why competitor outranks — this video presumably explains the mechanism).
+
+## Boring product play — $80 AOV × 34 orders/day = $1M/year ([[ecomamin-google-shopping-boring-product-play]])
+eCom_Amin: full playbook for building a $1M/year ecom business via Google Shopping on a boring repurchase product.
+
+**The play:**
+1. **Pick a boring product dads already Google** — refills, line, blades, filters. Characterized by: high repurchase, existing search intent, low content competition.
+2. **Validate with data** — Google Trends (volume + trend direction) + Keyword Planner (exact volumes) + Ads Transparency Center (see what competitors spend and for how long).
+3. **Shopping titles: brand name last** — buyer types the category, not your brand. Lead with function keyword, push brand to end. (Tie §3 từ đầu không branded above.)
+4. **Capture comparison intent** — "best [product]" and "vs" searches → send to a **comparison page**, not a product page. Buyer in comparison mode is 1 step from purchase; PDP loses them. (See [[presell-pages]] §Comparison format.)
+5. **YouTube ad = review format** — looks like a product review, not a brand film. Blends into organic review content; lower ad fatigue, higher trust signal.
+6. **Make rebuy automatic** — subscription or one-click reorder removes friction from the most profitable transaction (the second purchase).
+7. **Judge on the year, not the first order** — LTV math: $80 AOV × ~34 orders/day = ~$1M/year. First-order ROAS is not the business; repeat order stack is.
+
+Cơ chế: boring product = lower CPCs (less competition), higher purchase intent (solving known need, not impulse), built-in LTV if rebuy is captured. The dull category IS the moat — anti-thesis to "exciting product" brand building.
+
+→ MaxPro: dog nail grinder fits "boring problem dad Googles" + high repurchase (bits, accessories). Apply: title keyword-first (already §3 từ đầu không branded), add comparison page "best dog nail grinder vs clippers," set up subscription for replacement bits, judge CAC on LTV not first ROAS. Tie §Feed duplication + [[presell-pages]] §Comparison.
