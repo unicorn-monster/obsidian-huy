@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline]
-updated: 2026-10-23
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats]
+updated: 2026-10-24
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -323,3 +323,18 @@ Cơ chế: drama ad format = emotional story structure (conflict → resolution)
 **Why drama ads work:** story format bypasses ad-pattern recognition; viewer follows the narrative arc before realizing they're being sold to. Compatible with quiz funnel — story arc builds belief before the offer appears ([[quiz-funnels]]).
 
 → MaxPro: map drama structure to pet owner story (conflict: dog panics at clipper, owner feels like bad pet parent; resolution: quiet grinder, dog finally relaxed during grooming, owner proud). Build storyboard → generate 5+ drama variations via Seedance/Kling (tie §Route-by-shot table for model selection). Tie [[hooks]] §dramatic-scenario hook.
+
+## V6 + Seedance 2.5 = $$$ — Q4 2026 format confirmation ([[0xroas-v6-seedance-ai-ad-formats]])
+@0xROAS (2026-10-24): xác nhận V6 + Seedance 2.5 là combo đang print trong Q4 2026. 4 AI ad format types hiện tốt nhất:
+
+1. **AI yappers** (favorite) — talking head/UGC-style, Seedance 2.5 native audio làm lipsync
+2. **AI podcast ads** — 2-person conversation format, authority by association
+3. **AI mini VSLs** — 60-120s story arc, drama structure trên đây
+4. **Ted Talk style** — 1 presenter, educational tone, credibility builder
+
+*"99% of you guys are doing ai ads wrong"* — lỗi phổ biến: dùng generic b-roll thay vì format cụ thể, không build character consistency.
+
+> [!note] Xác nhận vs sources cũ
+> [[0xroas-ai-ad-formats-tof-bof]] và [[0xroas-seedance25-ad-formats]] đã note 4 format này trước đó. Bài này (24/10/2026) là confirmation signal từ người scale thật rằng **yappers + podcast + mini VSL + ted talk** vẫn là winners vào cuối 2026 — không phải trend cũ đã chết. Tie §Bảng giá (Seedance 2.5 = model chuẩn cho UGC/lipsync) + §Drama ads automated pipeline (mini VSL = drama variation ngắn).
+
+→ MaxPro: chạy cả 4 format với cùng script/angle, test song song. Yapper = nhanh nhất (1 prompt + Seedance 2.5); podcast ad = highest trust signal; mini VSL = best for cold traffic story warm-up. Tie §Route-by-shot table + §3 phát hiện đáng tiền.

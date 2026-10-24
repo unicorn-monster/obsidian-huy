@@ -1,6 +1,6 @@
 ---
-sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles, dtcquizbuilder-cupids-mechanism-first, dtcquizbuilder-musabela-blocker-first-listicle, dtcquizbuilder-dtc-listicles-dread-hook, dtcquizbuilder-advertorial-expert-front, dtcquizbuilder-facelove-advertorial-thread, dtcquizbuilder-listicles-open-failed-fix, dtcquizbuilder-sakerplus-pitch-before-proof]
-updated: 2026-10-23
+sources: [vysta-presell-build-guide, carlweische-presell-listicle-7reasons, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, fotw-listicle-reason-why-1904, fotw-bencivenga-listicle-collagen, dtcquizbuilder-primalvikings-listicle-10reasons, reviewscout-3rd-party-review-domain-teardown, dtcmidas-3rd-party-pages-strategy, top5choices-seamoss-review-funnel-teardown, carlweische-100m-advertorials-guide, gruns-vs-ag1-comparison-conquest-page, comparison-page-playbook-3rd-party, dtcquizbuilder-trustpilot-review-automation, blvckledge-editorial-ad-comparison-funnel, everyone-in-their-industry-got-crushed, hollow-socks-alpaca-compression-listicle-breakdown, i-just-spent-4-5-hours-on-claude-code-building-a-beast-marketing-system, ecomamin-full-comparison-page-blueprint, ecomamin-1m-listicle-funnel, ecomamin-1m-advertorial-blueprint, carlweische-100kday-advertorial-teardown-rejuvacare, ecom-amin-google-ads-awareness-funnel, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-advertorial-4step-psychology, ecom-amin-comparison-page-conquesting, ecomamin-advertorial-psychology-13x-roas, maxwellcopy-hero-section-copy-maxxing, jforjacob-listicles-advertorials-no-images, jforjacob-heatmap-your-listicles-for-easy-money, dtcmidas-us-vs-them-pages-for-saturated-markets, microsoft-aeo-geo-guide, maxpro-advertorial-narrator-authority, ecom-amin-primal-queen-google-funnel, ecom-amin-google-funnels-cold-traffic, ecom-amin-comparison-pages-napoleon, ecom-amin-ai-advertorial-pipeline-fable, ecom-amin-advertorial-vs-pdp-21x-roas-2026, ecom-amin-advertorial-vs-pdp-cold-cvr-2026, dtcquizbuilder-switching-listicle-old-routine, dtcquizbuilder-willis-judd-listicle-quiz-split, dtcquizbuilder-strawberry-triple-acid-advertorial, dtcquizbuilder-blackout-water-advertorial, dtcquizbuilder-bronoir-advertorial-teardown, dtcquizbuilder-multiple-listicles-one-sku, dtcquizbuilder-metabolae-native-ad-teardown, dtcquizbuilder-minxy-menopause-advertorial, dtcquizbuilder-mature-beauty-listicles, dtcquizbuilder-cupids-mechanism-first, dtcquizbuilder-musabela-blocker-first-listicle, dtcquizbuilder-dtc-listicles-dread-hook, dtcquizbuilder-advertorial-expert-front, dtcquizbuilder-facelove-advertorial-thread, dtcquizbuilder-listicles-open-failed-fix, dtcquizbuilder-sakerplus-pitch-before-proof, dtcquizbuilder-fear-angle-two-products, dtcquizbuilder-sassy-saints-nails-listicle]
+updated: 2026-10-24
 ---
 
 # Presell pages — build guide (4 format)
@@ -662,3 +662,36 @@ DTC_Quizbuilder: Sakerplus runs a 7-reasons listicle. Est. 2.4M visits/mo — bu
 Cơ chế: the listicle format exists to warm cold traffic by building belief through reasons before the offer appears. Placing a CTA before Reason 1 collapses the logic — the "7 reasons" become marketing noise after an immediate pitch, because the reader never committed to the belief-building journey. Same as failing the slippery slope ([[copywriting]] §Slippery slope) — you demanded the conclusion before earning the argument.
 
 → MaxPro: audit existing listicle ([[maxpro-pages]]). If any hard CTA or 50% off button appears in first scroll — move it. Tie §Advertorial wireframe §7 Micro-CTA.
+
+## Lead with ONE fear before the product — Erodus / Amua case ([[dtcquizbuilder-fear-angle-two-products]])
+DTC_Quizbuilder: *"Find your buyer's [fear], name it before the product."* Hai case đang print:
+- **Erodus** (men's grooming) — không mở bằng product, mở bằng câu hỏi xã hội: *"has your partner noticed?"* = fear = embarrassment (người khác đánh giá mình).
+- **Amua** (supplement) — có section tên hẳn **"THE ATTEMPTS"** = đặt tên nỗi sợ không thể không nhận ra: *"this won't work either"* = defeat/hopelessness từ thất bại tích lũy.
+
+**Điểm khác với "pain threshold" (Carl Weische):** pain threshold nói *hammer pain nhiều lần*; fear-first nói *đặt tên DUY NHẤT 1 nỗi sợ cụ thể TRƯỚC khi nhắc tới product*. Không phải list pain, mà là identify 1 fear và đặt tên nó ngay từ giây đầu tiên. Page mở với fear đó, product xuất hiện như cách thoát.
+
+**2 loại fear hoạt động nhất:**
+1. **Social fear** (người khác nhìn thấy, xét xử) — Erodus pattern.
+2. **Internal defeat** (mọi thứ mình đã thử đều fail) — Amua pattern.
+
+Cơ chế: reader nhận ra sợ của mình trước khi product xuất hiện → họ CHỌN đọc tiếp thay vì bị push vào funnel. Tie §Pain threshold (Carl §48-phần) + §Advertorial 8-phần §1 hook (fear-driven hook option).
+
+→ MaxPro: 2 fear tương ứng — (1) **social fear**: "your dog is scared of you every time you bring out the clippers — what does that say?" (2) **defeat fear**: "THE ATTEMPTS" section nêu đủ: clippers chảy máu → bao tay → groomer $45/lần → dừng luôn. Đặt tên chuỗi thất bại trước khi giới thiệu máy mài.
+
+## Mechanism reframe trong listicle — "Nails aren't damaged, they're dried out" (Sassy Saints) ([[dtcquizbuilder-sassy-saints-nails-listicle]])
+DTC_Quizbuilder: Sassy Saints nail brand dùng 1 câu mechanism reframe làm spine của toàn bộ listicle → **$1.3M–$1.8M/mo, từ day 0 trong 33 ngày**.
+
+**Structure của reframe:**
+- **Old belief (villain):** nails are *damaged* → người dùng tin vào "strengtheners" để sửa cái bị hỏng.
+- **New frame:** nails are *dried out* → thứ cần không phải strengthen mà là **replenish**.
+- **Mechanism:** LIPIFIL-3 — thay thế 3 lipid thiếu. Cụ thể, có tên, defensible.
+- **Result:** "dried out feels fixable" → reframe biến vấn đề từ "vĩnh viễn hỏng" thành "thiếu thứ gì đó, thêm vào là xong."
+
+**Công thức extract được:** *"Name what's missing in your market, then what fills it."*
+1. Find existing WRONG belief → đặt làm villain (cái mọi người đang dùng/tin).
+2. Reframe root cause thành "thiếu X" thay vì "hỏng Y" → cảm giác fixable.
+3. Name the specific thing that fills X → mechanism cụ thể.
+
+Cơ chế: "hỏng" gây helplessness; "thiếu" gây hope + action (ai cũng có thể *thêm* thứ gì đó). Cùng nguyên lý §Mechanism reframe (nail isn't damaged, etc.) và §Belief-shift diagnosis từ [[angles]]. Đây là cách áp mechanism reframe vào LISTICLE format cụ thể — xương sống của toàn trang, không chỉ 1 section.
+
+→ MaxPro: "Nails aren't hard to trim, they're overgrown" → existing fix (clipper) giải quyết sai vấn đề; real fix = grinding to the exact safe length. Villains = clippers + lengthening cycle. Mechanism = diamond drum grinds incrementally vs clipper force. Test làm spine cho 1 listicle variant. Tie [[angles]] §Bundles of do's (same product, new job framing).

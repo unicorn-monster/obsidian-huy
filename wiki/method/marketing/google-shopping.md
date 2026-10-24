@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown, ecomamin-google-shopping-boring-product-play]
-updated: 2026-10-23
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown, ecomamin-google-shopping-boring-product-play, ecomamin-google-shopping-algorithm, ecomamin-google-ads-cheat-codes]
+updated: 2026-10-24
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -273,15 +273,35 @@ eCom_Amin (Oct 2026): explain Google ads cho người chưa biết gì, dùng le
 
 → MaxPro: "dog nail grinder" = search intent đã có. Shopping first. Title: "MaxPro Dog Nail Grinder — Quiet Electric Nail File for Dogs, No Vibration Fear." Fix title trước khi click "Launch." 2 tuần không touch. Sau: add Search "dog nail grinder quiet" + "nail grinder for dogs afraid of clippers". Tie §from zero 5-step system + §Title keyword-first.
 
-## Google Shopping algorithm — full 15-min breakdown ([[ecomamin-google-shopping-algorithm-breakdown]])
-eCom_Amin: video resource — entire Shopping algorithm explained in 15 minutes. Signal only (no actionable detail in tweet).
+## Google Shopping algorithm — full breakdown ([[ecomamin-google-shopping-algorithm-breakdown]], [[ecomamin-google-shopping-algorithm]])
+eCom_Amin: toàn bộ Shopping algorithm giải thích trong 1 video. Cả 2 nguồn cùng tác giả — nguồn mới (2026-10-24) expose đầy đủ các topics:
 
-**Topics covered (per signal):**
-- Why Google shows competitor's product and not yours
-- What actually decides which products get the spend
-- Stuff most brands get wrong and pay for every single day
+**Ad rank — 3 yếu tố thật:**
+- **Feed quality** (tiêu chí 1) — title/ảnh/category/attribute → Google hiểu product là gì và ai nên thấy (tie §GMC feed = 70% kết quả)
+- **Bid + expected CTR** (tiêu chí 2) — cùng bid, listing CTR cao hơn thắng auction; đây là lý do title + ảnh tốt không chỉ là UX mà là **bid leverage**
+- **Landing page relevance** (tiêu chí 3) — page phải khớp feed: giá, availability, product description. Inconsistency = quality score penalty (tie §GTIN & price-baiting note)
 
-→ Watch before scaling Shopping spend past $100/day. Tie §Feed = 70% kết quả (feed is likely why competitor outranks — this video presumably explains the mechanism).
+**Feed IS targeting — không có keyword trong Shopping:**
+Không như Search (bạn chọn keyword), Shopping = Google đọc feed rồi tự quyết query nào sản phẩm của bạn hiện. **Title = targeting mechanism duy nhất bạn control** — title kém → hiện cho query sai → waste spend bất kể bid cao cỡ nào.
+
+**Title formula (3-5 titles per hero product):**
+Nhân bản feed với 3-5 title khác nhau per hero product (tie §Multi-title feed + §Feed duplication) — Google A/B test title, winning title nhận impression nhiều hơn. Fix 1 title mà không test các variant = chấp nhận thua 20-30% performance.
+
+**Feed errors gây invisible:**
+- Giá trong feed ≠ giá trên page → disapproved
+- Out-of-stock không update feed → nhận impression, không convert, Google học signal xấu
+- Missing/wrong GTIN → Google không hiểu product → match rác
+
+**Test framework: $30-50/day window**
+Không cần budget lớn để test Shopping. $30-50/day × 7 ngày = đủ data để đọc search terms report, identify wasted spend, prune. Tie §Google Shopping from zero 5-step system.
+
+**Điều kill Shopping account:**
+- Consistent feed errors (disapprovals → account health)
+- Mixing brand + non-brand trong cùng campaign (giấu CAC thật)
+- PMax-first trước khi có data (tie §PMax ↔ Standard coexistence)
+- Bid raises trên broken feed (throw money vào vấn đề không phải bid)
+
+→ Watch video trước khi scale Shopping past $100/day. Mọi tối ưu trong trang này giả định bạn đã hiểu cơ chế algorithm — không thì tối ưu sẽ nhắm sai layer.
 
 ## Boring product play — $80 AOV × 34 orders/day = $1M/year ([[ecomamin-google-shopping-boring-product-play]])
 eCom_Amin: full playbook for building a $1M/year ecom business via Google Shopping on a boring repurchase product.
@@ -298,3 +318,24 @@ eCom_Amin: full playbook for building a $1M/year ecom business via Google Shoppi
 Cơ chế: boring product = lower CPCs (less competition), higher purchase intent (solving known need, not impulse), built-in LTV if rebuy is captured. The dull category IS the moat — anti-thesis to "exciting product" brand building.
 
 → MaxPro: dog nail grinder fits "boring problem dad Googles" + high repurchase (bits, accessories). Apply: title keyword-first (already §3 từ đầu không branded), add comparison page "best dog nail grinder vs clippers," set up subscription for replacement bits, judge CAC on LTV not first ROAS. Tie §Feed duplication + [[presell-pages]] §Comparison.
+
+## Google Ads cheat codes — underrated vs overrated 2026 ([[ecomamin-google-ads-cheat-codes]])
+eCom_Amin: danh sách phân loại cheat codes thật sự hoạt động vs những thứ overrated phổ biến.
+
+**UNDERRATED (ít người làm, high ROI):**
+- **Search terms → titles:** mở search terms report → lấy query convert nhiều nhất → nhét vào title (tie §Shopping search-terms report + §Title keyword-first). Đây là cách title tự optimize theo data thật, không đoán.
+- **3-5 title variations per hero product:** không phải test 1 title → là chạy 3-5 song song, Google chọn winner (tie §Multi-title feed, §Feed duplication).
+- **Bestseller trong campaign riêng:** SKU top doanh thu không cạnh tranh budget với non-performers (tie §Campaign structure theo performance-tier).
+- **Branded / non-branded KHÔNG bao giờ cùng campaign:** blended ROAS giấu CAC thật, ép sai bid (tie §Priority-laddering Vysta + §Tách Brand vs Non-Brand).
+- **Check Merchant Center MỖI NGÀY:** feed errors → disapprovals → account health sập không báo trước. $1k/day campaign có thể bị tắt qua đêm vì 1 price mismatch.
+- **YT ads → advertorial (không phải PDP):** cold YouTube traffic không convert trên PDP tĩnh; warm bằng advertorial trước (tie [[presell-pages]] §Advertorial 4-step psychology + [[google-ads]] §YouTube).
+- **Cắt variants không convert:** 1 SKU tiêu budget, 0 conversion trong 30 ngày → exclude. Đừng để long tail ăn budget hero.
+- **Standard Shopping feeder trước PMax:** gom conversion data trên Standard Shopping trước, rồi mới bật PMax với signal đủ mạnh (tie §PMax ↔ Standard coexistence).
+- **Fix giá / stock / reviews trước khi tăng bids:** 3 thứ này hiện ngay trên listing, quyết định click trước khi ai đọc title (tie §Feed is 70% + §Social proof trong feed).
+
+**OVERRATED (popular nhưng ít lift thật):**
+- **Raise budget khi feed đang broken:** thêm tiền vào listing không convert = đốt nhanh hơn. Fix feed trước.
+- **AI Max đầu tiên:** Performance Max với data ít = Google tự chọn placements rẻ/rác. Standard Shopping trước, PMax sau khi có conversion signal.
+- **Set-and-forget PMax:** PMax cần monitor asset performance, negative, product group exclusion — "set and forget" = chấp nhận Google dồn budget về path-of-least-resistance (volume ≠ profit).
+
+→ MaxPro quick wins từ danh sách: (1) mở MC ngay hôm nay, check disapproval + feed errors; (2) pull search terms 30 ngày → identify 3 converting queries chưa có trong title; (3) tách bestseller vào campaign riêng nếu chưa làm.
