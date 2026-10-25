@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown, ecomamin-google-shopping-boring-product-play, ecomamin-google-shopping-algorithm, ecomamin-google-ads-cheat-codes]
-updated: 2026-10-24
+sources: [ecomamin-google-ads-pet-store-1m, blvckledge-google-shopping-duplication, ecomamin-shopping-masterclass, grinder-avatar-bank, rudra-shopping-feed-attributes-signal, ecomamin-shopping-feed-tweet, vysta-48-laws-google-ads, ecomamin-winning-shopping-ad-copy-paste-formula, ecomamin-ai-shopping-ads-gemini-prompt, ecomamin-1m-google-shopping-ads-blueprint-a, ecomamin-google-shopping-feed-optimization-playbook, ecomamin-299k-google-ads-gmc-title-playbook, blvckledge-2.6m-to-7.1m-4-phase-rebuild, blvckledge-shopping-image-styles, ecomamin-48-laws-google-advertising, ecomamin-shopping-title-keyword-first, ecomamin-gmc-multi-title-feed, ecomamin-shopping-ad-format, ecomamin-google-untapped-strategies, ecomamin-quiz-pdp-lifestyle-shopping, microsoft-aeo-geo-guide, microsoft-merchant-center-feed-attributes, ecom-amin-multi-title-feed-revenue-2026, ecom-amin-shopping-title-cvr-double-2026, ecom-amin-shopping-title-cascade-meta-leak-2026, ecomamin-google-ads-from-zero, ecomamin-google-boring-platform, ecomamin-google-shopping-six-figure, ecomamin-meta-vs-google-intent, ecomamin-google-ads-lemonade-beginner, ecomamin-google-shopping-algorithm-breakdown, ecomamin-google-shopping-boring-product-play, ecomamin-google-shopping-algorithm, ecomamin-google-ads-cheat-codes, ecomamin-google-ads-transparency-center, ecomamin-google-roas-trap-100k-brand]
+updated: 2026-10-25
 ---
 
 # Google Shopping — feed / listing / bid depth
@@ -339,3 +339,33 @@ eCom_Amin: danh sách phân loại cheat codes thật sự hoạt động vs nh�
 - **Set-and-forget PMax:** PMax cần monitor asset performance, negative, product group exclusion — "set and forget" = chấp nhận Google dồn budget về path-of-least-resistance (volume ≠ profit).
 
 → MaxPro quick wins từ danh sách: (1) mở MC ngay hôm nay, check disapproval + feed errors; (2) pull search terms 30 ngày → identify 3 converting queries chưa có trong title; (3) tách bestseller vào campaign riêng nếu chưa làm.
+
+## Google Ads Transparency Center — free competitor ad research ([[ecomamin-google-ads-transparency-center]])
+eCom_Amin: Google shows every ad your competitors are running — for free. Includes search, shopping, YouTube (full video), and which countries they're in.
+
+**Cách dùng:**
+1. Go to Google Ads Transparency Center
+2. Type in a 7-8 figure brand in your niche
+3. Filter to YouTube
+4. Set region to Germany (or any EU country) → see the exact date each ad was first shown
+5. **Ad running 6+ months = printing.** Study it.
+
+Workflow: pick 3 competitor brands → study what they're running → don't clone it, find the angle and improve it for your offer.
+
+→ MaxPro: search top pet grooming brands, filter to YouTube, note ads running >6 months. Tie §Title keyword-first (research angle) + [[angles]] §Competitor angle mining.
+
+## Google ROAS trap — branded vs. non-branded bleed ([[ecomamin-google-roas-trap-100k-brand]])
+eCom_Amin case: brand doing $100k+/mo, ads looked like they were crushing it. Audit revealed almost none of the ROAS came from new customers — Google was charging them for people already typing their brand name.
+
+**5 mistakes found:**
+1. Branded and non-branded mixed in one campaign → blended ROAS hides true CAC.
+2. PMax "scaling" on existing customers, not new ones.
+3. 200+ products in one asset group, every margin lumped together.
+4. 31 disapproved products nobody noticed.
+5. Shopping titles = just the product name (no intent keywords).
+
+Meta was 90% of revenue. Google was growing nothing.
+
+Rule: if your store is doing $30k+/mo and Google is under 20% of revenue, this is probably you.
+
+→ MaxPro: (1) verify branded/non-branded in separate campaigns; (2) check Merchant Center for disapproved products now; (3) audit PMax for new-customer signal. Tie §Branded / non-branded KHÔNG bao giờ cùng campaign + §Check Merchant Center MỖI NGÀY.
