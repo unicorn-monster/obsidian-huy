@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format]
-updated: 2026-10-25
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format]
+updated: 2026-10-26
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -347,3 +347,17 @@ Cơ chế: drama format đã là winner (mini VSL / story arc) — Baby Drama Ad
 Lưu ý: format phù hợp nhất cho sản phẩm pets/family/parenting. MaxPro (pet grooming) có thể adapt bằng "dog drama" — không dùng babies nếu không fit angle tự nhiên.
 
 → MaxPro: test "dog drama" variant — drama arc từ góc nhìn của chó (problem: vet cắt móng đau / owner sợ cắt trúng quick → resolution: MaxPro grinder êm ái, an toàn). Tie §AI Drama Ads automated pipeline + §4 AI ad format winners (yapper / podcast / mini VSL / ted talk).
+
+## Pixar UGC style — dùng Pixar characters thay người thật ([[0xroas-pixar-ugc-ad-format]])
+@0xROAS (2026-10-26): format gọi là "Pixar UGC" — thay vì dùng người thật trong UGC, dùng Pixar-style AI characters. Vẫn giữ UGC structure (testimonial, talking head, product demo) nhưng character = animated Pixar-style.
+
+**Cơ chế scale:** infinite creative variation — thay đổi character, scene, outfit không giới hạn mà không cần talent, booking, hay giải quyết lipsync mismatch. "Infinite ways you can scale your creative output game."
+
+**Khi nào dùng:**
+- Cần scale nhiều creative variations nhanh mà không có UGC budget
+- Muốn pattern interrupt so với sea of real-person UGC
+- Sản phẩm phù hợp với cute/playful aesthetic (pets, kids, lifestyle)
+
+**Limitation:** chưa rõ CTR vs real UGC — cần test. Format mới, 0xROAS đang tích cực push nhưng chưa có data công khai.
+
+→ MaxPro: Pixar dog character + grinder demo = natural fit cho pet grooming. Generate 5-10 variations với cùng script, test vs real UGC. Tie §Baby Drama Ads (character-based formats) + §Bảng giá (Seedance 2.5 cho UGC lipsync).

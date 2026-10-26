@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats]
-updated: 2026-10-12
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband]
+updated: 2026-10-26
 ---
 
 # Native ads (kênh open-web)
@@ -303,3 +303,17 @@ DTC_Quizbuilder (2026-10-12): structure tóm gọn bất kỳ native presell pag
 **Cách dùng:** paste page vào Claude → hỏi "identify the 5 beats" → thấy beat nào thiếu hoặc yếu → draft từ những gì đang run tốt.
 
 → MaxPro: áp 5 beats cho advertorial nail: (1) chó chảy máu vì cắt quá sâu, (2) tried slower clippers / vet visits / just giving up, (3) discovered electric grinding after vet recommendation, (4) gradual contact = nerve endings protected by design, (5) Maxpro Grinder = easiest implementation. Tie [[presell-pages]] §Advertorial 4-step psychology.
+
+## Drama hook native ad — no product in image ([[dtcquizbuilder-native-ad-drama-husband]])
+@DTC_Quizbuilder (2026-10-26): swipe file — clear lipstick native ad, hook: *"My husband's work wife came to Hawaii with us."* No lipstick in the image — just a woman with coffee at sunset. Est. 83 days running, 35 dupes.
+
+**Cơ chế:** drama finds the buyer, the product is her comeback. Image không cần chứa product — chỉ cần capture trigger event của buyer. Drama (social tension / jealousy) stop-scroll trước, product xuất hiện như resolution tự nhiên trong funnel.
+
+**Framework "trigger event":**
+1. Tìm trigger event — khoảnh khắc buyer cảm thấy vấn đề nhất (không phải lúc họ "muốn mua")
+2. Dramatize trigger — headline/image kể câu chuyện đó, NOT product features
+3. Product = comeback tool — xuất hiện sau drama đã qualify buyer
+
+**Ứng dụng:** format này là native-style ad — chạy được cả trên Meta feed (advertorial hook) lẫn open web. Tie [[ugly-ads-method]] §drama hook + [[0xroas-drama-ads-framework]].
+
+→ MaxPro: trigger event = "Đưa chó đi cắt móng ở vet, chó run / cắt trúng quick / chảy máu". Image = owner ôm chó lo lắng, không cần thấy grinder. Hook: *"The vet charged me $60 and my dog still bled."* Product là comeback.
