@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband]
-updated: 2026-10-26
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first]
+updated: 2026-10-27
 ---
 
 # Native ads (kênh open-web)
@@ -317,3 +317,29 @@ DTC_Quizbuilder (2026-10-12): structure tóm gọn bất kỳ native presell pag
 **Ứng dụng:** format này là native-style ad — chạy được cả trên Meta feed (advertorial hook) lẫn open web. Tie [[ugly-ads-method]] §drama hook + [[0xroas-drama-ads-framework]].
 
 → MaxPro: trigger event = "Đưa chó đi cắt móng ở vet, chó run / cắt trúng quick / chảy máu". Image = owner ôm chó lo lắng, không cần thấy grinder. Hook: *"The vet charged me $60 and my dog still bled."* Product là comeback.
+
+## Listicle mở bằng buyer fight, không phải product ([[dtcquizbuilder-listicle-buyer-fight-first]])
+DTC_Quizbuilder: listicle (advertorial dạng list) scale mạnh khi mở bằng **cuộc chiến của buyer**, không phải product introduction.
+
+**Case — Tibatoes (pool glasses for kids):**
+- Format: listicle mở bằng parent's pool fight (foggy lenses, tangled straps)
+- Revenue: $1M → $2.2M/tháng, Sep 27 → Oct 21 (2.2× trong 24 ngày)
+- Rule: *"Ad and page open on the same scene: foggy lenses, tangled straps. Name the fight your buyer hates first. Product second."*
+
+**Nguyên tắc:**
+- Listicle / advertorial truyền thống: header → product → benefits → CTA
+- **Fight-first listicle:** header = tên cái frustration cụ thể → 2-3 dòng validate struggle → failed fixes → product xuất hiện như resolution tự nhiên
+- Không có "Hello! We make X product!" — buyer chỉ thấy mình được hiểu trước khi thấy bất kỳ product nào
+
+**Tại sao works:** đọc bài listicle đang trong article-reading mindset (xem §Audience state). Khi headline = fight quen thuộc → dừng lại. Khi failed fixes = thứ họ đã thử → trust tăng. Khi product xuất hiện như answer sau journey của họ → ít resistance hơn là "ad mở bằng sản phẩm."
+
+→ MaxPro: listicle mở bằng "The 3 things every dog owner tries before they find a nail grinder that actually works." Liệt kê: (1) vet cắt → tốn tiền + chó sợ; (2) clipper tự cắt → đứt quick → chảy máu; (3) just give up và để móng dài → vấn đề joint. Sau 3 failed fixes → *"then we tried grinding."* Product xuất hiện lần đầu sau paragraph 3. Tie §Native 6-piece funnel [[advertising-jan-native-ads-guide-2026]] + [[presell-pages]] §Advertorial 4-step.
+
+## Drama × Quiz = native-style META confirmation ([[dtcquizbuilder-drama-quiz-funnel-meta]])
+Xem note đầy đủ trong [[quiz-funnels]] §Drama ads × Quiz funnels.
+
+**Relevance cho native-ads trang này:** drama hook dùng được cho cả native open-web (Taboola/Outbrain headline + image) lẫn native-style Meta ads. Structure giống hệt: drama image + hook → advertorial/listicle hoặc quiz funnel. Không cần thay đổi creative engine — chỉ thay kênh serve.
+
+**Kết hợp với §Listicle buyer fight trên:** drama image → click → listicle mở bằng fight → product = comeback. Đây là full native funnel chain hiện đang scale $20M+/tháng.
+
+→ MaxPro: test chain: drama static image (chó sợ nail, không thấy product) → click → listicle fight-first (3 failed fixes) → MaxPro grinder như resolution. Tie §Drama hook native ad + [[quiz-funnels]] §Drama × Quiz META + [[ugly-ads-method]].

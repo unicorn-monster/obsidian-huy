@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format]
-updated: 2026-10-26
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format, 0xroas-agentic-ai-video-editor, 0xroas-seedance-25-motion-transfer]
+updated: 2026-10-27
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -361,3 +361,36 @@ Lưu ý: format phù hợp nhất cho sản phẩm pets/family/parenting. MaxPro
 **Limitation:** chưa rõ CTR vs real UGC — cần test. Format mới, 0xROAS đang tích cực push nhưng chưa có data công khai.
 
 → MaxPro: Pixar dog character + grinder demo = natural fit cho pet grooming. Generate 5-10 variations với cùng script, test vs real UGC. Tie §Baby Drama Ads (character-based formats) + §Bảng giá (Seedance 2.5 cho UGC lipsync).
+
+## Build lean agentic AI video editor — từ scratch theo style của bạn ([[0xroas-agentic-ai-video-editor]])
+@0xROAS: build AI agentic video editor từ đầu, không dùng các skills/wrappers pre-built.
+
+**Vấn đề với pre-built AI video skills (pre-Opus 5.5):**
+- Bloated — chứa logic không cần thiết, info không dùng đến
+- Token expensive — context window bị lấp bởi boilerplate
+- Generic output — không biết style/format/platform của bạn
+
+**Cách build lean từ scratch:**
+- Đưa vào: các video mẫu của chính mình (đang perform tốt) + style notes
+- Build prompt chain ngắn, chỉ chứa những gì bạn thực sự dùng
+- Result: editor hiểu format của bạn, nhanh hơn, rẻ hơn token
+
+**Khi nào dùng:** khi cần scale production với style nhất quán — không phải mỗi lần build lại từ zero, không phải dùng generic AI tool không biết brand của bạn.
+
+→ MaxPro: nếu đã có 5-10 video ads perform tốt, build agentic editor từ những video đó làm reference. Editor sẽ hiểu pacing, hook style, product angle — mỗi video mới generate ra matching style mà không cần brief lại. Tie §4 AI ad format winners (yapper / mini VSL) + [[creative-brief]] §batch production.
+
+## Seedance 2.5 motion transfer — reverse-engineer viral motion ([[0xroas-seedance-25-motion-transfer]])
+@0xROAS: workflow copy motion từ video viral (ví dụ Higgs genjutsu style) sang character của mình.
+
+**Workflow 3 bước:**
+1. Lấy reference video (video có motion style muốn copy)
+2. Tạo character sheet cho character của mình
+3. Vào Seedance 2.5: upload video ref + character refs → prompt: *"Apply source video1 motion to character in reference image1, keeping their clothing, framing and timing."*
+
+**Kết quả:** character của bạn, motion/style của video viral — không cần storyboard hay hướng dẫn frame-by-frame.
+
+**Tiết kiệm:** @0xROAS ước tính $10k vs dùng wrappers/agencies để achieve cùng output.
+
+**Ứng dụng rộng hơn:** không giới hạn ở "Higgs style" — bất kỳ motion style nào từ video viral đều có thể transfer: viral UGC style, trending reel gesture, specific product demo motion.
+
+→ MaxPro: tìm viral pet grooming video có motion tốt (dog being calm during grooming, owner confident hands). Tạo MaxPro character sheet (Pixar-style dog hoặc real-look dog với grinder). Transfer motion → MaxPro dog demo ad với motion đã proven viral. Cheapest path đến motion-matched creative. Tie §Bảng giá (Seedance 2.5 per-second pricing) + §Pixar UGC style + §Build lean agentic editor.
