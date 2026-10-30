@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency, maxwellcopy-august-agency-stats-2026, maxwellcopy-agency-ai-icp-lessons]
-updated: 2026-10-12
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency, maxwellcopy-august-agency-stats-2026, maxwellcopy-agency-ai-icp-lessons, dtcmidas-creative-strategists-swipers, dtcmidas-swiping-in-house-vs-agency]
+updated: 2026-10-30
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -165,3 +165,32 @@ Brand client nào, channel nào, service nào — không quan trọng bằng vi�
 **Hàm ý cho brand operator (không phải agency):** lesson 1 + 3 apply trực tiếp. AI agents = leverage cho marketing ops. ICP clarity = targeting precision cho ads + email → waste ít hơn, CVR cao hơn.
 
 → MaxPro: AI agents cho email drafts + ad copy = leverage lớn nhất ngay bây giờ. ICP = dog owner có dog "traumatized" bởi clipper — narrow này, không broaden sang "tất cả dog owners." Tie [[email-marketing]] §AI email setup + [[market-awareness]] §ICP definition.
+
+## 80% creative strategists là swipers — cách vet ([[dtcmidas-creative-strategists-swipers]])
+DTCMidas: Phần lớn người tự gọi là creative strategist đơn giản là swiper — không có DR education, không biết viết script từ đầu.
+
+**Tỉ lệ ước tính:** 80%+ creative strategists đang làm việc trên thị trường là swipers thuần túy.
+
+**Lý do:** Demand tăng vọt → nhiều người vào ngành nhanh, với rate cao, không có foundation thật.
+
+**Red flag đặc biệt:** Portfolio có 9-figure brands. Nếu người đó thật sự tốt ở đó, họ đang kiếm rất nhiều tiền ở đó và sẽ không apply cho brand nhỏ hơn.
+
+**Cách vet thật sự:**
+- Cho viết script cold (không swipe trước mặt)
+- Test kiến thức DR fundamentals (mechanism, avatar, belief shift)
+- Brief nhỏ không có reference → xem họ tự generate angle như thế nào
+
+→ Tie §Training creative ops + [[copywriting]] §DR fundamentals (chính là thứ vet candidate cần thể hiện được).
+
+## Swiping nên làm in-house — chỉ trả agency cho net new concept ([[dtcmidas-swiping-in-house-vs-agency]])
+DTCMidas: Swiping là easy skill — đừng trả agency để làm việc này.
+
+**Rule rõ:**
+- **In-house:** swipe + iterate từ winning concepts (cheap, fast, nội bộ hiểu sản phẩm)
+- **Agency:** chỉ cho net new concept development (cái thật sự cần fresh perspective + DR experience)
+
+**Sau khi agency deliver net new concept** → bạn tự swipe + iterate từ đó, không trả agency cho mỗi variation.
+
+**Implication:** Khi hire agency, rõ ràng trong contract cái gì là "net new concept" vs cái gì là iteration — tránh scope creep và bill cao không hợp lý.
+
+→ Tie §Trả email agency: flat retainer (logic tương đương — pay cho output cụ thể, không phải time). Tie [[creative-brief]] §swipe file methodology.

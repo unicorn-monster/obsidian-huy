@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas, dtcmidas-claude-setup-for-ad-copy]
-updated: 2026-08-26
+sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas, dtcmidas-claude-setup-for-ad-copy, ecomchasedimond-shopify-ai-agent-checkout, jforjacob-automation-simplicity-ecom]
+updated: 2026-10-30
 ---
 
 # AI-agent automation stack cho ecom ops (Claude Code + MCP)
@@ -74,3 +74,34 @@ DTCMidas (2026-07-28): Claude Opus + Projects + Skills vẫn cho output tốt nh
 
 > [!note] Áp cho MaxPro
 > Dựng 1 Claude Project "MaxPro" nạp: catalog/margin/avatar/competitor/VOC hiện có trong wiki + [[copywriting]] DR fundamentals. Build Skill riêng cho từng format hay viết (advertorial, primary text, email), train trên winning example đã có sẵn trong wiki (VD [[maxpro-elle-birdie-winning-native]]) thay vì để Claude tự suy diễn format mỗi lần.
+
+## Shopify Agentic channel — Shop Pay trong AI agents ([[ecomchasedimond-shopify-ai-agent-checkout]])
+ecomchasedimond: Shopify Fall '26 Edition — Shop Pay checkout giờ hoạt động bên trong AI agents (Muse từ Meta, Claude Duet, Instinct). Orders từ AI agents vào Shopify admin như order thường.
+
+**Action duy nhất cần làm ngay:**
+> Sales channels → Agentic → Knowledge base → **Publish**
+
+Shopify tự draft store facts từ site — nhưng agents không thấy được cho đến khi bạn publish.
+
+**Ý nghĩa:** Customers sẽ mua qua AI agent (conversational shopping) → brand không có agentic channel = bị bỏ qua. Setup < 2 phút, không cần code.
+
+→ MaxPro: enable ngay nếu đang dùng Shopify. Tie §Claude Opus + Projects + Skills cho copy + [[email-marketing]] §AI email setup — cùng trend "AI-native ops" tổng thể.
+
+## Simplicity = first principle của mọi automation ([[jforjacob-automation-simplicity-ecom]])
+jforjacob (kỹ sư automation cho hospitals/pharmaceutical labs trước khi làm ecom): Complexity là kẻ thù của automation. Hệ thống phức tạp trông đẹp khi handover — sau đó gãy âm thầm và không ai biết sửa.
+
+**Bài học từ industrial automation:**
+- Càng sophisticated → client satisfaction và usability giảm theo thời gian
+- 1 lỗi trong chuỗi phức tạp = cascade failure, không override được thủ công
+- Cần full-time staff để maintain — cost ẩn, không tính khi design
+
+**Rule vận hành:**
+> Start với absolute bare necessities. Run và test trước. Chỉ thêm bước sau khi chứng minh system CẦN nó.
+
+**Benchmark thực:** 90%+ CS automation rate của jforjacob đến từ simplicity — Commslayer + simple flow, không phải 20-step orchestration.
+
+**Advanced (chỉ sau khi system chạy ổn):** Negative feedback loops = self-correcting system (PID loop concept từ control theory). Đừng build trước khi baseline ổn.
+
+> "If I showed people exactly how we've automated our customer service... they would be incredibly underwhelmed. And that is the point."
+
+→ MaxPro: khi build automation (email flow, CS bot, ad reporting), start với 1 bước đơn giản nhất có thể. Tie §Trình tự rollout gợi ý (L1→L2→L3) + §Lỗi thường gặp (cùng nguyên lý: document trước, automate sau).
