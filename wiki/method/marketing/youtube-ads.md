@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-youtube-ads-scaling-system, ecomamin-youtube-shorts-repurposing-blueprint, ecom-amin-youtube-ads-10x-search]
-updated: 2026-09-17
+sources: [ecomamin-youtube-ads-scaling-system, ecomamin-youtube-shorts-repurposing-blueprint, ecom-amin-youtube-ads-10x-search, ecomamin-youtube-ads-13m-goldmine]
+updated: 2026-10-31
 ---
 
 # YouTube Ads — hệ thống end-to-end cho ecom
@@ -98,3 +98,28 @@ Google shoppable video study: thêm **product feeds** vào video action + demand
 - "Google is not just search" — YouTube/Shorts/Discover/Gmail/Shopping/Maps = 1 connected ecosystem
 
 → MaxPro: connect product feed vào video campaign từ đầu, không phải sau. Branded search volume = early signal YouTube đang work (dù CPA chưa hit). Liên kết §Ecosystem 6 mảnh ([[ecomamin-youtube-ads-scaling-system]]) — YouTube fill §(1) Branded search đó.
+
+## $0→$13M với zero channel history — week-1 zero-video test ([[ecomamin-youtube-ads-13m-goldmine]])
+Nguồn: [[ecomamin-youtube-ads-13m-goldmine]]. Brand scale $0→$13M mostly on YouTube **bắt đầu không có channel, không có lịch sử Google Ads**:
+
+**Week-1 framework (zero-new-video test):**
+- Tuần 1: **không cần quay video mới** — dùng existing content (product demo, founder video, UGC đã có)
+- Mục tiêu tuần 1: validate YouTube works cho brand, không phải scale ngay
+- Nếu có tín hiệu → invest vào creative production tuần 2+
+
+**Scale lever chính:** một rule duy nhất đẩy spend từ **$750/day → $3,000/day trong 60 ngày**.
+
+**Branded search signal:**
+- YouTube spend tăng → branded Google searches tăng **+300%**
+- Branded search = leading indicator YouTube đang work (dù CPA chưa optimize hết)
+- Xác nhận cơ chế §YouTube tạo SEARCHES (Marley Spoon case: +10x branded search)
+
+**4-week test framework:**
+- Week 1: zero new video, existing creative, $50–100/day test budget
+- Week 2: check branded search lift + view-through attribution
+- Week 3: nếu signal tốt → first dedicated YouTube creative
+- Week 4: evaluate full-funnel impact (CPA, branded search, LTV cohort)
+
+**Không cần Google Ads history:** từ ngày 1 có thể chạy YouTube — barrier to entry thấp hơn nhiều người nghĩ.
+
+→ MaxPro: bắt đầu tuần 1 với 2–3 existing UGC clips (calm-dog demos, founder PoV) — không cần quay mới. Budget $50/day, track branded search volume hằng tuần. Tie §Ecosystem 6 mảnh + §Phase 1 4-week test + §Branded search signal.

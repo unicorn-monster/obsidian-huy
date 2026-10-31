@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x, ecomchasedimond-free-shipping-threshold, ecomchasedimond-full-price-day-angle]
-updated: 2026-10-23
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x, ecomchasedimond-free-shipping-threshold, ecomchasedimond-full-price-day-angle, ecomchasedimond-eight-biases-good-offer]
+updated: 2026-10-31
 ---
 
 # Offer + CTA mechanics
@@ -409,3 +409,20 @@ Cơ chế: acts as a live brand equity diagnostic. A brand that converts at full
 - Works best after you've established full-price credibility through consistent brand communication.
 
 → MaxPro: worth testing once after BFCM season (Q1 window). Full-price product drop — position it as "the groomers switched" angle. If CVR holds without discount → brand equity is building. If not → audit offer elements (tie §Too expensive = value gap + §4-lever value equation). Tie [[angles]] §non-discount angle + [[email-marketing]] §Non-discount email types.
+
+## 8 biases for offer emails — pick ONE bias per send ([[ecomchasedimond-eight-biases-good-offer]])
+Nguồn: [[ecomchasedimond-eight-biases-good-offer]]. Rule: chọn MỘT bias fit nhất với offer hiện tại, xây toàn bộ email xung quanh đó — không trộn nhiều bias cùng lúc.
+
+**8 bias phổ biến:**
+1. **Scarcity** — số lượng giới hạn có thật (batch nhỏ, hết stock thật)
+2. **Urgency** — deadline có thật (sale end time, cohort close)
+3. **Social proof** — số đông đã mua / review thật
+4. **Loss aversion** — framing mất mát ("bỏ lỡ X" > "nhận được X")
+5. **Anchoring** — compare-at price / alternative đắt hơn để làm offer cảm thấy rẻ
+6. **Reciprocity** — cho trước (sample, guide, tip) trước khi pitch
+7. **Authority** — expert endorsement / credential / media mention
+8. **Novelty** — "new" / "first time" / product update = reason to open + reason to buy now
+
+**Nguyên tắc dùng:** mỗi bias chỉ work khi TRUE — scarcity giả → trust mất; fake deadline → train khách ignore; anchor giả → refund. Pick cái bạn có thật, rồi build email xung quanh đó. **Một email, một bias.**
+
+→ MaxPro: trước mỗi offer email — viết "doubt/hook" của người nhận, rồi chọn 1 bias answer đúng doubt đó. BFCM: scarcity (batch) + urgency (deadline) là 2 cái có thật nhất. Tie §9 BFCM email non-negotiables trong [[email-marketing]] + §BFCM email calendar.
