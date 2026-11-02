@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency, maxwellcopy-august-agency-stats-2026, maxwellcopy-agency-ai-icp-lessons, dtcmidas-creative-strategists-swipers, dtcmidas-swiping-in-house-vs-agency]
-updated: 2026-10-30
+sources: [maxwellcopy-agency-red-flags-list, maxwellcopy-agency-client-comms-cadence, maxwellcopy-agency-pod-structure, maxwellcopy-audits-market-research-lever, maxwellcopy-intl-team-scaling, maxwellcopy-scaling-phases-200k-1m, maxwellcopy-agency-scaling-breakthroughs, maxwellcopy-agency-people-training, maxwellcopy-agency-july-stats, jforjacob-evaluate-agencies-roi, maxwellcopy-nine-figure-agency-complexity, jforjacob-give-agencies-time, dtcmidas-how-should-you-pay-an-email-agency, maxwellcopy-august-agency-stats-2026, maxwellcopy-agency-ai-icp-lessons, dtcmidas-creative-strategists-swipers, dtcmidas-swiping-in-house-vs-agency, maxwellcopy-email-agency-team-structure]
+updated: 2026-11-02
 ---
 
 # Agency ops — thuê & giám sát agency (email / ads / CRO)
@@ -194,3 +194,22 @@ DTCMidas: Swiping là easy skill — đừng trả agency để làm việc này
 **Implication:** Khi hire agency, rõ ràng trong contract cái gì là "net new concept" vs cái gì là iteration — tránh scope creep và bill cao không hợp lý.
 
 → Tie §Trả email agency: flat retainer (logic tương đương — pay cho output cụ thể, không phải time). Tie [[creative-brief]] §swipe file methodology.
+
+## Email agency ops — 6 internal modules (Hiring → Team Communication) ([[maxwellcopy-email-agency-team-structure]])
+maxwellcopy: 6 modules for running an email agency team, distilled from operating at scale.
+
+**Module 1 — Hiring:** when to hire (revenue trigger vs capacity signal), which role to hire first (account manager or copywriter based on bottleneck), where to find candidates, interview/test structure (copy test without reference material).
+
+**Module 2 — Onboarding:** week-1 structure, documentation system, training protocol that doesn't devolve into doing the work for them.
+
+**Module 3 — Team Structure:** exact pod structure (how many accounts per person), when to build a new pod vs stretch existing, when to promote internally vs hire a senior externally.
+
+**Module 4 — Client Expectations & Communication:** kickoff protocol, update frequency by client tier, handling out-of-scope requests without losing the account.
+
+**Module 5 — Task Management:** PM setup (tool + process), per-person daily views, campaign workflow from brief to send — prevents "what's the status?" Slack messages.
+
+**Module 6 — Team Communication:** meeting cadences, async rules (what goes to Slack vs. async docs), bonus structures that retain good people (not just commission, but recognition + upside).
+
+**Synthesis principle:** agency quality at scale = systems, not talent. Great hires in broken systems underperform. These 6 modules are the operating system — talent is the variable inside it.
+
+→ MaxPro relevance: when outsourcing email (or ads), use Module 4 (client expectations) from the BUYER side — kickoff protocol, update frequency expectations, scope clarity. Tie §Communication cadence + §Red-flags (Module 6 cadence = what to demand, red-flags = what signals absence of it).

@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild, dtcmidas-fb-comments-pdp-social-proof, ecomchasedimond-ai-agents-product-page]
-updated: 2026-10-22
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild, dtcmidas-fb-comments-pdp-social-proof, ecomchasedimond-ai-agents-product-page, dtcmidas-pdp-carousel-funnel-framework]
+updated: 2026-11-02
 ---
 
 # Funnel + landing congruency
@@ -459,3 +459,25 @@ Fix whatever it flags.
 Cơ chế: AI agents parse structured information, not narrative copy. A PDP optimized for emotional persuasion fails at machine-readability. As AI-assisted shopping scales, PDPs that can't answer agent queries drop out of consideration before humans ever see them. Tie [[ai-search-aeo-geo]] (same structured-for-machine principle, applied to PDP layer).
 
 → MaxPro: run the diagnostic prompt on MaxPro PDP now. Key gaps likely: delivery time not stated, return policy buried, title brand-first instead of query-first. Fix before AI shopping scales.
+
+## PDP image carousel = mini-funnel (11-step framework) ([[dtcmidas-pdp-carousel-funnel-framework]])
+DTCMidas: treat the image carousel like a funnel — some buyers ONLY swipe horizontally and never read the copy column. Each image must do one job.
+
+**11-step sequence:**
+1. Product + desired outcome headline + awards/badges
+2. Before/after
+3. Problem/symptom checklist
+4. How it works / mechanism
+5. Social proof (reviews, UGC)
+6. Us vs them (comparison table)
+7. How to use (step-by-step)
+8. Timeline (when to expect results)
+9. Authority proof (press, certifications, expert quotes)
+10. Social proof #2 (more reviews / volume signal)
+11. Guarantee
+
+**Why this order works:** opens with outcome + credibility signals (1) → validates buyer's situation (2-3) → builds mechanism belief (4) → layers social proof twice flanking the comparison (5, 10) → reduces risk (11). The guarantee closes on "I can't lose" instead of opening on it.
+
+**Tie to broader funnel thinking:** carousel-as-funnel applies when the buyer pathway includes Shopping ads (where the carousel IS the first touchpoint) or repeat visitors on PDP. Cold traffic still routes better through advertorial → presell → PDP. Tie §Nguyên tắc: ad bán, PDP chỉ chốt + [[quiz-funnels]] §Quiz-embedded PDP for Google Shopping.
+
+→ MaxPro: map current PDP carousel images to this 11-step. Missing steps most likely: Us vs them (6), Timeline (8), Guarantee visible in carousel (11). Add 2-3 missing slots before scaling Shopping.
