@@ -1,6 +1,6 @@
 ---
-sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild, dtcmidas-fb-comments-pdp-social-proof, ecomchasedimond-ai-agents-product-page, dtcmidas-pdp-carousel-funnel-framework]
-updated: 2026-11-02
+sources: [kittysupps-funnel-analysis, advertising-jan-5-stage-funnel, kasperdolk-pdp-per-angle-congruence, kittysupps-brand-offer, dtcquizbuilder-native-ads-workflow, dtcquizbuilder-clone-landing-pages-ai, x-advertorial-listicle-funnel-placement, carlweische-presell-listicle-7reasons, liamecom-listicle-structure, advertising-jan-funnel-advertorial-presell-checkout, ecomamin-trust-recession-legitimacy-stack, scalabilityschool-landing-page-stack-diversify, scalabilityschool-50-angle-strategy, dtcmidas-lp-test-meta-abo-roas, rubiinov-gruns-100m-funnel-teardown, the-new-direct-response-meta, ecomamin-6-google-ads-funnel-types-full-guide, ecomamin-48-laws-google-advertising, eCom_Amin-google-ads-funnel-tiers, jforjacob-pin-reviews-cvr-swings, jforjacob-value-equation-pdp, jforjacob-no-popups-abandoned-checkouts, jforjacob-checkout-decision-fatigue, jforjacob-popups-net-negative-tested, jforjacob-local-courier-checkout-conversion, jforjacob-banner-value-props-profit-lift, jforjacob-cvr-comes-from-what-you-remove, jforjacob-60-day-returns-split-test, jforjacob-product-photography-cvr-needle-mover, jforjacob-ai-lander-per-winning-angle-in-20-minutes, jforjacob-landing-page-testing-without-big-l, jforjacob-basic-theme-plus-section-store, jforjacob-advertorial-from-winning-ad-angle, jforjacob-shrine-pro-wins-every-theme-test, jforjacob-shopify-theme-beats-replo-templates, dtcmidas-pre-sell-page-before-the-pdp, dtcmidas-does-removing-friction-actually-improve-conversion, dtcmidas-build-the-full-customer-experience, dtcmidas-winning-landing-page-structure, dtcmidas-keyword-rich-titles-and-two-product-descriptions, dtcmidas-how-to-structure-a-high-converting-product-page, dtcmidas-how-do-you-test-new-landing-pages, dtcmidas-hero-section-testing-lifted-rps-30-percent, dtcmidas-ab-test-landing-pages-inside-meta, dtcmidas-judge-revenue-per-session-not-cvr, dtcmidas-why-rps-optimization-backfires, dtcmidas-what-should-you-ask-in-post-purchase-surveys, dtcmidas-third-party-review-screenshots, dtcmidas-raw-reviews-beat-polished-testimonials, ecom-amin-pdp-traffic-intent-split, maxwellcopy-volume-negates-funnel-leaks, ecomamin-product-not-selling-chain, ecomamin-petlabco-youtube-funnel, jforjacob-shrine-dawn-rebuild, dtcmidas-fb-comments-pdp-social-proof, ecomchasedimond-ai-agents-product-page, dtcmidas-pdp-carousel-funnel-framework, ecomamin-listicle-google-ads-9-blocks, ecomchasedimond-post-purchase-branching]
+updated: 2026-11-03
 ---
 
 # Funnel + landing congruency
@@ -479,5 +479,42 @@ DTCMidas: treat the image carousel like a funnel — some buyers ONLY swipe hori
 **Why this order works:** opens with outcome + credibility signals (1) → validates buyer's situation (2-3) → builds mechanism belief (4) → layers social proof twice flanking the comparison (5, 10) → reduces risk (11). The guarantee closes on "I can't lose" instead of opening on it.
 
 **Tie to broader funnel thinking:** carousel-as-funnel applies when the buyer pathway includes Shopping ads (where the carousel IS the first touchpoint) or repeat visitors on PDP. Cold traffic still routes better through advertorial → presell → PDP. Tie §Nguyên tắc: ad bán, PDP chỉ chốt + [[quiz-funnels]] §Quiz-embedded PDP for Google Shopping.
+
+## 9-block listicle cho Google/YouTube cold traffic ([[ecomamin-listicle-google-ads-9-blocks]])
+Nguồn: [[ecomamin-listicle-google-ads-9-blocks]]. eCom_Amin (claim $50M+ từ Google ads cho ecom). Cold traffic thẳng PDP = đốt tiền vì giá hit screen 1 trước khi có reason to want it. Listicle cho 7 reasons trước → thấy giá = đã sold.
+
+**9-block structure:**
+1. Hook headline (problem/symptom)
+2. Failed fixes (why everything else doesn't work)
+3. Mechanism reveal (why THIS works differently)
+4. Feature → benefit translation (3-5 items)
+5. Social proof batch (reviews + volume)
+6. Authority proof (press, certifications)
+7. Comparison (us vs alternatives)
+8. Guarantee + risk reversal
+9. CTA + urgency/scarcity
+
+**12 headline formula patterns** (từ nguồn):
+- "X Reasons Why [Old Fix] Is Making [Problem] Worse"
+- "What [Authority] Don't Tell You About [Problem]"
+- "[Number] [Audience]s Switched From [Old Fix] To [New Mechanism] — Here's Why"
+- v.v. — xem [[ecomamin-listicle-google-ads-9-blocks]] cho full list
+
+**Google Shopping traffic without flag:** send Shopping traffic tới listicle URL thay vì PDP → listicle không trigger Shopping policy (không phải product page trực tiếp) nhưng vẫn convert. Requires: listicle domain match Shopping listing domain.
+
+→ MaxPro: listicle về "why nail clippers hurt dogs vs grinders" → 9 blocks → CTA vào PDP. Cold YouTube traffic route: YouTube ad → listicle → PDP. Tie §5-stage funnel skeleton + [[quiz-funnels]] §Quiz > advertorial (cold Google traffic AOV >$100).
+
+## Post-purchase branching — downsell + subscription upsell logic ([[ecomchasedimond-post-purchase-branching]])
+Nguồn: [[ecomchasedimond-post-purchase-branching]]. Post-purchase = nơi hầu hết brands để tiền trên bàn. Branching logic theo SKU purchased:
+
+**Branching rules:**
+- **1-pack buyers** → downsell offer (giá thấp hơn, loại khác, hoặc add-on nhỏ) — họ chưa commit lớn, cần friction thấp
+- **Everyone else (2-pack, bundle)** → subscription upsell — họ đã commit, subscription = natural next step (lock in repeat revenue)
+
+**Setup flow:** sau checkout, detect SKU → route tới offer tương ứng → map price tiers trước khi launch.
+
+**Vì sao branching beats single-offer post-purchase:** single offer phù hợp 1 nhóm, miss nhóm còn lại. 1-pack buyer thấy subscription offer = too big a jump; bundle buyer thấy downsell = weird/cheap signal. Branching = right offer cho đúng buyer state.
+
+→ MaxPro: 1-pack buyer → "add replacement head / grinding kit" (downsell accessory $15-20); 2-pack/bundle buyer → "set up auto-reorder replacement heads every 3 months" (subscription accessory). Tie §Upsells trong §5-stage funnel + [[offer-and-cta]] §Bundle construction.
 
 → MaxPro: map current PDP carousel images to this 11-step. Missing steps most likely: Us vs them (6), Timeline (8), Guarantee visible in carousel (11). Add 2-3 missing slots before scaling Shopping.

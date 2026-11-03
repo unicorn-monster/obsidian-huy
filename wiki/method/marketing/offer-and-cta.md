@@ -1,6 +1,6 @@
 ---
-sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x, ecomchasedimond-free-shipping-threshold, ecomchasedimond-full-price-day-angle, ecomchasedimond-eight-biases-good-offer, ecomchasedimond-objection-placement-reviews]
-updated: 2026-11-01
+sources: [maxpro-skeleton-and-banks, kittysupps-swipe-lines, heusom-silent-groom-research, dtcquizbuilder-what-makes-good-offer, rubiinov-opus-offer-engineering, advertising-jan-5-stage-funnel, fotw-resilia-12-pages-advertorial, maxwellcopy-sweepstakes-offer-legal, maxpro-elle-birdie-winning-native, advertising-jan-hearing-aid-advertorial-evergreen, fotw-bencivenga-listicle-collagen, maxwellcopy-gruns-gamification-pick-card, carlweische-offers-500m-guide, maxwellcopy-expensive-objection-value-signal, scalabilityschool-50-angle-strategy, maxwellcopy-giveaway-offer-timing, maxwellcopy-1b-dtc-funnel-6-stages, ecomchasedimond-omnisend-switch-ad, dtcmidas-500k-month-4months, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 9-figure-quiz-breakdown-liven, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-charge-for-shipping, jforjacob-shipping-price-increase-cvr-rpv, jforjacob-for-the-love-of-god-charge-shipping, jforjacob-charge-shipping-break-even-roas, jforjacob-free-shipping-threshold-most-common-order, jforjacob-no-brainer-quantity-break-anchoring, jforjacob-free-product-conversion-rate-dropped, dtcmidas-one-proven-offer-for-black-friday, dtcmidas-weekend-promos-to-test-offers-before-q4, dtcmidas-raise-base-price-keep-bundles, dtcmidas-how-do-you-add-believable-urgency-and-scarcity, schwartz-rodale-method-lecture, maxwellcopy-gambling-mechanics-offer, ecom-amin-gamified-checkout-aov, maxwellcopy-popup-gamification-dopamine, maxwellcopy-gamified-popup-ab-test, maxwellcopy-account-credit-offer-framing-2026, ecomchasedimond-cta-specificity-tip-2026, dtcmidas-black-friday-ad-formats-2026, ecom-amin-gamified-reward-ladder-cart-2026, dtcquizbuilder-offer-tier-pricing, dtcquizbuilder-scarlette-scratch-card-coupon, dtcquizbuilder-koriderm-botox-anchor-10x, ecomchasedimond-free-shipping-threshold, ecomchasedimond-full-price-day-angle, ecomchasedimond-eight-biases-good-offer, ecomchasedimond-objection-placement-reviews, dtcmidas-bfcm-profitmaxx-aov-strategy]
+updated: 2026-11-03
 ---
 
 # Offer + CTA mechanics
@@ -426,6 +426,22 @@ Nguồn: [[ecomchasedimond-eight-biases-good-offer]]. Rule: chọn MỘT bias fi
 **Nguyên tắc dùng:** mỗi bias chỉ work khi TRUE — scarcity giả → trust mất; fake deadline → train khách ignore; anchor giả → refund. Pick cái bạn có thật, rồi build email xung quanh đó. **Một email, một bias.**
 
 → MaxPro: trước mỗi offer email — viết "doubt/hook" của người nhận, rồi chọn 1 bias answer đúng doubt đó. BFCM: scarcity (batch) + urgency (deadline) là 2 cái có thật nhất. Tie §9 BFCM email non-negotiables trong [[email-marketing]] + §BFCM email calendar.
+
+## BFCM profitmaxx = AOV trước, discount sau ([[dtcmidas-bfcm-profitmaxx-aov-strategy]])
+Nguồn: [[dtcmidas-bfcm-profitmaxx-aov-strategy]]. BFCM không có nghĩa là discount tối đa — có nghĩa là **margin tuyệt đối tối đa**.
+
+**Framework:**
+- Discount là OK — nhưng **chỉ khi khách mua nhiều hơn**. Bigger basket = more absolute margin dù % discount cao.
+- BFCM là thời điếm duy nhất trong năm nên **AOV maxx**: LTV up-front, discount lớn hơn, nhưng reinvest cash ngay → vẫn good deal.
+- **Ngoại lệ quan trọng (subscription/MRR brands):** cohort BFCM = cohort YẾU NHẤT trong năm. Churn cao, retention thấp — họ mua vì giá, không phải vì product fit.
+
+**Hệ quả cho subs/MRR:**
+- Không hạ nc-ROAS targets chỉ vì BFCM — cohort yếu không justify acquire-at-loss.
+- Q5 (tháng 1 sau BFCM) = tốt hơn cho health brands: người mua Q5 có intent thật (New Year's resolution), không phải deal hunter.
+
+**Nguyên tắc:** BFCM = AOV lever, không phải discount race. Discount trigger chỉ khi basket đạt ngưỡng mới unlock. Tie §Bundle construction (6-component offer framework) + [[email-marketing]] §9 BFCM email non-negotiables.
+
+→ MaxPro: nếu chạy BFCM deal → bundle 2-pack hoặc 3-pack + tiered discount (1 unit = X%, 2 units = X+5%, 3 units = X+10%). Single-unit deal thuần túy = không tối ưu margin.
 
 ## Objection placement — top objection belongs WHERE doubt hits ([[ecomchasedimond-objection-placement-reviews]])
 Nguồn: [[ecomchasedimond-objection-placement-reviews]]. Rule: lấy 20 reply/review/chat gần nhất → objection xuất hiện nhiều nhất → đặt line trả lời đúng chỗ doubt xuất hiện trên page, không phải FAQ cuối page.

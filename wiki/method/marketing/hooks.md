@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial, jforjacob-format-longevity-doomscroll]
-updated: 2026-10-22
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial, jforjacob-format-longevity-doomscroll, 0xroas-1v10-ai-ads-format]
+updated: 2026-11-03
 ---
 
 # Hooks
@@ -281,5 +281,22 @@ Cơ chế: this bypasses "I already have a solution" objection. The hook reframe
 **Doomscrolling as competitive intelligence:** to know what organic formats are trending, you need to be actively on TikTok/IG consuming naturally. Topic trends, buzzwords, trending audios, cultural feel — these inform which formats blend into feed. Cannot be outsourced or batch-researched; requires ongoing active presence.
 
 Cơ chế: ads perform best when they blend into organic feed. Feed-matching lowers "ad radar" response. Eternal formats always blend because they're always organic. Trend formats blend early (novel format = not flagged yet) then stop blending as saturation creates association.
+
+## 1v10 format — 1 người vs 10 chuyên gia ([[0xroas-1v10-ai-ads-format]])
+Nguồn: [[0xroas-1v10-ai-ads-format]]. Format video ad: **1 người thường vs 10 experts/authority figures**.
+
+**Ví dụ cụ thể:** "1 Amish woman vs 10 doctors" — cấu trúc underdog credibility.
+
+**Vì sao works:**
+- Tension giữa "dân thường" và "establishment" → tò mò ai đúng
+- Underdog narrative = audience roots for the 1 (và by extension: sản phẩm của bạn = cái mà "1 người biết" dùng)
+- Authority social proof ngược: thay vì dùng experts ủng hộ sản phẩm, **contrast** experts với người thường để raise doubt về "official advice"
+- Cùng họ với §Insider-refuses-old-fix trong [[native-ads]] — cả hai đều đặt doubt về old-fix/experts
+
+**Production:** AI-generated, có thể produce trong 20 phút với Claude Opus 5.5. KHÔNG cần UGC thật — format này là scripted AI content.
+
+**Fit với MaxPro:** "1 dog owner vs 10 vets" — owner refuses vet-nail-trim recommendation, dùng grinder thay thế. Pairs với hook #7 (authority demonstration) nhưng flipped: authority là villain ở đây, underdog là hero.
+
+→ Thử test format này song song với drama/confession hooks. Tie §Authority demonstration (hook #7) + §Insider refuses old fix ([[native-ads]]). Nhược điểm: trend format (không eternal) → scale sớm, không dùng lâu dài.
 
 → MaxPro: yappers = safe evergreen format. Script a talking-head yapper with failure-moment hook. Test trend formats (current: whatever's high on TikTok organic right now) with small budget fast — scale if converts before association forms. Doomscroll TikTok/IG daily for 15 min to track format shifts.

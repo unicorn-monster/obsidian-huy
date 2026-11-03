@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first]
-updated: 2026-10-27
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first, dtcquizbuilder-north-hollow-native-insider]
+updated: 2026-11-03
 ---
 
 # Native ads (kênh open-web)
@@ -341,5 +341,25 @@ Xem note đầy đủ trong [[quiz-funnels]] §Drama ads × Quiz funnels.
 **Relevance cho native-ads trang này:** drama hook dùng được cho cả native open-web (Taboola/Outbrain headline + image) lẫn native-style Meta ads. Structure giống hệt: drama image + hook → advertorial/listicle hoặc quiz funnel. Không cần thay đổi creative engine — chỉ thay kênh serve.
 
 **Kết hợp với §Listicle buyer fight trên:** drama image → click → listicle mở bằng fight → product = comeback. Đây là full native funnel chain hiện đang scale $20M+/tháng.
+
+## "Insider refuses old fix" hook pattern — North Hollow case ([[dtcquizbuilder-north-hollow-native-insider]])
+Nguồn: [[dtcquizbuilder-north-hollow-native-insider]]. Top native ad running 73 ngày, 11 bản dupe: *"I refused to let my husband start Tamsulosin."*
+
+**Anatomy:**
+- **Who:** insider (nurse) — không phải random người dùng, không phải doctor
+- **Action:** REFUSES old fix (drug/treatment) — không phải "tried and failed", mà chủ động từ chối
+- **Why it works:** nurse từ chối = doubly credible — insider đủ qualified để biết + chọn từ chối = implies có thứ tốt hơn
+- **Không show bottle** — headline đủ để tạo curiosity gap, product reveal là reward cho click
+
+**Formula:** `[Credential insider] refused to let [close relation] [do old fix] → (implied: here's why / what they did instead)`
+
+**Biến thể áp dụng:**
+- "I refused to let my vet trim her nails again." (pet groomer persona)
+- "My groomer told me to stop using clippers. I should have listened sooner."
+- "15 years as a vet tech. I won't recommend traditional clippers anymore."
+
+**Phân biệt với §Authority demonstration (hook #7 trên):** Authority demonstration = insider *has* experience; Insider-refuses-old-fix = insider đang chủ động REJECT thứ cũ → drama lớn hơn, doubt về old fix mạnh hơn. Hai pattern complement nhau: auth-demo setup credibility, refuse-pattern tạo drama.
+
+→ MaxPro: frame groomer/vet tech từ chối clipper = native headline hook. Pairs với persona D (cause rant) và §Drama ads 3-beat. Tie [[hooks]] §Authority demonstration + [[personas]].
 
 → MaxPro: test chain: drama static image (chó sợ nail, không thấy product) → click → listicle fight-first (3 failed fixes) → MaxPro grinder như resolution. Tie §Drama hook native ad + [[quiz-funnels]] §Drama × Quiz META + [[ugly-ads-method]].
