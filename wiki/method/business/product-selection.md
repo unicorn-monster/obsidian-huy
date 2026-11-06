@@ -1,6 +1,6 @@
 ---
-sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research, dtcmidas-requirements-for-a-brilliant-ecom-product, dtcmidas-validate-demand-before-ordering-inventory, ecomamin-overrated-underrated-ecom-2026]
-updated: 2026-10-12
+sources: [dtcmidas-product-selection-criteria, jforjacob-product-not-skill-issue, jforjacob-ecom-importance-ranking, jforjacob-eight-figures-isnt-about-creatives, jforjacob-creative-is-not-everything, jforjacob-product-is-everything, jforjacob-high-aov-harder-to-crack-better-to-scale, jforjacob-40-dollar-aov-620k-month-myth, jforjacob-kardashian-product-research, jforjacob-agency-case-studies-product-research, dtcmidas-requirements-for-a-brilliant-ecom-product, dtcmidas-validate-demand-before-ordering-inventory, ecomamin-overrated-underrated-ecom-2026, dtcmidas-product-criteria-checklist, dtcmidas-scale-low-aov-unit-economics]
+updated: 2026-11-06
 ---
 
 # Product selection criteria
@@ -106,3 +106,37 @@ eCom_Amin (2026-10-12): góc nhìn operator đang chạy multi-million ecom 2026
 **Hàm ý cho product selection:** nếu product có search demand (người actively Google it) → defensible channel advantage over Meta-only competitors.
 
 → MaxPro: "dog nail grinder" có search volume → Google strategy đang đúng hướng. Người gõ vào Google đang tìm mua, không phải scroll TikTok. Verify search volume bằng Google Keyword Planner trước khi scale spend. Tie [[google-ads]] §Day-0 starter system + §$0→$191K new account build.
+
+## Full product criteria checklist — 6 filters ([[dtcmidas-product-criteria-checklist]])
+DTCMidas (2026-11-06): checklist đầy đủ trước khi commit vào 1 sản phẩm mới.
+
+1. **80%+ gross margin, 70%+ sau ship/fulfill** — gross 80% là target trên; sau khi trừ shipping/fulfillment phải còn ≥70%. *(Note: hơi khác với §≥70% CM1 ở trên — đó là contribution margin sau variable cost; con số này là gross margin target cao hơn 1 bậc. Dùng cả 2 để kiểm tra cả gross và net contribution.)*
+2. **Small, easy to ship** — không ăn margin bằng DIM weight / fragile handling.
+3. **Consumable, repeat-purchase, hoặc product-line potential** — 1 lần mua không đủ; cần path tới LTV.
+4. **Growing market** — không phải trend đang tắt dần. Check Google Trends direction.
+5. **Giải quyết ≥1 vấn đề cụ thể** — không phải "nice to have", phải là pain point thật.
+6. **Different audiences** — sản phẩm có thể angle tới nhiều avatar khác nhau = TAM lớn hơn.
+
+**Bonus rule:** luôn tự làm ads từ đầu — không rip content người khác = không có risk ban account.
+
+**Tie §3 tiêu chí cốt lõi + §5 yêu cầu "brilliant":** checklist này là phiên bản đầy đủ nhất, tích hợp cả 2 bộ trước + thêm filter market growth + multi-audience. Dùng checklist 6 filter này làm primary screen khi evaluate sản phẩm mới.
+
+> [!note] Áp cho MaxPro Grinder $39.95
+> (1) ✅ Gross margin cần verify với COGS thật; (2) ✅ nhỏ gọn; (3) ✅ tiềm năng refill/phụ kiện; (4) ✅ pet spending growing; (5) ✅ nail trim anxiety/injury problem; (6) ✅ gift buyers / new dog owners / anxious dog niche.
+
+## Low AOV unit economics loop ([[dtcmidas-scale-low-aov-unit-economics]])
+DTCMidas: logic tại sao AOV thấp vẫn profitable và scalable — không cần AOV cao để build profitable brand.
+
+**Loop:**
+1. AOV thấp → barrier mua thấp → CAC thấp hơn AOV cao
+2. Product tốt → repeat purchases → LTV tăng theo thời gian
+3. CAC thấp + LTV tăng = unit economics tốt
+4. Scale tạo cashflow challenge (trả tiền inventory/ads trước khi nhận revenue) → unit economics tốt → dễ finance hơn (bank/investors tin)
+5. Profit nhỏ × nhiều đơn hàng = total profit lớn
+
+**Điều kiện cần:** product tốt đủ để drive repeat purchase. AOV thấp không tự nhiên good — chỉ good nếu retention đủ để LTV scale.
+
+**Tie:** Xác nhận §"$75 AOV minimum 2025" là guru fiction + §AOV cao khó traction ban đầu — 3 nguồn từ 2 tác giả khác nhau đều nói cùng 1 điều: AOV thấp không phải vấn đề nếu product + margin + retention đúng.
+
+> [!note] MaxPro $39.95
+> Unit economics cần verify: COGS thật + repeat purchase rate + LTV hiện tại. Nếu LTV thấp → vấn đề ở product/retention, không phải AOV. Fix retention trước khi lo AOV.

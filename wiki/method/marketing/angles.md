@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow, dtcquizbuilder-yoli-menopausal-angle, maxwellcopy-brand-moat-cadence, dtcmidas-ecom-creative-glossary]
-updated: 2026-11-04
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow, dtcquizbuilder-yoli-menopausal-angle, maxwellcopy-brand-moat-cadence, dtcmidas-ecom-creative-glossary, dtcmidas-enter-market-competitor-angles]
+updated: 2026-11-06
 ---
 
 # Angles
@@ -274,3 +274,18 @@ DTCMidas: "mọi người định nghĩa angle, concept, format khác nhau — f
 **Landing page:** bất kỳ trang nào khách đến SAU khi click ad.
 
 **Pre-lander:** KHÔNG TỒN TẠI. Nếu là trang đầu tiên sau click = landing page. Cái mọi người thực sự muốn nói là **pre-sell page**: trang educate + thuyết phục TRƯỚC khi show PDP/offer. Listicle, advertorial, quiz đều là pre-sell page. → [[funnel-and-landing]].
+
+## Enter market: bắt đầu với competitor angles + fix complaint ([[dtcmidas-enter-market-competitor-angles]])
+DTCMidas: cách gia nhập thị trường mới với lowest risk — ăn theo những gì đã proven, sau đó differentiate bằng cách fix chính xác điều đối thủ BỊ THAN PHIỀN.
+
+**Bước 1 — Dùng angles của competitor ngay trước:** đừng invent angle mới khi mới vào market. Angles đang chạy được = đã có social proof về demand. Học từ competitor trước khi differentiate.
+
+**Bước 2 — Soi complaint reviews → tìm angle mới:** đọc 1-star + 2-star reviews của competitor → gom nhóm complaint lặp lại → xây angle "chúng tôi fix đúng vấn đề đó."
+
+**Ví dụ thực tế:**
+- *True Classic:* angle dad-bod + cotton vs polyester — competitor không có size/fit cho body type đó + dùng vải không thoải mái → TrueClassic fix cả 2 → angle rõ ràng.
+- *Magnesium sleep pills:* competitor viên quá to → liquid drops format → angle "dễ uống hơn, không viên to."
+
+**Tại sao works:** người viết 1-star review đang nói với bạn chính xác họ muốn gì nhưng không có. Đây là VOC miễn phí đã được market lọc sẵn — không cần survey, không cần guess.
+
+→ MaxPro: soi reviews của Dremel PawControl, Casfuy, Hertzko (top competitor nail grinders) → gom complaint lặp lại → build angle "MaxPro fix [complaint #1]." Tie [[market-awareness]] §VOC research + [[product-selection]] §Enter market phương pháp Kardashian (cùng nguyên lý "ăn theo existing demand").
