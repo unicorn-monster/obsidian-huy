@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first, dtcquizbuilder-north-hollow-native-insider]
-updated: 2026-11-03
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first, dtcquizbuilder-north-hollow-native-insider, dtcmidas-double-down-native-ad]
+updated: 2026-11-07
 ---
 
 # Native ads (kênh open-web)
@@ -363,3 +363,16 @@ Nguồn: [[dtcquizbuilder-north-hollow-native-insider]]. Top native ad running 7
 → MaxPro: frame groomer/vet tech từ chối clipper = native headline hook. Pairs với persona D (cause rant) và §Drama ads 3-beat. Tie [[hooks]] §Authority demonstration + [[personas]].
 
 → MaxPro: test chain: drama static image (chó sợ nail, không thấy product) → click → listicle fight-first (3 failed fixes) → MaxPro grinder như resolution. Tie §Drama hook native ad + [[quiz-funnels]] §Drama × Quiz META + [[ugly-ads-method]].
+
+## 3 levers để "double down" winning native — không cần build từ đầu ([[dtcmidas-double-down-native-ad]])
+DTCMidas (2026-11-07): khi đã có 1 native ad đang thắng (impression tốt, CTR khá), không build thêm campaign mới — **khai thác 3 lever trên chính asset đó**:
+
+1. **Giữ nguyên copy thắng → spam ảnh mới.** Image một mình có thể tạo ra delta lớn trên cùng copy → test nhiều image variation trên headline/body đang thắng. Rẻ nhất, nhanh nhất.
+
+2. **Giữ nguyên image + body → test hooks và leads khác nhau.** Hook/lead = phần mở đầu người xem thấy TRƯỚC nút "see more". Job duy nhất = làm họ tò mò expand. Nếu hook không kéo được click "see more" → phần còn lại vô nghĩa. Test từng lead variation giữ nguyên mọi thứ khác.
+
+3. **Đổi POV / narrator.** VD: thay vì người nói về routine beauty của chính họ → makeup artist nói về routine của client. Thêm authority + fresh perspective. Adapt toàn bộ câu chuyện theo góc nhìn mới + đổi persona page source.
+
+**Phân biệt với §Iterate từ long-form thắng (dtcmidas-native-ad-iterations):** bài đó là về đổi FORMAT (text → scrolling video / AI animation). Bài này là về đổi ELEMENT (image / hook / narrator) giữ nguyên format text-advertorial. Hai loại iteration bổ sung nhau: format iteration mở inventory mới; element iteration optimize CVR trên inventory hiện có.
+
+→ MaxPro (khi tới readiness gate): winning advertorial có rồi → test 3 lever theo thứ tự: image swap trước (cost gần 0), rồi lead rewrites, rồi POV (vet tech → groomer → pet parent narrator). Không cần rebuild advertorial 6-piece mỗi lần.
