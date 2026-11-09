@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial, jforjacob-format-longevity-doomscroll, 0xroas-1v10-ai-ads-format, ecomchasedimond-ai-copy-adjective-to-fact]
-updated: 2026-11-04
+sources: [native-statics-machine-guide, maxpro-hooks-shortlist, kittysupps-swipe-lines, dtcquizbuilder-native-ads-workflow, kittysupps-adlib-census-2026-06, ecomtable-dental-hooks-swipe, ecomamin-google-ads-budget-pov-hook, dtcmidas-storytelling-ads-scale-unlock, jforjacob-hook-promise-of-payoff-retention, jforjacob-text-overlay-hooks-promise-of-payoff, jforjacob-question-hooks-vs-open-loops, jforjacob-ai-ugc-product-reveal, jforjacob-full-ad-script-formula-hook-to-cta, jforjacob-video-ad-script-skeleton, jforjacob-delayed-payoff-authority-stack-ad-framework, jforjacob-formula-for-truly-unaware-ads, schwartz-rodale-method-lecture, 0xroas-drama-ads-ragebait-structure, jforjacob-story-watch-time, ecomchasedimond-grok-bot-boost, 0xroas-drama-ads-ragebait-tactics, dtcquizbuilder-hears-improov-doubt-hook, 0xroas-seedance-drama-ads-2026, dtcquizbuilder-hospital-knee-no-product-hook, dtcquizbuilder-quiet-protector-advertorial, jforjacob-format-longevity-doomscroll, 0xroas-1v10-ai-ads-format, ecomchasedimond-ai-copy-adjective-to-fact, dtcmidas-ad-script-18step-ai-animated]
+updated: 2026-11-09
 ---
 
 # Hooks
@@ -300,6 +300,38 @@ Nguồn: [[0xroas-1v10-ai-ads-format]]. Format video ad: **1 người thường 
 → Thử test format này song song với drama/confession hooks. Tie §Authority demonstration (hook #7) + §Insider refuses old fix ([[native-ads]]). Nhược điểm: trend format (không eternal) → scale sớm, không dùng lâu dài.
 
 → MaxPro: yappers = safe evergreen format. Script a talking-head yapper with failure-moment hook. Test trend formats (current: whatever's high on TikTok organic right now) with small budget fast — scale if converts before association forms. Doomscroll TikTok/IG daily for 15 min to track format shifts.
+
+## 18-step AI animated story ad script — winning structure ([[dtcmidas-ad-script-18step-ai-animated]])
+
+DTCMidas: "winning ad" structure 4:05 phút, format AI animated story. 18 beat theo đúng thứ tự:
+
+1. Hook: *"do you have {problem}?"* + "keep watching"
+2. Symptoms
+3. Impact on daily life
+4. Current belief callout — *"that's just normal because..."*
+5. Failed alternatives
+6. Emotional low point
+7. Authority intro
+8. Problem mechanism
+9. Cost of inaction
+10. Solution mechanism
+11. Product reveal
+12. Results timeline
+13. Objection handling
+14. Social proof
+15. Main desired outcome
+16. Urgency
+17. Risk reversal
+18. Soft call to action
+
+**So sánh với các skeleton khác:**
+- §8-beat DR mainstream (jforjacob) — rút gọn, dùng cho video ngắn hơn
+- §18-element VSL ([[copywriting]]) — cùng độ dài nhưng format text sales letter
+- §Drama ads 3-beat ([[0xroas-drama-ads-ragebait-structure]]) — hook/twist/resolution = compress lại emotion journey của beats 1-6+10-18 trên
+
+**Điểm khác biệt key:** beat 4 (current belief callout) + beat 8 (problem mechanism) là 2 beat hay bị bỏ qua trong script ngắn — chính 2 cái này làm belief shift thay vì chỉ problem/solution. Beat 17 (risk reversal) đặt SAU urgency = đúng thứ tự (tạo urgency trước, xóa objection sau).
+
+→ MaxPro AI animated story: `{problem}` = "having to skip nail day again because your dog panics?" → symptoms = click-click floor noise, splayed paws, pulled away → impact = skipped months, long nails curling → current belief = "my dog is just difficult" → failed alternatives = clippers, groomers → low point = vet warning about nail overgrowth → authority = MaxPro engineer/groomer → mechanism = whisper motor + sanding vs cutting → cost = joint damage from long nails → product reveal → "first calm session within a week" timeline → "won't cut the quick" objection → social proof → outcome = groomate at home anytime → urgency → 90-day return → "try it tonight." Tie [[ai-video-production]] cho production.
 
 ## AI copy: adjective → concrete fact ([[ecomchasedimond-ai-copy-adjective-to-fact]])
 AI viết draft được — nhưng adjective là tell lộ AI trước khi gửi ra.
