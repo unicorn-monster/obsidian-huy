@@ -1,6 +1,6 @@
 ---
-sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first, dtcquizbuilder-north-hollow-native-insider, dtcmidas-double-down-native-ad]
-updated: 2026-11-07
+sources: [advertising-jan-native-ads-guide-2026, advertising-jan-7-native-headline-structures, advertising-jan-derila-ergo-native-funnel, advertising-jan-hearing-aid-advertorial-evergreen, adswithmarian-reddit-media-native-images, advertising-jan-native-new-and-weird-rule, advertising-jan-advertorial-rewrite-48h-profitable, advertising-jan-native-vs-meta-argument, advertising-jan-advertorial-100k-300k-impressions, advertising-jan-advertorial-authority-2m-impressions, advertising-jan-meta-ads-not-native-scaling, advertising-jan-mini-advertorial-vsl, advertising-jan-taboola-advertorial-40k, dtcquizbuilder-native-ads-lp-any-niche, advertising-jan-native-pain-image-prompts, advertising-jan-supplement-native-traffic-data, advertising-jan-native-advertorial-3m-stability, advertising-jan-sciatic-pain-7-prompts, dtcmidas-native-ad-iterations, advertising-jan-outbrain-one-angle-850k, advertising-jan-ugly-ads-1m-advertorial, advertising-jan-advertorial-100k-280k, amin-1m-advertorial-blueprint, eCom_Amin-native-placement-advertorial, 0xroas-aggressive-copy-grok-workflow, 0xroas-drama-ads-framework, ecom-amin-google-native-ads-highest-converting, 0xroas-drama-ads-ragebait-structure, dtcquizbuilder-nova-pod-ugly-static-native, dtcquizbuilder-native-page-five-beats, dtcquizbuilder-native-ad-drama-husband, dtcquizbuilder-drama-quiz-funnel-meta, dtcquizbuilder-listicle-buyer-fight-first, dtcquizbuilder-north-hollow-native-insider, dtcmidas-double-down-native-ad, dtcquizbuilder-listicle-dtc-playbook]
+updated: 2026-11-11
 ---
 
 # Native ads (kênh open-web)
@@ -376,3 +376,17 @@ DTCMidas (2026-11-07): khi đã có 1 native ad đang thắng (impression tốt,
 **Phân biệt với §Iterate từ long-form thắng (dtcmidas-native-ad-iterations):** bài đó là về đổi FORMAT (text → scrolling video / AI animation). Bài này là về đổi ELEMENT (image / hook / narrator) giữ nguyên format text-advertorial. Hai loại iteration bổ sung nhau: format iteration mở inventory mới; element iteration optimize CVR trên inventory hiện có.
 
 → MaxPro (khi tới readiness gate): winning advertorial có rồi → test 3 lever theo thứ tự: image swap trước (cost gần 0), rồi lead rewrites, rồi POV (vet tech → groomer → pet parent narrator). Không cần rebuild advertorial 6-piece mỗi lần.
+
+## DTC listicle playbook 3-step ([[dtcquizbuilder-listicle-dtc-playbook]])
+
+Formula tối giản để vào listicle native ad game:
+
+**Bước 1 — Tìm cheap gadget có margin tốt.** Product phải: (a) giải quyết pain point rõ ràng, (b) có markup đủ để cover native ad CPL. Gadget dạng problem-solver works best.
+
+**Bước 2 — Blame big villain.** Listicle cần enemy để tạo tension: Big Pharma, big brand lười, giải pháp cũ tốn kém/phức tạp/fail. Villain = lý do tại sao reader chưa được fix đến giờ. VD: "Why vets never mention this $29 tool" (villain = vet industry giấu info). Tie [[hooks]] §Villain frame.
+
+**Bước 3 — Run listicle cấu trúc như devmindglow.** devmindglow = benchmark native advertorial trong space skin/health. Structure: hook (kích tò mò) → villain → old solution fail → discovery → new solution (product) → social proof → CTA. Không phải review article — là **conversion story** bọc trong editorial frame.
+
+**Tại sao works:** listicle context = editorial trust (người đọc không nhận ra là ad ngay). Villain frame tạo lý do tâm lý để action ngay. Cheap gadget = low risk để thử → impulse buy territory.
+
+→ MaxPro: MaxPro Grinder = cheap gadget ✓. Villain = vet bills ($50–$200/visit chỉ để cắt móng) + traditional clippers stress pet. Listicle structure: "5 tools groomers use at home — #3 vets don't want you to know about." Tie [[funnel-and-landing]] §Pre-sell page format + [[hooks]] §Curiosity gap.

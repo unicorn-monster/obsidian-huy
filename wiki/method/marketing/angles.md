@@ -1,6 +1,6 @@
 ---
-sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow, dtcquizbuilder-yoli-menopausal-angle, maxwellcopy-brand-moat-cadence, dtcmidas-ecom-creative-glossary, dtcmidas-enter-market-competitor-angles, ecomchasedimond-6ways-marketing-angles]
-updated: 2026-11-07
+sources: [native-statics-machine-guide, kittysupps-angles-inventory, maxpro-matrix-creative-guardrails, idea-senior-mobility-flagship, maxpro-elle-birdie-winning-native, kittysupps-adlib-census-2026-06, avcanthony-copy-that-prints-fundamentals, linafahizul-pet-buyer-is-a-woman, satishdtc-6-diagnosis-questions-belief-shift, advertising-jan-advertorial-rewrite-48h-profitable, scalabilityschool-50-angle-strategy, viasox-turned-socks-into-a-pain-relief-empire, 99-98-cogs, 0-400-000-site-visitors-in-60-days, ecom-amin-jewelry-google-ads, 0xroas-reddit-json-avatar-language, dtcmidas-authority-figures-non-doctor, jforjacob-core-human-desires-for-ads, jforjacob-angle-research-sources, jforjacob-organic-format-plus-direct-response, dtcmidas-avatar-vs-angle, dtcmidas-angle-vs-messaging, dtcmidas-one-angle-many-avatars-gruns-example, schwartz-rodale-method-lecture, ecom-amin-ancestral-origin-angle, jforjacob-real-brand-vs-dr-debate, dtcmidas-competitor-ads-product-workflow, dtcquizbuilder-yoli-menopausal-angle, maxwellcopy-brand-moat-cadence, dtcmidas-ecom-creative-glossary, dtcmidas-enter-market-competitor-angles, ecomchasedimond-6ways-marketing-angles, jforjacob-prevention-angle-ltv]
+updated: 2026-11-11
 ---
 
 # Angles
@@ -289,3 +289,17 @@ DTCMidas: cách gia nhập thị trường mới với lowest risk — ăn theo 
 **Tại sao works:** người viết 1-star review đang nói với bạn chính xác họ muốn gì nhưng không có. Đây là VOC miễn phí đã được market lọc sẵn — không cần survey, không cần guess.
 
 → MaxPro: soi reviews của Dremel PawControl, Casfuy, Hertzko (top competitor nail grinders) → gom complaint lặp lại → build angle "MaxPro fix [complaint #1]." Tie [[market-awareness]] §VOC research + [[product-selection]] §Enter market phương pháp Kardashian (cùng nguyên lý "ăn theo existing demand").
+
+## Prevention angle vs Cure angle: LTV khác nhau do nature of expectation ([[jforjacob-prevention-angle-ltv]])
+
+**Prevention angle = LTV cao hơn.** Người dùng prevention product không kỳ vọng kết quả tức thì — họ hiểu đây là long-term play. Hiệu quả của sản phẩm được đo bằng "thứ xấu không xảy ra" → không có cách fail rõ ràng → ít churn hơn. Product trở thành part of daily routine, kiểu "set it and forget it."
+
+**Cure angle = churn nguy cơ cao.** Người mua theo cure angle kỳ vọng kết quả cụ thể, thấy được trong vài tuần. Nếu không thấy → churn, bất kể retention strategy mạnh tới đâu.
+
+**Ví dụ skincare:**
+- *Prevention:* "Ngăn nếp nhăn hình thành, da sáng lâu dài" → không expect wrinkle hiện tại biến mất → trial dài hơn, subscribe dễ hơn.
+- *Cure:* "Xóa nếp nhăn" → thử 2 tuần không thấy kết quả rõ → churn.
+
+**Principle:** angle không chỉ ảnh hưởng conversion — nó chọn lọc TYPE OF BUYER. Prevention angle filter vào người hiểu long-term value; cure angle filter vào người muốn quick fix → LTV thấp cấu trúc.
+
+→ MaxPro: frame angle phòng ngừa thay vì khắc phục. "Giữ móng pet ở độ dài đúng mỗi tuần, không bao giờ để móng quặp" vs "Sửa móng mèo đang quặp." Buyer phòng ngừa tự nhiên subscribe + reorder; buyer khắc phục dùng 1 lần rồi đánh giá hiệu quả. Tie [[market-awareness]] §Stage of Awareness — prevention angle phù hợp Problem-Aware stage (người đã biết vấn đề, chưa thấy giải pháp).

@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format, 0xroas-agentic-ai-video-editor, 0xroas-seedance-25-motion-transfer, 0xroas-ai-editing-compounding-skill-loop, 0xroas-ai-ad-formats-dirt-cheap, 0xroas-wan30-vs-seedance-ai-ugc]
-updated: 2026-11-10
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-ai-song-ads-workflow, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format, 0xroas-agentic-ai-video-editor, 0xroas-seedance-25-motion-transfer, 0xroas-ai-editing-compounding-skill-loop, 0xroas-ai-ad-formats-dirt-cheap, 0xroas-wan30-vs-seedance-ai-ugc]
+updated: 2026-11-11
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -417,3 +417,27 @@ Lưu ý: format phù hợp nhất cho sản phẩm pets/family/parenting. MaxPro
 3. 3 tháng: "5h per video" → sub-1h với quality ngang
 
 → MaxPro: nếu đang dùng Seedance/Veo, mỗi video ad nên được build từ reusable prompt library (hook template, product demo template, testimonial cut template). Tie §Build lean agentic editor + §Seedance 2.5 motion transfer — combine: motion library + prompt library = full agentic pipeline.
+
+## AI song ads: fully automated end-to-end với Opus + Seedance MCP ([[0xroas-ai-song-ads-workflow]])
+
+**AI ads MCP + Opus 5.5 + Seedance 2.5 = song ad hoàn chỉnh không cần chạm tay.**
+
+Workflow:
+1. Cho product info + brief (hoặc để model tự generate brief)
+2. MCP generates lyrics + song
+3. MCP generates characters và scenes
+4. MCP generates tất cả Seedance 2.5 prompts
+5. MCP generates tất cả videos
+6. MCP reviews videos, regenerate nếu cần
+7. MCP matches videos to lyrics
+8. MCP stitches videos
+9. MCP adds captions
+→ Done. Không cần editor.
+
+**Output:** Pixar-style song ad (animated, branded, với captions) — format đang chạy tốt trên paid social.
+
+**Cost vs human editor:** editor $5k/month → AI ads MCP ~$0 marginal cost per ad, throughput unlimited.
+
+**Tie §AI singing ads automation ([[0xroas-ai-singing-ads-automation]])** — cùng Seedance singing format, bài này confirm full pipeline với MCP orchestration layer.
+
+→ MaxPro: song ad format phù hợp pet space — cute/emotional, dễ stop scroll. Workflow này có thể generate "MaxPro nail grinder song" (Pixar style, dog character) trong minutes. Test trên Meta/TikTok vs standard UGC format. Tie §AI ads MCP tool stack ([[dtcmidas-ai-video-ad-tool-stack]]).
