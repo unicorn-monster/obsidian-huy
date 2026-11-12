@@ -1,6 +1,6 @@
 ---
-sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas, dtcmidas-claude-setup-for-ad-copy, ecomchasedimond-shopify-ai-agent-checkout, jforjacob-automation-simplicity-ecom]
-updated: 2026-10-30
+sources: [ecomamin-claude-code-ecom-automation-stack, ecomamin-claude-ppc-keyword-agent-workflow, jforjacob-why-brand-owners-should-learn-n8n, jforjacob-need-to-hire-becomes-need-to-automate, jforjacob-ai-customer-service-commslayer, jforjacob-manus-creative-upload-automation, jforjacob-manus-one-shot-landing-page-workflow, jforjacob-chatgpt-analyse-meta-creative-metrics-roas, dtcmidas-claude-setup-for-ad-copy, ecomchasedimond-shopify-ai-agent-checkout, jforjacob-automation-simplicity-ecom, ecomchasedimond-lemlist-claude-prospecting]
+updated: 2026-11-12
 ---
 
 # AI-agent automation stack cho ecom ops (Claude Code + MCP)
@@ -86,6 +86,31 @@ Shopify tự draft store facts từ site — nhưng agents không thấy đượ
 **Ý nghĩa:** Customers sẽ mua qua AI agent (conversational shopping) → brand không có agentic channel = bị bỏ qua. Setup < 2 phút, không cần code.
 
 → MaxPro: enable ngay nếu đang dùng Shopify. Tie §Claude Opus + Projects + Skills cho copy + [[email-marketing]] §AI email setup — cùng trend "AI-native ops" tổng thể.
+
+## Claude + lemlist MCP — B2B prospecting workflow thực chiến ([[ecomchasedimond-lemlist-claude-prospecting]])
+
+ecomchasedimond (2026-11-12): case thật dùng Claude qua **lemlist MCP** để tự động hóa toàn bộ pipeline prospecting B2B (sponsorship sales). Minh họa §Cấp độ 2 (assistant) thực tế — AI thực thi 40-60% công việc thật cùng người.
+
+**Workflow:**
+1. Input: 30 công ty muốn pitch sponsorship
+2. Prompt Claude qua lemlist MCP: *"Find the person who runs partnerships and the most senior marketing leader at these 30 companies. Verify every email. Tell me which companies have neither role so I can drop them, then build a 4-step email sequence for the rest and show me the preview. Don't send anything."*
+3. Output: lemlist tự search + verify → Claude review kết quả → người review output TRƯỚC khi gửi
+
+**Kết quả số liệu thật:**
+- 16/30 công ty không có role phù hợp trong lemlist DB → drop
+- 23 contacts tìm được tại 14 công ty
+- 22/23 email found + verified
+- Người review tìm thêm: 3 contacts sai domain/outdated job, 1 missing email → cut thêm → còn 11 contacts/11 công ty
+- Sent email 1 to 11 people: **all 11 delivered, 1 positive reply**
+
+**Pattern chuyển được sang ecom:**
+- Thay "sponsor prospecting" bằng "influencer/UGC creator outreach" — cùng workflow: input list → Claude via MCP find + verify contacts → build sequence → người review → send
+- Lemlist MCP = ví dụ MCP server làm §Lớp 2 (tay chân) trong kiến trúc 4 lớp trên — không chỉ chat về data mà THỰC SỰ hành động trên nó
+- Key rule: **"Don't send anything" — keep human in the loop TRƯỚC khi gửi**; AI thực thi 90% công việc, người review output cuối. Tie §Lỗi thường gặp (không có người giám sát lúc rollout).
+
+**Tie §Mẫu master-prompt:** prompt này làm đúng cấu trúc [TASK + DATA + ĐỊNH NGHĨA ROLE + SAFETY RULE ("don't send anything")] — brief tốt hơn 90% cách người dùng AI thông thường.
+
+→ MaxPro: khi cần outreach influencer/creator/reviewer cho MaxPro, dùng pattern này qua lemlist (hoặc Apollo/Hunter MCP tương đương). Input danh sách account tiềm năng → Claude find contact + verify → build sequence → review TRƯỚC khi send. Tiết kiệm ~80% thời gian research + outreach thủ công.
 
 ## Simplicity = first principle của mọi automation ([[jforjacob-automation-simplicity-ecom]])
 jforjacob (kỹ sư automation cho hospitals/pharmaceutical labs trước khi làm ecom): Complexity là kẻ thù của automation. Hệ thống phức tạp trông đẹp khi handover — sau đó gãy âm thầm và không ai biết sửa.

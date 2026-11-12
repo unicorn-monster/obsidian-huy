@@ -1,6 +1,6 @@
 ---
-sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct, maxwellcopy-billing-reminder-churn-proof, maxwellcopy-subscription-non-negotiables, maxwellcopy-rebill-free-gift-data, maxwellcopy-subscription-three-options]
-updated: 2026-10-22
+sources: [maxwellcopy-subscription-brand-teardown, maxwellcopy-subscription-4-metrics-track, maxwellcopy-subscription-onboarding-churn, maxwellcopy-subscriber-onboarding-21days, maxwellcopy-day30-rebill-klaviyo-reframe, maxwellcopy-billing-email-ab-test-cancel, maxwellcopy-retention-10-drivers-ltv, scalabilityschool-50-angle-strategy, maxwellcopy-founder-video-cancel-flow, maxwellcopy-ai-shifts-retention-value, maxwellcopy-creatine-survey-ltv-unlock, maxwellcopy-subscription-11-rules, maxwellcopy-billing-reminder-ab-test, maxwellcopy-subscription-streak-tracker, maxwellcopy-agency-stats-june-2026, maxwellcopy-welltv-ltv-retention-analytics, maxwellcopy-zaymo-in-email-subscription-churn, maxwellcopy-billing-reminder-good-bad, maxwellcopy-churn-free-gift-reveal, maxwellcopy-subscription-billing-founders, ecomchasedimond-subscription-billing-fix, maxwellcopy-cancel-flow-survey, eCom_Amin-lumin-free-trial-strategy, ecom-amin-lumin-free-trial-offer, jforjacob-how-we-cut-churn-25-percent, jforjacob-free-gifts-tank-subscription-conversion, jforjacob-retard-proof-subscription-brand-formula, jforjacob-upsell-supply-not-subscription, jforjacob-test-post-purchase-upsells, maxwellcopy-cancel-splash-page, maxwellcopy-subscription-refund-upsell, maxwellcopy-subscription-playbook-ecom, maxwellcopy-subscription-conversion-tactics-2026, maxwellcopy-subscription-master-guide-signal, maxwellcopy-subscription-first-order-take-rate, maxwellcopy-email-onboarding-5-jobs, maxwellcopy-rebill-cancel-rate-38pct, maxwellcopy-billing-reminder-churn-proof, maxwellcopy-subscription-non-negotiables, maxwellcopy-rebill-free-gift-data, maxwellcopy-subscription-three-options, dtcmidas-subscription-takerate-ltv]
+updated: 2026-11-12
 ---
 
 # Subscription retention — onboarding / churn / rebill (FOR SUBS)
@@ -497,3 +497,26 @@ maxwellcopy: instead of offering monthly vs one-time (2 options), offer monthly 
 Cơ chế: anchoring via decoy effect — the quarterly option is the decoy that makes monthly feel rational. No one is being tricked; they're being given a clear frame that makes the brand-preferred choice feel like their own logical decision.
 
 → MaxPro: when subscription launches, structure PDP as: monthly ($X/mo) · quarterly ($Y/mo, billed $Z) · one-time ($W). Set quarterly price so monthly ~20-25% less per unit than one-time, quarterly ~10-15% less than monthly. Monthly becomes the obvious pick.
+
+## Take rate tactics + LTV:CAC as north star + 0-day churn ([[dtcmidas-subscription-takerate-ltv]])
+
+DTCMidas (2026-11-12): operational nuances nhiều sub brand bỏ qua.
+
+**Tăng take rate:**
+- **Make subscription the default, hide one-time purchase** (hoặc downgrade nó thành tiny text link). Cơ chế = anchoring — khi sub là default on-screen, chọn one-time phải là chủ động opt-out. Tie §Rule 5 (sub-maxx PDP: auto-select sub) + §3 options beat 2 (sub = majority of choices on page).
+- ⚠️ Trade-off: tăng take rate thường **tăng CAC** vì người không phù hợp bị pull vào sub. Audit: LTV của subscriber cohort này có justify CAC tăng không?
+
+**North star là LTV:CAC, không phải take rate:**
+- Metric đúng: **CM2 LTV** (contribution margin trước ad spend). Take rate là input, LTV:CAC là output phải optimize.
+- Tie §4 metric SUB-1 (take-rate phải đi kèm O2/O4/O6 retention — high take rate + high early churn = tệ hơn low take rate + high retention).
+
+**0-day churn — acquisition problem disguised as retention problem:**
+- **Bad offer: discount quá lớn** kéo người chỉ muốn discount, không phải sub-intent thật. Fix: **quà tặng (gift) thay vì big discount** — gift attracts right audience, không train người chờ sale.
+- **Wrong messaging:** thu hút người kỳ vọng kết quả sau 1 lần dùng → cancel khi "chưa thấy gì." Fix: **set expectation rõ họ cần dùng dài hạn trước khi thấy kết quả** — làm rõ ngay tại điểm mua, không phải onboarding sau. Tie §21-day framework Phase 1 (pre-frame timeline ngay trước khi nhận hàng).
+
+> [!note] Cho MaxPro khi mở consumable sub
+> - Đừng dùng big discount làm default sub offer — dùng quà cụ thể (spare bits, travel pouch).
+> - Set expectation "2-3 tuần đầu chó còn ngại tiếng, sau quen dần" ngay trên PDP/checkout, không chờ đến welcome email.
+> - Measure CAC trước khi ép take rate cao — sub CAC cao + early churn = thất bại ngầm không thấy trong dashboard.
+
+Tie [[dtcmidas-subscription-takerate-ltv]] ↔ §4 metric SUB-1 ↔ §Operational reality ↔ §10 driver LTV driver #3 (education/set expectation).

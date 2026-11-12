@@ -1,6 +1,6 @@
 ---
-sources: [microsoft-aeo-geo-guide, alexgroberman-microsoft-chatgpt-traffic, microsoft-merchant-center-feed-attributes]
-updated: 2026-09-07
+sources: [microsoft-aeo-geo-guide, alexgroberman-microsoft-chatgpt-traffic, microsoft-merchant-center-feed-attributes, ecomchasedimond-chatgpt-brand-shopify]
+updated: 2026-11-12
 ---
 
 # AI search (AEO/GEO) — được CHỌN thay vì được TÌM THẤY
@@ -125,6 +125,21 @@ Chỗ cần cẩn thận là **giao điểm**: trang review/top-5 vừa là land
 - ⚠️ **Diễn giải của Alex, không có trong doc:** "feeds là moat cạnh tranh" · "trust là thuật toán" · "AI assistant là gatekeeper mới của demand". Hợp lý nhưng là suy luận.
 - 🚩 **Claim thương mại, bỏ:** *"một hai trang không move needle, hệ thống sản xuất hàng chục bài structured mới thắng"* — lặp lại 3 lần kèm link bán gói content của chính anh ta. Doc Microsoft **không nói gì** về số lượng bài. Đây là pitch, không phải finding.
 - Bản thân Alex cũng gắn cờ *"AI penalizes low-trust language — interesting, but obviously open to interpretation"*: Microsoft không đưa cơ chế lẫn bằng chứng cho câu này.
+
+## Claim brand trong ChatGPT qua Shopify admin ([[ecomchasedimond-chatgpt-brand-shopify]])
+
+ecomchasedimond (2026-11-11): Shopify store giờ có thể **claim brand trong ChatGPT** — setup trong Shopify admin, và với US stores có thể deploy agent trả lời câu hỏi shoppers trực tiếp trong ChatGPT.
+
+**Action:**
+- Vào Shopify admin → tìm ChatGPT brand claiming (US stores: thêm knowledge-base agent)
+- Products đã có sẵn trong ChatGPT nếu Shopify merchant — claim để kiểm soát brand presence
+- Sau khi approved: vẫn phải verify identity thêm 1 bước trước khi fully active
+
+**Tại sao áp vào đây (không phải ops):** đây là lớp 3 (live website data / agent integration) và lớp 1 (crawled data / brand identity) trong §3 lớp dữ liệu trên. Claiming brand = chủ động kiểm soát data layer mà AI agents dùng để recommend thay vì để ChatGPT tự scrape (có thể sai/thiếu).
+
+**Tie §Shopify Agentic channel** ([[wiki/method/business/ai-agent-automation-stack]]) — Shopify Fall '26 Edition đã enable Shop Pay checkout trong AI agents (Muse từ Meta, Claude Duet, Instinct). ChatGPT brand claiming là bước song song: đảm bảo brand identity và product data chính xác khi agent recommend và checkout.
+
+→ MaxPro: enable ASAP nếu chưa làm — 2 phút setup, không cần code. Đặc biệt critical khi mở rộng SKU (thêm bits/balm) vì ChatGPT agents sẽ surface sản phẩm phù hợp theo query pet-owner.
 
 ## Áp dụng cho Maxpro — ưu tiên theo công sức/lợi ích
 
