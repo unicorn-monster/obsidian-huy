@@ -1,6 +1,6 @@
 ---
-sources: [galba-ai-video-model-pricing-matrix, 0xroas-ai-song-ads-workflow, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format, 0xroas-agentic-ai-video-editor, 0xroas-seedance-25-motion-transfer, 0xroas-ai-editing-compounding-skill-loop, 0xroas-ai-ad-formats-dirt-cheap, 0xroas-wan30-vs-seedance-ai-ugc]
-updated: 2026-11-11
+sources: [galba-ai-video-model-pricing-matrix, 0xroas-ai-song-ads-workflow, 0xroas-veo-ai-cost-breakdown, 0xroas-ai-ad-formats-tof-bof, ecomamin-seedance-google-ads-creative, 0xroas-seedance-ugc-workflow, 0xroas-seedance25-ad-formats, 0xroas-ai-native-statics-blog-video, ecomamin-seedance-opus5-yt-workflow, 0xROAS-canvas-ugc-ai-workflow, 0xroas-ai-video-formats-under-2-dollars, 0xroas-seedance-25-capabilities, 0xroas-ai-singing-ads-automation, ecomchasedimond-ai-video-pattern-blindness, ecomamin-ai-prompts-google-ads-creative, jforjacob-ai-podcast-ad-clipping-strategy, jforjacob-fix-ai-image-gen-label-spelling, jforjacob-chatgpt-style-prompt-from-reference-photo, jforjacob-chatgpt-product-photography-prompt, jforjacob-ai-video-ads-just-use-google-flow, jforjacob-veo-3-consistent-characters-frame-to-video, jforjacob-ai-ugc-is-not-faster-than-real-ugc, jforjacob-ai-ugc-arcads-bubble, jforjacob-does-icon-live-up-to-hype, dtcmidas-are-ai-animation-ads-worth-testing, dtcmidas-does-obvious-ai-slop-outperform-polished-ads, dtcmidas-veo3-ads-that-print, dtcmidas-ai-video-ad-tool-stack, dtcmidas-ai-model-stack-for-ad-work, 0xroas-ai-video-script-story-2026, 0xroas-gpt6-seedance-automation-2026, 0xroas-lego-drama-ad-style-2026, 0xroas-ai-ugc-yapping-dollar-2026, dtcmidas-muse-europe-access, 0xroas-ai-drama-ads-automated-pipeline, 0xroas-v6-seedance-ai-ad-formats, 0xroas-baby-drama-ads-format, 0xroas-pixar-ugc-ad-format, 0xroas-agentic-ai-video-editor, 0xroas-seedance-25-motion-transfer, 0xroas-ai-editing-compounding-skill-loop, 0xroas-ai-ad-formats-dirt-cheap, 0xroas-wan30-vs-seedance-ai-ugc, 0xroas-drama-ads-emotion-appeal, 0xroas-ragebait-drama-framework, 0xroas-ai-video-reference-quality]
+updated: 2026-11-13
 ---
 
 # AI video production — chọn model theo giá & theo shot
@@ -441,3 +441,50 @@ Workflow:
 **Tie §AI singing ads automation ([[0xroas-ai-singing-ads-automation]])** — cùng Seedance singing format, bài này confirm full pipeline với MCP orchestration layer.
 
 → MaxPro: song ad format phù hợp pet space — cute/emotional, dễ stop scroll. Workflow này có thể generate "MaxPro nail grinder song" (Pixar style, dog character) trong minutes. Test trên Meta/TikTok vs standard UGC format. Tie §AI ads MCP tool stack ([[dtcmidas-ai-video-ad-tool-stack]]).
+
+## Drama/song ads: emotion beats intelligence ([[0xroas-drama-ads-emotion-appeal]])
+
+@0xROAS: AI drama ads và song ads work vì chúng engage emotion/desires/instincts, không phải intelligence.
+
+*"No one in this world has ever lost money by underestimating the intelligence of the great masses of the plain people."*
+
+**Story arc mẫu hay chạy:** woman ở best shape → dumps husband → he regrets losing her. Appeal đơn giản: desire transformation + emotional consequence + aspirational ending.
+
+**Lý do hoạt động:** Businesses, politicians, advertisers succeed by appealing to simplest emotions và instincts, không phải rational arguments. AI song/drama format là delivery vehicle tốt nhất cho emotion-first appeal vì: (1) story arc tạo investment; (2) AI aesthetic = novelty premium chưa banner-blind; (3) song format = emotionally sticky hơn plain video.
+
+**Tie:** Cùng §Drama ads + quiz: 8-figure structure ([[dtcquizbuilder-drama-ads-quiz-funnel-printing]]) trong [[quiz-funnels]] — drama ad = emotion hook layer, quiz = belief-build layer. Hai trang bổ sung nhau: trang này explain "why drama works"; quiz funnel trang explain "how to convert emotion into sale."
+
+→ MaxPro: drama angle phù hợp = owner guilt/regret (missed grooming → paw injury). Emotion hook: owner thấy chó liếm chân đau → guilt spike → "if only I had known earlier" ending. Không cần product placement nặng — cảm xúc tạo pull, product là giải pháp rõ ràng. Tie [[hooks]] §Guilt angle + §Emotional narrative.
+
+## Drama ads ragebait framework: ragebait + product core ([[0xroas-ragebait-drama-framework]])
+
+@0xROAS: Để drama/Pixar ad work, cần ragebait people TRONG KHI giữ product core bên trong drama.
+
+**Ragebait formula:** dramatic/controversial situation → viewer emotionally hooked → product là "giải pháp" hoặc "catalyst" trong narrative.
+
+**Controversial situations hay dùng:**
+- Man gets cheated on, gets better, gets back with wife
+- Man presents old wife like she's his mom in front of friends
+- Wife's ex husband marries her sister
+
+**Cơ chế:** Controversy = instant emotional spike (anger/sympathy) → viewer emotionally invested → không thể không watch → product integrated into narrative = association với emotional resolution.
+
+**Ragebait vs drama:** Drama = arc (problem → transformation → win). Ragebait = controversy spike đầu tiên → still leads to arc. Ragebait là **hook amplifier** của drama format.
+
+**Tie:** Cùng §Drama/song ads emotion appeal trên — bài này là *how to build* drama hook, bài trên là *why it works* psychologically. Cùng §Drama ads + quiz ([[quiz-funnels]] §dtcquizbuilder-drama-ads-quiz-8fig) — ragebait hook layer feeds quiz funnel.
+
+→ MaxPro: Ragebait angle pet space khó vì audience sensitive. Softer version: "owner bị bạn bè judge vì chó móng dài" hoặc "vet mắng về móng chó mà không giải thích cách fix." Controversy nhẹ → owner guilt + resolution (MaxPro). Test A/B: drama arc thuần (paw injury story) vs ragebait opener (vet shaming scene).
+
+## Upload 480p/720p references cho AI video output tốt nhất ([[0xroas-ai-video-reference-quality]])
+
+@0xROAS: Quy tắc #1 để AI video không bị bad expressions / bad movements / voice thiếu depth.
+
+**Rule:** Upload references ở 480p hoặc 720p — không thấp hơn, không cần 4K.
+
+**Lý do (cơ chế training):** Video models train dựa trên visual reference để guide output quality. High-quality reference = model có "blueprint" rõ → better output quality + tiết kiệm credits (ít regenerate hơn). Low-quality reference = model thiếu signal → output kém + nhiều lần gen lại.
+
+**Applies since Sora 2 launch** — kể từ khi Sora 2 ra, pattern này rõ hơn trên các video models.
+
+**Practical:** Trước khi gen: compress reference về 480p/720p optimal — sweet spot quality range, không phải thấp nhất có thể.
+
+→ MaxPro: khi dùng Seedance hoặc Veo để gen product demo / UGC-style: prep reference video library ở 720p. Nhân vật reference (người dùng grinder, chó react) đều cần ở 720p minimum. Tie §Seedance 2.5 (Seedance lấy input → cheaper cost + better quality với reference tốt) + §Agentic pipeline — reference quality là đầu vào của cả pipeline.
